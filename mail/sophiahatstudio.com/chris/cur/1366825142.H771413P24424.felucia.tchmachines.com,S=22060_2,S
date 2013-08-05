@@ -1,0 +1,508 @@
+Return-path: <3ee.1c.923465650.44231.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Wed, 24 Apr 2013 13:39:02 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:31644)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.923465650.44231.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UV3el-0006LD-Vu
+	for chris@sophiahatstudio.com; Wed, 24 Apr 2013 13:39:02 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=WSlmpT4+fsUP/2y6MLxGpTDWsTnjkx0EuSKyNuC0EttEFybk+ral9LfbCWUBEskn/D5KK9UltYQCQCcTgqVKk6BjVPce6rMfzPSntIxtKZi7vQnQACW4n30z3aDqrWcYLt6G0B8bh4E2BDNbCxVU1FVcAZif+SYMCH5PYDdIpUw=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1366825149;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=zYlnn6vg1Hj4brtSDCgyk+hKDm8=;
+	b=C7oYcYKanPi/DmAE9WD10UNfMzjr3keKVwhZbwP68UysD0/aZgrgZxqhPu0wY1bpyovNgBbSd/VqmICmhdHNa7wTA/G6ViOmjbr3y2eXp492G9KZ8TMN1u2vroKHKzymwVNwEfDEzeZbV2VwGtTLiO4gBwmnLbNniq15ruRlIUQ=
+X-FBL: M2VlLjFlLjEwNTAwMDAwMGU2NWU2MS45MjM0NjU2NTAuNDQyMzEuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <aa45e40b-637c-43a7-9852-1d83d137a631@newbay.cfmvmail.com>
+From: "Mix Magazine" <newsletters@mixonline.com>
+To: chris@sophiahatstudio.com
+Subject: =?utf-8?B?T2JsaXZpb24gU291bmQgZm9yIEZpbG0gUHJvZmlsZSwgTUlQ?=
+	=?utf-8?B?QSBBd2FyZHMsIFBldGUgVG93bnNoZW5k?=
+Date: Wed, 24 Apr 2013 13:38:06 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  From The Editors of MIX - MIXLINE Mix Regional Chicago Mix
+    Regional in Mix's June 2013 issue will visit Chicago! Send us your studio
+    news: updates, sessions, new rooms, club performances. Let the Mix audience
+    know what is going on! This week, send photos and descriptions to mixeditorial@nbmedia.com.
+    [...] 
+ 
+ Content analysis details:   (0.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.3 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head>
+
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+ <title>From The Editors of MIX - MIXLINE</title>
+ <style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none;
+}
+a:hover {text-decoration: underline;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:active {
+=09text-decoration: none;
+}
+-->
+ </style>
+ </head><body alink=3D"#911b21" link=3D"#911b21" marginheight=3D"0" margi=
+nwidth=3D"0" vlink=3D"#911b21">
+<style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none;
+}
+a:hover {text-decoration: underline;
+}
+-->
+ </style>
+ <strong></strong>
+ <table cellsborder:=3D"" 1px=3D"" solid=3D"" rgb(153,=3D"" 0,=3D"" 0)pac=
+ing=3D"0" align=3D"center" border=3D"0" cellpadding=3D"0" width=3D"808">
+ <tbody>
+ <tr>
+ <td style=3D"border-bottom: 1px solid silver;" align=3D"left" valign=3D"=
+top" width=3D"811">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"5" width=3D"100%">
+ <tbody>
+ <tr>
+ <td align=3D"center" valign=3D"middle">
+ <!--LEADERBOARD 1 POSITION -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465650=
+=5F44231=5F1" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-me=
+dia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D9793" border=3D"0" height=3D=
+"90" width=3D"728"></a>
+ <!--END LEADERBOARD 1 -->
+ </td>
+ </tr>
+ <tr>
+ <td><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart=
+/MIX/MIXLINE=5FHEAD=5F798=2Ejpg" height=3D"100" width=3D"798"></td>
+ </tr>
+ <tr>
+ <td><table id=3D"Table=5F" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"798">
+ <tbody>
+ <tr>
+ <td><img id=3D"id01=5FFront=5FSpacer" src=3D"http://newsletters=2Enewbay=
+-media=2Ecom/newsletter=5Fart/MENU=5F10/images/01=5FFront=5FSpacer=2Egif"=
+ height=3D"30" width=3D"434"></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F92346=
+5650=5F44231=5F2" target=3D"=5Fblank"><img id=3D"id03=5FTwitter" name=3D"=
+id03=5FTwitter" src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=
+=5Fart/MENU=5F10/images/03=5FTwitter=2Egif" border=3D"0" height=3D"30" wi=
+dth=3D"28"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F92346=
+5650=5F44231=5F3" target=3D"=5Fblank"><img id=3D"id04=5FFacebook" src=3D"=
+http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F10/images=
+/04=5FFacebook=2Egif" border=3D"0" height=3D"30" width=3D"32"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F92346=
+5650=5F44231=5F4" target=3D"=5Fblank"><img id=3D"id05=5FVisitTheSite" src=
+=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F10/im=
+ages/05=5FVisitTheSite=2Egif" border=3D"0" height=3D"30" width=3D"98"></a=
+></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F92346=
+5650=5F44231=5F5" target=3D"=5Fblank"><img id=3D"id06=5FSubscribe" src=3D=
+"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F10/image=
+s/06=5FSubscribe=2Egif" border=3D"0" height=3D"30" width=3D"87"></a></td>=
+
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F92346=
+5650=5F44231=5F6=5Fchris@sophiahatstudio=2Ecom" target=3D"=5Fblank"><img =
+id=3D"id07=5FeMail" src=3D"http://newsletters=2Enewbay-media=2Ecom/newsle=
+tter=5Fart/MENU=5F10/images/07=5FeMail=2Egif" border=3D"0" height=3D"30" =
+width=3D"57"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F92346=
+5650=5F44231=5F7" target=3D"=5Fblank"><img id=3D"id08=5FBLOG" src=3D"http=
+://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F10/images/08=5F=
+BLOG=2Egif" border=3D"0" height=3D"30" width=3D"55"></a></td>
+ <td><img id=3D"id11=5FRight=5FSpacer" src=3D"http://newsletters=2Enewbay=
+-media=2Ecom/newsletter=5Fart/MENU=5F10/images/11=5FRight=5FSpacer=2Egif"=
+ height=3D"30" width=3D"7"></td>
+ </tr>
+ </tbody>
+ </table></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"left" valign=3D"top">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+ <tbody>
+ <tr>
+ <td style=3D"border-right: 1px solid rgb(204, 204, 204); line-height: no=
+rmal;" align=3D"left" bgcolor=3D"#ffffff" valign=3D"top">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"5" width=3D"100%">
+ <tbody><tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 22px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"514"><strong>Mix Regio=
+nal</strong></td>
+ </tr> <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <p><strong>Chicago</strong><br>
+ Mix Regional in Mix's June 2013 issue will visit Chicago! Send us your s=
+tudio news: updates, sessions, new rooms, club performances=2E Let the Mi=
+x audience know what is going on! This week, send photos and descriptions=
+ to <a href=3D"mailto:mixeditorial@nbmedia=2Ecom" target=3D"=5Fblank">mix=
+editorial@nbmedia=2Ecom</a>=2E </p>
+=20
+ </td>
+ </tr>
+=20
+ </tbody>
+ </table>
+ <br clear=3D"all">
+=20
+=20
+ </td>
+ </tr><tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 22px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"514"><strong>SoundWork=
+s Collection</strong></td>
+ </tr> <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F8" target=3D"=5Fblank"><strong>'Oblivion' Sound for Film Pr=
+ofile</strong></a><br>
+ In this exclusive SoundWorks Collection profile, we talk with visionary =
+Director Joe Kosinski about the sound and music of his new film, <em>Obli=
+vion</em>=2E Also featured are Kosinski's behind-the-scenes collaborators=
+, including Composer Joseph Trapanese, M83's Anthony Gonzalez, Re-recordi=
+ng Mixer Gary Rizzo, and Re-recording Mixer Juan Peralta=2E </p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F9" target=3D"=5Fblank"><strong>Watch the new video now! =C2=
+=BB</strong></a></p>
+ </td>
+ </tr>
+=20
+ </tbody>
+ </table>
+ <br clear=3D"all">
+=20
+=20
+ </td>
+ </tr> <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 24px; padding=
+-top: 5px;" align=3D"center" valign=3D"middle">
+ <hr noshade=3D"noshade" size=3D"1">
+ <!--Banner 01 START -->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465650=
+=5F44231=5F10" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D6366" border=3D"0" height=3D=
+"60" width=3D"468"></a>
+ <!--Banner 01 END -->
+ <hr noshade=3D"noshade" size=3D"1">
+ </td>
+ </tr><tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 22px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"514"><strong>Top Stori=
+es</strong></td>
+ </tr> <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F11" target=3D"=5Fblank"><strong>2013 MIPA Award Winners Ann=
+ounced at Musikmesse</strong></a><br>
+ For the 14th time, more than 100 magazines from all over the world voted=
+ for the best musical instruments and audio equipment of 2012-2013 in mor=
+e than 40 categories of the Musikmesse International Press Award (MIPA)=2E=
+ The awards were presented to the winners at a special MIPA Awards ceremo=
+ny and party held during the Musikmesse/Prolight + Sound on Thursday, Apr=
+il 11, 2013=2E</p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F12" target=3D"=5Fblank"><strong>RSPE Audio Solutions Interv=
+iews Pete Townshend</strong></a><br>
+ In this video interview, Pete Townshend discusses what it was like to wi=
+n the Les Paul Award; describes how Pro Tools has changed his recording p=
+rocess; and lets viewers in on what he considers to be his most treasured=
+ gear=2E He also explains why Acoustic Sciences Tube Traps have been such=
+ a priceless tool on The Who's recent Quadrophenia tour=2E</p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F13" target=3D"=5Fblank"><strong>Recording Industry Golf Tou=
+rnament (RIGT) Set for Monday, June 24
+</strong></a><br>
+ The 2013 Recording Industry Golf Tournament (RIGT) will be held on Monda=
+y, June 24, 2013, at Malibu Golf Club, with the shotgun start at 12 noon=2E=
+ The event will benefit A Place Called Home (APCH), a dynamic community c=
+enter and safe haven in South Central Los Angeles=2E
+</p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F14" target=3D"=5Fblank"><strong>Recording Academy, P&E Wing=
+ To Present Events on Sound Quality =C2=BB</strong></a></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F15" target=3D"=5Fblank"><strong>Blue Rock Studio Installs R=
+upert Neve Designs 5088 Mixing Console =C2=BB</strong></a></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F16" target=3D"=5Fblank"><strong>JD Productions in North Car=
+olina To Install API Legacy Plus Console =C2=BB</strong></a></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F17" target=3D"=5Fblank"><strong>Sonic Circus Upgrades The B=
+unker Studio with SSL 4040 E Console =C2=BB</strong></a></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F18" target=3D"=5Fblank"><strong>Composer/Arranger/Conductor=
+ Chris Walden Inaugurates New Studio C at Ocean Way =C2=BB</strong></a></=
+p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F19" target=3D"=5Fblank"><strong>Mojave Audio Announces the =
+Winner of Its Second Annual Vocal Scholarship Award at Musicians Institut=
+e (MI) =C2=BB</strong></a></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F20" target=3D"=5Fblank"><strong>San Francisco=E2=80=99s Coo=
+ Coo Birds Record New Album at Ardent Studios in Memphis =C2=BB</strong><=
+/a></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F21" target=3D"=5Fblank"><strong>Metric Halo Donates ULN-2, =
+SpectraFoo Complete Sound Analysis Software to Women's Audio Mission =C2=BB=
+</strong></a></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F22" target=3D"=5Fblank"><strong>Hal Leonard Publishes 'Mast=
+ering Auto-Tune' =C2=BB</strong></a></p>
+ </td>
+ </tr>
+=20
+ </tbody>
+ </table>
+ <br clear=3D"all">
+=20
+=20
+ </td>
+ </tr>
+=20
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 22px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"514"><strong>Featured =
+Product</strong></td>
+ </tr> <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+=20
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F23" target=3D"=5Fblank"><strong>Genelec M Series Active Mon=
+itors</strong></a><br>
+ Genelec debuted its new M Series Bi-amplified Active Monitors at Pro Lig=
+ht + Sound 2013 in Frankfurt: the M030 ($695/each MSRP) and M040 ($995/ea=
+ch MSRP)=2E The M030 and M040 employ a Natural Composite Enclosure (NCE) =
+manufactured for Genelec in Finland from wood fiber and recyclable materi=
+al=2E
+ </p>    =20
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465=
+650=5F44231=5F24" target=3D"=5Fblank"><strong>RTW TM3-3G TouchMonitor =C2=
+=BB</strong></a><br>
+ </p>
+ <p><strong><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+923465650=5F44231=5F25" target=3D"=5Fblank">Find more new products from T=
+he Wire=2E =C2=BB</a></strong></p></td>
+ </tr>
+=20
+ </tbody>
+ </table>
+ <br clear=3D"all">
+=20
+=20
+ </td>
+
+ </tr>
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 22px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"514"><strong>Announcem=
+ents From Mix</strong></td>
+ </tr> <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top"><table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"10=
+0%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">=20
+ <p><strong><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+923465650=5F44231=5F26" target=3D"=5Fblank">Vintage King Events in Los An=
+geles on April 24, May 1, and May 9 =C2=BB</a></strong></p>
+ <p><strong><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+923465650=5F44231=5F27" target=3D"=5Fblank">Studio Prodigy | Master Class=
+ Series training session with producer/mixer/engineer Ross Hogarth on Sat=
+urday, May 4 =C2=BB</a></strong></p>
+ <p><strong><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+923465650=5F44231=5F28" target=3D"=5Fblank">Prism Sound 'Mic To Monitor' =
+Tour for 2013 =C2=BB</a></strong></p>
+ <p><strong><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+923465650=5F44231=5F29" target=3D"=5Fblank">Nashville Recording Workshop =
++ Expo 2013 takes place May 14 and May 15 =C2=BB</a></strong></p></td>
+ </tr>
+ </tbody>
+ </table>                                              <br clear=3D"all">=
+
+=20
+=20
+ </td>
+ </tr>                                  =20
+ </tbody>
+ </table>
+ </td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"#ffffff" valign=3D"top" width=3D"10"><img src=3D"http://newsletter=
+s=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" heig=
+ht=3D"10" width=3D"10"></td>
+ <td style=3D"padding-top: 5px;" align=3D"left" bgcolor=3D"#ffffff" valig=
+n=3D"top" width=3D"302">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300">
+ <tbody>
+ <tr>
+ <td width=3D"359"><!--BOX 02 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465650=
+=5F44231=5F30" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D10110" border=3D"0" height=
+=3D"250" width=3D"300"></a> =20
+ <!--BOX 02 End --></td>
+ </tr>
+ <tr>
+ <td>
+ <br clear=3D"all">
+ </td>
+ </tr> <tr>
+ <td width=3D"359"><!--BOX 02 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465650=
+=5F44231=5F31" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D10108" border=3D"0" height=
+=3D"250" width=3D"300"></a> =20
+ <!--BOX 02 End --></td>
+ </tr>
+ <tr>
+ <td>
+ <br clear=3D"all">
+ </td>
+ </tr>
+=20
+ <tr>
+ <td width=3D"359"><!--BOX 02 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465650=
+=5F44231=5F32" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D10066" border=3D"0" height=
+=3D"250" width=3D"300"></a>
+ <!--BOX 02 End --></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"#ffffff" valign=3D"top" width=3D"11"><img src=3D"http://newsletter=
+s=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" heig=
+ht=3D"10" width=3D"10"></td>
+ </tr>
+ </tbody>
+ </table>
+
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"padding: 10px; font-family: verdana; font-size: 9px; color:=
+ rgb(51, 51, 51);" align=3D"center" valign=3D"middle">=C2=A92013 NewBay M=
+edia, LLC</td>
+ </tr>
+ </tbody>
+ </table>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465650=5F44231=5F33=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923465650=5F44231=5F34">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D923465650&msgid=3D44231"></body></html>
+

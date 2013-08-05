@@ -1,0 +1,212 @@
+Return-path: <3ee.d.1014289821.47017@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 23 Jul 2013 13:01:43 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:16955)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.1014289821.47017@newbay.cfmvmail.com>)
+	id 1V1fy1-0007K3-Nx
+	for chris@sophiahatstudio.com; Tue, 23 Jul 2013 13:01:43 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=SHQS2XrRGs5EdFPKNi6YWYVqRQ1+H0OV+yjPztVlt5m+jg0gkiGZS6ktRh76HcgE4M/+6D43EeMm2BP1feT8r4FbMx8ujB0CHiCwUEoUEXTHHEh3/p1ksLd8NMR23x/VTok4dRsL0CwnRzCzCg/Rem7N1Y10nns9hH3EupfFSDM=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1374598910;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=SEww0Wir5d34IxPgUOk534fM+PA=;
+	b=cAe+YV7hu4comwrAJhYI92KtdCUj0XxdfmdrPiin7oiz4afn/+9RUL7nP5oevzMecs7J3wR2rzd01FkGkMGKhqkOaKoj0sJGc2mXAJadaO5zBegbb4DIwjivqmnXSgB+CjHBXomvDNMKp74tkbTo3cz34g87ixqAPkqCxoRgoP4=
+X-FBL: M2VlLjFlLjExNjAwMDAwMDkzZGE2Yi4xMDE0Mjg5ODIxLjQ3MDE3LmNocmlzPXNvcGhpYWhhdHN0dWRpby5jb20=
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Mix Magazine" <marketing@newbay-media.com>
+Message-ID: <81edb40f-86a1-47d0-bbaa-079c213c08ec@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?RnJlZSBXZWJpbmFyIC0gVGhlIEZpcnN0IFN0ZXAgVG93YXJk?=
+	=?utf-8?B?IFF1YWxpdHkgUmVjb3JkaW5nOiBNaWNyb3Bob25lLCBQcmVh?=
+	=?utf-8?B?bXAsIENvbnZlcnNpb24=?=
+Date: Tue, 23 Jul 2013 13:01:49 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Untitled Document REGISTER TODAY! About This Webinar [...]
+    
+ 
+ Content analysis details:   (-0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.4 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.3 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd"><html xmlns=3D"ht=
+tp://www=2Ew3=2Eorg/1999/xhtml"><head>
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<title>Untitled Document</title>
+</head><body>
+<table width=3D"650" align=3D"center" border=3D"0">
+ <tbody><tr>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10142=
+89821=5F47017=5F1" target=3D"=5Fblank"><img src=3D"http://newsletters=2En=
+ewbay-media=2Ecom/NewBay=5FPromos/WEBINAR=5FMIX=5F091013/MIX13=5FWebinar=5F=
+FirstStep=5FRoyerMillennia=5Fheader1=2Ejpg" width=3D"670" border=3D"0" he=
+ight=3D"230"></a></td>
+ </tr>
+ <tr>
+ <td><table width=3D"671" border=3D"0" cellpadding=3D"5" cellspacing=3D"5=
+">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: Verdana,Geneva,sans-serif; font-size: 12px;" v=
+align=3D"top" width=3D"253"><p style=3D"font-weight: bold; font-size: 18p=
+x; text-align: center;"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Ea=
+spx=3Fv=3D6=5F1014289821=5F47017=5F2" target=3D"=5Fblank">REGISTER TODAY!=
+</a></p>
+ <p style=3D"font-weight: bold; font-size: 16px; text-align: center;">
+ <br>About This Webinar</p>
+ <p>Quality matters=2E Professional audio engineers know this, and the co=
+nsumer is finally starting to demand it=2E The resurgence in analog recor=
+ding, coupled with the increased power of native DAW systems, has opened =
+up nearly unlimited possibilities for producers/engineers to create uniqu=
+e sounds at extremely high-fidelity=2E But quality audio still starts wit=
+h a great artist, great microphone, and great microphone preamp=2E<br><br=
+>
+=20
+ In this free hour-long Webcast, produced by Mix magazine and presented b=
+y Millennia Media and Royer Labs, Mix technical editor Kevin Becka leads =
+a roundtable discussion with a panel of renowned recording engineers/prod=
+ucers=2E Supported by graphics, photos and audio examples, the engineers =
+will walk through their audio chain and their particular techniques for r=
+ecording guitar, instruments and vocals, from setup and mic choices throu=
+gh preamp and conversion into the DAW, or straight to tape=2E
+ <br><br>
+ A live 20-minute question and answer session will follow the presentatio=
+n=2E <br>
+ </p>
+ <p><b><center>Topics covered by the webcast will include:</center></b></=
+p>
+ <p>=E2=80=A2 Overview of a Typical Signal Chain<br><br>
+=E2=80=A2 Mic Choices: Why a Ribbon=3F<br><br>
+=E2=80=A2 Mic Placement: Simple Changes Can Make a Huge Difference <br><b=
+r>
+=E2=80=A2 Cables and Connectors: Quality at Every Step<br><br>
+=E2=80=A2 The Mic Preamp: Transparency vs=2E Color<br><br>
+=E2=80=A2 Components and Circuit Design<br><br>
+=E2=80=A2 Signal Flow<br><br>
+=E2=80=A2 Optimization<br><br>
+=E2=80=A2 Remote Control<br><br>
+=E2=80=A2 500 Series Units and Power Considerations<br><br>
+=E2=80=A2 Levels and Monitoring
+</p>
+ <hr>
+Join <i>Mix</i>, <strong>Millennia and Royer</strong> on <strong>Septembe=
+r 10th at 11 AM PT / 2:00 PM ET</strong> for this <strong>FREE</strong> w=
+ebinar=2E=20
+ <p style=3D"font-size: 18px; font-weight: bold; text-align: center;"><a =
+href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1014289821=5F=
+47017=5F3" target=3D"=5Fblank">REGISTER TODAY!</a></p></td>
+=20
+ <td style=3D"font-family: Verdana, Geneva, sans-serif; font-size: 12px; =
+color: #333; padding: 20px;" valign=3D"top" width=3D"383" bgcolor=3D"#fef=
+200">
+
+ <p style=3D"font-weight: bold; font-size: 16px; text-align: center;">Fea=
+tured Speakers<br></p>
+=20
+<p><br><br><img src=3D"http://engage=2Evevent=2Ecom/env1/ec=5F1681/MBwNip=
+per=5F1212992=2Ejpg" width=3D"120" height=3D"99" hspace=3D"5" align=3D"le=
+ft"><br><br><strong>Michael Bishop</strong><br>
+ Michael Bishop has had the privilege of recording icons of the music ind=
+ustry for over thirty years, engineering and producing releases that help=
+ed define the sound of popular, jazz, blues and classical music with a wi=
+de diversity of artists=2E Awards include nine Grammy Awards, Japan=E2=80=
+=99s Grand Prix Award, Gramophone Magazine=E2=80=99s Record of the Year, =
+Surround Music Awards, and RIAA Platinum Album awards=2E As a co-founder =
+of Five/Four Productions, Michael records and produces independent audio =
+projects, maintaining the high production standards he successfully carri=
+ed in his long career engineering recordings for Telarc Records=2E Michae=
+l is a member of AES, NARAS, ASCAP, AQHA, and NRHA=2E Michael also serves=
+ on the N=2EA=2ER=2EA=2ES=2E Producer & Engineer Wing Advisory Board=2E
+<br><br>
+<br>
+<br><img src=3D"http://engage=2Evevent=2Ecom/env1/ec=5F1681/tommyv=5F1215=
+122=2Ejpg" width=3D"100" height=3D"100" hspace=3D"5" align=3D"left"><br><=
+br>
+<strong>Tommy Vicari</strong><br>
+ Since 1969, engineer/producer Tommy Vicari has recorded and  mixed nearl=
+y every genre of music for distribution in almost every form of  media in=
+cluding studio, live, film, television and theme parks=2E A few of the  h=
+undreds of projects Tommy has done include Billy Preston, Prince, F<em>in=
+ding Nemo, Man of Steel</em>, the Academy Awards,&nbsp;<em>Behind the Can=
+delabra</em>, t<em>he Newsroom</em>&nbsp;and&nbsp;<em>Angels in America</=
+em>=2E He has mixed live sound  for the likes of George Duke, Jeffrey Osb=
+orne, Gordon Goodwin, Philip Bailey  and Quincy Jones=2E Tommy has been h=
+onored with six Grammy Award nominations with  one win and 14 Emmy nomina=
+tions, with five wins=2E&nbsp;
+<br><br><br></p>
+<p><img src=3D"http://engage=2Evevent=2Ecom/env1/ec=5F1681/RyanHewitt=5F1=
+215376=2Ejpg" width=3D"100" height=3D"100" hspace=3D"5" align=3D"left"><b=
+r><br><strong>Ryan Hewitt</strong><br>
+ Ryan Hewitt is a Grammy Award winning engineer who has recorded, mixed a=
+nd produced projects for artists as diverse as the Avett Brothers, The Re=
+d Hot Chili Peppers, Harry Connick Jr and blink-182=2E  Over his 20+ year=
+ career Ryan has teamed with producers such as Rick Rubin, Matt Serletic =
+and Jerry Finn, as well as with his father, renown remote recording engin=
+eer David Hewitt=2E  Ryan is currently based in Venice Beach, California,=
+ where he operates his personal mix room, Lock Stock Studio=2E
+=20
+ <br><br></p>
+</td>
+ </tr>
+ </tbody></table>
+ <hr></td>
+ </tr>
+</tbody></table>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F1014289821=5F47017=5F4=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1014289821=5F47017=5F5">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D1014289821&msgid=3D47017"></body></html>
+

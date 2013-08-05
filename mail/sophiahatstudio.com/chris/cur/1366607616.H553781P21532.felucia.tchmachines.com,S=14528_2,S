@@ -1,0 +1,264 @@
+Return-path: <apache@hpj-web-11.plutoniq.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Mon, 22 Apr 2013 01:13:36 -0400
+Received: from hpj-cluster-01.hpjsolutions.com ([207.253.224.151]:33364 helo=hpj-web-11.plutoniq.com)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <apache@hpj-web-11.plutoniq.com>)
+	id 1UU94I-0005b7-4z
+	for chris@sophiahatstudio.com; Mon, 22 Apr 2013 01:13:36 -0400
+Received: by hpj-web-11.plutoniq.com (Postfix, from userid 48)
+	id CBF12494; Mon, 22 Apr 2013 01:13:34 -0400 (EDT)
+To: chris@sophiahatstudio.com
+Subject: pureMix
+Date: Mon, 22 Apr 2013 01:13:34 -0400
+From: pureMix <GearfestMixingContest@puremix.net>
+Message-ID: <12c8c88a97c0f825259607e58af7528f@www.puremix.net>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+X-Spam-Status: No, score=2.1
+X-Spam-Score: 21
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  GearFest Mxing Contest Stems Download of the Session "Oh
+   Baby" Thank you for entering the GearFest Mixing Contest. Here is the link
+    to see the video of the Recording Session. You will be able to view it by
+    using the following coupon SWMixingContest in your pureMix shopping cart.
+    [...] 
+ 
+ Content analysis details:   (2.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.4 NO_DNS_FOR_FROM        DNS: Envelope sender has no MX or A DNS records
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+<body>
+
+<style type="text/css">
+
+body{ background: #1e3563; /* Old browsers */
+background: -moz-linear-gradient(top,  #1e3563 0%, #05060b 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e3563), color-stop(100%,#05060b)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #1e3563 0%,#05060b 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #1e3563 0%,#05060b 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #1e3563 0%,#05060b 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #1e3563 0%,#05060b 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e3563', endColorstr='#05060b',GradientType=0 ); /* IE6-9 */
+}
+ 
+ .img_hover:hover
+{
+text-align: center;
+opacity:0.8;
+}
+
+ a.url_title:hover
+{
+opacity:0.8;
+}
+
+ .img_social
+{
+text-align:center;
+}
+
+ .img_social:hover
+{
+text-align:center;
+opacity:0.8;
+}
+
+.bluegradient{
+background: #2a6eb2;
+background: -moz-linear-gradient(top,  #2a6eb2 0%, #198eb5 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2a6eb2), color-stop(100%,#198eb5));
+background: -webkit-linear-gradient(top,  #2a6eb2 0%,#198eb5 100%);
+background: -o-linear-gradient(top,  #2a6eb2 0%,#198eb5 100%);
+background: -ms-linear-gradient(top,  #2a6eb2 0%,#198eb5 100%);
+background: linear-gradient(top,  #2a6eb2 0%,#198eb5 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2a6eb2', endColorstr='#198eb5',GradientType=0 );
+}
+
+
+.couleurfond{ 
+background: #1e3563;
+background: -moz-linear-gradient(top,  #1e3563 0%, #05060b 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e3563), color-stop(100%,#05060b));
+background: -webkit-linear-gradient(top,  #1e3563 0%,#05060b 100%);
+background: -o-linear-gradient(top,  #1e3563 0%,#05060b 100%);
+background: -ms-linear-gradient(top,  #1e3563 0%,#05060b 100%);
+background: linear-gradient(top,  #1e3563 0%,#05060b 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e3563', endColorstr='#05060b',GradientType=0 );
+
+
+}
+
+.enews{
+background: #f2a009;
+background: -moz-linear-gradient(top,  #f2a009 1%, #ed8609 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#f2a009), color-stop(100%,#ed8609));
+background: -webkit-linear-gradient(top,  #f2a009 1%,#ed8609 100%);
+background: -o-linear-gradient(top,  #f2a009 1%,#ed8609 100%);
+background: -ms-linear-gradient(top,  #f2a009 1%,#ed8609 100%);
+background: linear-gradient(top,  #f2a009 1%,#ed8609 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2a009', endColorstr='#ed8609',GradientType=0 );
+}
+
+.backbubble{
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffffff 0%, #eaeaea 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#eaeaea)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffffff 0%,#eaeaea 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffffff 0%,#eaeaea 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffffff 0%,#eaeaea 100%); /* IE10+ */
+background: linear-gradient(top,  #ffffff 0%,#eaeaea 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eaeaea',GradientType=0 ); /* IE6-9 */}
+
+<!--mainwrapper_cell_color{background: #1e3563; /* Old browsers */ background: -moz-linear-gradient(top,  #1e3563 0%, #05060b 100%); /* FF3.6+ */ background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e3563), color-stop(100%,#05060b)); /* Chrome,Safari4+ */ background: -webkit-linear-gradient(top,  #1e3563 0%,#05060b 100%); /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(top,  #1e3563 0%,#05060b 100%); /* Opera 11.10+ */ background: -ms-linear-gradient(top,  #1e3563 0%,#05060b 100%); /* IE10+ */ background: linear-gradient(top,  #1e3563 0%,#05060b 100%); /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e3563', endColorstr='#05060b',GradientType=0 ); /* IE6-9 */ } -->
+
+
+</style>
+
+<table class="mainwrapper_color" width="99%" border="0" cellpadding="0" cellspacing="0" background="" align="center">
+<tr class="">
+<td class="couleurfond" bgcolor="#101C34">
+<table class="mainwrapper" align="center" border="0" cellpadding="0" cellspacing="0" width="602" style="font-family:Helvetica,Arial,sans-serif;">
+<!--INTRO-->
+<tr>
+ <td class="Intro_cellwrap" width:"602" style="padding:10px 0px 20px 0px;">  
+  <table class="backbubble" align="center" border="0" cellpadding="0" cellspacing="0" width="602" bgcolor="#FFFFFF" style="border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; box-shadow: 3px 3px 7px 1px #B4AFAF; -moz-box-shadow: 3px 3px 7px 1px #B4AFAF; -webkit-box-shadow: 3px 3px 7px 1px #B4AFAF; border-width:1px; border-style:solid; border-color:#B6B6B6;">
+   <tr>
+    <td colspan="3" width="600" style="text-align:center;"><a href="http://puremix.net/index.php" target="_blank"><img src="http://www.puremix.net/images/interface/Newsletters/puremix_nl.png" alt="pureMix Logo" width="404" height="111" class="img_hover" style=" padding-bottom:5px; text-align: center; display:inline-block; width:425; height:125;" /></a>
+    </td>
+   </tr>
+   <tr>
+    <td width="600">
+     <table cellpadding="0" border="0" cellspacing="0">
+      <tr>
+       <td width="420">
+       </td>
+       <td>
+        <table  class="enews" width="180" border="0" cellspacing="0" cellpadding="0" bgcolor="#F2A009" style="border-radius:10px 0px 0px 10px; box-shadow: -1px 1px 2px #B4AFAF; border-width:1px; border-style:solid; border-color:#B6B6B6; opacity:0.9; margin: 0px 0px 10px 0px;"> 
+         <tr>
+          <td width="180" style=" font-size: 13px; font-style:italic; text-align:right; padding:6px; color:#FFF;">GearFest Mxing Contest
+          </td>
+         </tr>
+        </table>
+       </td>
+     </table>
+    </td>
+   </tr>              
+  </table>
+ </td>
+</tr>
+<!-- INTRO END --><!-- #1 ONE BLOCK START -->
+<tr>
+ <td width="600" style="padding: 0px 0px 20px 0px;">
+  <table class="backbubble" align="center" border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#FFFFFF" style="border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; box-shadow: 3px 3px 7px 1px #B4AFAF; -moz-box-shadow: 3px 3px 7px 1px #B4AFAF; -webkit-box-shadow: 3px 3px 7px 1px #B4AFAF; border-width:1px; border-style:solid; border-color:#B6B6B6;">
+   <tr>
+    <td class="bluegradient" colspan="2" width="600" bgcolor="#2a6eb2" style="font-size:20px; color: #FFF;
+padding-left:7px; padding-bottom: 2px; height:30px; -webkit-border-radius:9px 9px 0px 0px; vertical-align:bottom; -moz-border-radius:9px 9px 0px 0px; border-radius:9px 9px 0px 0px; border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#B9B9B9; opacity: 0.9;"><a href="http://puremix.net" target="_blank" class="url_title" style="text-decoration:none; color: #FFF; ">Stems Download of the Session &quot;Oh Baby&quot;</a></td>
+   </tr>
+   <tr>
+    <td colspan="2">
+     <table width="600" height="10" cellpadding="0" cellspacing="0" style="padding-top:5px; padding-bottom:0px;">
+      <tr>
+       <td width="600" height="15" style="border-top-style: dashed; border-top-width: 1px; font-size: 0px; border-color:#AAAAAA;">&nbsp;
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>   
+   <tr>
+	<td  colspan="3" width="600" style="padding:0px 7px 7px 7px; vertical-align: top;
+text-align:left; font-size: 14px; line-height: 19px; color: #323232;"><p>Thank you for entering the GearFest Mixing Contest.</p>
+	<p>Here is  <a href="http://www.puremix.net/video/othering/events/gearfest-2012-tracking-1-6-kick-drum.html" target="_blank">the link</a> to see the video of the Recording Session. You will be able to view it by using the following coupon <strong><a style="text-decoration: none;" href="http://www.puremix.net/index.php?option=com_hpjmembres&view=cart&Itemid=50&lang=en&couponcode=SWMixingContest" target="_blank">SWMixingContest</a></strong> in your pureMix shopping cart.</p>
+    <p>Here is <a href="http://puremix.net/gearfestmixingcontest/download" target="_blank">the link</a> where you can download the audio stems of the session and instructions.</p>
+     <p>Here is <a href="http://homerecording.com/bbs/general-discussions/mix/gearfest-mixing-contest-356614/" target="_blank">the link</a> to the official forum thread on Homerecording.com where you can share and learn from the community.</p>
+    <p>Remember that your version of this mix has to be uploaded on this <a href="https://soundcloud.com/groups/gearfest-mixing-contest" target="_blank">Soundcloud Group</a> , <strong>before the June 1st 2013</strong> with the following tag in your title: <em>GearfestPuremixContest</em>.<br/>
+      Do not forget to comment on your work and mention the gear and software that you used. Only mixes with detailed comments will be eligible to enter the contest. <br/>
+      Winners' name will be published on pureMix.net the <strong>June 21st 2013</strong>. </p>
+
+    <p>Happy Mixing!</p><p>pureMix</p>
+    </td>
+   </tr>     
+  </table>
+ </td>
+</tr>
+<!-- # ONE BLOCK END --><!-- FOOTER START-->
+<tr>
+ <td width="600" style="padding: 0px 0px 20px 0px;">
+  <table class="backbubble" align="center" border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#FFFFFF" style="border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; box-shadow: 3px 3px 7px 1px #B4AFAF; -moz-box-shadow: 3px 3px 7px 1px #B4AFAF; -webkit-box-shadow: 3px 3px 7px 1px #B4AFAF; border-width:1px; border-style:solid; border-color:#B6B6B6;">
+   <tr>
+    <td class="bluegradient" colspan="2" width="600" bgcolor="#2a6eb2" style="font-size:20px; color: #FFF;
+padding-left:7px; padding-bottom: 2px; height:30px; -webkit-border-radius:9px 9px 0px 0px; vertical-align:bottom; -moz-border-radius:9px 9px 0px 0px; border-radius:9px 9px 0px 0px; border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#B9B9B9; opacity: 0.9;">Get Social</td>
+   </tr>
+   <tr> <!-- cell for dashed line -->
+    <td colspan="2">
+     <table width="600" height="10" cellpadding="0" cellspacing="0" style="padding-top:5px; padding-bottom:0px;">
+      <tr>
+       <td width="600" height="1" style="border-top-style: dashed; border-top-width: 1px; font-size: 0px; border-color:#AAAAAA;">&nbsp;
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+   <tr> <!-- Cell for pointers -->
+    <td>
+     <table>
+      <tr>
+       <td width="0">
+       </td>
+       <td><img src="http://puremix.net/images/interface/reseaux_sociaux/free_stuff.png" width="178" height="48" />
+       </td>
+       <td width="215">
+       </td>
+       <td><img src="http://puremix.net/images/interface/reseaux_sociaux/tips_and_tricks.png" width="178" height="48" />
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+   <tr> <!-- cell for icons -->
+    <td colspan="2">
+	 <table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+	  <tr>
+       <td width="155">&nbsp;
+       </td>
+	   <td width="65" class="img_social" style="padding-top:0px;"><a href="http://www.facebook.com/puremix.net/" target="_blank"><img alt="Facebook" height="65" width="65" src="http://puremix.net/images/interface/reseaux_sociaux/facebook.png" /></a>
+       </td>
+       <td width="152"class="img_social" style="padding-top:0px; text-align:center"><a href="http://www.youtube.com/user/ThePureMixTutorials" target="_blank"><img alt="Youtube" height="65" width="65" src="http://puremix.net/images/interface/reseaux_sociaux/youtube.png" /></a>
+       </td>
+       <td width="65" class="img_social" style="padding-top:0px;"><a href="http://twitter.com/PuremixOnline" target="_blank"><img alt="Twitter" height="65" width="65" src="http://puremix.net/images/interface/reseaux_sociaux/twitter.png"/></a>
+       </td>	   
+       <td width="155">&nbsp;
+       </td>
+	  </tr>
+	 </table>
+	</td>
+   </tr>
+   <tr>
+	<td colspan="2" width="600" height="30" style="text-align: center; vertical-align:bottom; padding-bottom:5px"><span style="font-size: 10px; text-decoration:underline;"><a class="unsubscription">You opted in for this pureMix.net newsletter. Want out?. Clich here to unsubscribe</a></span>
+    </td>
+   </tr>
+  </table>
+ </td>
+</tr>
+<!--END FOOTER-->        
+</table>
+</td>
+</tr>
+</table>
+</body>
+

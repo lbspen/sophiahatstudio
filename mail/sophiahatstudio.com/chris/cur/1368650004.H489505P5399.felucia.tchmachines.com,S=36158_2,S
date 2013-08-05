@@ -1,0 +1,560 @@
+Return-path: <3ee.1c.948284482.45197.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Wed, 15 May 2013 16:33:24 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:33810)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.948284482.45197.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UciO0-0001Ok-KV
+	for chris@sophiahatstudio.com; Wed, 15 May 2013 16:33:24 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=lstYkm8QWHNJwTyVwfePP39kywdDaXlxnyZsQr3yCItaBHu/Kegp6RS/JkETY5PQZucu4YR6e3CmIrm9isVpTdXM6Rgng6qXnRbFQrmeoZ1JN8TZ/byjvVWqERgrVWiKHHhAc9vqPySeOyMmfB2a/Qrr7Z4C1OWpCPBRiUPDCS4=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1368650010;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=04V8nvN8U96wiEH41AqvTD3OHJ8=;
+	b=KJFqfgzPD05SQ1pvutYXhw8a+nla7Zz27eyJTGUNmgELP3cTEJz6N4Gy4OTnfDj8stbogZFtkC2ip/88t0xlNtexvndOzVIzkFLzxBPYa6489NQWp58ZzTX9DHeTHt8ICfqbRCaocUDSC5Ueof30hpRGOkQLlxnXh7rD8CUMOp0=
+X-FBL: M2VlLjFlLjExMDAwMDAwMDA0ODliYi45NDgyODQ0ODIuNDUxOTcuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <809cbcac-25d0-4c64-a3e3-71e4a9f43214@newbay.cfmvmail.com>
+From: "Electronic Musician Partners" <partners@emusician.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?RXhwbG9yZSBOZXcgSWRlYXMgYW5kIFRlY2ggYXQgV0hBVOKA?=
+	=?utf-8?B?mVMgTkVYVA==?=
+Date: Wed, 15 May 2013 16:33:17 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Explore New Ideas and Tech at WHAT’S NEXT Join forward-thinking
+    musicians and audio pros at the WHAT’S NEXT Musicians’ Conference—a
+    free event series where you’ll be able to explore the ideas, trends and
+    technologies that are impacting music today. WHAT’S NEXT will empower you
+    to take control of your future—and chart your own path to success. [...]
+    
+ 
+ Content analysis details:   (0.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.6 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.3 HTML_FONT_FACE_BAD     BODY: HTML font face is not a word
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.5 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html>
+<html><head><title>Explore New Ideas and Tech at WHAT=E2=80=99S NEXT</tit=
+le>
+
+<!-- StartSystemHeader --><style>body{  background-color: #787878;  } a i=
+mg{border: none;}=2EReadMsgBody { width: 100%;}=2EExternalClass {width: 1=
+00%;}</style><!-- EndSystemheader --><style type=3D"text/css">
+div, p, a, li, td { -webkit-text-size-adjust:none; color: white; }
+a { color:#c1272d }
+</style><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8"></head>
+
+<body style=3D"background-color: #787878; ">
+
+ <table cellspacing=3D"0" border=3D"0" cellpadding=3D"0" width=3D"100%"><=
+tbody><tr><td height=3D"0" align=3D"center"><br></td></tr><tr><td><table =
+bordercollapse=3D"collapse" id=3D"sc2821" style=3D"table-layout: auto; ba=
+ckground-color: #000000" cellspacing=3D"0" align=3D"center" border=3D"0" =
+cellpadding=3D"0" width=3D"600"><tbody><tr><td rowspan=3D"1" colspan=3D"1=
+6" id=3D"view0" style=3D"" height=3D"55" align=3D"left" valign=3D"top" wi=
+dth=3D"600"><div id=3D"sc17909" class=3D"sc-view" style=3D"left: 0px; wid=
+th: 600px; top: 0px; height: 55px; overflow: hidden"><div class=3D"co-bor=
+der-style" style=3D"border-width: 2px; border-style: none"><table borderc=
+ollapse=3D"collapse" class=3D"co-style-table" style=3D"margin-top: 0px; m=
+argin-left: 0px; margin-right: 0px; margin-bottom: 0px" cellspacing=3D"0"=
+ height=3D"55" border=3D"0" cellpadding=3D"0" width=3D"600"><tbody><tr><t=
+d class=3D"valign-able" valign=3D"top">
+
+<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F=
+45197=5F1" title=3D""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3F=
+s=3D1732361748&lid=3D8&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D=
+"" src=3D"http://images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/=
+{096107a0-6fab-4a60-ba0b-d4769b7fda88}=5Fblack=5Fline6=5Fheader=2Ejpg" ti=
+tle=3D"Line6=2Ecom" alt=3D"Line6=2Ecom" id=3D"sc17911" class=3D"sc-view s=
+c-image-view editor-outline sc-regular-size" style=3D"display: block; cur=
+sor: pointer" height=3D"55" width=3D"600"></a></td></tr></tbody></table><=
+/div></div></td><td id=3D"empty16" height=3D"55" align=3D"left" valign=3D=
+"top" width=3D"2"><br></td></tr><tr><td id=3D"empty17" height=3D"1" align=
+=3D"left" valign=3D"top" width=3D"23"><br></td><td id=3D"empty18" height=3D=
+"1" align=3D"left" valign=3D"top" width=3D"4"><br></td><td id=3D"empty19"=
+ height=3D"1" align=3D"left" valign=3D"top" width=3D"310"><br></td><td id=
+=3D"empty20" height=3D"1" align=3D"left" valign=3D"top" width=3D"13"><br>=
+</td><td id=3D"empty21" height=3D"1" align=3D"left" valign=3D"top" width=3D=
+"5"><br></td><td id=3D"empty22" height=3D"1" align=3D"left" valign=3D"top=
+" width=3D"53"><br></td>
+
+<td id=3D"empty23" height=3D"1" align=3D"left" valign=3D"top" width=3D"20=
+"><br></td><td id=3D"empty24" height=3D"1" align=3D"left" valign=3D"top" =
+width=3D"36"><br></td><td id=3D"empty25" height=3D"1" align=3D"left" vali=
+gn=3D"top" width=3D"5"><br></td><td id=3D"empty26" height=3D"1" align=3D"=
+left" valign=3D"top" width=3D"2"><br></td><td id=3D"empty27" height=3D"1"=
+ align=3D"left" valign=3D"top" width=3D"33"><br></td><td id=3D"empty28" h=
+eight=3D"1" align=3D"left" valign=3D"top" width=3D"6"><br></td><td id=3D"=
+empty29" height=3D"1" align=3D"left" valign=3D"top" width=3D"42"><br></td=
+><td id=3D"empty30" height=3D"1" align=3D"left" valign=3D"top" width=3D"4=
+1"><br></td><td id=3D"empty31" height=3D"1" align=3D"left" valign=3D"top"=
+ width=3D"2"><br></td><td id=3D"empty32" height=3D"1" align=3D"left" vali=
+gn=3D"top" width=3D"5"><br></td><td id=3D"empty33" height=3D"1" align=3D"=
+left" valign=3D"top" width=3D"2"><br></td></tr><tr><td rowspan=3D"1" cols=
+pan=3D"5" id=3D"view34" style=3D"" height=3D"124" align=3D"left" valign=3D=
+"top" width=3D"355">
+
+<div id=3D"sc17945" class=3D"sc-view" style=3D"left: 0px; width: 355px; t=
+op: 56px; height: 124px; overflow: hidden"><div class=3D"co-border-style"=
+ style=3D"border-width: 2px; border-style: none"><table bordercollapse=3D=
+"collapse" class=3D"co-style-table" style=3D"margin-top: 0px; margin-left=
+: 0px; margin-right: 0px; margin-bottom: 0px" cellspacing=3D"0" height=3D=
+"124" border=3D"0" cellpadding=3D"0" width=3D"355"><tbody><tr><td class=3D=
+"valign-able" valign=3D"top"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp=
+1=2Easpx=3Fv=3D6=5F948284482=5F45197=5F2" title=3D""><img elqhref=3D"http=
+://app=2Ego=2Eline6=2Ecom/e/er=3Fs=3D1732361748&lid=3D81&elq=3Debeaedc2b3=
+074bfea51ea701f6d435e6" elqtitle=3D"" src=3D"http://images=2Ego=2Eline6=2E=
+com/EloquaImages/clients/Line6Inc/{b9d81bc0-aa88-47b4-beba-98d580adc7eb}=5F=
+whatsnexttourmay2013may=5Flogown=2Ejpg" title=3D"What's Next Musicians' C=
+onference" alt=3D"What's Next Musicians' Conference" id=3D"sc17947" class=
+=3D"sc-view sc-image-view editor-outline sc-regular-size" style=3D"displa=
+y: block; cursor: pointer" height=3D"124" width=3D"355"></a></td></tr></t=
+body></table></div></div></td>
+
+<td rowspan=3D"1" colspan=3D"4" id=3D"view39" style=3D"" height=3D"124" a=
+lign=3D"left" valign=3D"top" width=3D"114"><div id=3D"sc17936" class=3D"s=
+c-view" style=3D"left: 355px; width: 114px; top: 56px; height: 124px; ove=
+rflow: hidden"><div class=3D"co-border-style" style=3D"border-width: 2px;=
+ border-style: none"><table bordercollapse=3D"collapse" class=3D"co-style=
+-table" style=3D"margin-top: 0px; margin-left: 0px; margin-right: 0px; ma=
+rgin-bottom: 0px" cellspacing=3D"0" height=3D"124" border=3D"0" cellpaddi=
+ng=3D"0" width=3D"114"><tbody><tr><td class=3D"valign-able" valign=3D"top=
+">
+
+<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F=
+45197=5F3" title=3D""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3F=
+s=3D1732361748&lid=3D82&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D=
+"" src=3D"http://images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/=
+{d3e6ac12-2416-4815-b09a-481a69b97842}=5Fwhatsnexttourmay2013may=5Flogoto=
+pspin=2Ejpg" title=3D"Topspin" alt=3D"Topspin" id=3D"sc17938" class=3D"sc=
+-view sc-image-view editor-outline sc-regular-size" style=3D"display: blo=
+ck; cursor: pointer" height=3D"124" width=3D"114"></a></td></tr></tbody><=
+/table></div></div></td><td id=3D"empty43" height=3D"124" align=3D"left" =
+valign=3D"top" width=3D"2"><br></td><td rowspan=3D"1" colspan=3D"7" id=3D=
+"view44" style=3D"" height=3D"124" align=3D"left" valign=3D"top" width=3D=
+"131"><div id=3D"sc17927" class=3D"sc-view" style=3D"left: 471px; width: =
+131px; top: 56px; height: 124px; overflow: hidden"><div class=3D"co-borde=
+r-style" style=3D"border-width: 2px; border-style: none">
+
+<table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D"marg=
+in-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px" cel=
+lspacing=3D"0" height=3D"124" border=3D"0" cellpadding=3D"0" width=3D"131=
+"><tbody><tr><td class=3D"valign-able" valign=3D"top"><a href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F45197=5F4" title=3D=
+""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3Fs=3D1732361748&li=
+d=3D83&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D"" src=3D"http:=
+//images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/{d34daaa9-71d6-=
+4c8a-87a0-7b35a7895a38}=5Fwhatsnexttourmay2013may=5Flogoline6=2Ejpg" titl=
+e=3D"Line 6" alt=3D"Line 6" id=3D"sc17929" class=3D"sc-view sc-image-view=
+ editor-outline sc-regular-size" style=3D"display: block; cursor: pointer=
+" height=3D"124" width=3D"131"></a></td></tr></tbody></table></div></div>=
+</td></tr><tr><td rowspan=3D"1" colspan=3D"16" id=3D"view51" style=3D"" h=
+eight=3D"173" align=3D"left" valign=3D"top" width=3D"600"><div id=3D"sc17=
+954" class=3D"sc-view" style=3D"left: 0px; width: 600px; top: 180px; heig=
+ht: 173px; overflow: hidden">
+
+<div class=3D"co-border-style" style=3D"border-width: 2px; border-style: =
+none"><table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D=
+"margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px=
+" cellspacing=3D"0" height=3D"173" border=3D"0" cellpadding=3D"0" width=3D=
+"600"><tbody><tr><td class=3D"valign-able" valign=3D"top"><a href=3D"http=
+://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F45197=5F5" ti=
+tle=3D""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3Fs=3D1732361=
+748&lid=3D85&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D"" src=3D=
+"http://images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/{fca3cd1b=
+-c6b6-46ec-96dd-04e09d0014a3}=5Fwhatsnexttourmay2013may=5Fsplash=2Ejpg" t=
+itle=3D"Coming to New York City on June 8, 2013" alt=3D"Coming to New Yor=
+k City on June 8, 2013" id=3D"sc17956" class=3D"sc-view sc-image-view edi=
+tor-outline sc-regular-size" style=3D"display: block; cursor: pointer" he=
+ight=3D"173" width=3D"600"></a></td></tr></tbody></table></div></div></td=
+><td id=3D"empty67" height=3D"173" align=3D"left" valign=3D"top" width=3D=
+"2"><br></td></tr><tr>
+
+<td id=3D"empty68" height=3D"2" align=3D"left" valign=3D"top" width=3D"23=
+"><br></td><td id=3D"empty69" height=3D"2" align=3D"left" valign=3D"top" =
+width=3D"4"><br></td><td id=3D"empty70" height=3D"2" align=3D"left" valig=
+n=3D"top" width=3D"310"><br></td><td id=3D"empty71" height=3D"2" align=3D=
+"left" valign=3D"top" width=3D"13"><br></td><td id=3D"empty72" height=3D"=
+2" align=3D"left" valign=3D"top" width=3D"5"><br></td><td id=3D"empty73" =
+height=3D"2" align=3D"left" valign=3D"top" width=3D"53"><br></td><td id=3D=
+"empty74" height=3D"2" align=3D"left" valign=3D"top" width=3D"20"><br></t=
+d><td id=3D"empty75" height=3D"2" align=3D"left" valign=3D"top" width=3D"=
+36"><br></td><td id=3D"empty76" height=3D"2" align=3D"left" valign=3D"top=
+" width=3D"5"><br></td><td id=3D"empty77" height=3D"2" align=3D"left" val=
+ign=3D"top" width=3D"2"><br></td><td id=3D"empty78" height=3D"2" align=3D=
+"left" valign=3D"top" width=3D"33"><br></td><td id=3D"empty79" height=3D"=
+2" align=3D"left" valign=3D"top" width=3D"6"><br></td>
+
+<td id=3D"empty80" height=3D"2" align=3D"left" valign=3D"top" width=3D"42=
+"><br></td><td id=3D"empty81" height=3D"2" align=3D"left" valign=3D"top" =
+width=3D"41"><br></td><td id=3D"empty82" height=3D"2" align=3D"left" vali=
+gn=3D"top" width=3D"2"><br></td><td id=3D"empty83" height=3D"2" align=3D"=
+left" valign=3D"top" width=3D"5"><br></td><td id=3D"empty84" height=3D"2"=
+ align=3D"left" valign=3D"top" width=3D"2"><br></td></tr><tr><td id=3D"em=
+pty85" height=3D"1" align=3D"left" valign=3D"top" width=3D"23"><br></td><=
+td id=3D"empty86" height=3D"1" align=3D"left" valign=3D"top" width=3D"4">=
+<br></td><td id=3D"empty87" height=3D"1" align=3D"left" valign=3D"top" wi=
+dth=3D"310"><br></td><td id=3D"empty88" height=3D"1" align=3D"left" valig=
+n=3D"top" width=3D"13"><br></td><td rowspan=3D"2" colspan=3D"11" id=3D"vi=
+ew89" style=3D"" height=3D"231" align=3D"left" valign=3D"top" width=3D"24=
+5"><div id=3D"sc17918" class=3D"sc-view" style=3D"left: 350px; width: 245=
+px; top: 355px; height: 231px; overflow: hidden">
+
+<div class=3D"co-border-style" style=3D"border-width: 2px; border-style: =
+none"><table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D=
+"margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px=
+" cellspacing=3D"0" height=3D"231" border=3D"0" cellpadding=3D"0" width=3D=
+"245"><tbody><tr><td class=3D"valign-able" valign=3D"top"><a href=3D"http=
+://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F45197=5F6" ti=
+tle=3D""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3Fs=3D1732361=
+748&lid=3D84&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D"" src=3D=
+"http://images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/{2595305f=
+-92d8-491a-99e6-4335d23fbe67}=5Fwhatsnexttourmay2013may=5Fcalendar=2Ejpg"=
+ title=3D"What's Next Tour Calendar" alt=3D"What's Next Tour Calendar" id=
+=3D"sc17920" class=3D"sc-view sc-image-view editor-outline sc-regular-siz=
+e" style=3D"display: block; cursor: pointer" height=3D"231" width=3D"245"=
+></a></td></tr></tbody></table></div></div></td><td id=3D"empty100" heigh=
+t=3D"1" align=3D"left" valign=3D"top" width=3D"5"><br></td>
+
+<td id=3D"empty101" height=3D"1" align=3D"left" valign=3D"top" width=3D"2=
+"><br></td></tr><tr><td id=3D"empty102" height=3D"230" align=3D"left" val=
+ign=3D"top" width=3D"23"><br></td><td id=3D"empty103" height=3D"230" alig=
+n=3D"left" valign=3D"top" width=3D"4"><br></td><td rowspan=3D"2" colspan=3D=
+"1" id=3D"view104" style=3D"color: #000000; font-family: Arial; font-size=
+: 12px; line-height: 18px; letter-spacing: 0px" height=3D"245" align=3D"l=
+eft" valign=3D"top" width=3D"310"><div id=3D"sc17963" class=3D"sc-view hi=
+dden-border inline-styled-view editor-outline" style=3D"left: 27px; width=
+: 310px; top: 356px; height: 245px; color: #000000; font-family: Arial; f=
+ont-size: 12px; line-height: 18px; letter-spacing: 0px; overflow: hidden"=
+><div class=3D"co-border-style" style=3D"">
+
+<table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D"colo=
+r: #000000; font-family: Arial; font-size: 12px; line-height: 18px; lette=
+r-spacing: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; mar=
+gin-bottom: 0px" cellspacing=3D"0" height=3D"245" border=3D"0" cellpaddin=
+g=3D"0" width=3D"310"><tbody><tr><td class=3D"valign-able" valign=3D"top"=
+><span class=3D"remove-absolute"><span style=3D"color:rgb(255, 255, 255);=
+">Join forward-thinking musicians and audio pros at the WHAT=E2=80=99S NE=
+XT Musicians=E2=80=99 Conference=E2=80=94a free event series where you=E2=
+=80=99ll be able to explore the ideas, trends and technologies that are i=
+mpacting music today=2E WHAT=E2=80=99S NEXT will empower you to take cont=
+rol of your future=E2=80=94and chart your own path to success=2E<br><br><=
+/span><ul><li><span style=3D"color:rgb(255, 255, 255);">Hear industry exp=
+erts discuss the future of music</span></li><li><span style=3D"color:rgb(=
+255, 255, 255);">Discover
+
+ the secrets to great live sound</span></li><li><span style=3D"color:rgb(=
+255, 255, 255);">Learn how to leverage technology to multiply your fan ba=
+se</span></li><li><span style=3D"color:rgb(255, 255, 255);">Catch live ar=
+tist performances and gear demos</span></li><li><span style=3D"color:rgb(=
+255, 255, 255);">Connect with like-minded musicians, and more</span></li>=
+</ul></span></td></tr></tbody></table></div></div></td><td id=3D"empty105=
+" height=3D"230" align=3D"left" valign=3D"top" width=3D"13"><br></td><td =
+id=3D"empty117" height=3D"230" align=3D"left" valign=3D"top" width=3D"5">=
+<br></td><td id=3D"empty118" height=3D"230" align=3D"left" valign=3D"top"=
+ width=3D"2"><br></td></tr><tr><td id=3D"empty119" height=3D"15" align=3D=
+"left" valign=3D"top" width=3D"23"><br></td><td id=3D"empty120" height=3D=
+"15" align=3D"left" valign=3D"top" width=3D"4"><br></td><td id=3D"empty12=
+2" height=3D"15" align=3D"left" valign=3D"top" width=3D"13"><br></td>
+
+<td id=3D"empty123" height=3D"15" align=3D"left" valign=3D"top" width=3D"=
+5"><br></td><td id=3D"empty124" height=3D"15" align=3D"left" valign=3D"to=
+p" width=3D"53"><br></td><td id=3D"empty125" height=3D"15" align=3D"left"=
+ valign=3D"top" width=3D"20"><br></td><td id=3D"empty126" height=3D"15" a=
+lign=3D"left" valign=3D"top" width=3D"36"><br></td><td id=3D"empty127" he=
+ight=3D"15" align=3D"left" valign=3D"top" width=3D"5"><br></td><td id=3D"=
+empty128" height=3D"15" align=3D"left" valign=3D"top" width=3D"2"><br></t=
+d><td id=3D"empty129" height=3D"15" align=3D"left" valign=3D"top" width=3D=
+"33"><br></td><td id=3D"empty130" height=3D"15" align=3D"left" valign=3D"=
+top" width=3D"6"><br></td><td id=3D"empty131" height=3D"15" align=3D"left=
+" valign=3D"top" width=3D"42"><br></td><td id=3D"empty132" height=3D"15" =
+align=3D"left" valign=3D"top" width=3D"41"><br></td><td id=3D"empty133" h=
+eight=3D"15" align=3D"left" valign=3D"top" width=3D"2"><br></td><td id=3D=
+"empty134" height=3D"15" align=3D"left" valign=3D"top" width=3D"5"><br></=
+td>
+
+<td id=3D"empty135" height=3D"15" align=3D"left" valign=3D"top" width=3D"=
+2"><br></td></tr><tr><td id=3D"empty136" height=3D"25" align=3D"left" val=
+ign=3D"top" width=3D"23"><br></td><td id=3D"empty137" height=3D"25" align=
+=3D"left" valign=3D"top" width=3D"4"><br></td><td id=3D"empty138" height=3D=
+"25" align=3D"left" valign=3D"top" width=3D"310"><br></td><td id=3D"empty=
+139" height=3D"25" align=3D"left" valign=3D"top" width=3D"13"><br></td><t=
+d id=3D"empty140" height=3D"25" align=3D"left" valign=3D"top" width=3D"5"=
+><br></td><td id=3D"empty141" height=3D"25" align=3D"left" valign=3D"top"=
+ width=3D"53"><br></td><td id=3D"empty142" height=3D"25" align=3D"left" v=
+align=3D"top" width=3D"20"><br></td><td id=3D"empty143" height=3D"25" ali=
+gn=3D"left" valign=3D"top" width=3D"36"><br></td><td id=3D"empty144" heig=
+ht=3D"25" align=3D"left" valign=3D"top" width=3D"5"><br></td><td id=3D"em=
+pty145" height=3D"25" align=3D"left" valign=3D"top" width=3D"2"><br></td>=
+<td id=3D"empty146" height=3D"25" align=3D"left" valign=3D"top" width=3D"=
+33"><br></td>
+
+<td id=3D"empty147" height=3D"25" align=3D"left" valign=3D"top" width=3D"=
+6"><br></td><td id=3D"empty148" height=3D"25" align=3D"left" valign=3D"to=
+p" width=3D"42"><br></td><td id=3D"empty149" height=3D"25" align=3D"left"=
+ valign=3D"top" width=3D"41"><br></td><td id=3D"empty150" height=3D"25" a=
+lign=3D"left" valign=3D"top" width=3D"2"><br></td><td id=3D"empty151" hei=
+ght=3D"25" align=3D"left" valign=3D"top" width=3D"5"><br></td><td id=3D"e=
+mpty152" height=3D"25" align=3D"left" valign=3D"top" width=3D"2"><br></td=
+></tr><tr><td rowspan=3D"1" colspan=3D"16" id=3D"view153" style=3D"border=
+-top: solid #c10000 2px; color: #000000; font-family: Arial; font-size: 1=
+2px; line-height: 18px; letter-spacing: 0px" height=3D"16" align=3D"left"=
+ valign=3D"top" width=3D"600">
+
+<div id=3D"sc17965" class=3D"sc-view hidden-border inline-styled-view edi=
+tor-outline" style=3D"left: 0px; width: 600px; top: 626px; height: 18px; =
+color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; l=
+etter-spacing: 0px; overflow: hidden"><div class=3D"co-border-style" styl=
+e=3D""><table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D=
+"color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; =
+letter-spacing: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px=
+; margin-bottom: 0px" cellspacing=3D"0" height=3D"18" border=3D"0" cellpa=
+dding=3D"0" width=3D"600"><tbody><tr><td class=3D"valign-able" valign=3D"=
+top"><span class=3D"remove-absolute"><br></span></td></tr></tbody></table=
+></div></div></td><td id=3D"empty169" height=3D"18" align=3D"left" valign=
+=3D"top" width=3D"2"><br></td></tr><tr><td id=3D"empty170" height=3D"2" a=
+lign=3D"left" valign=3D"top" width=3D"23"><br></td>
+
+<td id=3D"empty171" height=3D"2" align=3D"left" valign=3D"top" width=3D"4=
+"><br></td><td id=3D"empty172" height=3D"2" align=3D"left" valign=3D"top"=
+ width=3D"310"><br></td><td id=3D"empty173" height=3D"2" align=3D"left" v=
+align=3D"top" width=3D"13"><br></td><td id=3D"empty174" height=3D"2" alig=
+n=3D"left" valign=3D"top" width=3D"5"><br></td><td id=3D"empty175" height=
+=3D"2" align=3D"left" valign=3D"top" width=3D"53"><br></td><td id=3D"empt=
+y176" height=3D"2" align=3D"left" valign=3D"top" width=3D"20"><br></td><t=
+d id=3D"empty177" height=3D"2" align=3D"left" valign=3D"top" width=3D"36"=
+><br></td><td id=3D"empty178" height=3D"2" align=3D"left" valign=3D"top" =
+width=3D"5"><br></td><td id=3D"empty179" height=3D"2" align=3D"left" vali=
+gn=3D"top" width=3D"2"><br></td><td id=3D"empty180" height=3D"2" align=3D=
+"left" valign=3D"top" width=3D"33"><br></td><td id=3D"empty181" height=3D=
+"2" align=3D"left" valign=3D"top" width=3D"6"><br></td><td id=3D"empty182=
+" height=3D"2" align=3D"left" valign=3D"top" width=3D"42"><br></td>
+
+<td id=3D"empty183" height=3D"2" align=3D"left" valign=3D"top" width=3D"4=
+1"><br></td><td id=3D"empty184" height=3D"2" align=3D"left" valign=3D"top=
+" width=3D"2"><br></td><td id=3D"empty185" height=3D"2" align=3D"left" va=
+lign=3D"top" width=3D"5"><br></td><td id=3D"empty186" height=3D"2" align=3D=
+"left" valign=3D"top" width=3D"2"><br></td></tr><tr><td id=3D"empty187" h=
+eight=3D"1" align=3D"left" valign=3D"top" width=3D"23"><br></td><td rowsp=
+an=3D"5" colspan=3D"5" id=3D"view188" style=3D"color: #000000; font-famil=
+y: Arial; font-size: 12px; line-height: 14px; letter-spacing: 0px" height=
+=3D"77" align=3D"left" valign=3D"top" width=3D"385"><div id=3D"sc17907" c=
+lass=3D"sc-view hidden-border inline-styled-view editor-outline" style=3D=
+"left: 23px; width: 385px; top: 646px; height: 77px; color: #000000; font=
+-family: Arial; font-size: 12px; line-height: 14px; letter-spacing: 0px; =
+overflow: hidden"><div class=3D"co-border-style" style=3D"">
+
+<table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D"colo=
+r: #000000; font-family: Arial; font-size: 12px; line-height: 14px; lette=
+r-spacing: 0px; margin-top: 0px; margin-left: 0px; margin-right: 0px; mar=
+gin-bottom: 0px" cellspacing=3D"0" height=3D"77" border=3D"0" cellpadding=
+=3D"0" width=3D"385"><tbody><tr><td class=3D"valign-able" valign=3D"top">=
+<span class=3D"remove-absolute"><div style=3D"text-align:left;"><span sty=
+le=3D"font-size:10px;color:rgb(178, 178, 178);letter-spacing:0px;"><font =
+style=3D"font-family:Verdana;" face=3D"">=C2=A9 2013 Line 6, Inc=2E All r=
+ights reserved=2E Line 6, the Line 6 logo and all other Line 6 product na=
+mes are trademarks of Line 6, Inc=2E All other trademarks contained herei=
+n are the property of their respective owners=2E</font></span></div></spa=
+n></td></tr></tbody></table></div></div></td><td id=3D"empty193" height=3D=
+"1" align=3D"left" valign=3D"top" width=3D"20"><br></td>
+
+<td id=3D"empty194" height=3D"1" align=3D"left" valign=3D"top" width=3D"3=
+6"><br></td><td id=3D"empty195" height=3D"1" align=3D"left" valign=3D"top=
+" width=3D"5"><br></td><td id=3D"empty196" height=3D"1" align=3D"left" va=
+lign=3D"top" width=3D"2"><br></td><td id=3D"empty197" height=3D"1" align=3D=
+"left" valign=3D"top" width=3D"33"><br></td><td id=3D"empty198" height=3D=
+"1" align=3D"left" valign=3D"top" width=3D"6"><br></td><td rowspan=3D"2" =
+colspan=3D"1" id=3D"view199" style=3D"" height=3D"34" align=3D"left" vali=
+gn=3D"top" width=3D"42"><div id=3D"sc17967" class=3D"sc-view" style=3D"le=
+ft: 510px; width: 42px; top: 646px; height: 34px; overflow: hidden"><div =
+class=3D"co-border-style" style=3D"border-width: 2px; border-style: none"=
+><table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D"mar=
+gin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px" ce=
+llspacing=3D"0" height=3D"34" border=3D"0" cellpadding=3D"0" width=3D"42"=
+><tbody><tr><td class=3D"valign-able" valign=3D"top">
+
+<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F=
+45197=5F7" title=3D""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3F=
+s=3D1732361748&lid=3D12&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D=
+"" src=3D"http://images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/=
+{ba1ae64b-d201-4c5c-9ceb-15c896b68c7f}=5Fyoutube=2Egif" title=3D"YouTube"=
+ alt=3D"YouTube" id=3D"sc17969" class=3D"sc-view sc-image-view editor-out=
+line sc-regular-size" style=3D"display: block; cursor: pointer" height=3D=
+"34" width=3D"42"></a></td></tr></tbody></table></div></div></td><td id=3D=
+"empty200" height=3D"1" align=3D"left" valign=3D"top" width=3D"41"><br></=
+td><td id=3D"empty201" height=3D"1" align=3D"left" valign=3D"top" width=3D=
+"2"><br></td><td id=3D"empty202" height=3D"1" align=3D"left" valign=3D"to=
+p" width=3D"5"><br></td><td id=3D"empty203" height=3D"1" align=3D"left" v=
+align=3D"top" width=3D"2"><br></td></tr><tr><td id=3D"empty204" height=3D=
+"33" align=3D"left" valign=3D"top" width=3D"23"><br></td><td id=3D"empty2=
+10" height=3D"33" align=3D"left" valign=3D"top" width=3D"20"><br></td>
+
+<td rowspan=3D"2" colspan=3D"1" id=3D"view211" style=3D"" height=3D"34" a=
+lign=3D"left" valign=3D"top" width=3D"36"><div id=3D"sc17976" class=3D"sc=
+-view" style=3D"left: 428px; width: 36px; top: 647px; height: 34px; overf=
+low: hidden"><div class=3D"co-border-style" style=3D"border-width: 2px; b=
+order-style: none"><table bordercollapse=3D"collapse" class=3D"co-style-t=
+able" style=3D"margin-top: 0px; margin-left: 0px; margin-right: 0px; marg=
+in-bottom: 0px" cellspacing=3D"0" height=3D"34" border=3D"0" cellpadding=3D=
+"0" width=3D"36"><tbody><tr><td class=3D"valign-able" valign=3D"top"><a h=
+ref=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F45=
+197=5F8" title=3D""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3F=
+s=3D1732361748&lid=3D9&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D=
+"" src=3D"http://images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/=
+{31a33c26-4195-48ec-a2ee-ab9daa57c0f0}=5Ffacebook=2Egif" title=3D"Faceboo=
+k" alt=3D"Facebook" id=3D"sc17978" class=3D"sc-view sc-image-view editor-=
+outline sc-regular-size" style=3D"display: block; cursor: pointer" height=
+=3D"34" width=3D"36"></a></td></tr>
+
+</tbody></table></div></div></td><td rowspan=3D"2" colspan=3D"3" id=3D"vi=
+ew212" style=3D"" height=3D"34" align=3D"left" valign=3D"top" width=3D"40=
+"><div id=3D"sc17985" class=3D"sc-view" style=3D"left: 464px; width: 40px=
+; top: 647px; height: 34px; overflow: hidden"><div class=3D"co-border-sty=
+le" style=3D"border-width: 2px; border-style: none"><table bordercollapse=
+=3D"collapse" class=3D"co-style-table" style=3D"margin-top: 0px; margin-l=
+eft: 0px; margin-right: 0px; margin-bottom: 0px" cellspacing=3D"0" height=
+=3D"34" border=3D"0" cellpadding=3D"0" width=3D"40"><tbody><tr><td class=3D=
+"valign-able" valign=3D"top">
+
+<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F=
+45197=5F9" title=3D""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3F=
+s=3D1732361748&lid=3D10&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D=
+"" src=3D"http://images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/=
+{ef85e512-e0f5-4173-9d8e-b66740d486fe}=5Ftwitter=2Egif" title=3D"Twitter"=
+ alt=3D"Twitter" id=3D"sc17987" class=3D"sc-view sc-image-view editor-out=
+line sc-regular-size" style=3D"display: block; cursor: pointer" height=3D=
+"34" width=3D"40"></a></td></tr></tbody></table></div></div></td><td id=3D=
+"empty215" height=3D"33" align=3D"left" valign=3D"top" width=3D"6"><br></=
+td><td rowspan=3D"2" colspan=3D"1" id=3D"view217" style=3D"" height=3D"34=
+" align=3D"left" valign=3D"top" width=3D"41"><div id=3D"sc17994" class=3D=
+"sc-view" style=3D"left: 552px; width: 41px; top: 647px; height: 34px; ov=
+erflow: hidden"><div class=3D"co-border-style" style=3D"border-width: 2px=
+; border-style: none">
+
+<table bordercollapse=3D"collapse" class=3D"co-style-table" style=3D"marg=
+in-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px" cel=
+lspacing=3D"0" height=3D"34" border=3D"0" cellpadding=3D"0" width=3D"41">=
+<tbody><tr><td class=3D"valign-able" valign=3D"top"><a href=3D"http://www=
+=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F45197=5F10" title=3D=
+""><img elqhref=3D"http://app=2Ego=2Eline6=2Ecom/e/er=3Fs=3D1732361748&li=
+d=3D13&elq=3Debeaedc2b3074bfea51ea701f6d435e6" elqtitle=3D"" src=3D"http:=
+//images=2Ego=2Eline6=2Ecom/EloquaImages/clients/Line6Inc/{7f2f2b1e-5e56-=
+4168-af30-8d683a1f013e}=5Flinkedin=2Egif" title=3D"LinkedIn" alt=3D"Linke=
+dIn" id=3D"sc17996" class=3D"sc-view sc-image-view editor-outline sc-regu=
+lar-size" style=3D"display: block; cursor: pointer" height=3D"34" width=3D=
+"41"></a></td></tr></tbody></table></div></div></td><td id=3D"empty218" h=
+eight=3D"33" align=3D"left" valign=3D"top" width=3D"2"><br></td><td id=3D=
+"empty219" height=3D"33" align=3D"left" valign=3D"top" width=3D"5"><br></=
+td><td id=3D"empty220" height=3D"33" align=3D"left" valign=3D"top" width=3D=
+"2"><br></td></tr><tr>
+
+<td id=3D"empty221" height=3D"1" align=3D"left" valign=3D"top" width=3D"2=
+3"><br></td><td id=3D"empty227" height=3D"1" align=3D"left" valign=3D"top=
+" width=3D"20"><br></td><td id=3D"empty232" height=3D"1" align=3D"left" v=
+align=3D"top" width=3D"6"><br></td><td id=3D"empty233" height=3D"1" align=
+=3D"left" valign=3D"top" width=3D"42"><br></td><td id=3D"empty235" height=
+=3D"1" align=3D"left" valign=3D"top" width=3D"2"><br></td><td id=3D"empty=
+236" height=3D"1" align=3D"left" valign=3D"top" width=3D"5"><br></td><td =
+id=3D"empty237" height=3D"1" align=3D"left" valign=3D"top" width=3D"2"><b=
+r></td></tr><tr><td id=3D"empty238" height=3D"39" align=3D"left" valign=3D=
+"top" width=3D"23"><br></td><td id=3D"empty244" height=3D"39" align=3D"le=
+ft" valign=3D"top" width=3D"20"><br></td><td id=3D"empty245" height=3D"39=
+" align=3D"left" valign=3D"top" width=3D"36"><br></td><td id=3D"empty246"=
+ height=3D"39" align=3D"left" valign=3D"top" width=3D"5"><br></td><td id=3D=
+"empty247" height=3D"39" align=3D"left" valign=3D"top" width=3D"2"><br></=
+td>
+
+<td id=3D"empty248" height=3D"39" align=3D"left" valign=3D"top" width=3D"=
+33"><br></td><td id=3D"empty249" height=3D"39" align=3D"left" valign=3D"t=
+op" width=3D"6"><br></td><td id=3D"empty250" height=3D"39" align=3D"left"=
+ valign=3D"top" width=3D"42"><br></td><td id=3D"empty251" height=3D"39" a=
+lign=3D"left" valign=3D"top" width=3D"41"><br></td><td id=3D"empty252" he=
+ight=3D"39" align=3D"left" valign=3D"top" width=3D"2"><br></td><td id=3D"=
+empty253" height=3D"39" align=3D"left" valign=3D"top" width=3D"5"><br></t=
+d><td id=3D"empty254" height=3D"39" align=3D"left" valign=3D"top" width=3D=
+"2"><br></td></tr><tr><td id=3D"empty255" height=3D"3" align=3D"left" val=
+ign=3D"top" width=3D"23"><br></td><td id=3D"empty261" height=3D"3" align=3D=
+"left" valign=3D"top" width=3D"20"><br></td><td id=3D"empty262" height=3D=
+"3" align=3D"left" valign=3D"top" width=3D"36"><br></td><td id=3D"empty26=
+3" height=3D"3" align=3D"left" valign=3D"top" width=3D"5"><br></td><td id=
+=3D"empty264" height=3D"3" align=3D"left" valign=3D"top" width=3D"2"><br>=
+</td>
+
+<td id=3D"empty265" height=3D"3" align=3D"left" valign=3D"top" width=3D"3=
+3"><br></td><td id=3D"empty266" height=3D"3" align=3D"left" valign=3D"top=
+" width=3D"6"><br></td><td id=3D"empty267" height=3D"3" align=3D"left" va=
+lign=3D"top" width=3D"42"><br></td><td id=3D"empty268" height=3D"3" align=
+=3D"left" valign=3D"top" width=3D"41"><br></td><td id=3D"empty269" height=
+=3D"3" align=3D"left" valign=3D"top" width=3D"2"><br></td><td id=3D"empty=
+270" height=3D"3" align=3D"left" valign=3D"top" width=3D"5"><br></td><td =
+id=3D"empty271" height=3D"3" align=3D"left" valign=3D"top" width=3D"2"><b=
+r></td></tr></tbody></table></td></tr><tr><td height=3D"0" align=3D"cente=
+r"><br></td></tr></tbody></table>=20
+
+<table align=3D"center" width=3D"600px">
+ <tbody>
+ <tr>
+ <td align=3D"center"><font style=3D"font-family: Arial; font-size: 12px;=
+" face=3D"">If you have trouble reading this email <a title=3D"View Onlin=
+e as HTML" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F94=
+8284482=5F45197=5F11">click here to view it online=2E <br></a>
+ <br>
+ Line 6, Inc=2E 26580 Agoura Road, Calabasas, CA 91302-1921</font></td>
+ </tr>
+ </tbody>
+</table><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F45197=5F12=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F948284482=5F45197=5F13">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D948284482&msgid=3D45197"></body></html>
+

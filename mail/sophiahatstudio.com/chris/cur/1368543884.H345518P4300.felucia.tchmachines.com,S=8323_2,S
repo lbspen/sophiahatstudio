@@ -1,0 +1,181 @@
+Return-path: <3ee.1c.945801175.45129.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 14 May 2013 11:04:44 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:30741)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.945801175.45129.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UcGmO-0000zo-Oy
+	for chris@sophiahatstudio.com; Tue, 14 May 2013 11:04:44 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=lMMc3oe7LDIe+Qfb1NN2sdekHyXg+3m/z7vrcab/vmmVg6SJsUabWBec9zODSOhD69tbCRvbjVUxdCFOcNKeO0nEAa1iDAfB+xxiX+gOhfkwq+hiH2ZTg66BOXnw3nnN0MOXfLGOdkqb86mWjPY335/iPqLoIkBiCd/ZsuNZ8oI=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1368543888;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=d47i3dIzK6vFvcAKUQt2WT3H1Lw=;
+	b=IXy9FTgBjxWjsjwnXFqPomFs93284AZRVr4ikxfIkxRu8CuFRcHSlYrOps9sZsasQX1djWk6ymntyuix900x2eseiifv3EbH6dIIXY+MId0da/6O1ufivqxgnxd4QyJGeQ+TZQRvReCefN4UBxhPYqcSHbRuHubz6q64hiVYf3s=
+X-FBL: M2VlLjFlLjEwYTAwMDAwMGFjYTBjOC45NDU4MDExNzUuNDUxMjkuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <23df352f-a7e3-437a-8a85-7b360516dd60@newbay.cfmvmail.com>
+From: "The RapcoHorizon Company" <partners@newbay-media.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?Q29taW5nIHRvIEluZm9Db21tICcxMyBpbiBPcmxhbmRvIC0g?=
+	=?utf-8?B?RGVzaWduVmlzaW9uMg==?=
+Date: Tue, 14 May 2013 11:04:44 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.7
+X-Spam-Score: 17
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  CUSTOM_RAPCO_HORIZON_040413 Manage Your Email Preferences/Unsubscribe
+    Change Your Email Address To report abuse, click here. [...] 
+ 
+ Content analysis details:   (1.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  1.1 TRACKER_ID             BODY: Incorporates a tracking ID number
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.7 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<html>
+<head>
+<title>CUSTOM=5FRAPCO=5FHORIZON=5F040413</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-885=
+9-1">
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}
+-->
+</style></head>
+<body bgcolor=3D"#FFFFFF">
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}
+-->
+</style>
+<table width=3D"728" height=3D"1466" border=3D"0" align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0" id=3D"Table=5F01">
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+945801175=5F45129=5F1" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FRAPCO=5FHORIZON=5F040413/i=
+mages/CUSTOM=5FRAPCO=5FHORIZON=5F040413=5F01=2Ejpg" alt=3D"" width=3D"728=
+" height=3D"175" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+945801175=5F45129=5F2" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FRAPCO=5FHORIZON=5F040413/i=
+mages/CUSTOM=5FRAPCO=5FHORIZON=5F040413=5F02=2Ejpg" alt=3D"" width=3D"728=
+" height=3D"205" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+945801175=5F45129=5F3" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FRAPCO=5FHORIZON=5F040413/i=
+mages/CUSTOM=5FRAPCO=5FHORIZON=5F040413=5F03=2Ejpg" alt=3D"" width=3D"728=
+" height=3D"134" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+945801175=5F45129=5F4" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FRAPCO=5FHORIZON=5F040413/i=
+mages/CUSTOM=5FRAPCO=5FHORIZON=5F040413=5F04=2Ejpg" alt=3D"" width=3D"728=
+" height=3D"289" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+945801175=5F45129=5F5" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FRAPCO=5FHORIZON=5F040413/i=
+mages/CUSTOM=5FRAPCO=5FHORIZON=5F040413=5F05=2Ejpg" alt=3D"" width=3D"728=
+" height=3D"261" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+945801175=5F45129=5F6" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FRAPCO=5FHORIZON=5F040413/i=
+mages/CUSTOM=5FRAPCO=5FHORIZON=5F040413=5F06=2Ejpg" alt=3D"" width=3D"728=
+" height=3D"265" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+945801175=5F45129=5F7" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FRAPCO=5FHORIZON=5F040413/i=
+mages/CUSTOM=5FRAPCO=5FHORIZON=5F040413=5F07=2Ejpg" alt=3D"" width=3D"728=
+" height=3D"137" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+</table>
+<br clear=3D"all">
+<br clear=3D"all">
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F945801175=5F45129=5F8=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F945801175=5F45129=5F9">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D945801175&msgid=3D45129"></body>
+</html>
+

@@ -1,0 +1,336 @@
+Return-path: <3ee.1c.909148388.43412.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 09 Apr 2013 14:38:32 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:42300)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.909148388.43412.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UPdR6-0003Ww-77
+	for chris@sophiahatstudio.com; Tue, 09 Apr 2013 14:38:32 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=L8mtyORSac/vXFcxb5mVaUWAsc6xbXXB4rvUiiQ/KezP6uFPJTAfBw0c0E5F2mtp7DSuHWAPahzp8xf8yHXMkP1Z/VeAjpKHoQI12FcUWG+W9kSbMzKyro4oovidUj/7kyD0tRNU2Q3u7ZRG+5XLgHsrLQCYRCj0Fs8pQhpnSp0=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1365532716;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=nZNNwsGbEQZmxtXmxSK5Np/8hNs=;
+	b=kpRMWBu4mV4ZFU4ubJWCjcr3kYP/Xt519MPR54sifH01grCCgdp6VHz+vHmwhbpeLlUNW2rMDYfaqYCg1KbThWMh6VZZUszovKkrdwafZXXF0UMJXSCUvxLTT8ii49CNe45pPkRJOjsSGPSJ+ySjvqr9PnKQm6GMAkbLI8HhA9Y=
+X-FBL: M2VlLjFlLjEwMzAwMDAwMDEzYTNmNS45MDkxNDgzODguNDM0MTIuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <f8cb6cea-36cb-495e-997d-ade27d444bc1@newbay.cfmvmail.com>
+From: "NAB Show Daily News" <newsletters@newbay-media.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?TkFCIFNob3cgRGFpbHkgTmV3cyAtIERheSAyIC0gQXByaWwg?=
+	=?utf-8?B?MDksIDIwMTM=?=
+Date: Tue, 9 Apr 2013 14:36:03 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  NAB SHOW DAILY NEWS Tuesday, April 09, 2013 Live from Las
+   Vegas, it’s the NAB Show Daily News. The official daily newspaper of the
+    NAB Show keeps you up to date with the innovations and events happening throughout
+    the show. For additional coverage from NAB Show Daily News, visit www.c2meworld.com.
+    You can also read the digital edition of today’s issue online here or on
+    your iPad by downloading the free iPad app on the Apple App Store. [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -2.4 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.4 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head>
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+ <title>NAB SHOW DAILY NEWS</title>
+ <style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none; font-weight: bold;
+}
+a:hover {text-decoration: underline; font-weight: bold;
+}
+a:visited {
+=09text-decoration: none; font-weight: bold;
+}
+a:active {
+=09text-decoration: none; font-weight: bold;
+=09outline: none;
+}
+-->
+ </style>
+ </head><body alink=3D"#0466B5" vlink=3D"#0466B5" link=3D"#0466B5" margin=
+height=3D"0" marginwidth=3D"0">
+ <style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none; font-weight: bold;
+}
+a:hover {text-decoration: underline; font-weight: bold;
+}
+a:visited {
+=09text-decoration: none; font-weight: bold;
+}
+a:active {
+=09text-decoration: none; font-weight: bold;
+=09outline: none;
+}
+-->
+ </style>
+ <strong></strong>
+ <table cellsborder:=3D"" 1px=3D"" solid=3D"" rgb(153,=3D"" 0,=3D"" 0)pac=
+ing=3D"0" align=3D"center" border=3D"0" cellpadding=3D"0" width=3D"808">
+ <tbody>
+ <tr>
+ <td style=3D"border-bottom: 1px solid silver;" align=3D"left" width=3D"8=
+11" valign=3D"top">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"5" width=3D"100%">
+ <tbody>
+ <tr>
+ <td align=3D"center" valign=3D"middle">
+ <!--LEADERBOARD 1 POSITION -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F1" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-me=
+dia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D10649" border=3D"0" width=3D=
+"728" height=3D"90"></a>                                <!--END LEADERBOA=
+RD 1 -->
+ </td>
+ </tr>
+ <tr>
+ <td><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5FCustom/=
+NAB2013=5FHEADLINENEWS=5F2013/NABDailyNews=5FHEADLINENEWS=5F2013=5F728=2E=
+jpg" alt=3D"" width=3D"798" height=3D"129"></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"left" valign=3D"top">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+ <tbody>
+ <tr>
+ <td style=3D"border-right: 1px solid rgb(204, 204, 204); line-height: no=
+rmal;" align=3D"left" bgcolor=3D"#ffffff" valign=3D"top"><table width=3D"=
+100%" cellspacing=3D"5" cellpadding=3D"0" border=3D"0">
+ <tbody>
+ <tr>
+ <td valign=3D"top" align=3D"left" style=3D"font-family: helvetica,sans-s=
+erif; font-size: 24px; padding-top: 5px;"><strong>Tuesday, April 09, 2013=
+</strong></td>
+ </tr>
+ <tr>
+ <td valign=3D"top" align=3D"left" style=3D"font-family: verdana,arial,he=
+lvetica,sans-serif; font-size: 12px; text-decoration: none;"><hr size=3D"=
+1" noshade=3D"noshade">
+ Live from Las Vegas, it=E2=80=99s the NAB Show Daily News=2E The officia=
+l daily newspaper of the NAB Show keeps you up to date with the innovatio=
+ns and events happening throughout the show=2E For additional coverage fr=
+om NAB Show Daily News, visit <a href=3D"http://www=2Ecfmediaview=2Ecom/l=
+p1=2Easpx=3Fv=3D6=5F909148388=5F43412=5F2" target=3D"=5Fblank">www=2Ec2me=
+world=2Ecom</a>=2E You can also read the digital edition of today=E2=80=99=
+s issue online <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D=
+6=5F909148388=5F43412=5F3" target=3D"=5Fblank">here</a> or on your iPad b=
+y downloading the free iPad app on the Apple App Store=2E
+ <hr size=3D"1" noshade=3D"noshade"></td>
+ </tr>
+ <tr>
+ <td valign=3D"top" align=3D"left" style=3D"font-family: verdana,arial,he=
+lvetica,sans-serif; font-size: 12px; text-decoration: none;"><a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F43412=5F4"=
+ target=3D"=5Fblank">Carey=E2=80=99s Fighting Words Dominate Opening</a><=
+br>
+ Chase Carey, president and COO of News Corp=2E, shook up the NAB Show=E2=
+=80=99s opening session with talk of FOX breaking from the free broadcast=
+ model and switching to a subscription-only service during a Q&A with Gor=
+don Smith, president and CEO of the National Association of Broadcasters=2E=
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F5" target=3D"=5Fblank">Read More&raquo;</a><br>
+ <br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F6" target=3D"=5Fblank">Displays to Be Brighter, Bigger</a><br>=
+
+ No longer content to live by the rules of a 16:9 world, makers of future=
+ display technologies are expected to go curvier, brighter, clearer and t=
+aller =E2=80=94 and many iterations in between=2E <a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F43412=5F7" target=3D"=5F=
+blank">Read More&raquo;</a><br>
+ <br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F8" target=3D"=5Fblank">=E2=80=98SNL=E2=80=99 Jumps Hurdles to =
+Meet Tight Weekly Deadlines</a><br>
+ Short films have long been a staple on =E2=80=9CSaturday Night Live,=E2=80=
+=9D whether they are parodying promos, commercials or other subjects=2E K=
+ey production crew members from the Saturday Night Live Film Unit told st=
+ories about their nightmarish time schedule to go live=2E <a href=3D"http=
+://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F43412=5F9">Re=
+ad More&raquo;</a><br>
+ <br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F10" target=3D"=5Fblank">Analog Sunset Is Broached in AM Panel<=
+/a><br>
+ Has the time come for the FCC to declare an =E2=80=9Canalog sunset=E2=80=
+=9D for AM radio stations=3F That was but one of the ideas discussed publ=
+icly in a crowded conference room discussion about the future of AM on Mo=
+nday=2E <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F90=
+9148388=5F43412=5F11" target=3D"=5Fblank">Read More&raquo;</a><br>
+ <br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F12" target=3D"=5Fblank">Creative Masters: Vision, Visual Effec=
+ts, Vibes</a><br>
+ The Creative Master Series continues with conversation and education, as=
+sembling creative talents from motion pictures, television, advertising, =
+and online content=2E <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easp=
+x=3Fv=3D6=5F909148388=5F43412=5F13" target=3D"=5Fblank">Read More&raquo;<=
+/a><br>
+ <br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F14" target=3D"=5Fblank">Radio Luncheon Celebrates Advice and S=
+ervice</a><br>
+ National radio personality and money management expert Dave Ramsey will =
+be inducted into the NAB Broadcasting Hall of Fame during today=E2=80=99s=
+ Radio Luncheon, which is keynoted by six-time Emmy award-winner John Tes=
+h=2E <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F90914=
+8388=5F43412=5F15" target=3D"=5Fblank">Read More&raquo;</a><br>
+ <br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F16" target=3D"=5Fblank">Summit Addresses Trends in Media Creat=
+ion</a><br>
+ Whether for training, information or surveillance purposes, video has be=
+come an integral part of military and governmental operations=2E The Mili=
+tary/Government Summit begins today=2E <a href=3D"http://www=2Ecfmediavie=
+w=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F43412=5F17" target=3D"=5Fblank">=
+Read More&raquo;</a><br>
+ <br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F18" target=3D"=5Fblank">Sports Execs Eye New Facilities, Workf=
+lows</a><br>
+ From big to small, here=E2=80=99s a rundown of what the executives from =
+some of the biggest networks and production facilities across the nation =
+will be looking at when they step onto the NAB Show convention floor <a h=
+ref=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F43=
+412=5F19" target=3D"=5Fblank">Read More&raquo;</a></td>
+ </tr>
+ </tbody>
+ </table>
+ <br clear=3D"all>
+ </td>
+ <td style=3D" font-family:=3D"" verdana;=3D"" font-size:=3D"" 12px;"=3D"=
+" align=3D"left" bgcolor=3D"#ffffff" width=3D"5" valign=3D"top"><img src=3D=
+"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F=
+10px=2Egif" width=3D"5" height=3D"5"></td>
+ <td style=3D"padding-top: 5px;" align=3D"left" bgcolor=3D"#ffffff" width=
+=3D"10" valign=3D"top"><img src=3D"http://newsletters=2Enewbay-media=2Eco=
+m/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" width=3D"10" height=3D"10=
+"></td>
+ <td style=3D"padding-top: 5px;" align=3D"left" bgcolor=3D"#ffffff" width=
+=3D"302" valign=3D"top">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300">
+ <tbody>
+ <tr>
+ <td width=3D"359"><!--BOX 01 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=
+=5F43412=5F20" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D10647" border=3D"0" width=3D=
+"300" height=3D"250"></a>
+ <!--BOX 01 End --></td>
+ </tr>
+ <tr>
+ <td>
+ <br clear=3D"all">
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"#ffffff" width=3D"5" valign=3D"top"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" width=
+=3D"10" height=3D"10"></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+=20
+ <tr>
+ <td style=3D"padding: 10px; font-family: verdana; font-size: 9px; color:=
+ rgb(51, 51, 51);" align=3D"center" valign=3D"middle">&copy;2013 NewBay M=
+edia, LLC</td>
+ </tr>
+ </tbody>
+ </table>
+<!--SONY TRACKING - 01 -->=20
+<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F=
+43412=5F21">
+
+<img src=3D"http://ad=2Edoubleclick=2Enet/ad/N5811=2E149317=2ENABSHOW/B75=
+00938=2E5;sz=3D1x1;ord=3D909148388=3F" border=3D"0" width=3D"1" height=3D=
+"1" alt=3D"Advertisement"></a>
+<!--SONY TRACKING - 01 END-->  =20
+=20
+<!--SONY TRACKING - 02 -->=20
+<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F=
+43412=5F22">
+
+<img src=3D"http://ad=2Edoubleclick=2Enet/ad/N5811=2E149317=2ENABSHOW/B75=
+00938=2E4;sz=3D1x1;ord=3D909148388=3F" border=3D"0" width=3D"1" height=3D=
+"1" alt=3D"Advertisement"></a>
+<!--SONY TRACKING - 02 END-->    =20
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F43412=5F23=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F909148388=5F43412=5F24">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D909148388&msgid=3D43412"></body></html>
+

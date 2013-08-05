@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mp3gallery>
+
+	<albums selectAtStartItemNo = "">
+		<album id="1">
+			<image><![CDATA[content/images/DougMillerCDcover.jpg]]></image>
+			
+			<author><![CDATA[Doug Miller]]></author>
+			<name alsoInList = "true"><![CDATA[<font color="#8E0020">Regeneration</font>]]></name>
+			<caption><![CDATA[Seattle bassist Doug Miller puts together a wide-ranging program of originals highlighting the talents of his trio with saxophonist/trumpeter Jay Thomas and guitarist/pianist Dave Peterson.    <font color="#8E0020"><a href="http://www.origin-records.com/recordings/recording.php?TitleID=82505">read more</a></font></table>]]></caption>
+			
+			<link>http://www.origin-records.com/recordings/recording.php?TitleID=82505</link> <!-- to go to a specific page on clicking the image inside the mp3 player -->
+			<price>9.99</price> <!-- if leave it empty or 0 the price won't appear, in this case you could use the button as a download button -->
+			<buy target = "">http://www.origin-records.com/recordings/recording.php?TitleID=82505</buy><!-- if empty, the download button on the album image won't appear -->
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Lighten Up]]></title>
+					<artist><![CDATA[feat. Eo]]></artist> <!-- if you want this item to have a different artist(for example featuring artist write the text in this tag -->
+					<price>0</price>
+					<buy url = "http://www.origin-records.com/recordings/recording.php?TitleID=82505" target = "_blank"></buy> <!-- if you want this item to have a different text write the text in this tag -->
+					<duration>02:48</duration>
+					<song>content/songs/LightenUp_DougMiller.mp3</song>
+				</item>
+				<item id="2">
+					<title><![CDATA[Avenue C]]></title>
+					<artist><![CDATA[]]></artist>
+					<price>0</price>
+					<buy url = "http://www.origin-records.com/recordings/recording.php?TitleID=82505" target = ""></buy>
+					<duration>02:09</duration>
+					<song>content/songs/AvenueC_excerpt_DougMiller.mp3</song>
+				</item>
+				<item id="3">
+					<title><![CDATA[Invitation]]></title>
+					<artist><![CDATA[]]></artist>
+					<price>0</price>
+					<duration>06:58</duration>
+					<buy url = "http://www.origin-records.com/recordings/recording.php?TitleID=82505"></buy>
+					<song>content/songs/Invitation_DougMiller.mp3</song>
+				</item>
+				<item id="4">
+					<title><![CDATA[Bye Bye Blackbird]]></title>
+					<artist><![CDATA[]]></artist>
+					<price>0</price>
+					<duration>04:12</duration>
+					<buy url = "http://www.origin-records.com/recordings/recording.php?TitleID=82505"></buy>
+					<song>content/songs/ByeByeBlackbird_DougMiller.mp3</song>
+				</item>
+					
+			</tracks>
+		</album>
+		<album id="2">
+			<image><![CDATA[content/images/KathyMooreCDcover.jpg]]></image>
+			
+			<author><![CDATA[The Katherine Moore Situation]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">Walk On Water</font>]]></name>
+			<caption><![CDATA[Katherine Moore - Lead Guitar, Vocals, piano on "West of Dogville", "Red Head", and "Burn"; Ryan Burns - Fender Rhodes, Moog synthesizer and Hammond organ; Geoffie Harper - Upright Bass; Reade Whitwell - Drums   <font color="#9AC836"><a href="http://www.myspace.com/thekatherinemooresituation">read more</a></font>]]></caption>
+			
+			<link>http://www.myspace.com/thekatherinemooresituation</link>
+			<price>0</price>
+			<buy>http://www.myspace.com/thekatherinemooresituation</buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[The Girl Replies]]></title>
+					<artist><![CDATA[Artist name 1]]></artist>
+					<price>0</price>
+					<buy url = "http://www.myspace.com/thekatherinemooresituation"></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>03:08</duration>
+					<song>content/songs/TheGirlReplies_KathyMoore.mp3</song>
+				</item>
+				<item id="2">
+					<title><![CDATA[The Thrill]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.myspace.com/thekatherinemooresituation"></buy>
+					<duration>03:05</duration>
+					<song>content/songs/TheThrill_KathyMoore.mp3</song>
+				</item>
+						
+			</tracks>
+		</album>
+		
+		<album id="3">
+			<image><![CDATA[content/images/ThorntonCreekCover.jpg]]></image>
+			
+			<author><![CDATA[Thornton Creek]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">Different Door</font>]]></name>
+			<caption><![CDATA[If you've ever hung out at honky tonks in a small western town watching locals two step and swing to music accented by clinking glasses, then you have experienced Thornton Creek.  <font color="#9AC836"><a href="http://www.thorntoncreek.com/">read more</a></font>]]></caption>
+			
+			<link>http://www.thorntoncreek.com/</link>
+			<price>0</price>
+			<buy>http://www.thorntoncreek.com/</buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Can't Leave Blues]]></title>
+					<artist><![CDATA[Artist name 1]]></artist>
+					<price>0</price>
+					<buy url = "http://www.thorntoncreek.com/"></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>04:43</duration>
+					<song>content/songs/cantleaveblues.mp3</song>
+				</item>
+				<item id="2">
+					<title><![CDATA[Docia]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.thorntoncreek.com/"></buy>
+					<duration>04:04</duration>
+					<song>content/songs/Docia.mp3</song>
+				</item>
+				<item id="3">
+					<title><![CDATA[Chocolate]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.thorntoncreek.com/"></buy>
+					<duration>03:25</duration>
+					<song>content/songs/chocolate.mp3</song>
+				</item>
+				<item id="4">
+					<title><![CDATA[Emi]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.thorntoncreek.com/"></buy>
+					<duration>03:41</duration>
+					<song>content/songs/Emi.mp3</song>
+				</item>
+				<item id="5">
+					<title><![CDATA[Something Without Nothing]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.thorntoncreek.com/"></buy>
+					<duration>03:45</duration>
+					<song>content/songs/Something Without Nothing.mp3</song>
+				</item>
+						
+			</tracks>
+		</album>
+		<album id="4">
+			<image><![CDATA[content/images/captive.jpg]]></image>
+			
+			<author><![CDATA[Ryan Graves]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">Captive</font>]]></name>
+			<caption><![CDATA[Captive is a new album of very deep and personal songs reflecting a difficult period of life, a journey through crisis, and odyssey of emotion and a test of character and dependence on Christ.    <font color="#9AC836"><a href="http://www.seattlechristiansinger.com/thenewcd.htm">read more</a></font>]]></caption>
+			
+			<link>http://www.seattlechristiansinger.com/thenewcd.htm</link>
+			<price>7.50</price>
+			<buy>http://www.seattlechristiansinger.com/thenewcd.htm</buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Venom]]></title>
+					<artist><![CDATA[Artist name 1]]></artist>
+					<price>0</price>
+					<buy url = "http://www.seattlechristiansinger.com/thenewcd.htm"></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>03:01</duration>
+					<song>content/songs/Venom.mp3</song>
+				</item>
+				<item id="2">
+					<title><![CDATA[Bound]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.seattlechristiansinger.com/thenewcd.htm"></buy>
+					<duration>05:13</duration>
+					<song>content/songs/Bound.mp3</song>
+				</item>
+					<item id="3">
+					<title><![CDATA[Phoenix]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.seattlechristiansinger.com/thenewcd.htm"></buy>
+					<duration>04:59</duration>
+					<song>content/songs/Phoenix.mp3</song>
+				</item>
+					<item id="4">
+					<title><![CDATA[Lush]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.seattlechristiansinger.com/thenewcd.htm"></buy>
+					<duration>02:44</duration>
+					<song>content/songs/Lush.mp3</song>
+				</item>
+			</tracks>
+		</album>
+		<album id="5">
+			<image><![CDATA[content/images/CDcover_Sophiahat.jpg]]></image>
+			
+			<author><![CDATA[SophiaHat Studios ]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">Fandrich Piano Samples</font>]]></name>
+			<caption><![CDATA[Here are some samples of recent projects featuring our new Fandrich piano.   <font color="#9AC836"><a href="http://www.myspace.com/thekatherinemooresituation">read more</a></font>]]></caption>
+			
+			<link></link>
+			<price>0</price>
+			<buy></buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Weaver of Dreams]]></title>
+					<artist><![CDATA[Kelly Ash, Eric Verlinde, Dean Schmidt, Jose Martinez]]></artist>
+					<price>0</price>
+					<buy url = ""></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>00:52</duration>
+					<song>content/songs/WeaverOfDreams.mp3</song>
+				</item>
+				<item id="2">
+					<title><![CDATA[Caravan]]></title>
+					<artist><![CDATA[Chris McCarthy, Schuyler Karr, Thomas Campbell]]></artist>
+					<price>0</price>
+					<buy url = "">demo</buy>
+					<duration>00:28</duration>
+					<song>content/songs/Caravan.mp3</song>
+				</item>
+					<item id="3">
+					<title><![CDATA[Is You Is]]></title>
+					<artist><![CDATA[Kelly Ash, Eric Verlinde, Dean Schmidt, Jose Martinez]]></artist>
+					<price>0</price>
+					<buy url = "">demo</buy>
+					<duration>00:36</duration>
+					<song>content/songs/IsYouIs.mp3</song>
+				</item>
+					<item id="4">
+					<title><![CDATA[Cherokee]]></title>
+					<artist><![CDATA[Chris McCarthy, Schuyler Karr, Thomas Campbell]]></artist>
+					<price>0</price>
+					<buy url = "">demo</buy>
+					<duration>00:59</duration>
+					<song>content/songs/Cherokee.mp3</song>
+				</item>
+					<item id="5">
+					<title><![CDATA[Baby, Get Lost]]></title>
+					<artist><![CDATA[Margaret Davis, Chris McCarthy, Schuyler Karr, Thomas Campbell]]></artist>
+					<price>0</price>
+					<buy url = "">demo</buy>
+					<duration>00:39</duration>
+					<song>content/songs/BabyGetLost.mp3</song>
+				</item>
+					<item id="6">
+					<title><![CDATA[All Blues]]></title>
+					<artist><![CDATA[Chris McCarthy, Schuyler Karr, Thomas Campbell]]></artist>
+					<price>0</price>
+					<buy url = "">demo</buy>
+					<duration>00:44</duration>
+					<song>content/songs/All Blues.mp3</song>
+				</item>	
+			</tracks>
+		</album>
+		
+		<album id="6">
+			<image><![CDATA[content/images/BigNeighborhoodCDcover.jpg]]></image>
+			
+			<author><![CDATA[Big Neighborhood]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">11:11</font>]]></name>
+			<caption><![CDATA[Although thoroughly steeped in the jazz tradition, Big Neighborhood's compositions and improvising gives them a voice of their own that rewards casual and careful listeners alike. ]]></caption>
+			
+			<link>http://origin-records.com/recordings/recording.php?TitleID=82467</link>
+			<price>13.99</price>
+			<buy></buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Anthem For Jolyon Wagg]]></title>
+					<artist><![CDATA[Artist name 1]]></artist>
+					<price>0</price>
+					<buy url = "http://origin-records.com/recordings/recording.php?TitleID=82467"></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>09:33</duration>
+					<song>content/songs/AnthemForJolyonWagg_BigNeighborhood.mp3</song>
+				</item>
+											
+			</tracks>
+		</album>
+		
+		<album id="7">
+			<image><![CDATA[content/images/Motel5CDcover.jpg]]></image>
+			
+			<author><![CDATA[Motel 5]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">As For You</font>]]></name>
+			<caption><![CDATA[Motel 5 - featuring David Knirk, Chris Credit, Chris Spencer, Matt Hopper and Greg Rudolf  <font color="#9AC836"><a href="http://www.myspace.com/motel5/music">read more</a></font>]]></caption>
+			
+			<link>http://www.myspace.com/motel5/music</link>
+			<price>9.99</price>
+			<buy>http://www.cdbaby.com/cd/motel5music</buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Walking on Clouds]]></title>
+					<artist><![CDATA[Artist name 1]]></artist>
+					<price>.99</price>
+					<buy url = "http://www.cdbaby.com/cd/motel5music"></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>06:09</duration>
+					<song>content/songs/WalkingOnClouds_Motel5.mp3</song>
+				</item>
+											
+			</tracks>
+		</album>
+		
+		<album id="8">
+			<image>content/images/SteveTreselerCDcover.jpg</image>
+			
+			<author><![CDATA[Steve Treseler]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">Resonance</font>]]></name>
+			<caption><![CDATA[The Jazz Review calls saxophonist and composer Steve Treseler "a bona fide big player in the arena of straight-ahead jazz who provides just enough of other ingredients to keep it all fascinating and fresh."  <font color="#9AC836"><a href="http://sites.google.com/site/stevetres/audio">read more</a></font>]]></caption>
+			
+			<link>http://sites.google.com/site/stevetres/audio</link>
+			<price>15.00</price>
+			<buy>http://www.cdbaby.com/cd/stevetreseler</buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Vina's Lullaby]]></title>
+					<artist><![CDATA[Artist name 1]]></artist>
+					<price>0</price>
+					<buy url = "http://www.cdbaby.com/cd/stevetreseler"></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>07:05</duration>
+					<song>content/songs/Vina'sLullaby_SteveTreseler.mp3</song>
+				</item>
+				<item id="2">
+					<title><![CDATA[Two not One]]></title>
+					<artist><![CDATA[Artist name 2]]></artist>
+					<price>0</price>
+					<buy url = "http://www.cdbaby.com/cd/stevetreseler"></buy>
+					<duration>05:06</duration>
+					<song>content/songs/TwoNotOne_SteveTreseler.mp3</song>
+				</item>
+				<item id="3">
+					<title><![CDATA[Redemption]]></title>
+					<artist><![CDATA[Artist name 3]]></artist>
+					<price>0</price>
+					<duration>04:27</duration>
+					<buy url = "http://www.cdbaby.com/cd/stevetreseler"></buy>
+					<song>content/songs/Redemption_SteveTreseler.mp3</song>
+				</item>
+				<item id="4">
+					<title><![CDATA[Naked as We Came]]></title>
+					<artist><![CDATA[Artist name 4]]></artist>
+					<price>0</price>
+					<duration>02:37</duration>
+					<buy url = "http://www.cdbaby.com/cd/stevetreseler"></buy>
+					<song>content/songs/NakedAsWeCame_SteveTreseler.mp3</song>
+				</item>
+											
+			</tracks>
+		</album>
+		
+		<album id="9">
+			<image>content/images/Sounds2.jpg</image>
+			
+			<author><![CDATA[May Palmer]]></author>
+			<name alsoInList = "false"><![CDATA[<font color="#ff0000">Mo May</font>]]></name>
+			<caption><![CDATA[May Palmer is nationally recognized as possessing one of the truly great singing voices of today's music scene!  <font color="#9AC836"><a href="http://www.maypalmer.com/sept09/Palmer/Welcome.html">read more</a></font>]]></caption>
+			
+			<link>http://www.maypalmer.com/sept09/Palmer/Welcome.html</link>
+			<price>12.99</price>
+			<buy>http://www.maypalmer.com/sept09/Palmer/Online_Store.html</buy>
+			
+			<tracks>
+				<item id="1">
+					<title><![CDATA[Stand By Me]]></title>
+					<artist><![CDATA[Artist name 1]]></artist>
+					<price>0</price>
+					<buy url = "http://www.maypalmer.com/sept09/Palmer/Online_Store.html"></buy> <!-- if you want this item to have a different text write the text in the tag -->
+					<duration>04:29</duration>
+					<song>content/songs/StandByMe_MayPalmer.mp3</song>
+				</item>
+										
+			</tracks>
+		</album>
+		
+	</albums>	
+</mp3gallery>

@@ -1,0 +1,307 @@
+Return-path: <3ee.d.983489078.46659@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 20 Jun 2013 12:33:50 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:49057)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.983489078.46659@newbay.cfmvmail.com>)
+	id 1Uphnv-0005Dz-8u
+	for chris@sophiahatstudio.com; Thu, 20 Jun 2013 12:33:50 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type; 
+	b=XgjBf18DJmtLpxJjJRa+lh2MM7fru+AQyF21gdExzo2NtL8pUCEmoNmXytcm/MJfZXRmWscrIVsa6HdTM5jKfM0CbU1LocUMkiWhvr2of0HhnPriH2FpRwGQvjQwJ/3JvnV2kd9VzxTOLplo87P6MuivIKaNPbCvcecMdQ4HH0Y=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1371746035;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type;
+	bh=EI91U1Fd3mRa1U7dWFKaH+1ghE0=;
+	b=s7+vpJWAp4l64pqwJDIhxknHHn+C9iPY646GvYX3P/MMIZ33ZXRcBuFvOmPV5khjuXhLMiUgoMmyqpNWgSc4QHoPkjArxMC+viLTjYJ/gnpMQl3vzv/dcVXMHgTRS0keE0omzHxovKoqRRVjbNjMzQKofxVEDUJ0YSS4yYrxdso=
+X-FBL: M2VlLjFlLjExNDAwMDAwMmM5MjU0YS45ODM0ODkwNzguNDY2NTkuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Electronic Musician Partners" <partners@emusician.com>
+Message-ID: <9ec38dd0-5538-4bc4-86e0-20fb46127f64@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?VGhlIDkgTXVzaWMgQ2FyZWVyLUtpbGxpbmcgTWlzdGFrZXM=?=
+Date: Thu, 20 Jun 2013 12:33:54 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_229481106042203970163354619"
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  From: Joe Solo, Music Success Workshop: Avoid These 9 Music
+    Career-Killing Mistakes to help you make it in the Music Industry www.joesoloworkshop.com/star
+    <http://www.cfmediaview.com/lp1.aspx?v=6_983489078_46659_501> [...] 
+ 
+ Content analysis details:   (0.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.2 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  1.7 URIBL_DBL_SPAM         Contains an URL listed in the DBL blocklist
+                             [URIs: joesoloworkshop.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+ -0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+------=_NextPart_229481106042203970163354619
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+From:  Joe Solo, Music Success Workshop:
+
+Avoid These 9 Music Career-Killing Mistakes
+to help you make it in the Music Industry
+
+       www=2Ejoesoloworkshop=2Ecom/star <http://www=2Ecfmediaview=2Ecom/l=
+p1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F501>                             =
+               =20
+
+Dear Musician:
+
+The music industry is extremely tricky to navigate=2E
+
+Without the know-how from years of trial and error,
+pursuing any career in music today becomes impossibly
+frustrating=2E
+
+As a 20-year successful Producer, Songwriter, and
+Musician, I've been through it all=2E My life's goal
+now is to take the winning strategies and techniques
+I've learned the hard way and help other talented
+people make it, too=2E
+
+So I've produced this List of The 9 Mistakes=2E
+
+To go along with it, I've also created a set of free
+3-minute Video Nuggets to guide you through
+your career=2E
+
+The rewards for success -- both financial and
+emotional -- are FANTASTIC!
+   =20
+       www=2Ejoesoloworkshop=2Ecom/star <http://www=2Ecfmediaview=2Ecom/l=
+p1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F502>
+
+As soon as you sign up, you'll instantly see The
+9 Mistakes List and get your first free weekly
+Video Music Success Nugget=2E
+
+It's titled:  "How to Get Your Music in Film & TV"
+
+Have a great career, and remember =2E =2E =2E=20
+
+I'm in your corner=2E
+
+Joe
+
+
+      For both the list of 9 Career-Killer Mistakes
+    and the weekly video success nuggets, click here:   =20
+      www=2Ejoesoloworkshop=2Ecom/star <http://www=2Ecfmediaview=2Ecom/lp=
+1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F503>
+
+Joe Solo is the L=2EA=2E Record Producer who developed
+Macy Gray=2E He is founder of the Music Success Workshop=2E
+His credits include Fergie, American Idol, Universal,
+Sony, and many more=2E
+
+His Video Nuggets contain inside information that can
+help you shave YEARS off your career development=2E=20
+
+       www=2Ejoesoloworkshop=2Ecom/star <http://www=2Ecfmediaview=2Ecom/l=
+p1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F504>
+
+
+You have received this message because you previously gave your email add=
+ress to NewBay Media LLC=2E If you wish to unsubscribe or manage your ema=
+il preferences, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F=
+505=5Fchris@sophiahatstudio=2Ecom>
+
+If you wish to change your email address, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F=
+506>
+
+To report abuse:
+
+mailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahat=
+studio=2Ecom
+
+NewBay Media LLC
+28 East 28th Street
+12th Floor
+New York, NY 10016
+------=_NextPart_229481106042203970163354619
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div align=3D"center">
+ <center>
+ <table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" width=3D"680" cl=
+ass=3D"main" bordercolor=3D"#333333">
+ <tr>
+ <td>
+
+<div align=3D"center">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+ <tr>
+ <td width=3D"100%" bgcolor=3D"#030606">
+ <p align=3D"center"><img border=3D"0" src=3D"http://www=2Ejklein=2Ecom/i=
+mages/logo=2Ejpg" vspace=3D"10" width=3D"312" height=3D"126"></td>
+ </tr>
+ </table>
+</div>
+
+<div align=3D"center">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+ <tr>
+ <td valign=3D"top" height=3D"24"></td>
+ <td width=3D"250" valign=3D"top" bgcolor=3D"#D17A1C" height=3D"24">&nbsp=
+;</td>
+ </tr>
+
+ <tr>
+ <td valign=3D"top">
+ <div align=3D"center">
+ <center>
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"94%">
+ <tr>
+ <td width=3D"100%">
+ <h1 align=3D"center"><font face=3D"Tahoma, Verdana" size=3D"4">Avoid The=
+se <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9834890=
+78=5F46659=5F1"> 9 Career-Killing Mistakes</a><br>to help you make it in =
+the Music Industry</font></h1>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">Dear Musician:</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">The music industry is extremely tricky to navigate=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">Without the know-how from years of trial and error, pursuing any caree=
+r in music today becomes impossibly frustrating=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">As a 20-year successful Producer, Songwriter, and Musician, I've been =
+through it all=2E My life's goal now is to take the winning strategies an=
+d techniques I've learned the hard way and help other talented people mak=
+e it, too=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">So I've produced this list of the 9 Mistakes=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">To go along with it, I've also created a set of free 3-minute Video Nu=
+ggets to guide you through your career=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">The rewards for success -- both financial and emotional --are fantasti=
+c!</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">As soon as you sign up, you'll instantly see The 9 Mistakes List and g=
+et your first free weekly Video Nugget=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">It's titled:
+ <b> "How to Get Your Music in Film and TV=2E"</b></font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">Have a great career, and remember =2E =2E =2E&nbsp;</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">I'm in your corner=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">Joe</font></p>
+ </td>
+ </tr>
+ </table>
+ </center>
+ </div>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </td>
+ <td width=3D"250" valign=3D"top" bgcolor=3D"#D17A1C">
+ <div align=3D"center">
+ <center>
+ <table border=3D"0" cellpadding=3D"8" cellspacing=3D"0" width=3D"220" st=
+yle=3D"border: solid 2px #000000;">
+ <tr>
+ <td width=3D"100%" bgcolor=3D"#FFFFCC">
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9834890=
+78=5F46659=5F2">Click here</a> to see the
+ <u> The 9 Music Career-Killing Mistakes</u> =E2=80=93 <i>free</i>=2E</fo=
+nt></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">You'll also start getting my new weekly series of <u>Music Success Vid=
+eo Nuggets</u>, which is also free=2E</font></p>
+ <p class=3D"copy" align=3D"left"><font face=3D"Verdana, Tahoma" size=3D"=
+2">This is inside information that can help you shave <u><i>years</i></u>=
+ off your career development=2E</font></p>
+ <p class=3D"copy" align=3D"left"><img border=3D"0" src=3D"http://www=2Ej=
+klein=2Ecom/images/JoeSolo250=2Ejpg" width=3D"200" height=3D"221"></p>
+ </td>
+ </tr>
+ </table>
+ </center>
+ </div>
+=20
+ <p class=3D"sidebarcopy" align=3D"left" style=3D"margin-left: 15px; marg=
+in-right: 15px"><font color=3D"#FFFFFF" size=3D"2" face=3D"Verdana, Arial=
+">Joe Solo is the L=2EA=2E Record Producer who developed Macy  Gray=2E He=
+ is the founder of the Music Success Workshop=2E His credits include Ferg=
+ie, American Idol, Universal, Sony, and many more=2E</font></p>
+ <p class=3D"sidebarcopy" align=3D"left" style=3D"margin-left: 15px; marg=
+in-right: 15px"><b><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F983489078=5F46659=5F3"><font size=3D"2" face=3D"Verdana, Arial" c=
+olor=3D"#FFFFCC">Click here for the list of 9 Mistakes</font></a></b><fon=
+t color=3D"#FFFFFF" size=3D"2" face=3D"Verdana, Arial"> and to start gett=
+ing your free Music Success Video Nuggets=2E</font>
+ <p class=3D"sidebarcopy" align=3D"left" style=3D"margin-left: 15px; marg=
+in-right: 15px"><font color=3D"#FFFFFF" size=3D"2" face=3D"Verdana, Arial=
+">&nbsp;&nbsp;&nbsp;</font></td>
+ </tr>
+ </table>
+</div>
+ </td>
+ </tr>
+ </table>
+</center></div>
+
+<p align=3D"center" class=3D"footer"><font face=3D"Arial" size=3D"2">Copy=
+right &copy;
+2013 Joe Solo=2E</font></p><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F4=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F983489078=5F46659=5F5">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D983489078&msgid=3D46659">
+------=_NextPart_229481106042203970163354619--
+

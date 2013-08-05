@@ -1,0 +1,163 @@
+Return-path: <3ee.d.966235678.45931@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 04 Jun 2013 13:32:12 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:35419)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.d.966235678.45931@newbay.cfmvmail.com>)
+	id 1Ujv5f-0002Vz-Th
+	for chris@sophiahatstudio.com; Tue, 04 Jun 2013 13:32:12 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=UVMSSMylsFWARsqmyJvKvSP60XLkaO+k70LW4vqxX68eXIMn8sBSeGDhxXWgjo3hxfrx/Hk5myxvI1VZi31wgYUtp9Dtfex6fvSIfGV6FnJ1DaKusbmM84MbZLW0+VDcQfjhaiMSbeTXSiga4YGfeymZp/NDcZ6UCRYgo8CLuUI=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1370367141;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=gKdK/TU/or/CYaTBG4/7dP0FyHc=;
+	b=Z9lCPZrg11RGgwmnYcWlMlUm/6VYttEPy9A3pkTu1LuP3tMsPIo3UI6p7KEfuI+v3k6LZakiNMYFy2C6siZKU1YAMoTleNZmPM3rfPLJyINX6tljYmX5SXcVV7npsfNMI0P2FMkvOkX+YuQoNUUlWMky3QtieWJ1rssrJGnosmQ=
+X-FBL: M2VlLjFlLjExNDAwMDAwMTRkMzE5ZS45NjYyMzU2NzguNDU5MzEuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "QSC Audio" <partners@newbay-media.com>
+Message-ID: <aed483bb-23a4-4f7b-8d2c-032e76c216ac@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?Q29taW5nIEp1bmUgMTJ0aCBGcm9tIFFTQy4uLg==?=
+Date: Tue, 4 Jun 2013 13:32:20 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.1
+X-Spam-Score: 11
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  QSC will be introducing a revolutionary new product and technology
+    platform at InfoComm 2013. This latest innovation aims to redefine the way
+    integrators and live sound practitioners approach audio systems design and
+    deployment. [...] 
+ 
+ Content analysis details:   (1.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.6 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<html><head></head><body style=3D"background-color:#999">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"600">
+ <tbody><tr>
+ <td background=3D"http://qscmarketing=2Ecom/eblast/img/top=2Egif" height=
+=3D"20"><br></td>
+ </tr>
+ <tr>
+ <td style=3D"background-color:#FFF"><table style=3D" font-family:Arial, =
+Helvetica, sans-serif;" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"560">
+ <tbody><tr>
+ <td colspan=3D"2" align=3D"center"><a href=3D"http://www=2Ecfmediaview=2E=
+com/lp1=2Easpx=3Fv=3D6=5F966235678=5F45931=5F1"><img src=3D"http://qschom=
+e=2Ecom/images/eblast/Header-Blue=2Epng" border=3D"0" height=3D"108" widt=
+h=3D"560"></a></td>
+ </tr>
+ <tr>
+ <td colspan=3D"2" align=3D"center"><h2 style=3D"color:#666"><span style=3D=
+"color:#666"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=
+=5F966235678=5F45931=5F2" target=3D"=5Fblank"><img src=3D"http://qscmarke=
+ting=2Ecom/eblast/img/videoshot=2Epng" alt=3D"" style=3D"display:block;" =
+height=3D"409" width=3D"569"></a></span></h2></td>
+ </tr>
+=20
+ <tr>
+ <td colspan=3D"2" height=3D"200"><p>QSC will be introducing a revolution=
+ary new product and technology platform at InfoComm 2013=2E This latest i=
+nnovation aims to redefine the way integrators and live sound practitione=
+rs approach audio systems design and deployment=2E<br>
+ <br>
+ A preview of their latest product offering can be found at<a href=3D"htt=
+p://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F966235678=5F45931=5F3"> =
+http://qscmarketing=2Ecom/redefined</a>=2E<br>
+ <br>
+ For a hands-on demonstration, InfoComm attendees are encouraged to visit=
+ QSC at Booth #443 located in Hall A=2E</p></td>
+ </tr>
+ <tr>
+ <td colspan=3D"2"><hr></td>
+ </tr>
+ <tr>
+ <td colspan=3D"2" height=3D"27">&nbsp;</td>
+ </tr>
+ <tr>
+ <td width=3D"314"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F966235678=5F45931=5F4"><img src=3D"http://qschome=2Ecom/images/eb=
+last/QSC-Logo=2Epng" border=3D"0" height=3D"28" width=3D"146"></a></td>
+ <td align=3D"right" width=3D"220"><a href=3D"http://www=2Ecfmediaview=2E=
+com/lp1=2Easpx=3Fv=3D6=5F966235678=5F45931=5F5"><img src=3D"http://qschom=
+e=2Ecom/images/eblast/Icon-Facebook=2Epng" border=3D"0" height=3D"34" wid=
+th=3D"35"></a> <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D=
+6=5F966235678=5F45931=5F6"><img src=3D"http://qschome=2Ecom/images/eblast=
+/Icon-YouTube=2Epng" border=3D"0" height=3D"34" width=3D"35"></a> <a href=
+=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F966235678=5F45931=
+=5F7"><img src=3D"http://qschome=2Ecom/images/eblast/Icon-QSC=2Epng" bord=
+er=3D"0" height=3D"34" width=3D"35"></a></td>
+ </tr>
+ <tr>
+ <td colspan=3D"2">&nbsp;</td>
+ </tr>
+ <tr>
+ <td colspan=3D"2" style=3D"font-size:10px"><p>QSC and the QSC logo are r=
+egistered trademarks of QSC Audio Products, LLC in the U=2ES=2E Patent an=
+d Trademark office and other countries=2E<br>
+ All other trademarks are the property of their respective owners=2E Pate=
+nts may apply or be pending=2E</p>
+ <p>=C2=A92013 QSC Audio Products, LLC All rights reserved=2E </p></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ <tr>
+ <td background=3D"http://qscmarketing=2Ecom/eblast/img/but=2Egif" height=
+=3D"20"><br></td>
+ </tr>
+</tbody></table>
+
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F966235678=5F45931=5F8=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F966235678=5F45931=5F9">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D966235678&msgid=3D45931"></body></html>
+

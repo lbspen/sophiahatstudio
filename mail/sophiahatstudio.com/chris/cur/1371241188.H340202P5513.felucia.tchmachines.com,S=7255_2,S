@@ -1,0 +1,164 @@
+Return-path: <3ee.d.978571519.46448@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Fri, 14 Jun 2013 16:19:48 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:57203)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.978571519.46448@newbay.cfmvmail.com>)
+	id 1UnaTL-0001QI-Kl
+	for chris@sophiahatstudio.com; Fri, 14 Jun 2013 16:19:48 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=HIAteGFB/yWM//k+IyzBFfBLAq7pFjjvUWm/h3c8L73rJWstvJuokjbDFhjW6sTStDoDTqy0eh+VcGLJiPNwMxa0MhY0SYNP6g1quHjYV8YATQiqVbyzIzLXjc0ozKQYb4RZYSV8BGisgCDSUnluh8NABafLsyrEF6EgNtkL0qc=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1371241197;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=KT1JBTxq141+nqSaCk53fDlBdU8=;
+	b=YgyjQolBLAqmPNuJUGYAuemdSh4M5vfPNx374A+Y8LzvR2EBgrVHLlJfbUR47UF83qP8sLM6jjyGPl4HXveezuwM+wJs71nmTC6LH3+ewHsJjVDyLNP9dUhZIFDV0wBPsnctIdgBgVpuenhWSs4zB0tP2al4KzwtctCNwVrJMzI=
+X-FBL: M2VlLjFlLjExNDAwMDAwMjU5NGEzNy45Nzg1NzE1MTkuNDY0NDguY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "NewBay Media Partners" <partners@newbay-media.com>
+Message-ID: <f789a0e5-b93a-4e67-a30c-6d6a99d73f37@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?MjAxMyBXb21lbidzIE11c2ljIFN1bW1pdCAtIFJlZ2lzdGVy?=
+	=?utf-8?B?IE5vdw==?=
+Date: Fri, 14 Jun 2013 16:19:56 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  CUSTOM_WMS_061313 Manage Your Email Preferences/Unsubscribe
+    Change Your Email Address To report abuse, click here. [...] 
+ 
+ Content analysis details:   (1.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.2 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.4 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<html>
+<head>
+<title>CUSTOM=5FWMS=5F061313</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-885=
+9-1">
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none; outline: none;
+}
+-->
+</style></head>
+<body bgcolor=3D"#FFFFFF">
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none; outline: none;
+}
+-->
+</style>
+<table width=3D"600" height=3D"1407" border=3D"0" align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0" id=3D"Table=5F01">
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+978571519=5F46448=5F1" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWMS=5F061413/images/CUSTOM=
+=5FWMS=5F061313=5F01=2Ejpg" alt=3D"" width=3D"600" height=3D"169" border=3D=
+"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+978571519=5F46448=5F2" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWMS=5F061413/images/CUSTOM=
+=5FWMS=5F061313=5F02=2Ejpg" alt=3D"" width=3D"600" height=3D"263" border=3D=
+"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+978571519=5F46448=5F3" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWMS=5F061413/images/CUSTOM=
+=5FWMS=5F061313=5F03=2Ejpg" alt=3D"" width=3D"600" height=3D"443" border=3D=
+"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+978571519=5F46448=5F4" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWMS=5F061413/images/CUSTOM=
+=5FWMS=5F061313=5F04=2Ejpg" alt=3D"" width=3D"600" height=3D"367" border=3D=
+"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+978571519=5F46448=5F5"><img src=3D"http://newsletters=2Enewbay-media=2Eco=
+m/NewBay=5FCustom/CUSTOM=5FWMS=5F061413/images/CUSTOM=5FWMS=5F061313=5F05=
+=2Ejpg" alt=3D"" width=3D"600" height=3D"165" border=3D"0" style=3D"displ=
+ay:block;"></a></td>
+=09</tr>
+</table>
+<br clear=3D"all">
+<br clear=3D"all">
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F978571519=5F46448=5F6=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F978571519=5F46448=5F7">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D978571519&msgid=3D46448"></body>
+</html>
+

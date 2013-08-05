@@ -1,0 +1,240 @@
+Return-path: <3ee.1c.923383483.44222.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Wed, 24 Apr 2013 13:01:50 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:15930)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.923383483.44222.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UV34k-0002Y3-UD
+	for chris@sophiahatstudio.com; Wed, 24 Apr 2013 13:01:50 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=ou+Ll/ymgJlYq10z2hxgPZaNWHlR50rlnbHi6wF/SpXHJ5Yg4bfRkyFOsAVWAlYa+h1AsO9GkufTFOQFQNCqJaJqKGMFA/Wcw9FD1S94F1ejiuAJLmLPqhuKBlcf2cnXs3a6hL7q50BslzE0CdFdU1BYXC5eRYibuzbBn6zM+GA=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1366822916;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=UL2WRewKgJPgeU9pYgBkYAp38N8=;
+	b=b1HJz2kFCY/Xgb1g2IPPr1W9xKEJEGsWXpvIo8RZekFL6AzFwyX1I6wos+qty4WbC1ff70j6fHFZKCE4Dms7L3gLABcp9OWHt8lB+g5AR4pH4ZheLeqV9/cjfy/++GTCwL8XiiOIsQPDE0XQ891DaxREUS7kQLrymii7aK8KGCY=
+X-FBL: M2VlLjFlLjEwNTAwMDAwMGU0YTkxYi45MjMzODM0ODMuNDQyMjIuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <77c05d1b-a8cd-4463-9468-f4b1a866a830@newbay.cfmvmail.com>
+From: "Music Player Network Partners" <partners@newbay-media.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?U1dBR0cgLSB0aGUgVWx0aW1hdGUgSGlwIEhvcCwgUiZCLCBh?=
+	=?utf-8?B?bmQgUG9wIFN5bnRoIFZJ?=
+Date: Wed, 24 Apr 2013 13:01:54 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  SWAGG Release SWAGG is the new urban synth virtual instrument
+    developed by VIP Loops in collaboration with Big Fish Audio. Based on the
+    hottest sounds that create today's hip hop, R&B, pop, and soul hits, SWAGG
+    is the ultimate urban instrument! Make your productions stand out from the
+    competition with huge sounds that cut through your mix. Designed completely
+    from the ground up, SWAGG contains over 8GB (11GB uncompressed) of samples
+    and a total of 345 patches specifically designed for urban music production.
+    [...] 
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml" xmlns=3D"http://www=2Ew3=
+=2Eorg/1999/xhtml">
+ <head>
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-88=
+59-1">
+ <title>SWAGG Release</title>
+ </head>
+ <body style=3D"background-image: url();background-repeat: repeat-x;margi=
+n-left: 0;margin-top: 0;margin-right: 0;margin-bottom: 0;background-color=
+: #000;color: #fff;font-family: Lucida Grande, Lucida, Verdana, sans-seri=
+f;line-height: 130%;-webkit-text-size-adjust:none;">
+<table width=3D"580" height=3D"100%" border=3D"0" bgcolor=3D"#000000" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tr align=3D"center" va=
+lign=3D"top"><td><table width=3D"580" border=3D"0" cellspacing=3D"5" cell=
+padding=3D"5"><td><div align=3D"right"><a href=3D"http://www=2Ecfmediavie=
+w=2Ecom/lp1=2Easpx=3Fv=3D6=5F923383483=5F44222=5F1" style=3D"color: #69c;=
+text-decoration: none"><img src=3D"http://www3=2Ebigfishaudio=2Ecom/ad=5F=
+images/swaggrelease2013/bfaemail=5F02=2Ejpg" width=3D"380" height=3D"97" =
+border=3D"0" alt=3D"Big Fish Audio" style=3D"border: none"></a></div></td=
+>
+=20
+ <tr></tr><tr><td width=3D"580" align=3D"left" valign=3D"top">
+ <p class=3D"bodytext" style=3D"color: #fff;font-size: 13px;line-height: =
+1=2E7em;padding-bottom: 10px"><a href=3D"http://www=2Ecfmediaview=2Ecom/l=
+p1=2Easpx=3Fv=3D6=5F923383483=5F44222=5F2" style=3D"color: #69c;text-deco=
+ration: none"><img src=3D"http://www3=2Ebigfishaudio=2Ecom/ad=5Fimages/sw=
+aggrelease2013/SWAGG=5FBanner1=2Ejpg" width=3D"600" height=3D"334" alt=3D=
+"SWAGG" style=3D"border: none"></a></p>
+ <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"5"><=
+tr><td width=3D"66%" valign=3D"top"><p class=3D"bodytext style2" style=3D=
+"color: #fff;font-size: 13px;line-height: 1=2E7em;padding-bottom: 10px">S=
+WAGG is the new urban synth virtual instrument developed by VIP Loops in =
+collaboration with Big Fish Audio=2E Based on the hottest sounds that cre=
+ate today's hip hop, R&B, pop, and soul hits, SWAGG is the ultimate urban=
+ instrument! Make your productions stand out from the competition with hu=
+ge sounds that cut through your mix=2E Designed completely from the groun=
+d up, SWAGG contains over 8GB (11GB uncompressed) of samples and a total =
+of 345 patches specifically designed for urban music production=2E
+ <br><br>
+ <img src=3D"http://www3=2Ebigfishaudio=2Ecom/ad=5Fimages/swaggrelease201=
+3/SWAGG=5Fscreenshot=2Ejpg" width=3D"376" height=3D"243" alt=3D"SWAGG Scr=
+eenshot">
+ </p>
+ <p class=3D"bodytext style2" style=3D"color: #fff;font-size: 13px;line-h=
+eight: 1=2E7em;padding-bottom: 10px">When you're in the studio and under =
+deadlines, you need to get down to business quickly=2E Whether you're a s=
+easoned pro or new to virtual synths, SWAGG is easy to use and delivers g=
+o-to sounds allowing you to create top notch productions without wasting =
+studio time=2E</p>
+ <p class=3D"bodytext style2" style=3D"color: #fff;font-size: 13px;line-h=
+eight: 1=2E7em;padding-bottom: 10px">Boasting an incredible arpeggiator, =
+SWAGG allows you to easily produce the sounds of current chart topping hi=
+ts=2E  SWAGG gives you an essential arp section that does not disappoint =
+and it includes a one of a kind stutter feature which turns any instrumen=
+t into a gated instrument=2E Glide features allow for mono and polyphonic=
+ selection with the push of a button while the one of a kind drop and ris=
+er feature allows you to quickly create incredible octave sound drops and=
+ risers that would normally take precious time to automate=2E</p>
+=20
+ <p class=3D"bodytext style2" style=3D"color: #fff;font-size: 13px;line-h=
+eight: 1=2E7em;padding-bottom: 10px">SWAGG's new "Quick-Strike" FX concep=
+t includes professionally designed effects from engineers that create, mi=
+x and master some of today's biggest hits=2E From Drake-like single knob =
+filters, to "Make It Bump" single knob EQ FX, SWAGG gives you power to cr=
+aft your sounds quickly and efficiently=2E Great sounds are the foundatio=
+n of hit music and great sounds are at the core of SWAGG!  It's big, easy=
+ to use and incredibly modern=2E  It's the ultimate urban virtual instrum=
+ent!</p>
+=20
+ <hr style=3D"height: 1px;color: #666;background-color: #666;border: none=
+">
+=20
+ <p class=3D"bodytext style2" style=3D"color: #fff;font-size: 13px;line-h=
+eight: 1=2E7em;padding-bottom: 10px"><b>Key Features:</b><br><br>
+&bull; Triggerable Pitch FX (preset pitch envelope settings)<br>
+&bull; Triggerable Stutter FX (synced to tempo)<br>
+&bull; Toggleable reverse sample playback<br>
+&bull; Amp, Filter Envelope and Filter Cutoff/Resonance<br>
+&bull; Morphable Q-Tone filter and 5 compressor presets<br>
+&bull; Modulation FX (chorus, flanger, phaser - 3 presets each), Reverb (=
+9 presets), Delay (8 presets), each with adjustable wet level<br>
+&bull; Easy to use 24/7 arpeggiator with several modes<br>
+&bull; LFO with 5 different waveforms assignable to pitch, filter, cutoff=
+ and pan<br>
+&bull; Velocity routable to filter cutoff and amp<br>
+&bull; Mono mode with portamento (glide)<br>
+&bull; ADSR right at your finger tips<br>
+&bull; All features accessible from the front screen</p>
+=20
+ </td>
+ <td width=3D"2%"><img src=3D"http://www3=2Ebigfishaudio=2Ecom/ad=5Fimage=
+s/swaggrelease2013/divline=2Ejpg" width=3D"1" height=3D"1480" alt=3D"divi=
+der" style=3D"border: none"></td>
+ <td width=3D"32%" valign=3D"top"><p class=3D"bodytext style2" style=3D"c=
+olor: #fff;font-size: 12px;line-height: 1=2E7em;padding-bottom: 10px"><i>=
+<b>"A brilliant virtual synth that will add inspiration, innovation and o=
+verall 'SWAGG' to your arsenal=2E"</b></i><br>- J=2ER=2E Hutson, Multi-pl=
+atinum producer (Jill Scott, Stevie Wonder, Musiq Soulchild, Anthony Hami=
+lton)</p>
+ <hr style=3D"height: 1px;color: #666;background-color: #666;border: none=
+">
+=20
+ <p class=3D"bodytext style2" style=3D"color: #fff;font-size: 13px;line-h=
+eight: 1=2E7em;padding-bottom: 10px">Watch the SWAGG trailer!<a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923383483=5F44222=5F3"=
+><img src=3D"http://www3=2Ebigfishaudio=2Ecom/ad=5Fimages/swaggrelease201=
+3/SWAGG=5Fvideo2=2Ejpg" width=3D"179" height=3D"115" alt=3D"Trailer" styl=
+e=3D"border: none"></a></p>
+ <hr style=3D"height: 1px;color: #666;background-color: #666;border: none=
+">
+ <p class=3D"bodytext style2" style=3D"color: #fff;font-size: 13px;line-h=
+eight: 1=2E7em;padding-bottom: 10px">Check out the tutorials!<a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923383483=5F44222=5F4"=
+><img src=3D"http://www3=2Ebigfishaudio=2Ecom/ad=5Fimages/swaggrelease201=
+3/SWAGG=5Fvideo1=2Ejpg" width=3D"179" height=3D"115" alt=3D"Tutorials" st=
+yle=3D"border: none"></a></p>
+ <hr style=3D"height: 1px;color: #666;background-color: #666;border: none=
+"><p class=3D"bodytext style2" style=3D"color: #fff;font-size: 12px;line-=
+height: 1=2E7em;padding-bottom: 10px">
+ <b>Sound Categories:</b><br><br>
+&bull; Basses<br>
+&bull; Synths<br>
+&bull; FX<br>
+&bull; Sound Effects<br>
+&bull; Leads<br>
+&bull; Pads<br>
+&bull; Brass<br>
+&bull; Stutta<br>
+&bull; Shorts<br>
+&bull; Arps<br>
+&bull; Keys (Piano, Organ, Rhodes and customized stacked keys)<br>
+&bull; Stringed Instruments (Electric Guitars, Mandolin, Dobro)<br></p>
+ <hr style=3D"height: 1px;color: #666;background-color: #666;border: none=
+">
+=20
+ <p align=3D"center" class=3D"bodytext style2" style=3D"color: #fff;font-=
+size: 13px;line-height: 1=2E7em;padding-bottom: 20px"><br><a href=3D"http=
+://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923383483=5F44222=5F5" st=
+yle=3D"color: #69c;text-decoration: none"><img src=3D"http://www3=2Ebigfi=
+shaudio=2Ecom/ad=5Fimages/swaggrelease2013/KONTAKT=5FPoweredBy=5FSticker=2E=
+png" width=3D"98" height=3D"95" alt=3D"Kontakt Player" style=3D"border: n=
+one"></a><br></p>
+=20
+ <hr style=3D"height: 1px;color: #666;background-color: #666;border: none=
+">
+ </td>
+ </tr></table></td>
+ </tr></table></td>
+ </tr></table><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F923383483=5F44222=5F6=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F923383483=5F44222=5F7">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D923383483&msgid=3D44222"></body>
+</html>
+

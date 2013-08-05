@@ -1,0 +1,249 @@
+Return-path: <3ee.d.971271186.46184@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Fri, 07 Jun 2013 15:01:01 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:60397)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.d.971271186.46184@newbay.cfmvmail.com>)
+	id 1Ul1uG-00074v-6V
+	for chris@sophiahatstudio.com; Fri, 07 Jun 2013 15:01:01 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=cf1MUtscu0jbaFW8dP9CMhStrr9XCVjJ7BVP1/jlpUgBJnL0kcwYjAxTEhd/tO5LNs7uTMZ3Xi6Mxkwf3ppVPy43VXEZaE02V9yGQpPvQzPBPLWemWj0CgiBb0eTfmUGDxTwKvcjslHPnO7LWJI6sfx93G8NlXgH1PhqRwJlhwg=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1370631670;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=SKRN66Nl4pYDQ8453//+CUREdvo=;
+	b=HypmGkVoOuPTtJcPSq2jAdERX1/+oFsEMuqZX8jAkS+JAqB1DY4/va0SfA3o4Y4TXXSL+XfHErKjdn/V9OahnLOCLTpL/XXL8ur0xZXCz1b+tqjpbIG/8vaNre2piSAQ5pKxLdVqtswmTQeFNLRac6S0iPlgyms+AP0bPsT9S2U=
+X-FBL: M2VlLjFlLjExNDAwMDAwMWI4ODdkZi45NzEyNzExODYuNDYxODQuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Rental & Staging Roadshow" <events@rentalandstaging.com >
+Message-ID: <fffa9dd4-3bc0-449e-968e-398f9d19a175@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?TWVldCB0aGUgUHJlc2VudGVyczogUmVudGFsICYgU3RhZ2lu?=
+	=?utf-8?B?ZyBSb2Fkc2hvdywgSnVseSAzMSwgTllD?=
+Date: Fri, 7 Jun 2013 15:01:09 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Horizontal Rule Rental & Staging Roadshow – New York City
+    WED, JULY 31, 2013 Metropolitan Pavilion - North Pavilion 110 19th Street,
+    New York NY 10011 Register Now! The Rental & Staging Roadshow is returning
+    to New York City! A full line-up of guests speakers makes this a can't-miss
+    event for every rental & staging professional! Check out a preview of the
+    agenda below! [...] 
+ 
+ Content analysis details:   (0.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 FH_FROMEML_NOTLD       E-mail address doesn't have TLD (.com, etc.)
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.3 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<title>Horizontal Rule</title>
+<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc=2E All rights reser=
+ved=2E -->
+<style type=3D"text/css">
+body {
+=09background-color: #112148;
+}
+=2Eheader {=09text-align: center;
+}
+</style>
+</head>
+
+<body>
+<table width=3D"650" border=3D"1" align=3D"center" cellpadding=3D"10" cel=
+lspacing=3D"0">
+ <tbody><tr>
+ <td bgcolor=3D"#FFFFFF" style=3D"font-family: Verdana, Geneva, sans-seri=
+f; font-size: 14px; text-align: center;"><p><span style=3D"text-align: ce=
+nter"><img name=3D"" src=3D"http://newsletters=2Enewbay-media=2Ecom/eProm=
+os/RSRoadshowNY=5F2013=5Femail=5Fheader=2Ejpg" width=3D"620" height=3D"35=
+8" alt=3D""></span></p>
+ <p><font size=3D"4" face=3D"Trebuchet MS, Geneva, Arial, Helvetica, SunS=
+ans-Regular, sans-serif"><b><font size=3D"4" face=3D"Trebuchet MS, Geneva=
+, Arial, Helvetica, SunSans-Regular, sans-serif"><font face=3D"Arial, Hel=
+vetica, sans-serif"><font size=3D"4" face=3D"Trebuchet MS, Geneva, Arial,=
+ Helvetica, SunSans-Regular, sans-serif"><strong style=3D"color: #900">Re=
+ntal & Staging Roadshow =E2=80=93 New York City</strong><strong style=3D"=
+color: #C32224"><br>
+ </strong></font></font></font><font size=3D"4" color=3D"#990000" face=3D=
+"Arial, Helvetica, sans-serif"><b><span class=3D"header" style=3D"color: =
+#000"><strong>WED, JULY 31, 2013<br>
+Metropolitan Pavilion - North Pavilion <br>
+110 19th Street, New York NY 10011</strong></span><br>
+ </b><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F97127=
+1186=5F46184=5F1" target=3D"=5Fblank">Register Now!</a></font></b></font>=
+</p>
+<p>The  Rental & Staging Roadshow  is returning to New York City! A full =
+line-up of guests speakers makes this a can't-miss event for every rental=
+ & staging professional! Check out a preview of the agenda below!</p>
+ <table width=3D"650" border=3D"0" cellpadding=3D"10">
+ <tbody><tr>
+ <td bgcolor=3D"#1C4F68"><strong style=3D"color: #FFF">AGENDA PREVIEW</st=
+rong></td>
+ </tr>
+ <tr>
+ <td bgcolor=3D"#CCCCCC">
+ <p><div style=3D"text-align: left;"><strong>Introduction by David Keene,=
+&nbsp;</strong><em>Executive Editor, NewBay Media; and</em><strong>&nbsp;=
+Josh Weisberg,&nbsp;</strong><em>WorldStage</em></div>
+ <div style=3D"text-align: left;"><br></div>
+ <strong><div style=3D"text-align: left;"><strong>Advanced Video Processi=
+ng/Beyond IMAG</strong> <strong>by</strong> <strong>Chris Curran</strong>=
+</div></strong>
+ <em><div style=3D"text-align: left;"><em>Chris Curran</em>&nbsp;<em>of T=
+MB (the exclusive U=2ES=2E distributor of Hippotizer) will demonstrate ad=
+vanced video tools using the Green Hippo Hippotizer Video Server Platform=
+=2E Hippotizer has become a piece of kit that can add a great deal of div=
+ersity to most shows and events, working with either projection or variou=
+s LED screens=2E Pixel mapping, Soft Edge Blending and Time Line Programm=
+ing will be explored; and functions such as LiveMask, ScreenWarp Manager,=
+ and more will show stagers what is going on in the world of content that=
+ takes video for live events way beyond IMAG=2E</em></div></em>
+ <div style=3D"text-align: left;"><br></div>
+ <strong><div style=3D"text-align: left;"><strong>Technical Presentation=E2=
+=80=93 Beyond Front Work=E2=80=93 10 Secrets to Mastering the Venue, and =
+the Show, Before Load-In by Andre LeJeune, CTS</strong></div></strong>
+ <em><div style=3D"text-align: left;"><em>Andre LeJeune&nbsp;has more tha=
+n 30 years of staging and presentation expertise=2E He began his career i=
+n concert touring, later moving to AV staging for national touring accoun=
+ts=2E He has produced events that incorporate the latest meeting techniqu=
+es and technologies, sound, lighting and video presentation systems=2E He=
+ has been involved with InfoComm since the early 80s, serving twice as ch=
+air of the Professional Education and Training Committee as well as autho=
+ring and presenting classes at the Institute for Professional Development=
+ and seminars at InfoComm=2E Andre was presented with the Educator of the=
+ Year award in 1995=2E Most recently, LeJeune was Senior Director of AV T=
+raining for an international hotel chain=2E</em></div></em></p>
+ <p><div style=3D"text-align: left;"><strong>The Digital Culture at Live =
+Events=E2=80=93 New Tools For the Stager by Midori Connolly</strong></div=
+><em><div style=3D"text-align: left;"><em>Midori Connolly</em>&nbsp;<em>w=
+ill explain how Social media has created an environment where multi-direc=
+tional communication and a high-level of interactivity are the norm=E2=80=
+=93 and she=E2=80=99ll show you specific new tools and Apps to stay ahead=
+ of the curve=2E People are no longer only educated by professional instr=
+uctors, but rely on their peers for information and learning=2E No longer=
+ do they want pre-selected content thrust at them from a big screen, but =
+they want to live inside of an experience, and help create it as they go=2E=
+ From hybrid events to the second screen, content consumption is about an=
+ on-demand, digital medium=2E How do stagers keep up with this trend=3F A=
+ look at Apps and platforms=2E Midori Connolly is:</em></div></em></p>
+ <ul>
+ <li style=3D"text-align: left;"><em>Principal, Chief AVGirl</em></li>
+ <li style=3D"text-align: left;"><em>Chief, InfoComm International Rental=
+ and Staging Council</em></li>
+ <li style=3D"text-align: left;"><em>Co-Chair, AV Committee for ASTM Envi=
+ronmentally Sustainable Meeting Standards</em></li>
+ <li style=3D"text-align: left;"><em>Platinum Speaker, Meeting Profession=
+als International</em></li>
+ <li style=3D"text-align: left;"><em>Best-in-Class Speaker, Professional =
+Convention Managers Association</em></li>
+ </ul>
+ <p><div style=3D"text-align: left;"><strong>Roundtable discussion =E2=80=
+=93 Advancing the Dialogue: Meeting Planners and Stagers by </strong><str=
+ong>David Keene and Midori Connolly</strong><em>&nbsp;</em></div><em><div=
+ style=3D"text-align: left;"><em>Keene and Midori
+ will lead invited Meeting Planner industry Guests in a discussion of how=
+ stagers can better communicate both technical issues and business/show m=
+anagement issues to the non-technical meeting planner professionals who s=
+pec and use their services=2E&nbsp;</em></div>
+ </em></p>
+ </td>
+ </tr>
+</tbody></table>
+ <p style=3D"font-family: Verdana, Geneva, sans-serif; font-size: 14px;">=
+Find out more by visiting <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F971271186=5F46184=5F2" target=3D"=5Fblank">www=2Eavnetwork=
+=2Ecom/rentalstagingroadshow</a></p>
+ <p style=3D"font-family: Verdana, Geneva, sans-serif; font-size: 14px;">=
+<strong>Space is limited!</strong> Keep ahead of your competition! <stron=
+g style=3D"color: #B8171C"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F971271186=5F46184=5F3" target=3D"=5Fblank">Register today!=
+</a></strong></p>
+ <hr>
+ <table width=3D"650" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"2">
+ <tbody><tr>
+ <td width=3D"50%" valign=3D"top"><p><font size=3D"2" face=3D"Trebuchet M=
+S, Geneva, Arial, Helvetica, SunSans-Regular, sans-serif"><b>TECHNICAL PR=
+OGRAM BY:</b></font></p>
+ <p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F971271=
+186=5F46184=5F4" target=3D"=5Fblank"><img src=3D"http://newsletters=2Enew=
+bay-media=2Ecom/ePromos/InfoComm=5FInternational=2Ejpg" alt=3D"" width=3D=
+"170" height=3D"39" border=3D"0"></a></p></td>
+ <td width=3D"50%" valign=3D"top"><p><b><font size=3D"2" face=3D"Trebuche=
+t MS, Geneva, Arial, Helvetica, SunSans-Regular, sans-serif">SPONSORED BY=
+</font></b></p>
+ <p><img src=3D"http://newsletters=2Enewbay-media=2Ecom/ePromos/Worldstag=
+e=2Epng" width=3D"162" height=3D"41"></p></td>
+ </tr>
+ </tbody></table>
+ <hr>
+ <p><font size=3D"2" face=3D"Trebuchet MS, Geneva, Arial, Helvetica, SunS=
+ans-Regular, sans-serif"><b>LEARN MORE:</b> Keep checking <a href=3D"http=
+://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F971271186=5F46184=5F5" ta=
+rget=3D"=5Fblank">www=2Eavnetwork=2Ecom/rentalstagingroadshow</a><a href=3D=
+"http://www=2Eavnetwork=2Ecom/rentalstagingroadshow" target=3D"=5Fblank">=
+</a> for updates and general information=2E</font>    </p>
+ <p>For more information becoming a Rental & Staging Roadshow Sponsor, co=
+ntact: Adam Goldstein, 212-378-0465, <a href=3D"mailto:agoldstein@nbmedia=
+=2Ecom" target=3D"=5Fblank">agoldstein@nbmedia=2Ecom</a></p>
+ <hr><p><br></p></td>
+ </tr>
+</tbody></table>
+
+
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F971271186=5F46184=5F6=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F971271186=5F46184=5F7">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D971271186&msgid=3D46184"></body></html>
+

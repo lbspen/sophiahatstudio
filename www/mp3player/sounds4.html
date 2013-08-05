@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta name="Description" content="Welcome to the world of SophiaHat, Seattle's affordable recording studio" />
+  <meta name="Keywords" content="Chris Spencer,SophiaHat, Sophia Hat, Sofia Hat, sofiahat, recording studio, sound studio, seattle, pro tools" />
+  <title>SophiaHat Studios - Seattle Recording Studio</title>
+  <link rel="stylesheet" href="../css/style.css" type="text/css" />
+</head>
+<body>
+   <!--#include virtual="/ssi-header.htm" -->
+   <div class="page">
+      <div id="content">
+	 <div class="post">
+	    <h2 class="title"><a href="#">
+	       Music Projects</a>
+	    </h2>
+	    <div class="entry">
+	      <p>
+		  Check out some of our projects.
+		  <br />
+		  
+	       </p>
+
+        <script type="text/javascript" src="js/swfobject.js"></script>	
+        <script type="text/javascript" src="js/swfmacmousewheel.js"></script>
+		<script type="text/javascript">
+
+			// JAVASCRIPT VARS
+			// cache buster
+			var cacheBuster = "?t=" + Date.parse(new Date());		
+			
+			// stage dimensions
+			var stageW = 560//"100%"; // minimum is 450
+			var stageH = 300;//"100%"; // minimum is 260
+			
+			
+			// ATTRIBUTES
+		    var attributes = {};
+		    attributes.id = 'FlashComponent';
+		    attributes.name = attributes.id;
+		    
+			// PARAMS
+			var params = {};
+			params.bgcolor = "#333333";
+			params.allowfullscreen = "true";
+			params.allowScriptAccess = "always";			
+			params.wmode = "transparent";
+			
+
+		    /* FLASH VARS */
+			var flashvars = {};
+			
+			/// if commented / delete these lines, the component will take the stage dimensions defined 
+			/// above in "JAVASCRIPT SECTIONS" section or those defined in the settings xml			
+			flashvars.componentWidth = stageW;
+			flashvars.componentHeight = stageH;							
+			
+			/// path to the content folder(where the xml files, images or video are nested)
+			/// if you want to use absolute paths(like "http://domain.com/images/....") then leave it empty("")
+			flashvars.pathToFiles = "mp3gallery/";
+			flashvars.xmlPath = "xml/settings.xml";
+			flashvars.contentPath = "xml/mp3gallery.xml";
+						
+			/** EMBED THE SWF**/
+			swfobject.embedSWF("preview.swf"+cacheBuster, attributes.id, stageW, stageH, "9.0.124", "js/expressInstall.swf", flashvars, params);
+			if(swfmacmousewheel) swfmacmousewheel.registerObject(attributes.id);
+		</script>
+	
+		<table width="100%" height="100%" cellpadding="0" cellspacing="0">
+			<td align="center">
+				
+				<!-- this div will be overwritten by SWF object -->		
+				<div id="FlashComponent">
+					<p>In order to view this object you need Flash Player 9+ support!</p>
+					<a href="http://www.adobe.com/go/getflashplayer">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player"/>
+					</a>
+				</div>
+				
+				<!-- 				
+				<embed id="FlashComponent2"
+					src="file:///Macintosh%20HD/Users/andreineamtu/Documents/Lucru/VUZUM/FLABELL/PRODUCTS/Product%20001%20%2D%20Flash%20Mp3%20Player/Flash%20Mp3%20Player%20v2/project/deploy/preview.swf"
+					bgColor = "#000000"
+					width="560"
+					height="300"
+					allowfullscreen="true"
+					allowScriptAccess="always"
+					flashVars="pathToFiles=mp3gallery/&componentWidth=560&componentHeight=300&xmlPath=xml/settings.xml">
+				</embed>		
+				-->
+				 			
+			</td>
+		</table>
+		</div>
+	    </div>
+	 </div>
+	
+ <!--#include virtual="/ssi-sidebar.htm" -->
+      <div style="float:right">
+	 <img src="../images/SophiaHat Studio - 01.jpg" width="295" alt="SophiaHat Studio - guitar and amp" />
+      </div>
+      
+      <div style="clear: both;">&nbsp;</div>
+  </div>
+   <hr />
+   <!--#include virtual="/ssi-footer.htm" -->
+</body>
+</html>

@@ -1,0 +1,246 @@
+Return-path: <3ee.1c.925019438.44252.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 25 Apr 2013 13:34:37 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:31038)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.925019438.44252.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UVQ41-0007y5-9D
+	for chris@sophiahatstudio.com; Thu, 25 Apr 2013 13:34:37 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=np9/XlJVxcSJ3qi/SbMf/+b/tjNqjtpvOVbZMjtpL61ykHiAhXFSaI2VPd+r073pr7p+wAqIBlbr32r4Px8P6yCRdMA9A9KbCgKBo7qblKRlF6eqHK3DgvuJDNomRXguewdoTYMQNm3WVmOWrMhm6azvDNXtjdSUEdSQlYuvsLs=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1366911282;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=ykjosrU2Yh+3Ay8MqR4E3CD+W94=;
+	b=hrlv0fVjtf+azxbqGllMa0MNzEFDa2ID5Zs3bcEDDQP4shiJoRitwniQ1izYBJ5L5WkcUfHarp7AnSxJl//bdvr/3S+KZ5Jbz72QY+XjFvKC6qK/nM+h4MNB2HD/OSiyjcIIOJImRJn78HWL6A4iKAQSTStbCovp0GLE6squeSw=
+X-FBL: M2VlLjFlLjEwNzAwMDAwMDE4MGVlZC45MjUwMTk0MzguNDQyNTIuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <d7be53eb-3135-4ceb-a086-5a2de6917786@newbay.cfmvmail.com>
+From: "Electronic Musician Partners" <partners@emusician.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?T3duIGEgZnJhbmNoaXNlIHRoYXTigJlzIG11c2ljIHRvIHlv?=
+	=?utf-8?B?dXIgZWFycy4=?=
+Date: Thu, 25 Apr 2013 13:33:20 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Bach to Rock - America's Music School Spend your days with
+    music while building a company and having a blast [...] 
+ 
+ Content analysis details:   (0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.5 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<custom name=3D"opencounter" type=3D"tracking">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml">
+<head>
+<title>Bach to Rock - America's Music School</title>
+</head>
+<body style=3D"margin:0; padding:0;  background-color:#363636">
+<table style=3D" margin:0; padding:0; background-color:#363636" width=3D"=
+100%" border=3D"0" cellspacing=3D"0">
+ <tr>
+ <td><table width=3D"653" border=3D"0" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0">
+ <tr>
+ <td width=3D"653"><table width=3D"98%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" bgcolor=3D"#5C6B0C">
+ <tr>
+ <td><table width=3D"100" border=3D"0" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0">
+ <tr>
+ <td><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" bgcolor=3D"#9EBB2C">
+ <tr>
+ <td><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" bgcolor=3D"#FFFFFF">
+ <tr>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F92501=
+9438=5F44252=5F1"><img src=3D"http://www=2Efranchiseopportunities=2Ecom/m=
+arketing/bachtorock/bach=5Fto=5Frock=5Fheader=2Egif" width=3D"653" height=
+=3D"95" border=3D"0"></a></td>
+ </tr>
+ </table>
+ <table width=3D"653" border=3D"0" align=3D"center" cellspacing=3D"0" bgc=
+olor=3D"#ffffff">
+ <tr>
+ <td style=3D"padding:17px 19px 19px 19px"><p align=3D"center" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; color:#cc1d5e; font-size:23px; l=
+ine-height:20px; padding:0 0 5px 0; margin:0">Spend your days with music =
+while<p align=3D"center" style=3D"font-family:Arial, Helvetica, sans-seri=
+f; color:#cc1d5e; font-size:23px; line-height:20px; padding:0 0 5px 0; ma=
+rgin:0">building a company and having a blast</p>
+ <div align=3D"center"><span style=3D"font-family:Arial, Helvetica, sans-=
+serif; color:#939393; font-size:16px; line-height:23px; padding:0; margin=
+:0"><strong>Open a Bach to Rock Music Franchise<br>
+ </strong></span></div>
+ <p align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; lin=
+e-height:19px; color:#21201f; font-size:14px; padding-top:0; margin-top:2=
+1px; margin-bottom:20px; padding-bottom:0">Owning a music school in your =
+community could be the business breakthrough you=E2=80=99ve been waiting =
+for=2E  And a Bach to Rock franchise is the smart way to make it happen, =
+with a business model created for the return you need=2E<p>
+<p align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; line=
+-height:19px; color:#21201f; font-size:14px; padding-top:0; margin-top:21=
+px; margin-bottom:20px; padding-bottom:0"><a href=3D"http://www=2Ecfmedia=
+view=2Ecom/lp1=2Easpx=3Fv=3D6=5F925019438=5F44252=5F2"><strong>Click<http=
+: www=2Eb2rmusic=2Ecom/em%22%3e%3cstrong%3eclick=3D""> here</http:></stro=
+ng></a> to learn more=2E</p>
+ <table width=3D"35" border=3D"0" align=3D"right" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"margin-bottom: 20px">
+ <tr>
+ <td style=3D"padding:0 0 10px 10px"><a href=3D"http://www=2Ecfmediaview=2E=
+com/lp1=2Easpx=3Fv=3D6=5F925019438=5F44252=5F3"><img src=3D"http://image=2E=
+exct=2Enet/lib/fef81175726204/i/1/963afea8-a=2Ejpg" width=3D"218" height=3D=
+"145" border=3D"0"></a></td>
+ </tr>
+ </table>
+ <p align=3D"left" style=3D"font-family:Arial, Helvetica, sans-serif; lin=
+e-height:19px; color:#0d5ca9; font-size:16px; padding-top:0; margin-top:1=
+8px; margin-bottom:0; padding-bottom:0"> <strong>Why music education=3F</=
+strong> </p>
+ <p style=3D"font-family:Arial, Helvetica, sans-serif; line-height:19px; =
+color:#21201f; font-size:14px; padding-top:5px; margin-top:0; margin-bott=
+om:20px"> Music has never been more central to popular culture=2E From te=
+levision shows like <em>American Idol</em>, <em>The Voice</em> and <em>Gl=
+ee</em>, to the proliferation of iTunes and video games like <em>Guitar H=
+ero</em> and <em>Rock Band</em>, America=E2=80=99s more addicted to music=
+ than ever before=2E And Bach to Rock is poised to meet this growing dema=
+nd=2E In addition, reductions to public school arts budgets, coupled with=
+ kids=E2=80=99 desire for musical instruction in popular genres, are driv=
+ing the rapid adoption of new, innovative music education resources such =
+as Bach to Rock=2E<span style=3D"font-family:Arial, Helvetica, sans-serif=
+; line-height:19px; color:#21201f; font-size:14px; padding-top:0; margin-=
+top:21px; margin-bottom:20px; padding-bottom:0"> In fact, private lessons=
+ are now the number one way for students to learn to play an instrument, =
+overtaking school lessons in the past few years=2E</span></p>
+ <p style=3D"font-family:Arial, Helvetica, sans-serif; line-height:19px; =
+color:#0d5ca9; font-size:16px; padding-top:0; margin-top:18px; padding-bo=
+ttom:0"> <strong>Why a Bach to Rock franchise=3F</strong></p>
+ <ul style=3D" line-height:24px; font-family:Arial, Helvetica, sans-serif=
+; color:#21201f; font-size:14px;"><table width=3D"35" border=3D"0" align=3D=
+"right" cellpadding=3D"0" cellspacing=3D"0">
+ <tr>
+ <td style=3D"padding:60px 0 0 18px"><a href=3D"http://www=2Ecfmediaview=2E=
+com/lp1=2Easpx=3Fv=3D6=5F925019438=5F44252=5F4" target=3D"=5Fblank"><img =
+src=3D"https://origin=2Eih=2Econstantcontact=2Ecom/fs004/1101758001657/im=
+g/234=2Ejpg" width=3D"241" height=3D"147" border=3D"0"></a></td>
+ </tr>
+ </table><li style=3D"line-height:19px; margin-bottom:5px; mrgin-top:5px"=
+>
+
+ Named a Top Ten franchise by Inc=2E Magazine</li>
+ <li style=3D"line-height:19px; margin-bottom:5px; mrgin-top:5px">Strong =
+margins, attractive returns and recurring revenue</li>
+ <li style=3D"line-height:19px; margin-bottom:5px; mrgin-top:5px">Serving=
+ a wider age range than other franchised music schools, including adults<=
+/li>
+ <li style=3D"line-height:19px; margin-bottom:5px; mrgin-top:5px">Multipl=
+e revenue streams (rent out your recording studio to local bands, host pa=
+rties, and more)</li>
+ <li style=3D"line-height:19px; margin-bottom:5px; mrgin-top:5px">Proprie=
+tary curriculum jump starts your business</li>
+ <li style=3D"line-height:19px; margin-bottom:5px; mrgin-top:5px">Prime t=
+erritories available</li>
+ </ul>
+ <p style=3D"font-family:Arial, Helvetica, sans-serif; line-height:19px; =
+color:#21201f; font-size:14px;">To learn more, simply <a href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F925019438=5F44252=5F5"><stron=
+g>click<http: www=2Eb2rmusic=2Ecom/em%22%3e%3cstrong%3eclick=3D""> here</=
+http:></strong></a>=2E <p>
+<p style=3D"font-family:Arial, Helvetica, sans-serif; line-height:19px; c=
+olor:#21201f; font-size:14px;">After completing the information request f=
+orm, you'll receive information about: </p>
+ <ul style=3D" line-height:24px; font-family:Arial, Helvetica, sans-serif=
+; color:#21201f; font-size:14px;">
+ <li>What territories are available;</li>
+ <li>Exactly what training and support we provide;</li>
+ <li>What your investment will be=2E</li>
+ </ul>
+ <p style=3D"font-family:Arial, Helvetica, sans-serif; color:#21201f; fon=
+t-size:23px; line-height:29px; padding:0; margin:0; text-align:center"><s=
+trong>The curriculum is in place=2E  The market is there=2E <br> Contact =
+us today=2E<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+925019438=5F44252=5F6">
+Click here</a> to learn how=2E=2E=2E</strong></p>
+ <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td style=3D"padding-top:10px"><div align=3D"center"><a href=3D"http://w=
+ww=2Eb2rmusic=2Ecom/EM"></a></div><http: www=2Eb2rmusic=2Ecom/ga%22%3e%3c=
+/a%3e%3c/div%3e%3c/td=3D"">
+ </http:></td></tr>
+ </table>
+ </td></tr>
+ </table>
+ </td></tr>
+ </table>
+ </td></tr>
+ </table>
+ </td></tr>
+ </table>
+ </td></tr>
+ </table>
+ <p>&nbsp;</p>
+ <table width=3D"400" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td><p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px=
+; color:#d7d7d7" align=3D"center">This email was sponsored by:  Bach to R=
+ock<br>
+ 7200 Wisconsin Avenue, Suite 601, Bethesda, MD 20814 USA<br>
+ <br>
+
+ </td></tr>
+</table>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F925019438=5F44252=5F7=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F925019438=5F44252=5F8">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D925019438&msgid=3D44252"></td></tr></table></body>
+</html></custom>
+

@@ -1,0 +1,204 @@
+Return-path: <3ee.1c.929508182.44478.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 30 Apr 2013 12:40:21 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:12284)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.929508182.44478.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UXDbE-00022g-11
+	for chris@sophiahatstudio.com; Tue, 30 Apr 2013 12:40:21 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type; 
+	b=j6GkZmlPvucC5qwtZe5pDoPVVrHCpWb4AJGft66Fo2NXbnvI7atdf6MS7bBbhlK2o1gG4g5gyv939qaaVO1apXvzDw+YZggukbIVgxPaR4r9q2gjPv35eUzRAHqmkKAkL3EeqQ53bvnEg6hHUFBrnTHtJfu4wIPKuJXJlAHD9k8=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1367340024;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type;
+	bh=3iB/bqfw8SOyxdjNz7Z+uaEbwo4=;
+	b=KwONa3bIRRuoBx4lGCXziTL1o2kqxS71sUgynanlJlwsQ2omU1Uw7p1SHxP+OPqSyGV170soAFIaimq/xSvUObsW5J2pdblmPtUf/xG0pvplipaXFCkp0EGKa5vYu+vQepKkygaOEL7mwB13Q+Yx41RNcjEClKsVhll5KiXMFUY=
+X-FBL: M2VlLjFlLjEwODAwMDAwMDU2OTVlZC45Mjk1MDgxODIuNDQ0NzguY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <878098e9-813e-47bc-884a-c7e0e94c495c@newbay.cfmvmail.com>
+From: "Electronic Musician" <subscriptions@electronicmusician.com>
+To: chris@sophiahatstudio.com
+Subject: =?utf-8?B?Q2xhaW0gWW91ciBGcmVlIFN1YnNjcmlwdGlvbiB0byBFbGVj?=
+	=?utf-8?B?dHJvbmljIE11c2ljaWFu?=
+Date: Tue, 30 Apr 2013 12:40:22 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_1084813027433021841164022147"
+X-Spam-Status: No, score=-2.4
+X-Spam-Score: -23
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Claim Your Free Subscription to Electronic Musician Magazine!
+    <http://www.cfmediaview.com/lp1.aspx?v=6_929508182_44478_501> Based on your
+    industry status, you're exactly the kind of person that should be reading
+    every issue of Electronic Musician magazine. [...] 
+ 
+ Content analysis details:   (-2.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -2.4 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Spam-Flag: NO
+
+------=_NextPart_1084813027433021841164022147
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Claim Your Free Subscription to Electronic Musician Magazine!
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F929508182=5F44478=5F=
+501>
+
+Based on your industry status, you're exactly the kind of person that sho=
+uld be reading every issue of Electronic Musician magazine=2E
+
+This is precisely why you've been selected to receive a complimentary sub=
+scription=2E
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F929508182=5F44478=5F=
+502>
+
+Electronic Musician is the ultimate resource for musicians who want to ma=
+ke better music, in the studio or onstage=2E Each month we take you insid=
+e the recording studio and on tour with the world's finest music makers=2E=
+ Every issue includes tips and techniques, gear reviews and insights from=
+ today's top artists=2E
+
+Offer expires at midnight on May 15, 2013=2E
+
+Sincerely,=20
+
+Tom Leader
+Audience Development
+
+This offer is valid for a limited time=2E Publisher reserves the right to=
+ refuse unqualified requests=2E
+
+
+
+You have received this message because you previously gave your email add=
+ress to NewBay Media LLC=2E If you wish to unsubscribe or manage your ema=
+il preferences, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F929508182=5F44478=5F=
+503=5Fchris@sophiahatstudio=2Ecom>
+
+If you wish to change your email address, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F929508182=5F44478=5F=
+504>
+
+To report abuse:
+
+mailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahat=
+studio=2Ecom
+
+NewBay Media LLC
+28 East 28th Street
+12th Floor
+New York, NY 10016
+------=_NextPart_1084813027433021841164022147
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head><title>Digital Vid=
+eo Magazine-Claim Your Free Subscription</title>
+<meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type">=
+</head>
+<body>
+<div align=3D"center"><font style=3D"FONT-SIZE: 10px" face=3D"Arial">Comp=
+limentary Subscription Invitation</font><br></div>
+<table style=3D"BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid; BORDER-=
+TOP: 1px solid; BORDER-RIGHT: 1px solid" cellspacing=3D"0" bordercolor=3D=
+"#17365d" cellpadding=3D"0" width=3D"650" align=3D"center">
+<tbody>
+<tr>
+<td valign=3D"top">
+<table style=3D"WIDTH: 650px" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr align=3D"center">
+<td valign=3D"top" colspan=3D"2"><a href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F929508182=5F44478=5F1" target=3D"=5Fblank"><img sr=
+c=3D"http://www=2Ecfmediaview=2Ecom/templates/NewBay/Electronic%20Musicia=
+n/EMNewBusHeader650px=2Ejpg"></a><br></td></tr>
+<tr>
+<td valign=3D"top"><br></td>
+<td valign=3D"top"><br></td></tr>
+<tr>
+<td style=3D"BACKGROUND-COLOR: rgb(49,133,155)" valign=3D"top" width=3D"2=
+35"><br><br><br>
+<div align=3D"center"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easp=
+x=3Fv=3D6=5F929508182=5F44478=5F2" target=3D"=5Fblank"><img src=3D"http:/=
+/www=2Ecfmediaview=2Ecom/templates/NewBay/Electronic%20Musician/EM=5FApri=
+l-2013-cover-175px=2Ejpg"></a><br></div><br></td>
+<td style=3D"PADDING-LEFT: 5px; WIDTH: 415px">
+<p style=3D"COLOR: rgb(250,141,43); FONT-SIZE: 16px; FONT-WEIGHT: bold"><=
+font color=3D"#002060"><br>Based on your industry status, you're exactly =
+the <br>kind of person that should be reading every issue of <em>Electron=
+ic Musician </em>magazine=2E </font></p>
+<p>This is precisely why you've been selected to receive a <u>complimenta=
+ry subscription</u>=2E</p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F929508182=5F44478=5F3" target=3D"=5Fblank"><img style=3D"B=
+ORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-TOP: 0px solid; B=
+ORDER-RIGHT: 0px solid" alt=3D"Accept" src=3D"http://www=2Ecfmediaview=2E=
+com/templates/NewBay/Electronic%20Musician/accept=5Fbtn=2Ejpg"></a>=20
+<p><em><strong></strong></em><i><b>Electronic Musician</b></i> is the ult=
+imate resource for musicians who want to make better music, in the studio=
+ or onstage=2E Each month we take you inside the recording studio and on =
+tour with the world's finest music makers=2E Every issue includes tips an=
+d techniques, gear reviews and insights from today's top artists=2E </p>
+<p align=3D"center"><strong style=3D"COLOR: rgb(255,0,0)">Offer expires a=
+t midnight on May 15, 2013=2E</strong></p>
+<p>Sincerely,</p><img alt=3D"" src=3D"http://www=2Ecfmediaview=2Ecom/temp=
+lates/NewBay/DV/2012%20Email%20Headers/TL-Signature=5F100=2Ejpg"><br>
+<p>Tom Leader<br>Audience Development</p>
+<p style=3D"FONT-SIZE: 10px">This offer is valid for a limited time=2E Pu=
+blisher reserves the right to refuse unqualified requests=2E<br><br></p>
+<p style=3D"FONT-SIZE: 10px">&nbsp;</p></td></tr>
+<tr>
+<td height=3D"10" valign=3D"middle" colspan=3D"2" align=3D"center"><br></=
+td></tr></tbody></table><br></td></tr></tbody></table><br><br><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F929508182=5F44478=5F4=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F929508182=5F44478=5F5">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D929508182&msgid=3D44478"></body></html>
+------=_NextPart_1084813027433021841164022147--
+

@@ -1,0 +1,273 @@
+Return-path: <3ee.d.1000587039.47300@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 09 Jul 2013 11:34:17 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:33107)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.1000587039.47300@newbay.cfmvmail.com>)
+	id 1UwZvk-0001Mq-MX
+	for chris@sophiahatstudio.com; Tue, 09 Jul 2013 11:34:17 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=pBg3PRTmGtpeZBIdHmGToVs/53xk51UFccwmJxlRuf7NnNI0ZZQOYkOTlK8AChsp76kzYpEaJ1CQ0Nr06+RLO+S1GoCqaJGE2+ETrW+WI+G/sSos5PdVZMw1uVBeqYl5g52kRzoeDLPKBkZPzG2mE+qw9+fxOO8pgggVBryvquM=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1373384064;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=VH/2WTqByxg/Xghus/ArO3w5brY=;
+	b=TZ6exKrioZ87qcV6yuAsaxLQc2R97Gdz6ksRFo19vhrnC2c6os+3d0Nk9UNkLSllugqOsEyrbOufFAsKCTyYwXKMaoe7uZHx6EGWUr19gTrCLcd6UO2StF1GJmgX+2i1yzeol6CJ0jgGSuYFw2MxuUJV1/uAxnfcbXmhGyvHP+c=
+X-FBL: M2VlLjFlLjExNDAwMDAwNDI1Y2M5Yy4xMDAwNTg3MDM5LjQ3MzAwLmNocmlzPXNvcGhpYWhhdHN0dWRpby5jb20=
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Rental & Staging Roadshow" <events@rentalandstaging.com >
+Message-ID: <333559c4-4dfe-4ba0-9b9c-4cd4850204f5@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?V2hvIGlzIGNvbWluZyB0byB0aGUgUmVudGFsICYgU3RhZ2lu?=
+	=?utf-8?B?ZyBSb2Fkc2hvdywgSnVseSAzMSwgTllDPw==?=
+Date: Tue, 9 Jul 2013 11:34:23 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Rental & Staging Roadshow – New York City WED, JULY 31,
+   2013 Metropolitan Pavilion - North Pavilion 110 19th Street, New York NY 10011
+    Register Now! Who is Coming to the Rental & Staging Roadshow? The Rental
+   & Staging Roadshow comes to New York City in just a few weeks, and many professionals
+    have registered so far, including executives from some of the top AV and
+   meeting planning companies in the Northeast. They are coming to learn valuable
+    business and technological lessons to give their company the competitive
+   edge. Is your company represented? [...] 
+ 
+ Content analysis details:   (0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 FH_FROMEML_NOTLD       E-mail address doesn't have TLD (.com, etc.)
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.3 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<title></title>
+<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc=2E All rights reser=
+ved=2E -->
+<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc=2E All rights reser=
+ved=2E -->
+<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc=2E All rights reser=
+ved=2E -->
+<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc=2E All rights reser=
+ved=2E -->
+<style type=3D"text/css">
+<!--
+=2Eheader {
+=09text-align: center;
+}
+body {
+=09background-color: #004A7F;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width=3D"670" border=3D"1" align=3D"center" cellpadding=3D"10" cel=
+lspacing=3D"0">
+ <tbody><tr>
+ <td bgcolor=3D"#FFFFFF" style=3D"font-family: Verdana, Geneva, sans-seri=
+f; font-size: 14px;"><p style=3D"text-align: center"><a href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1000587039=5F47300=5F1" target=
+=3D"=5Fblank"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/ePromos=
+/RSRoadshowNY=5F2013=5Femail=5Fheader=2Ejpg" alt=3D"" name=3D"" width=3D"=
+620" height=3D"358" border=3D"0"></a></p>
+ <p align=3D"center"><font size=3D"4" face=3D"Trebuchet MS, Geneva, Arial=
+, Helvetica, SunSans-Regular, sans-serif"><b><font size=3D"4" face=3D"Tre=
+buchet MS, Geneva, Arial, Helvetica, SunSans-Regular, sans-serif"><font f=
+ace=3D"Arial, Helvetica, sans-serif"><font size=3D"4" face=3D"Trebuchet M=
+S, Geneva, Arial, Helvetica, SunSans-Regular, sans-serif"><strong style=3D=
+"color: #900">Rental & Staging Roadshow =E2=80=93 New York City</strong><=
+strong style=3D"color: #C32224"><br>
+ </strong></font></font></font><font size=3D"4" color=3D"#990000" face=3D=
+"Arial, Helvetica, sans-serif"><b><span class=3D"header" style=3D"color: =
+#000"><strong>WED, JULY 31, 2013<br>
+Metropolitan Pavilion - North Pavilion <br>
+110 19th Street, New York NY 10011</strong></span><br>
+ </b><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10005=
+87039=5F47300=5F2" target=3D"=5Fblank">Register Now!</a></font></b></font=
+></p>
+ <p align=3D"center"><b><span style=3D"font-family: Verdana, Geneva, sans=
+-serif; font-size: 16px;"><strong style=3D"font-size: 24px">Who is Coming=
+ to</strong></span></b><font size=3D"4" face=3D"Trebuchet MS, Geneva, Ari=
+al, Helvetica, SunSans-Regular, sans-serif"><b><span style=3D"font-family=
+: Verdana, Geneva, sans-serif; font-size: 16px;"><strong style=3D"font-si=
+ze: 24px"> the<br>
+ Rental & Staging Roadshow=3F</strong></span></b></font>    </p>
+ <p>The Rental & Staging Roadshow  comes to New York City in just a few w=
+eeks, and many professionals have registered so far, including executives=
+ from some of the top AV and meeting planning companies in the Northeast=2E=
+ They are coming to learn valuable business and technological lessons to =
+give their company the competitive edge=2E <strong style=3D"color: #900">=
+Is your company represented=3F</strong></p>
+ <p><b><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F100=
+0587039=5F47300=5F3" target=3D"=5Fblank">Sign up today</a> =E2=80=94 and =
+bring your co-workers!</b> With Business and Technical Tracks, the Rental=
+ & Staging Roadshow offers something for everyone=2E    </p>
+ <p><b>Companies who are sending high-level representatives to the Roadsh=
+ow include:</b></p>
+ <table width=3D"650" border=3D"0" cellspacing=3D"5" cellpadding=3D"0">
+ <tbody><tr>
+ <td width=3D"317" valign=3D"top" style=3D"font-family: Verdana, Geneva, =
+sans-serif; font-size: 12px;"><p>=E2=80=A2 Advance-Sciences Academy <br>
+=E2=80=A2 Alakazam <br>
+=E2=80=A2 Another Chance Ministries <br>
+=E2=80=A2 BARI ENT=2E <br>
+=E2=80=A2 Barkley Kalpak Agency <br>
+=E2=80=A2 CCR Solutions <br>
+=E2=80=A2 Creative Media, Inc=2E <br>
+=E2=80=A2 CS&A Inc <br>
+=E2=80=A2 DJM FILMS <br>
+=E2=80=A2 DML Consulting Associates&nbsp; <br>
+=E2=80=A2 FX Financial <br>
+=E2=80=A2 HKH Innovations LLC <br>
+=E2=80=A2 IKWIA <br>
+=E2=80=A2 InVNT <br>
+=E2=80=A2 KVL Audio Visual Services <br>
+=E2=80=A2 LED3 <br>
+=E2=80=A2 Lilker Associates - TSG <br>
+=E2=80=A2 M KIM <br>
+=E2=80=A2 Mardi </p></td>
+ <td width=3D"318" valign=3D"top" style=3D"font-family: Verdana, Geneva, =
+sans-serif; font-size: 12px;"><p>=E2=80=A2 Michael Andrews <br>
+=E2=80=A2 MVP International <br>
+=E2=80=A2 New Wave African World <br>
+=E2=80=A2 New York Road Runners <br>
+=E2=80=A2 OCC <br>
+=E2=80=A2 Omnicare Associates, LTD <br>
+=E2=80=A2 Pragman Associates <br>
+=E2=80=A2 Presentation Products <br>
+=E2=80=A2 promotel international <br>
+=E2=80=A2 'R K Systems, llc <br>
+=E2=80=A2 SenovvA, Inc=2E&nbsp; <br>
+=E2=80=A2 SmartSource Rentals&nbsp; <br>
+=E2=80=A2 Snyder Hoffman Associates <br>
+=E2=80=A2 Stage Right, Inc <br>
+=E2=80=A2 TechniCom Audio & Visual <br>
+=E2=80=A2 The Creative Group <br>
+=E2=80=A2 The Entertainment Company=2E Inc <br>
+=E2=80=A2 Verrex <br>
+=E2=80=A2 Visual Sound, Inc=2E <br>
+=E2=80=A2 West End Studio</p></td>
+ </tr>
+ </tbody></table>
+ <hr>
+ <p><font size=3D"2" face=3D"Trebuchet MS, Geneva, Arial, Helvetica, SunS=
+ans-Regular, sans-serif" style=3D"font-family: Verdana, Geneva, sans-seri=
+f">The New York Roadshow exhibit area is heating up as well, with many of=
+ the product and service providers taking advantage of this unique opport=
+unity to reach  customers in an intimate, face-to-face setting=2E</font><=
+/p>
+ <p><font size=3D"2" face=3D"Trebuchet MS, Geneva, Arial, Helvetica, SunS=
+ans-Regular, sans-serif" style=3D"font-family: Verdana, Geneva, sans-seri=
+f"><b>New York Roadshow Showcase exhibitors include</b>:</font></p>
+ <ul>
+ <li>Almo</li><li>Christie</li>
+ <li>Immediate Connections Inc=2E</li>
+ <li>Hire Us Direct, Inc</li>
+ <li>Premier Mounts</li>
+ </ul>
+ <p><font size=3D"2" face=3D"Trebuchet MS, Geneva, Arial, Helvetica, SunS=
+ans-Regular, sans-serif" style=3D"font-family: Verdana, Geneva, sans-seri=
+f"><b>New York Roadshow  exhibitors include</b>:</font></p>
+ <ul>
+ <li>AV Stumpfl</li>
+ <li>Analog Way</li>
+ <li>Conference Rental | USA</li>
+ <li>Drape Kings</li>
+ <li>Epson</li>
+ <li>HRS Controls</li>
+ <li>Infocomm</li>
+ <li>Intellievent</li>
+ <li>Interspace</li>
+ <li>Nationwide Wholesale Video</li>
+ <li>Stampede    </li>
+ </ul>
+ <p style=3D"font-family: Verdana, Geneva, sans-serif; font-size: 14px;">=
+Find out more by visiting <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F1000587039=5F47300=5F4" target=3D"=5Fblank">www=2Eavnetwor=
+k=2Ecom/rentalstagingroadshow</a></p>
+ <p style=3D"font-family: Verdana, Geneva, sans-serif; font-size: 14px;">=
+<strong>Space is limited!</strong> Keep ahead of your competition! <stron=
+g style=3D"color: #B8171C"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F1000587039=5F47300=5F5" target=3D"=5Fblank">Register today=
+!</a></strong></p>
+ <hr>
+ <p><span style=3D"font-family: Verdana, Geneva, sans-serif"><strong styl=
+e=3D"text-align: center; font-family: Verdana, Geneva, sans-serif; font-s=
+ize: 16px;">Platinum Sponsors</strong></span><strong style=3D"text-align:=
+ center"><br>
+ </strong></p>
+ <table width=3D"650" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tbody><tr>
+ <td align=3D"center" valign=3D"top"><img src=3D"http://newsletters=2Enew=
+bay-media=2Ecom/ePromos/ImmediateConnections=5FLogo=5F300px=2Ejpg" width=3D=
+"300" height=3D"77"></td>
+ <td align=3D"center" valign=3D"top"><img src=3D"http://newsletters=2Enew=
+bay-media=2Ecom/ePromos/HireUsDirect=2Epng" width=3D"245" height=3D"121">=
+</td>
+ </tr>
+ </tbody></table>
+ <p><font size=3D"2" face=3D"Trebuchet MS, Geneva, Arial, Helvetica, SunS=
+ans-Regular, sans-serif"><b>LEARN MORE:</b> Keep checking <a href=3D"http=
+://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1000587039=5F47300=5F6" t=
+arget=3D"=5Fblank">www=2Eavnetwork=2Ecom/rentalstagingroadshow</a><a href=
+=3D"http://www=2Eavnetwork=2Ecom/rentalstagingroadshow" target=3D"=5Fblan=
+k"></a> for updates and general information=2E</font></p></td>
+ </tr>
+</tbody></table>
+
+
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F1000587039=5F47300=5F7=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1000587039=5F47300=5F8">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D1000587039&msgid=3D47300"></body></html>
+

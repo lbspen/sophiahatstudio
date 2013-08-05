@@ -1,0 +1,748 @@
+Return-path: <bounce-mc.us2_6610530.1588465-chris=sophiahatstudio.com@mail54.wdc03.rsgsv.net>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 07 May 2013 12:12:05 -0400
+Received: from mail54.wdc03.rsgsv.net ([205.201.131.54]:43659)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <bounce-mc.us2_6610530.1588465-chris=sophiahatstudio.com@mail54.wdc03.rsgsv.net>)
+	id 1UZkUj-0004fm-Fq
+	for chris@sophiahatstudio.com; Tue, 07 May 2013 12:12:05 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail54.wdc03.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=servicepros=3Dthumbtack.com@mail54.wdc03.rsgsv.net;
+ bh=aeBKJE7qq2D/lW3mnWcTllGeov0=;
+ b=kkVwNl3CqCVez++pxiMamBSXI18gCJYXkcAXLjTNrFU1wFbLuqDnEbBVKPLDin0jVTZF4eXny3Di
+   5TQ9Ey+W2gl1rmGy4rlLwKUmZDeydMM+WgbeiA8EcvE6vF6ATHhroz43SYOboOM+cBuig/RE8/XT
+   h3o4lXZXOXNGh9gMjhU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail54.wdc03.rsgsv.net;
+ b=nJX+X6n8TwWyMhnmhVG3SGKQG7dmO4DRtu0v7L/mVLTsInqUDP17crdZCQeYov9056zxAlZ8bBXy
+   N0VtQ2vEhSt3LbMMDrkjboFaHVzhz4Hi0+LfX5bORMuhsA4AdGgTbRI5qsv8FqZxL+QejSUfZZ9H
+   dXCx1tRVzoVaYgKRBYA=;
+Received: from (127.0.0.1) by mail54.wdc03.rsgsv.net (PowerMTA(TM) v3.5r16) id hh4jtg1jvloq for <chris@sophiahatstudio.com>; Tue, 7 May 2013 16:12:06 +0000 (envelope-from <bounce-mc.us2_6610530.1588465-chris=sophiahatstudio.com@mail54.wdc03.rsgsv.net>)
+Subject: =?utf-8?Q?Meet=20the=20Thumbtack=20Service=20Pro=20Advisory=20Council?=
+From: =?utf-8?Q?Thumbtack.com?= <servicepros@thumbtack.com>
+Reply-To: =?utf-8?Q?Thumbtack.com?= <servicepros@thumbtack.com>
+To: =?utf-8?Q?Chris=20Spencer?= <chris@sophiahatstudio.com>
+Date: Tue, 7 May 2013 16:12:06 +0000
+Message-ID: <5c8fe6382202ffeef15b8067cd35d644970.20130507161143@mail54.wdc03.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID586f76bdf5d35d644970**
+X-Campaign: mailchimp5c8fe6382202ffeef15b8067c.586f76bdf5
+X-campaignid: mailchimp5c8fe6382202ffeef15b8067c.586f76bdf5
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=5c8fe6382202ffeef15b8067c&id=586f76bdf5&e=d35d644970
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-5c8fe6382202ffeef15b8067c-586f76bdf5-d35d644970@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://thumbtack.us2.list-manage.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=586f76bdf5>
+Sender: "Thumbtack.com" <servicepros=thumbtack.com@mail54.wdc03.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1956769796"
+MIME-Version: 1.0
+X-Spam-Status: No, score=-0.9
+X-Spam-Score: -8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  You received this newsletter as a valued Thumbtack Service
+    Pro. Unsubscribe (http://thumbtack.us2.list-manage.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=586f76bdf5)
+    from Thumbtack's Service Pro Newsletter. Email not displaying correctly?
+   View it in your browser (http://us2.campaign-archive1.com/?u=5c8fe6382202ffeef15b8067c&id=586f76bdf5&e=d35d644970)
+    . Thumbtack: Find and Book Trustworthy Local Services [...] 
+ 
+ Content analysis details:   (-0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.2 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_QP_LONG_LINE      RAW: Quoted-printable line longer than 76 chars
+  0.3 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1956769796
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+You received this newsletter as a valued Thumbtack Service Pro.
+Unsubscribe (http://thumbtack.us2.list-manage.com/unsubscribe?u=3D5c8fe638=
+2202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D586f76bdf5)  from Thumb=
+tack's Service Pro Newsletter.
+------------------------------------------------------------
+Email not displaying correctly?
+View it in your browser (http://us2.campaign-archive1.com/?u=3D5c8fe638220=
+2ffeef15b8067c&id=3D586f76bdf5&e=3Dd35d644970) .
+Thumbtack: Find and Book Trustworthy Local Services
+
+Dear Service Pro -
+
+We're constantly looking for ways to improve and serve you better - that's=
+ why we're always sending out surveys, digging through customer support em=
+ails, and talking on the phone with individual Pros. But we wanted to get=
+ even deeper and develop more ongoing feedback from our most engaged Pros,=
+ so we formed the Thumbtack Service Pro Advisory Council.
+
+Last month, the Council gathered here in our HQ for its inaugural meeting.=
+ It was a real treat to have a Photographer (http://thumbtack.us2.list-man=
+age1.com/track/click?u=3D5c8fe6382202ffeef15b8067c&id=3D768c28af07&e=3D=
+d35d644970) , General Contractor (http://thumbtack.us2.list-manage.com/=
+track/click?u=3D5c8fe6382202ffeef15b8067c&id=3D39dbd92c92&e=3D=
+d35d644970) , Web Designer (http://thumbtack.us2.list-manage.com/track/click?u=
+=3D5c8fe6382202ffeef15b8067c&id=3D7e1adf50f0&e=3Dd35d644970) and Hou=
+se Cleaner (http://thumbtack.us2.list-manage.com/track/click?u=3D5c8fe6382=
+202ffeef15b8067c&id=3D50ee122423&e=3Dd35d644970)  around the same ta=
+ble discussing their jobs and sharing their valuable suggestions for how w=
+e can improve. We=E2=80=99re now hard at work incorporating those suggesti=
+ons into new features and services on our site - including ways to get you=
+ better information before you pay to quote.
+
+Council members Roi, Jay, Josey, and John
+
+We always want to hear from our Service Pros - feel free to reply to this=
+ email if you have any suggestions for us on how to improve.
+Your Advocate,
+
+Luke McGowan
+Small Business Advocate
+Thumbtack.com
+P.S. Because we only succeed when you do, we've begun to do more to highli=
+ght successful Service Pros who have grown their businesses using Thumbtac=
+k. Check out our Service Pro success stories (http://thumbtack.us2.list-ma=
+nage2.com/track/click?u=3D5c8fe6382202ffeef15b8067c&id=3Dbf0e7697f3&e=3D=
+d35d644970) .
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Copyright =C2=A9 2013 Thumbtack, All rights reserved.
+ This email was sent to you because you are a member of Thumbtack and are=
+ opted into updates.
+
+Our mailing address is:
+Thumbtack
+454 Natoma St
+San Francisco, CA 94103
+** Follow on Twitter (https://www.twitter.com/thumbtack/
+
+)
+** Friend on Facebook (#
+
+)
+** Forward to Friend (http://us2.forward-to-friend1.com/forward?u=3D5c8fe6=
+382202ffeef15b8067c&id=3D586f76bdf5&e=3Dd35d644970)
+** Unsubscribe from this list (http://thumbtack.us2.list-manage.com/unsubs=
+cribe?u=3D5c8fe6382202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D586f7=
+6bdf5)
+--_----------=_MCPart_1956769796
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>Meet the Thumbtack Service Pro Advisory Council</title>
+=09=09
+    <style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table,td{
+=09=09=09border-collapse:collapse !important;
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#bodyTable,#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09#templateContainer{
+=09=09=09width:600px;
+=09=09}
+=09=09body,#bodyTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09h1{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:24px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:20px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:14px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#dddddd;
+=09=09=09border-top:0;
+=09=09=09border-bottom:1px none #cccccc;
+=09=09}
+=09=09.preheaderContent{
+=09=09=09color:#888888;
+=09=09=09font-family:Arial;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent a:link,.preheaderContent a:visited,.preheaderConte=
+nt a .yshortcuts {
+=09=09=09color:#303030;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#ffffff;
+=09=09=09border-top:10px solid #DDDDDD;
+=09=09=09border-bottom:1px solid #cccccc;
+=09=09=09padding:0px;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#363636;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:20px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding-top:40px;
+=09=09=09padding-right:0;
+=09=09=09padding-bottom:20px;
+=09=09=09padding-left:0;
+=09=09=09text-align:right;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link,.headerContent a:visited,.headerContent a .ysh=
+ortcuts {
+=09=09=09color:#363636;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#fafafa;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContent{
+=09=09=09color:#444444;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09padding-top:20px;
+=09=09=09padding-bottom:40px;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcut=
+s {
+=09=09=09color:#000000;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09body,#bodyTable{
+=09=09=09background-color:#DDDDDD;
+=09=09}
+=09=09#templateFooter{
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContent{
+=09=09=09color:#888888;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:10px;
+=09=09=09line-height:110%;
+=09=09=09padding-top:20px;
+=09=09=09padding-bottom:20px;
+=09=09=09text-align:right;
+=09=09}
+=09=09.footerContent a:link,.footerContent a:visited,.footerContent a .ysh=
+ortcuts,.footerContent a span {
+=09=09=09color:#363636;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09=09max-width:600 !important;
+=09=09}
+=09@media only screen and (max-width: 500px){
+=09=09body,table,td,p,a,li,blockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09body{
+=09=09=09width:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09table[class=3DtemplateContainer]{
+=09=09=09max-width:600px !important;
+=09=09=09width:250px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h1{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09img[id=3DheaderImage]{
+=09=09=09height:auto !important;
+=09=09=09max-width:125px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DheaderContent]{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:150% !important;
+=09=09=09padding-top:20px !important;
+=09=09=09padding-right:10px !important;
+=09=09=09padding-bottom:20px !important;
+=09=09=09padding-left:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DbodyContent]{
+=09=09=09font-size:17px !important;
+=09=09=09line-height:150% !important;
+=09=09=09padding-right:10px !important;
+=09=09=09padding-left:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DfooterContent]{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09=09padding-right:10px !important;
+=09=09=09padding-left:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DfooterContent] a{
+=09=09=09display:block !important;
+=09=09}
+
+}=09=09.bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcu=
+ts{
+=09=09=09color:#38a2ce;
+=09=09}
+=09=09.headerContent a:link,.headerContent a:visited,.headerContent a .ysh=
+ortcuts{
+=09=09=09color:#38a2ce;
+=09=09}
+=09=09.footerContent a:link,.footerContent a:visited,.footerContent a .ysh=
+ortcuts,.footerContent a span{
+=09=09=09color:#38a2ce;
+=09=09}
+=09=09.preheaderContent a:link,.preheaderContent a:visited,.preheaderConte=
+nt a .yshortcuts{
+=09=09=09color:#38a2ce;
+=09=09}
+</style></head>
+    <body style=3D"margin: 0;padding: 0;background-color: #DDDDDD;">
+    =09<center>
+        =09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"mso-tab=
+le-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;background-color=
+: #DDDDDD;border-collapse: collapse !important;height: 100% !important;wid=
+th: 100% !important;">
+            =09<tr>
+                =09<td align=3D"center" height=3D"100%" valign=3D"top" wid=
+th=3D"100%" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-co=
+llapse: collapse !important;">
+                    =09<!-- BEGIN PREHEADER -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"templatePreheader" style=3D"mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;background-color: #dddddd;border-top: 0;border-=
+bottom: 1px none #cccccc;border-collapse: collapse !important;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" style=3D"mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;border-collapse: collapse !important;">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;color:=
+ #888888;font-family: Arial;font-size: 11px;line-height: 125%;padding-top:=
+ 10px;padding-bottom: 10px;text-align: left;border-collapse: collapse !imp=
+ortant;"><div style=3D"text-align: left; ">
+=09<span style=3D"font-size:11px;"><font face=3D"Lucida Grande, arial, san=
+s-serif"><span style=3D"line-height: 20px; ">You received this newsletter=
+ as a valued Thumbtack Service Pro.&nbsp;</span></font><br>
+=09<span style=3D"font-family: arial, helvetica, sans-serif; "><a href=3D"=
+http://thumbtack.us2.list-manage.com/unsubscribe?u=3D5c8fe6382202ffeef15b8=
+067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D586f76bdf5" target=3D"_blank" style=
+=3D"color: #38a2ce;font-weight: normal;text-decoration: underline;">Unsubs=
+cribe</a>&nbsp;from&nbsp;Thumbtack&#39;s Service Pro Newsletter.&nbsp;</sp=
+an></span></div>
+</td>
+                                            <!--
+ -->
+=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"220" class=3D=
+"preheaderContent" style=3D"padding-left: 20px;mso-table-lspace: 0pt;mso-t=
+able-rspace: 0pt;color: #888888;font-family: Arial;font-size: 11px;line-he=
+ight: 125%;padding-top: 10px;padding-bottom: 10px;text-align: left;border-=
+collapse: collapse !important;"><span style=3D"font-size:11px;"><span styl=
+e=3D"font-family: arial, helvetica, sans-serif; ">Email not displaying cor=
+rectly?<br>
+<a href=3D"http://us2.campaign-archive1.com/?u=3D5c8fe6382202ffeef15b8067c=
+&id=3D586f76bdf5&e=3Dd35d644970" target=3D"_blank" style=3D"color: #38a2ce;f=
+ont-weight: normal;text-decoration: underline;">View it in your browser</a=
+>.</span></span> </td>
+=09=09=09=09=09=09=09=09=09=09=09<!--
+ -->
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END PREHEADER -->
+                    =09<!-- BEGIN TEMPLATE SECTIONS -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;border-collapse: collapse !important;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                =09<!-- BEGIN HEADER -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateHeader" style=3D"mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;background-color: #ffffff;border-top: 10p=
+x solid #DDDDDD;border-bottom: 1px solid #cccccc;padding: 0px;border-colla=
+pse: collapse !important;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse:=
+ collapse !important;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collaps=
+e !important;">
+                                                =09<tr>
+                                                        <td class=3D"heade=
+rContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #363=
+636;font-family: Verdana;font-size: 20px;font-weight: bold;line-height: 10=
+0%;padding-top: 40px;padding-right: 0;padding-bottom: 20px;padding-left: 0=
+;text-align: right;vertical-align: middle;border-collapse: collapse !impor=
+tant;">
+                                                            <div style=3D"=
+text-align: left;"><img src=3D"http://gallery.mailchimp.com/5c8fe6382202ff=
+eef15b8067c/images/header_crisp_2.jpg" alt=3D"Thumbtack: Find and Book Tru=
+stworthy Local Services" border=3D"0" style=3D"border: px none;border-colo=
+r: ;border-style: none;border-width: px;height: 88px;width: 600px;margin:=
+ 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decora=
+tion: none;" width=3D"600" height=3D"88" id=3D"headerImage"></div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END HEADER -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                =09<!-- BEGIN BODY -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateBody" style=3D"mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;background-color: #fafafa;border-top: 0;bor=
+der-bottom: 0;border-collapse: collapse !important;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse:=
+ collapse !important;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collaps=
+e !important;">
+                                                =09<tr>
+                                                        <td valign=3D"top"=
+ class=3D"bodyContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #444444;font-family: Arial;font-size: 14px;line-height: 150%;padd=
+ing-top: 20px;padding-bottom: 40px;text-align: left;border-collapse: colla=
+pse !important;"><br>
+<br>
+Dear Service Pro -<br>
+<div>
+=09<div id=3D"intro_title">
+=09=09<div id=3D"main_text">
+=09=09=09<div dir=3D"ltr">
+=09=09=09=09<p dir=3D"ltr">
+=09=09=09=09=09We&#39;re constantly looking for ways to improve and serve=
+ you better - that&#39;s why we&#39;re always sending out&nbsp;surveys,&nb=
+sp;digging through customer support emails, and talking on the phone with=
+ individual Pros. But we wanted to get even deeper and develop more ongoin=
+g feedback from our most engaged Pros, so we formed the Thumbtack Service=
+ Pro Advisory Council.</p>
+=09=09=09=09<p dir=3D"ltr">
+=09=09=09=09=09Last month, the Council gathered here in our HQ for its ina=
+ugural meeting. It was a real treat to have a <a href=3D"http://thumbtack.=
+us2.list-manage1.com/track/click?u=3D5c8fe6382202ffeef15b8067c&id=3D302380=
+ceab&e=3Dd35d644970" target=3D"_self" style=3D"color: #38a2ce;font-weight=
+: normal;text-decoration: underline;">Photographer</a>, <a href=3D"http://=
+thumbtack.us2.list-manage.com/track/click?u=3D5c8fe6382202ffeef15b8067c&id=
+=3D11a64097a3&e=3Dd35d644970" target=3D"_self" style=3D"color: #38a2ce;fo=
+nt-weight: normal;text-decoration: underline;">General Contractor</a>, <a=
+ href=3D"http://thumbtack.us2.list-manage.com/track/click?u=3D5c8fe6382202=
+ffeef15b8067c&id=3Dafa1f3be2d&e=3Dd35d644970" target=3D"_self" style=3D"c=
+olor: #38a2ce;font-weight: normal;text-decoration: underline;">Web Designe=
+r</a> and&nbsp;<a href=3D"http://thumbtack.us2.list-manage.com/track/click=
+?u=3D5c8fe6382202ffeef15b8067c&id=3D79599461cb&e=3Dd35d644970" target=3D"=
+_self" style=3D"color: #38a2ce;font-weight: normal;text-decoration: underl=
+ine;">House Cleaner</a>&nbsp;around the same table discussing their jobs a=
+nd sharing their valuable suggestions for how we can improve. We&rsquo;re=
+ now hard at work incorporating those suggestions into new features and se=
+rvices on our site - including ways to get you better information before y=
+ou pay to quote.&nbsp;</p>
+=09=09=09=09<div style=3D"text-align: center;">
+=09=09=09=09=09<b id=3D"docs-internal-guid-0e52da4d-67b7-b542-2dca-8c80869=
+6d2a3" style=3D"color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-=
+size: medium; line-height: normal; font-weight: normal;"><img height=3D"41=
+6px;" src=3D"https://lh3.googleusercontent.com/PX8Rnd6aU21XlviixNP_EMg7SfW=
+xqy8Tlt9cbJdlSJ1sxJGqU5pMSSi1jItF9ItPetDfvjtLuFKrLJChiYIbyTOHraioyM7EPIo8U=
+sSna263iGE6zYLBAZ__Uw" width=3D"578px;" style=3D"border: 0;height: auto;li=
+ne-height: 100%;outline: none;text-decoration: none;display: inline;max-wi=
+dth: 600px !important;"></b></div>
+=09=09=09=09<p dir=3D"ltr" style=3D"text-align: center;">
+=09=09=09=09=09<em>Council members Roi, Jay, Josey, and John</em></p>
+=09=09=09=09<p dir=3D"ltr">
+=09=09=09=09=09We always want to hear from our Service Pros - feel free to=
+ reply to this email if you have any suggestions for us on how to improve.=
+&nbsp;</p>
+=09=09=09=09Your Advocate,<br>
+=09=09=09=09&nbsp;</div>
+=09=09</div>
+=09=09<div id=3D"main_text">
+=09=09=09<img src=3D"http://gallery.mailchimp.com/5c8fe6382202ffeef15b8067=
+c/images/luke_sig_orange.png" style=3D"border: 0;height: auto;line-height:=
+ 100%;outline: none;text-decoration: none;display: inline;max-width: 600px=
+ !important;"><br>
+=09=09=09<br>
+=09=09=09<span style=3D"color:#808080;">Luke McGowan<br>
+=09=09=09Small Business Advocate<br>
+=09=09=09Thumbtack.com</span></div>
+=09</div>
+</div>
+<div style=3D"text-align: left;">
+=09<br>
+=09P.S. Because we only succeed when you do,&nbsp;we&#39;ve&nbsp;begun to=
+ do more to highlight successful Service Pros who have grown their busines=
+ses using Thumbtack. Check out our&nbsp;<a href=3D"http://thumbtack.us2.li=
+st-manage.com/track/click?u=3D5c8fe6382202ffeef15b8067c&id=3D9b25208b40&e=
+=3Dd35d644970" style=3D"color: #38a2ce;font-weight: normal;text-decoratio=
+n: underline;">Service Pro success stories</a>.&nbsp;</div>
+<br>
+</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END BODY -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                    <!-- BEGIN FOOTER -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templateFooter" style=3D"mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;border-top: 0;border-bottom: 0;border-c=
+ollapse: collapse !important;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse=
+: collapse !important;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collaps=
+e !important;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;color: #888888;font-family: Verdana;font-size: 10px;line-height: 110%=
+;padding-top: 20px;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"><div style=3D"text-align: left; ">
+=09<a href=3D"https://www.twitter.com/thumbtack/" style=3D"color: #38a2ce;=
+font-weight: normal;text-decoration: underline;">Follow on Twitter</a>&nbs=
+p;&nbsp;&nbsp;&nbsp;<a href=3D"#" style=3D"color: #38a2ce;font-weight: nor=
+mal;text-decoration: underline;">Friend on Facebook</a>&nbsp;&nbsp;&nbsp;&=
+nbsp;<a href=3D"http://us2.forward-to-friend1.com/forward?u=3D5c8fe6382202=
+ffeef15b8067c&id=3D586f76bdf5&e=3Dd35d644970" style=3D"color: #38a2ce;font-w=
+eight: normal;text-decoration: underline;">Forward to Friend</a><br>
+=09<br>
+=09<br>
+=09<a href=3D"http://thumbtack.us2.list-manage.com/unsubscribe?u=3D5c8fe63=
+82202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D586f76bdf5" target=3D"=
+_blank" style=3D"color: #38a2ce;font-weight: normal;text-decoration: under=
+line;">Unsubscribe from this list</a></div>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;=
+line-height: 110%;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"><div style=3D"text-align: left; ">
+=09<em>Copyright &copy; 2013 Thumbtack, All rights reserved.</em></div>
+<div style=3D"text-align: left; ">
+=09
+ This email was sent to you because you are a member of Thumbtack and are=
+ opted into updates.<br>
+=09<br>
+=09<strong>Our mailing address is:</strong><br>
+=09<div class=3D"vcard"><span class=3D"org fn">Thumbtack</span><div class=
+=3D"adr"><div class=3D"street-address">454 Natoma St</div><span class=3D"l=
+ocality">San Francisco</span>, <span class=3D"region">CA</span>  <span cla=
+ss=3D"postal-code">94103</span></div><br><a href=3D"http://thumbtack.us2.l=
+ist-manage.com/vcard?u=3D5c8fe6382202ffeef15b8067c&id=3Dd6612ad2c7" class=
+=3D"hcard-download">Add us to your address book</a></div>
+</div>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;=
+line-height: 110%;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;=
+line-height: 110%;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://thumbtack.us2.list-manage.com/track/open.php?u=3D5c=
+8fe6382202ffeef15b8067c&id=3D586f76bdf5&e=3Dd35d644970" height=3D"1" widt=
+h=3D"1"></body>
+</html>
+--_----------=_MCPart_1956769796--

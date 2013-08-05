@@ -1,0 +1,331 @@
+Return-path: <3ee.d.972998563.46137@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 11 Jun 2013 10:11:02 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:15304)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.972998563.46137@newbay.cfmvmail.com>)
+	id 1UmPHp-0000wa-0L
+	for chris@sophiahatstudio.com; Tue, 11 Jun 2013 10:11:01 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=ki+7vK4QsLPzUjWi4V63yrR65d7lx09cj8L2CKX7WCzHHHgWLQyN7zdpn3ePt9YjQs3LQ3HSTvQbD6Ov1p+I47cKj5ejq7N95C+02BKNZ/030XIkgEo90r4qXiVOk895sXrrJ+RLv9rerfnPkCJ0TFs1I6xvIbD+h10636apnDU=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1370959868;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=kt4xfmdE+K2E03n53mcZlxj9ebc=;
+	b=UzEeCaur7y9xBhEMovgpGKvy3VrXcvYBicMCA44wqebUaUKOxFdZ8b4TmUtOVV0h3KaM6udUQx6SieePFS/qSSOyziWFHk855uIZBsrQyqyqtMCUzWLOWXOSn4hNEA9wc0U+3hndSun3dxRIhmDOWMy+9iA9HBi3dPmjXFJ2UbU=
+X-FBL: M2VlLjFlLjExNDAwMDAwMWUyMGUxMS45NzI5OTg1NjMuNDYxMzcuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Panasas Inc." <partners@newbay-media.com>
+Message-ID: <c32a9ccb-0467-4f02-8164-2e1eb7924f42@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?QnVpbGRpbmcgYW4gSVQgaW5mcmFzdHJ1Y3R1cmUgdG8gc3Vw?=
+	=?utf-8?B?cG9ydCBtZWRpYSBwcm9kdWN0aW9u?=
+Date: Tue, 11 Jun 2013 10:11:07 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Panasas Products Solutions Blog News & Events Company WEBINAR:
+    Build a secure, simple asset management solution to support distributed digital
+    media production workflows. [...] 
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2E01 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/html4/loose=2Edtd"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+
+<title>Panasas</title>
+
+<style type=3D"text/css">
+ =2EExternalClass{display:block !important;}
+ =2Eyshortcuts, =2Eyshortcuts a, =2Eyshortcuts a:link, =2Eyshortcuts a:vi=
+sited, =2Eyshortcuts a:hover, =2Eyshortcuts a span{
+ color:#336699;
+ text-decoration:none !important;
+ border-bottom:none !important;=20
+ background:none !important;
+ }
+ p{margin:0 !important;}
+</style>
+</head>
+<body marginheight=3D"0" marginwidth=3D"0" leftmargin=3D"0" topmargin=3D"=
+0" bgcolor=3D"#333333">
+<style type=3D"text/css">
+ =2EExternalClass{display:block !important;}
+ =2Eyshortcuts, =2Eyshortcuts a, =2Eyshortcuts a:link, =2Eyshortcuts a:vi=
+sited, =2Eyshortcuts a:hover, =2Eyshortcuts a span{
+ color:#336699;
+ text-decoration:none !important;
+ border-bottom:none !important;=20
+ background:none !important;
+ }
+ p{margin:0 !important;}
+</style>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#333=
+333"><tbody><tr><td width=3D"50%"></td>
+<td><table cellspacing=3D"0" cellpadding=3D"0" width=3D"562"><tbody><tr>
+<td bgcolor=3D"#F5F5F5">
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td height=3D"10" colspan=3D"5"></td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"40"></td>
+<td valign=3D"top" width=3D"122"><a href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F972998563=5F46137=5F1"><img border=3D"0" hspace=3D=
+"0" alt=3D"Panasas" vspace=3D"0" align=3D"left" src=3D"http://performance=
+=2Epanasas=2Ecom/rs/panasas/images/logo-092911=2Egif" width=3D"122" heigh=
+t=3D"45"></a></td>
+<td valign=3D"top" width=3D"140"></td>
+<td valign=3D"top" width=3D"223">
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td style=3D"TEXT-ALIGN: right; LINE-HEIGHT: 14px; FONT-SIZE: 11px" align=
+=3D"right"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign=3D"top" width=3D"37"></td>
+</tr>
+<tr>
+<td height=3D"9" colspan=3D"5"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"TEXT-ALIGN: center" bgcolor=3D"#666666" align=3D"middle">
+<table style=3D"TEXT-ALIGN: center" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"100%" align=3D"center">
+<tbody>
+<tr>
+<td width=3D"40"></td>
+<td style=3D"LINE-HEIGHT: 0; FONT-SIZE: 0px"><img hspace=3D"0" alt=3D"ima=
+ge description" vspace=3D"0" src=3D"http://performance=2Epanasas=2Ecom/rs=
+/panasas/images/sep01-092911=2Egif" width=3D"2" height=3D"27"></td>
+<td style=3D"LINE-HEIGHT: 15px; FONT-SIZE: 11px"><a style=3D"COLOR: #dbdb=
+db; TEXT-DECORATION: none" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Ea=
+spx=3Fv=3D6=5F972998563=5F46137=5F2"><font style=3D"LINE-HEIGHT: 15px; FO=
+NT-SIZE: 11px" color=3D"#DBDBDB" size=3D"1" face=3D"Arial, Helvetica, san=
+s-serif"><font color=3D"#DBDBDB">Products</font></font></a></td>
+<td style=3D"LINE-HEIGHT: 0; FONT-SIZE: 0px"><img hspace=3D"0" alt=3D"ima=
+ge description" vspace=3D"0" src=3D"http://performance=2Epanasas=2Ecom/rs=
+/panasas/images/sep01-092911=2Egif" width=3D"2" height=3D"27"></td>
+<td style=3D"LINE-HEIGHT: 15px; FONT-SIZE: 11px"><a style=3D"COLOR: #dbdb=
+db; TEXT-DECORATION: none" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Ea=
+spx=3Fv=3D6=5F972998563=5F46137=5F3"><font style=3D"LINE-HEIGHT: 15px; FO=
+NT-SIZE: 11px" color=3D"#DBDBDB" size=3D"1" face=3D"Arial, Helvetica, san=
+s-serif"><font color=3D"#DBDBDB">Solutions</font></font></a></td>
+<td style=3D"LINE-HEIGHT: 0; FONT-SIZE: 0px"><img hspace=3D"0" alt=3D"ima=
+ge description" vspace=3D"0" src=3D"http://performance=2Epanasas=2Ecom/rs=
+/panasas/images/sep01-092911=2Egif" width=3D"2" height=3D"27"></td>
+<td style=3D"LINE-HEIGHT: 15px; FONT-SIZE: 11px"><a style=3D"COLOR: #dbdb=
+db; TEXT-DECORATION: none" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Ea=
+spx=3Fv=3D6=5F972998563=5F46137=5F4"><font style=3D"LINE-HEIGHT: 15px; FO=
+NT-SIZE: 11px" color=3D"#DBDBDB" size=3D"1" face=3D"Arial, Helvetica, san=
+s-serif"><font color=3D"#DBDBDB">Blog</font></font></a></td>
+<td style=3D"LINE-HEIGHT: 0; FONT-SIZE: 0px"><img hspace=3D"0" alt=3D"ima=
+ge description" vspace=3D"0" src=3D"http://performance=2Epanasas=2Ecom/rs=
+/panasas/images/sep01-092911=2Egif" width=3D"2" height=3D"27"></td>
+<td style=3D"LINE-HEIGHT: 15px; FONT-SIZE: 11px"><a style=3D"COLOR: #dbdb=
+db; TEXT-DECORATION: none" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Ea=
+spx=3Fv=3D6=5F972998563=5F46137=5F5"><font style=3D"LINE-HEIGHT: 15px; FO=
+NT-SIZE: 11px" color=3D"#DBDBDB" size=3D"1" face=3D"Arial, Helvetica, san=
+s-serif"><font color=3D"#DBDBDB">News & Events</font></font></a></td>
+<td style=3D"LINE-HEIGHT: 0; FONT-SIZE: 0px"><img hspace=3D"0" alt=3D"ima=
+ge description" vspace=3D"0" src=3D"http://performance=2Epanasas=2Ecom/rs=
+/panasas/images/sep01-092911=2Egif" width=3D"2" height=3D"27"></td>
+<td style=3D"LINE-HEIGHT: 15px; FONT-SIZE: 11px"><a style=3D"COLOR: #dbdb=
+db; TEXT-DECORATION: none" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Ea=
+spx=3Fv=3D6=5F972998563=5F46137=5F6"><font style=3D"LINE-HEIGHT: 15px; FO=
+NT-SIZE: 11px" color=3D"#DBDBDB" size=3D"1" face=3D"Arial, Helvetica, san=
+s-serif"><font color=3D"#DBDBDB">Company</font></font></a></td>
+<td style=3D"LINE-HEIGHT: 0; FONT-SIZE: 0px"><img hspace=3D"0" alt=3D"ima=
+ge description" vspace=3D"0" src=3D"http://performance=2Epanasas=2Ecom/rs=
+/panasas/images/sep01-092911=2Egif" width=3D"2" height=3D"27"></td>
+<td width=3D"40"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"LINE-HEIGHT: 0; FONT-SIZE: 0px"><img border=3D"0" hspace=3D"=
+0" alt=3D"big data webinar header image" vspace=3D"0" align=3D"left" src=3D=
+"http://performance=2Epanasas=2Ecom/rs/panasas/images/img01-092911=2Ejpg"=
+ width=3D"640" style=3D"display:block;"></td>
+</tr>
+<tr><td bgcolor=3D"#FFFFFF"><table cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"100%"><tbody><tr>
+<td height=3D"15"></td>
+</tr>
+<tr><td width=3D"20"><img src=3D"http://performance=2Epanasas=2Ecom/rs/pa=
+nasas/images/spacer=2Epng" width=3D"20" height=3D"35" border=3D"0" alt=3D=
+"spacer"></td>
+<td valign=3D"top" width=3D"522"><table border=3D"0" cellspacing=3D"5" ce=
+llpadding=3D"0" width=3D"620"><tr>
+<td colspan=3D"3" style=3D"font-family:Helvetica, Arial, Verdana, sans-se=
+rif; font-size:17px; line-height:1=2E2em; color:#000000;" valign=3D"top" =
+align=3D"left">
+<p><span style=3D"line-height: 26px; text-transform: uppercase; font-fami=
+ly: Arial, Helvetica, sans-serif; color: #336699; font-size: medium;"><st=
+rong>WEBINAR: <span =5Fmce=5Fstyle=3D"font-family: arial,helvetica,sans-s=
+erif; font-size: 18px;"><strong>Build a   secure, simple asset management=
+ solution to support distributed digital media   production workflows=2E
+</strong></span></strong></span><br>
+<br></p>
+<p><span =5Fmce=5Fstyle=3D"font-size: 16px;">Overcoming the   complexitie=
+s of file-based,digital workflows</span></p>
+</td>
+</tr>
+<tr><td width=3D"100%" valign=3D"top" align=3D"left" style=3D"font-family=
+:Helvetica, Arial, Verdana, sans-serif; font-size:12px; line-height:1=2E4=
+em; color:#000000; "><div class=3D"mktEditable" id=3D"main=5Ftext"><br>
+<p>Listen to Jack Chew, Video Operations Manager at Calvary Chapel, Geoff=
+rey Noer, Senior Director of Product Marketing at Panasas, and CT Chu, Pr=
+oduct Manager for DataRunner at Panasas, discuss how to implement high pe=
+rformance, scale-out NAS to satisfy file security, performance, capacity =
+and scaling requirements for renderring, post-production and other bandwi=
+dth intensive media workloads=2E
+</p>
+<p>&nbsp;</p>
+<p><strong>You will learn:</strong></p>
+<p><img src=3D"http://performance=2Epanasas=2Ecom/rs/panasas/images/arrow=
+=2Epng" border=3D"0" alt=3D"arrow" hspace=3D"5" vspace=3D"1" width=3D"7" =
+height=3D"7">How to build an IT infrastructure capable of supporting a va=
+riety of media workflows<br>
+<img src=3D"http://performance=2Epanasas=2Ecom/rs/panasas/images/arrow=2E=
+png" border=3D"0" alt=3D"arrow" hspace=3D"5" vspace=3D"1" width=3D"7" hei=
+ght=3D"7">How to benefit from a scalable file system with "pay-as-you-gro=
+w" features<br>
+<img src=3D"http://performance=2Epanasas=2Ecom/rs/panasas/images/arrow=2E=
+png" border=3D"0" alt=3D"arrow" hspace=3D"5" vspace=3D"1" width=3D"7" hei=
+ght=3D"7">How to reduce complexity and easily manage an all-digital stora=
+ge infrastructure
+</p>
+<p>&nbsp;</p>
+<img border=3D"0" hspace=3D"0" alt=3D"bioteam logo" vspace=3D"0" align=3D=
+"right" src=3D"http://performance=2Epanasas=2Ecom/rs/panasas/images/Calva=
+ry-Chapel-FTL=2Ejpg">
+<p>For immediate information on accelerating media workflows with high a =
+performance parallel file system, please download our solutions brief - <=
+a style=3D"color: #369; text-decoration: none;" href=3D"http://www=2Ecfme=
+diaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972998563=5F46137=5F7" target=3D"=5Fbl=
+ank"><span style=3D"color: #336699;">Accelerating Digital Workflows for M=
+edia and Entertainment</span></a></p>
+<p>&nbsp;</p>
+<p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9729985=
+63=5F46137=5F8" target=3D"=5Fblank"><img title=3D"Register Now" src=3D"ht=
+tp://performance=2Epanasas=2Ecom/rs/panasas/images/watch=5Fnow=2Epng" bor=
+der=3D"0" alt=3D"Watch Now"></a></p>
+<p>&nbsp;</p>
+<p>Best Regards,<br>
+Panasas Team<br>
+<a style=3D"color: #369; text-decoration: none;" href=3D"http://www=2Ecfm=
+ediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972998563=5F46137=5F9" target=3D"=5Fb=
+lank"><span style=3D"color: #336699;">www=2Epanasas=2Ecom</span></a></p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D"20"></td>
+</tr>
+<tr>
+<td height=3D"19"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"7"></td>
+</tr>
+<tr>
+<td>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td width=3D"20"></td>
+<td style=3D"TEXT-ALIGN: right; LINE-HEIGHT: 12px; FONT-SIZE: 10px" valig=
+n=3D"top" width=3D"526" align=3D"right"><font style=3D"LINE-HEIGHT: 12px;=
+ FONT-SIZE: 10px" color=3D"#999999" size=3D"1" face=3D"Helvetica, Arial, =
+sans-serif">Copyright &copy; 2013 Panasas Inc=2E All rights reserved=2E</=
+font></td>
+<td width=3D"20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"21"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"50%"></td>
+</tr>
+</tbody>
+</table>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F972998563=5F46137=5F10=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972998563=5F46137=5F11">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D972998563&msgid=3D46137"></body>
+</html>
+

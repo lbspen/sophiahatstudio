@@ -1,0 +1,696 @@
+Return-path: <3ee.d.1013612604.47851@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Mon, 22 Jul 2013 17:41:27 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:16365)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.1013612604.47851@newbay.cfmvmail.com>)
+	id 1V1NrB-0002Wu-Ia
+	for chris@sophiahatstudio.com; Mon, 22 Jul 2013 17:41:27 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=SBNb9drtElukj1E53KtAQ6oLHWIZqaJobI8Z3C0vM/kuquBUmrp2viGqmcpu5CUueOvR+RmBr9bMMUKS7ktQ/Zugho/InHB9ck5io4yapLGU0m00DW0XuRwN1upyh5UybImTjAYAvCK3Sgs70EExs8TEgouAg0DgQ2lrYR0RvxY=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1374529297;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=mli07JVP7oYKIOBOMt6ggAzb9uw=;
+	b=BARTvkjnxtDqPMZKpU4oMVwEwWJzq7sEs9e0BrDw38KcHrHvgQPg8XpmrdASvp3mpjqqeXYwGZphuxlGybVc7Jh1YcUWlqp2SQK533EmZdzKLunc7dLMzdHxxBXeJftX8P8weX4sjnU5tKpcOd265OnjxWTLbYYc11rjeNbHU0o=
+X-FBL: M2VlLjFlLjExNjAwMDAwMDgyYTU0Yy4xMDEzNjEyNjA0LjQ3ODUxLmNocmlzPXNvcGhpYWhhdHN0dWRpby5jb20=
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Connect 2 Media & Entertainment" <newsletters@c2meworld.com>
+Message-ID: <0efa48dc-9376-4c7d-9fc5-5ed72cf2606b@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?TGFyZ2UtU2NhbGVzIFZpZGVvLCBMZXh1cyBJbnN0YWdyYW0g?=
+	=?utf-8?B?Q29tbWVyY2lhbCwgTGlnaHRuaW5nIFJvZCBJc3N1ZXMsIFgg?=
+	=?utf-8?B?R2FtZXMgUHJvZHVjdGlvbiwgR29vZ2xlIEdsYXNzIFByZWRp?=
+	=?utf-8?B?Y3Rpb25z?=
+Date: Mon, 22 Jul 2013 17:41:36 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Untitled Document CREATION MANAGEMENT COMMERCE DISTRIBUTION/DELIVERY
+    CONSUMPTION TV Video Audio/Radio Mobile Digital Media Film AV/Converge Post/FX
+    Live Enterprise July 22, 2013 Here are stories we thought you might be interested
+    in from Connect 2 Media & Entertainment. [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.5 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<title>Untitled Document</title>
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}a
+-->
+</style></head>
+
+<body link=3D"#d64b26" vlink=3D"#d64b26" alink=3D"#d64b26">
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}
+-->
+</style>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"728">
+ <tbody>
+ <tr>
+ <td align=3D"center" valign=3D"middle">
+ <!--TOP LB START -->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F101361260=
+4=5F47851=5F1" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D12011" alt=3D"" class=3D" =
+fsqlajojpqfgtgwxtlug fsqlajojpqfgtgwxtlug rtfafnditwkubxwavexi rtfafnditw=
+kubxwavexi rtfafnditwkubxwavexi" border=3D"0" height=3D"90" width=3D"728"=
+></a>
+ <!--TOP LB END -->
+</td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr bgcolor=3D"#333333">
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10136=
+12604=5F47851=5F2" target=3D"=5Fblank"><img src=3D"http://newsletters=2En=
+ewbay-media=2Ecom/newsletter=5Fart/C2ME/images/c2me=5Fhead=5F728=2Ejpg" a=
+lt=3D"" name=3D"" style=3D"display:block;" border=3D"0" height=3D"70" wid=
+th=3D"728"></a></td>
+ </tr>
+ <tr>
+ <td bgcolor=3D"#000000"><table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"5">
+ <tr>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 12px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:white;" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F3" target=3D"=5Fblank">CREATIO=
+N</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 12px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:white;" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F4" target=3D"=5Fblank">MANAGEM=
+ENT</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 12px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:white;" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F5" target=3D"=5Fblank">COMMERC=
+E</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 12px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:white;" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F6" target=3D"=5Fblank">DISTRIB=
+UTION/DELIVERY</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 12px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:white;" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F7" target=3D"=5Fblank">CONSUMP=
+TION</a></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr bgcolor=3D"#333333">
+ <td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+5">
+ <tr>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F8" target=3D"=5Fblank">TV</a>=
+</td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F9" target=3D"=5Fblank">Video<=
+/a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F10" target=3D"=5Fblank">Audio=
+/Radio</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F11" target=3D"=5Fblank">Mobil=
+e</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F12" target=3D"=5Fblank">Digit=
+al Media</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F13" target=3D"=5Fblank">Film<=
+/a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F14" target=3D"=5Fblank">AV/Co=
+nverge</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F15" target=3D"=5Fblank">Post/=
+FX</a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F16" target=3D"=5Fblank">Live<=
+/a></td>
+ <td style=3D"font-family: Helvetica, sans-serif; font-size: 10px; color:=
+ silver; padding-top:10px; padding-bottom:10px;" align=3D"center" valign=3D=
+"middle"><a style=3D"color:silver;" href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F17" target=3D"=5Fblank">Enter=
+prise</a></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr bgcolor=3D"#333333">
+ <td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"font-family: Georgia,'Ti=
+mes New Roman',Times,serif; font-size: 12px; color: black; padding-top: 1=
+0px; padding-bottom: 10px;"><strong>July 22, 2013</strong></td>
+ </tr>
+=20
+=20
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"728=
+">
+ <tbody><tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"728=
+">
+ <tbody><tr>
+ <td align=3D"left" valign=3D"top" width=3D"418"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%">
+ <tbody><tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;" align=3D"left" valign=3D"top"><hr nosha=
+de=3D"noshade" size=3D"1">
+ <p>Here are stories we thought you might be interested in from <a href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F=
+18" target=3D"=5Fblank"><strong>Connect 2<br>
+ Media & Entertainment</strong></a>=2E</p>
+<hr noshade=3D"noshade" size=3D"1"></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+ <tbody><tr>
+ <td align=3D"left" valign=3D"top" width=3D"125"><a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F19" target=3D=
+"=5Fblank"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=
+=5Fart/C2ME/story=5Fart/072213/1-c2me-indecency=2Egif" alt=3D"" name=3D""=
+ border=3D"0" height=3D"125" vspace=3D"3" width=3D"125"></a></td>
+ <td align=3D"left" valign=3D"top"><table border=3D"0" cellpadding=3D"5" =
+cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-si=
+ze: 10px; color: white;" align=3D"left" valign=3D"top"><span style=3D"bac=
+kground-color: #d64b26; padding: 2px;">AUDIO/RADIO </span></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 14px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><=
+a style=3D"color: #000;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easp=
+x=3Fv=3D6=5F1013612604=5F47851=5F20" target=3D"=5Fblank">Broadcast Indece=
+ncy Is a Lightning Rod</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;" align=3D"left" valign=3D"top">More than=
+ 100,000 public comments have been filed at the FCC on whether the agency=
+ should relax some of its broadcast indecency rules even slightly=2E</td>=
+
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 10px; text-decoration: none; color: #d64b26;" align=3D"left" valign=3D=
+"top"><strong><a style=3D"color: #d64b26;" href=3D"http://www=2Ecfmediavi=
+ew=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F21" target=3D"=5Fblank=
+">Read More&raquo;</a></strong></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+ <tbody><tr>
+ <td align=3D"left" valign=3D"top" width=3D"125"><a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F22" target=3D=
+"=5Fblank"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=
+=5Fart/C2ME/story=5Fart/072213/2-c2me-X-Games=2Egif" alt=3D"" name=3D"" b=
+order=3D"0" height=3D"125" vspace=3D"3" width=3D"125"></a></td>
+ <td align=3D"left" valign=3D"top"><table border=3D"0" cellpadding=3D"5" =
+cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-si=
+ze: 10px; color: white;" align=3D"left" valign=3D"top"><span style=3D"bac=
+kground-color: #d64b26; padding: 2px;">LIVE</span></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 14px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><=
+a style=3D"color:#000;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F1013612604=5F47851=5F23" target=3D"=5Fblank">Stoked! Capturing=
+ the Complexity of the X Games</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;" align=3D"left" valign=3D"top">Sound has=
+ always been a critical component in ESPN's coverage of the X Games, but =
+even more so the last several years with the move into a hi-def, 5=2E1 su=
+rround sound world for all sports=2E </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 10px; text-decoration: none; color: #d64b26;" align=3D"left" valign=3D=
+"top"><strong><a style=3D"color: #d64b26;" href=3D"http://www=2Ecfmediavi=
+ew=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F24" target=3D"=5Fblank=
+">Read More&raquo;</a></strong></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+ <tbody><tr>
+ <td style=3D"padding-top: 5px;" align=3D"left" valign=3D"top" width=3D"1=
+25"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F101361=
+2604=5F47851=5F25" target=3D"=5Fblank"><img src=3D"http://newsletters=2En=
+ewbay-media=2Ecom/newsletter=5Fart/C2ME/story=5Fart/072213/3-c2me-instagr=
+am=2Egif" alt=3D"" name=3D"" border=3D"0" height=3D"125" vspace=3D"3" wid=
+th=3D"125"></a></td>
+ <td align=3D"left" valign=3D"top"><table border=3D"0" cellpadding=3D"5" =
+cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-si=
+ze: 10px; color: white;" align=3D"left" valign=3D"top"><span style=3D"bac=
+kground-color: #d64b26">DIGITAL MEDIA</span></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 14px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><=
+a style=3D"color:#000;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F1013612604=5F47851=5F26" target=3D"=5Fblank">Lexus Produces Fi=
+lm Collaboratively Created with Instagram</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;" align=3D"left" valign=3D"top"> Team One=
+ worked with Lexus to create #LexusInstafilm, a collaborative stop-motion=
+ film using Instagram photos directed by Jacob Rosenberg=2E </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 10px; text-decoration: none; color: #d64b26;" align=3D"left" valign=3D=
+"top"><strong><a style=3D"color: #d64b26;" href=3D"http://www=2Ecfmediavi=
+ew=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F27" target=3D"=5Fblank=
+">Read More&raquo;</a></strong></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+ <tbody><tr>
+ <td align=3D"left" valign=3D"top" width=3D"125"><a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F28" target=3D=
+"=5Fblank"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=
+=5Fart/C2ME/story=5Fart/072213/4-c2me-measurement=2Egif" alt=3D"" name=3D=
+"" border=3D"0" height=3D"125" vspace=3D"3" width=3D"125"></a></td>
+ <td align=3D"left" valign=3D"top"><table border=3D"0" cellpadding=3D"5" =
+cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-si=
+ze: 10px; color: white;" align=3D"left" valign=3D"top"><span style=3D"bac=
+kground-color: #d64b26; padding: 2px;">TV</span></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 14px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><=
+a style=3D"color:#000;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F1013612604=5F47851=5F29" target=3D"=5Fblank">The Measurement M=
+ess</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;" align=3D"left" valign=3D"top">As effort=
+s to provide better cross-platform measurement heat up, Nielsen, comScore=
+, Rentrak, and others report significant progress=2E Here are some of the=
+ highlights=2E </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 10px; text-decoration: none; color: #d64b26;" align=3D"left" valign=3D=
+"top"><strong><a style=3D"color: #d64b26;" href=3D"http://www=2Ecfmediavi=
+ew=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F30" target=3D"=5Fblank=
+">Read More&raquo;</a></strong></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+ <tbody>
+ <tr>
+ <td align=3D"left" valign=3D"top" width=3D"125"><a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F31" target=3D=
+"=5Fblank"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=
+=5Fart/C2ME/story=5Fart/072213/5-c2me-singlestream=2Egif" alt=3D"" name=3D=
+"" border=3D"0" height=3D"125" vspace=3D"3" width=3D"125"></a></td>
+ <td align=3D"left" valign=3D"top"><table border=3D"0" cellpadding=3D"5" =
+cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-si=
+ze: 10px; color: white;" align=3D"left" valign=3D"top"><span style=3D"bac=
+kground-color: #d64b26; padding: 2px;">AV/CONVERGE</span></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 14px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><=
+a style=3D"color:#000;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F1013612604=5F47851=5F32" target=3D"=5Fblank">Following the Lar=
+ge-Scale Video &quot;SINGLE STREAM&quot; </a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;" align=3D"left" valign=3D"top">&quot;SIN=
+GLE STREAM,&quot; a new large-scale video work that can be viewed at the =
+Museum of the Moving Image, offers a visual and sonic exploration inside =
+a recycling facility=2E </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 10px; text-decoration: none; color: #d64b26;" align=3D"left" valign=3D=
+"top"><strong><a style=3D"color: #d64b26;" href=3D"http://www=2Ecfmediavi=
+ew=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F33" target=3D"=5Fblank=
+">Read More&raquo;</a></strong></td>
+ </tr>
+ </tbody>
+ </table></td>
+ </tr>
+ </tbody>
+ </table></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+ <tbody>
+ <tr>
+ <td align=3D"left" valign=3D"top" width=3D"125"><a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F34" target=3D=
+"=5Fblank"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=
+=5Fart/C2ME/story=5Fart/072213/6-c2me-poll=2Egif" alt=3D"" name=3D"" bord=
+er=3D"0" height=3D"125" vspace=3D"3" width=3D"125"></a></td>
+ <td align=3D"left" valign=3D"top"><table border=3D"0" cellpadding=3D"5" =
+cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-si=
+ze: 10px; color: white;" align=3D"left" valign=3D"top"><span style=3D"bac=
+kground-color: #d64b26; padding: 2px;">YOUR OPINION</span></td>
+
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 14px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><=
+a style=3D"color:#000;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F1013612604=5F47851=5F35" target=3D"=5Fblank">Social Anxiety </=
+a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;" align=3D"left" valign=3D"top">A recent =
+survey reported on Connect & Media & Entertainment indicated that people =
+are becoming more overloaded with juggling multiple social networks and e=
+mail accounts, and that 52 percent have taken or considered taking a &quo=
+t;vacation&quot; from one or more social networks in the past year=2E Suc=
+h &quot;burnout&quot; could have implications for media and entertainment=
+ businesses that build strategies around these tools=2E What's next=3F </=
+td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 10px; text-decoration: none; color: #d64b26;" align=3D"left" valign=3D=
+"top"><strong><a style=3D"color: #d64b26;" href=3D"http://www=2Ecfmediavi=
+ew=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F36" target=3D"=5Fblank=
+">Read More&raquo;</a></strong></td>
+ </tr>
+ </tbody>
+ </table></td>
+ </tr>
+ </tbody>
+ </table></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Gill Sans,Gill Sans MT,verdana,arial,helvetica=
+,sans-serif; font-size: 20px; padding: 5px;" align=3D"left" valign=3D"mid=
+dle"><strong>More Articles & Insights</strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none; padding: 5px;"><strong><a style=3D"color=
+:black;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013=
+612604=5F47851=5F37" target=3D"=5Fblank">FCC's Video-Competition Report S=
+ees Growth from New Players &raquo;</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none; padding: 5px;"><strong><a style=3D"color=
+:black;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013=
+612604=5F47851=5F38" target=3D"=5Fblank">630 Million Viewers in More Than=
+ 100 Countries: Russia Today Plans for Tomorrow &raquo;</a></strong></td>=
+
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;padding: 5px;"><strong><a style=3D"color:=
+black;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10136=
+12604=5F47851=5F39" target=3D"=5Fblank">Our Cyborgian Future Made Real=3F=
+ Through a Google Glass Aurally &raquo;</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none; padding: 5px;"><strong><a style=3D"color=
+:black;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013=
+612604=5F47851=5F40" target=3D"=5Fblank">Interview: Fast-Talking, Fast-Ri=
+sing Bethenny Frankel &raquo;</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Georgia,'Times New Roman',Times,serif; font-si=
+ze: 12px; text-decoration: none;padding: 5px;"><strong><a style=3D"color:=
+black;" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10136=
+12604=5F47851=5F41" target=3D"=5Fblank">TiVo, Comcast Hold Steady &raquo;=
+</a></strong></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ </tbody>
+ </table></td>
+ <td width=3D"10"><img name=3D"" src=3D"http://newsletters=2Enewbay-media=
+=2Ecom/newsletter=5Fart/C2ME/images/10x10=5Fspacer=2Egif" alt=3D"" height=
+=3D"10" width=3D"10"></td>
+ <td align=3D"left" valign=3D"top" width=3D"300"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"300">
+ <tbody><tr>
+ <td><!--TOP LB START -->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F101361260=
+4=5F47851=5F42" target=3D"=5Fblank"><img src=3D"http://adserver=2Enewbay-=
+media=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11857" alt=3D"" class=3D"=
+ fsqlajojpqfgtgwxtlug fsqlajojpqfgtgwxtlug rtfafnditwkubxwavexi rtfafndit=
+wkubxwavexi rtfafnditwkubxwavexi" border=3D"0" height=3D"250" width=3D"30=
+0"></a>
+ <!--TOP LB END --></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10136=
+12604=5F47851=5F43" target=3D"=5Fblank"><img src=3D"http://adserver=2Enew=
+bay-media=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11100" alt=3D"" class=
+=3D" fsqlajojpqfgtgwxtlug fsqlajojpqfgtgwxtlug rtfafnditwkubxwavexi rtfaf=
+nditwkubxwavexi rtfafnditwkubxwavexi" border=3D"0" height=3D"250" width=3D=
+"300"></a></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ </tbody>
+ </table></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+ <tr>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10136=
+12604=5F47851=5F44" target=3D"=5Fblank"><img src=3D"http://newsletters=2E=
+newbay-media=2Ecom/newsletter=5Fart/C2ME/images/ViewCoverage=5F728=2Ejpg"=
+ alt=3D"" name=3D"" style=3D"display:block;" border=3D"0" height=3D"52" w=
+idth=3D"728"></a></td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all"></td>
+ </tr>
+=20
+ <tr>
+ <td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"728=
+">
+ <tbody><tr>
+ <td style=3D"background-repeat: repeat; background-image:url(http://news=
+letters=2Enewbay-media=2Ecom/newsletter=5Fart/C2ME/images/HEADLINE=5FNEWS=
+=5FBKGRND=2Ejpg); padding-left: 20px; font-family: Verdana, Arial, Helvet=
+ica, sans-serif; font-size: 10px; color: silver;" align=3D"left" bgcolor=3D=
+"#000000" valign=3D"middle" width=3D"364"><a style=3D"color: silver;" hre=
+f=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F478=
+51=5F45" target=3D"=5Fblank">Subscribe</a> <span style=3D"color: #d64b26"=
+>|</span> <a style=3D"color: silver;" href=3D"http://www=2Ecfmediaview=2E=
+com/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F46" target=3D"=5Fblank">Adv=
+ertise with us</a> <span style=3D"color: #d64b26">|</span> <a title=3D"Fo=
+rward To Friend" style=3D"color: silver;" href=3D"http://www=2Ecfmediavie=
+w=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F47=5Fchris@sophiahatstu=
+dio=2Ecom" target=3D"=5Fblank">Forward  To A Friend</a></td>
+ <td style=3D"background-repeat: repeat; background-image:url(http://news=
+letters=2Enewbay-media=2Ecom/newsletter=5Fart/C2ME/images/HEADLINE=5FNEWS=
+=5FBKGRND=2Ejpg);" align=3D"right" bgcolor=3D"#000000"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"136">
+ <tbody><tr>
+=20
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10136=
+12604=5F47851=5F48" target=3D"=5Fblank"><img src=3D"http://newsletters=2E=
+newbay-media=2Ecom/newsletter=5Fart/C2ME/images/02=5FTWITTER=2Egif" alt=3D=
+"" name=3D"" style=3D"display:block;" border=3D"0" height=3D"40" width=3D=
+"46"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F10136=
+12604=5F47851=5F49"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/n=
+ewsletter=5Fart/C2ME/images/03=5FRSS=2Egif" alt=3D"" name=3D"" width=3D"4=
+5" height=3D"40" border=3D"0" style=3D"display:block;"></a></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ </tbody></table></td>
+ </tr>
+ <tr>
+ <td align=3D"center" valign=3D"middle"><br clear=3D"all"></td>
+ </tr>
+</tbody></table>
+
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F50=5Fchris@sophiahatstud=
+io=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><=
+strong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://=
+www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F1013612604=5F47851=5F51">Cha=
+nge Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D=
+"mailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiaha=
+tstudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D1013612604&msgid=3D47851"></body></html>
+

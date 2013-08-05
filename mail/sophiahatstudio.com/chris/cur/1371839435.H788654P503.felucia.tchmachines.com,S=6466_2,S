@@ -1,0 +1,139 @@
+Return-path: <3ee.d.985512392.45843@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Fri, 21 Jun 2013 14:30:35 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:14333)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.985512392.45843@newbay.cfmvmail.com>)
+	id 1Uq66U-00007b-PJ
+	for chris@sophiahatstudio.com; Fri, 21 Jun 2013 14:30:35 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type; 
+	b=nXrOc4t9bpXWPb/NzjoLneKr6vg/Z6Tv46go38Uk3FZ1bG7PFqkRRgGUg7Yg6gQWBLHY8lcdK4vp+Wh5EYBpUbj5bIP2Hfurmqwg1apv87tmgHGruZ9Uvh1T+1jL0AmuU9eHV80d+g/fUIvkJQdoM9MQ9aqPrd3+s25LJQ7lCx4=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1371839437;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type;
+	bh=k0njGvHG1ajbeBJPhGuFKYeew0A=;
+	b=OI8rDxhjjgWoJJsUhvfu+qpVDZvyUzAfERyqlo7hZH9/GcE92uDOGOEBD6nIkp2vr/9YAbgDm+bBsjEYAhqyKoF2hKIOYTcpeZ2DxnvUV+pZDvQSa6LUwGWItRsYZ95TyZkZ+UwaTr4+5opIJ/SJWO5UiOinSrlUSaTcfxWI4zw=
+X-FBL: M2VlLjFlLjExNDAwMDAwMmVlMGRkNC45ODU1MTIzOTIuNDU4NDMuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Mix Magazine" <newbay@computerfulfillment.com>
+Message-ID: <345cbe46-c0df-48d7-adc7-d2d9832b7939@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?4piAIFNpenpsaW5nIFN1bW1lciBTYXZpbmdzIC0gNzUlIE9G?=
+	=?utf-8?B?RiEg4piA?=
+Date: Fri, 21 Jun 2013 14:30:36 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_140116185612112938183036949"
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  SIZZLING SUMMER SAVINGS! Get 1 year of Mix for just $20! SUBSCRIBE:
+    <http://www.cfmediaview.com/lp1.aspx?v=6_985512392_45843_501> [...] 
+ 
+ Content analysis details:   (0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  1.3 HTML_IMAGE_ONLY_24     BODY: HTML: images with 2000-2400 bytes of words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.4 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+------=_NextPart_140116185612112938183036949
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+SIZZLING SUMMER SAVINGS!
+
+Get 1 year of Mix for just $20!
+
+SUBSCRIBE: <http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F985512392=
+=5F45843=5F501>
+
+U=2ES=2E Orders Only=2E
+
+You have received this message because you previously gave your email add=
+ress to NewBay Media LLC=2E If you wish to unsubscribe or manage your ema=
+il preferences, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F985512392=5F45843=5F=
+502=5Fchris@sophiahatstudio=2Ecom>
+
+If you wish to change your email address, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F985512392=5F45843=5F=
+503>
+
+To report abuse:
+
+mailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahat=
+studio=2Ecom
+
+NewBay Media LLC
+28 East 28th Street
+12th Floor
+New York, NY 10016
+------=_NextPart_140116185612112938183036949
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>
+<table style=3D"BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; WIDTH: =
+550px; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid" bordercolor=3D"#00=
+0000" align=3D"center">
+<tbody>
+<tr>
+<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F985512=
+392=5F45843=5F1" target=3D"=5Fblank"><img style=3D"BORDER-BOTTOM: 0px sol=
+id; BORDER-LEFT: 0px solid; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px soli=
+d" src=3D"http://www=2Ecfmediaview=2Ecom/templates/NewBay/Mix/eblast=5Fsu=
+mmer13=5FMIX=2Ejpg"></a><a href=3D"https://www=2Eb2bmediaportal=2Ecom/emq=
+/emqsub=2Easpx=3Fpageid=3D4&key=3DM12SUM" target=3D"=5Fblank"></a></td></=
+tr>
+<tr>
+<td>
+<p align=3D"center"><font style=3D"FONT-SIZE: 10px" face=3D"Arial">U=2ES=2E=
+ Orders Only=2E</font></p></td></tr></tbody></table></p><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F985512392=5F45843=5F2=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F985512392=5F45843=5F3">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D985512392&msgid=3D45843">
+------=_NextPart_140116185612112938183036949--
+

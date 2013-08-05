@@ -1,0 +1,120 @@
+Return-path: <3ee.1c.943332674.44901.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Fri, 10 May 2013 10:10:08 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:1940)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.943332674.44901.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1Uao1M-0007h8-Mz
+	for chris@sophiahatstudio.com; Fri, 10 May 2013 10:10:08 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=STObZkpJ6USllLPG6Z7gwIl5yFr+Hlmc+ErZ6bqkRZwH6qwpcA7LjdZdzcRxMB19y3WtnkRqi+q6qbFb0VQs8YKj2/ch1UEXhXOlOFrkTALq814ECMTE9FEdVtA4Uos57Lk/+cyzWU4W+UaKLsPPQwbGhvlRyzzBEIoUdyw+wNU=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1368195032;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=r9Zn3LOBxgPT+Dw+ZFJoohc9Etc=;
+	b=DWexHrdPmJ8D3JRJbKyChzQfDOhN65EBJo4TNp/UYh5m0Kb7MAbuk/UmHBywpgjyNXTI6Dp/TCewXtd9hD7v1kseyy74CcGp8BAyHIh9u4ivJ9FjzOEW0KATqRZodvVRaZIMAD29ucX6tXYDu41mR1A4NhQPbs9lAXwSy8Lr/tg=
+X-FBL: M2VlLjFlLjEwYTAwMDAwMDZlNWY3Mi45NDMzMzI2NzQuNDQ5MDEuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <6813e46f-9ad5-467e-8c8c-86e891bc1e57@newbay.cfmvmail.com>
+From: "Pro Audio Review" <newbay@computerfulfillment.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?U2VuZCBhIEZyZWUgU3Vic2NyaXB0aW9uIG9mIFBybyBBdWRp?=
+	=?utf-8?B?byBSZXZpZXcgdG8gYSBGcmllbmQh?=
+Date: Fri, 10 May 2013 10:10:11 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Dear CHRIS, Thank you for being a loyal reader of Pro Audio
+    Review magazine. To show our appreciation, we would like to provide you with
+    the opportunity to extend a FREE subscription to your colleagues, friends,
+    or family who also need to stay on top of everything that is happening in
+    the increasingly challenging pro audio market. [...] 
+ 
+ Content analysis details:   (0.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.2 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+ -0.1 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<p>
+<table style=3D"BORDER-BOTTOM: 2px solid; BORDER-LEFT: 2px solid; BORDER-=
+TOP: 2px solid; BORDER-RIGHT: 2px solid" bordercolor=3D"#000000" align=3D=
+"center">
+<tbody>
+<tr>
+<td style=3D"WIDTH: 500px">&nbsp;=20
+<table style=3D"WIDTH: 495px">
+<tbody>
+<tr>
+<td><font size=3D"2" face=3D"Arial">&nbsp;<a href=3D"http://www=2Ecfmedia=
+view=2Ecom/lp1=2Easpx=3Fv=3D6=5F943332674=5F44901=5F1" target=3D"=5Fblank=
+"><img style=3D"BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-=
+TOP: 0px solid; BORDER-RIGHT: 0px solid" src=3D"http://www=2Ecfmediaview=2E=
+com/templates/NewBay/PAR/PAR=5Flogo=5F200=2Egif"></a><br></font>
+<p align=3D"left"><font style=3D"FONT-SIZE: 12px" face=3D"Tahoma">Dear CH=
+RIS, </font></p><font face=3D"Tahoma"><font style=3D"FONT-SIZE: 12px"><fo=
+nt style=3D"FONT-SIZE: 12px">Thank you for being a loyal reader of <em>Pr=
+o Audio Review </em>magazine=2E To show our appreciation, we would like t=
+o provide you with the opportunity to extend a FREE subscription to your =
+colleagues, friends, or family who also need to stay on top of everything=
+ that is happening in the increasingly challenging pro audio market=2E <b=
+r><br><strong>It's easy, simply forward this email OR just pass along the=
+ link below:</strong></font><br></font></font><a href=3D"http://www=2Ecfm=
+ediaview=2Ecom/%20http://www=2Emyparmag=2Ecom/Register=2Easpx=3Ffid=3DPAR=
+F&status=3DNEW&key=3DJ12JPSS" target=3D"=5Fblank"><font face=3D"Tahoma"><=
+font style=3D"FONT-SIZE: 12px"><br></font></font></a><font style=3D"FONT-=
+SIZE: 12px" face=3D"Tahoma"></font><a href=3D"http://www=2Ecfmediaview=2E=
+com/lp1=2Easpx=3Fv=3D6=5F943332674=5F44901=5F2" target=3D"=5Fblank"><font=
+ style=3D"FONT-SIZE: 12px" face=3D"Tahoma">http://www=2Emyparmag=2Ecom/Re=
+gister=2Easpx=3Ffid=3DPARF&status=3DNEW&key=3DJ13EPSS</font></a><br><br><=
+font size=3D"3"><font style=3D"FONT-SIZE: 12px" face=3D"Tahoma"><strong><=
+font size=3D"2" face=3D"Tahoma">We thank you now and your colleagues will=
+ thank you later!</font></strong><br></font></font></td></tr></tbody></ta=
+ble></td></tr></tbody></table></p><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F943332674=5F44901=5F3=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F943332674=5F44901=5F4">Change =
+Your Email Address</a></u></strong><br><p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D943332674&msgid=3D44901">
+

@@ -1,0 +1,545 @@
+Return-path: <3ee.d.991199480.46882@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 27 Jun 2013 13:02:13 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:34579)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.991199480.46882@newbay.cfmvmail.com>)
+	id 1UsFaC-0001nK-Kn
+	for chris@sophiahatstudio.com; Thu, 27 Jun 2013 13:02:13 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=U7AoucJkCEdKA9mlTenxJFqH+JNxUkOFI7hKevByI0sV3AUDiRTGMvqT6Pz5YGV4ONNwwCWkji/XNiB5Aq5KmFyIZybLsjnIDL3n5Ki3jADQZz+nktZqysSjZJourlMPZuCuMfuIRlpX/i+H6HILpPqDdOtgGRMbfRtf0cpK1J8=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1372352537;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=+lz588eqWzatSxFca4NodTBVJGM=;
+	b=Nvo/jDxrm/zvRk/kRw2XKoOJMojwr2wI77QMIVs1W7bEyuCAU3BKn3PpKedovZhC5ErQqUvvEGKuNwLSxTKMt34pLWGYIG0D3PlKY0nv/oI3Vc7G9SQuMFqHpfcD57c4jMFPE+Bb6SHnc0J5qVby2LKhCafjZvPVydGhETJFx6k=
+X-FBL: M2VlLjFlLjExNDAwMDAwMzZjNmQzYS45OTExOTk0ODAuNDY4ODIuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Mix Magazine Partners" <partners@mixonline.com>
+Message-ID: <abf49040-e89f-48d9-85fd-ae39bcbdc903@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?RW50ZXIgVGhlIEluZGVwZW5kZW50IE11c2ljaWFuIFN3ZWVw?=
+	=?utf-8?B?c3Rha2VzIOKAkyBPdmVyICQxNSwwMDAgaW4gcHJpemVz?=
+Date: Thu, 27 Jun 2013 13:02:16 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Win the mother lode of all studio recording prize packages.
+    Free Catalog | Get a Quote The greatest collection of Recording Software
+   & Equipment we’ve ever assembled. And it could be yours. Attention all you
+    independent musicians out there. We’re giving away one heck of a prize
+   package and you could be the lucky winner. We’re giving away everything
+   you need to record and produce a new album, from computers and production
+   and mastering software to pre-amps and mics, to auto-tune and sound proofing.
+    It’s all here and it all could be yours. Prize list: • 2,000 CDs in 6-Panel
+    Digipaks –$2,299 • CD Mastering (Up to 20 Songs) – $699 • Package
+    Design – $599 • Ozone 5 Advanced – $999 • Alloy 2® – $199 •
+   Nectar® – $299 • Trash 2 – 249 • Iris™ +5 – $349 • Stutter
+   Edit® – $249 • RX 2 Advanced™ – $1199 • Auto-Tune® Vocal Studio
+    – $799 • Auto-Tune® Live – $249 • AT4033/CL Studio Mic – $595
+   • ATH-M50 Headphones – $199 • Pro Tools Express & Mbox – $499 •
+   IN2® – $499 • 1-Year 30GB Account – $360 • Pro Album Distribution
+    Bundle – $99 • 5-Pro Single Song Submissions – $195 • 1,000 Download
+    Wristbands™ – $390 • 1-Year Web Hosting – $199 • Solstice Audio
+    Computer – $1,999 • Samplitude Pro X Suite – $999 • Auralex Alpha
+    DST™ Roominator™ Kit – $470 • MudGuard – $130 • Set of MoPADs
+    – $44 • MiC digital microphone– $199 • JAM guitar input – $99 •
+    Neal Peart Drums – $179 Total Prize Package is worth $15,346 [...] 
+ 
+ Content analysis details:   (0.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.3 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.7 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<html>
+<head>
+<title>Win the mother lode of all studio recording prize packages=2E</tit=
+le>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-885=
+9-1">
+<style type=3D"text/css">
+a:link {
+=09text-decoration: underline
+}
+a:visited {
+=09text-decoration: underline
+}
+a:hover {
+=09text-decoration: underline
+}
+</style>
+</head>
+
+<body text=3D"#333333" link=3D"#eb7125" vlink=3D"#eb7125" alink=3D"#eb712=
+5" bgcolor=3D"#11203b" leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0"=
+ marginheight=3D"0">
+<style type=3D"text/css">
+a:link {
+=09text-decoration: underline
+}
+a:visited {
+=09text-decoration: underline
+}
+a:hover {
+=09text-decoration: underline
+}
+</style>
+<table width=3D"100%" border=3D"0" cellpadding=3D"15" cellspacing=3D"0" b=
+gcolor=3D"#11203b" leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" mar=
+ginheight=3D"0">
+ <tr>
+ <td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" align=3D"center" bgcolor=3D"#11203b">
+ <tr>
+ <td align=3D"center"><table width=3D"600" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">
+ <tr>
+ <td width=3D"214"><a name=3D"home1" href=3D"http://www=2Ecfmediaview=2Ec=
+om/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F1"><img src=3D"http://www=2Ed=
+iscmakers=2Ecom/html=5Femail/images/audioheaderblue600-logo=2Ejpg" alt=3D=
+"Disc Makers" title=3D"Disc Makers" width=3D"214" height=3D"36" border=3D=
+"0"></a></td>
+ <td width=3D"371" style=3D"text-align:right;"><a name=3D"catalog" href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F=
+2" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; lin=
+e-height:36px; color:#FFFFFF; text-decoration: none; font-weight:bold;">F=
+ree Catalog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a name=3D"quote" href=3D"http://=
+www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F3" style=
+=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height=
+:36px; color:#FFFFFF; text-decoration: none; font-weight:bold;">Get a Quo=
+te</a></td>
+ <td width=3D"15">&nbsp;</td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" align=3D"center">
+ <tr>
+ <td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"1=
+4" bgcolor=3D"#FFFFFF">
+ <tr>
+ <td><table width=3D"572" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+ <tr> <!--Main image -->
+ <td align=3D"center"><a name=3D"Banner1" href=3D"http://www=2Ecfmediavie=
+w=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F4"><img src=3D"http://ww=
+w=2Ediscmakers=2Ecom/html=5Femail/images/a1323-mainimage=2Ejpg" alt=3D"Wi=
+n the mother lode of all studio recording prize packages=2E Enter the Ind=
+ependant Musician Sweepstakes Win over $15,000 in recording equipment and=
+ software=2E" title=3D"Win the mother lode of all studio recording prize =
+packages=2E Enter the Independant Musician Sweepstakes Win over $15,000 i=
+n recording equipment and software=2E" width=3D"572" height=3D"315" borde=
+r=3D"0" style=3D"display:block;"></a></td>
+ </tr>
+ <!--Main image -->
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+<tr>
+ <td>
+<span style=3D"font-family: Arial, Helvetica, sans-serif;=09font-size: 12=
+px;font-style: normal;=09line-height: 19px;=09color: #666666"><span style=
+=3D"font-family: Arial, Helvetica, sans-serif;=09font-size: 16px;=09
+font-style: normal;=09line-height: 21px;=09color: #0b488c;"><strong>The g=
+reatest collection of Recording Software & Equipment we&#8217;ve ever ass=
+embled=2E And it could be yours=2E</strong></span><br>
+Attention all you independent musicians out there=2E We&#8217;re giving a=
+way one heck of a prize package and you could be the lucky winner=2E=20
+We&#8217;re giving away everything you need to record and produce a new a=
+lbum, from computers and production and mastering software to pre-amps an=
+d mics, to auto-tune and sound proofing=2E It&#8217;s all here and it all=
+ could be yours=2E</span>
+</td></tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr><td><span style=3D"font-family: Arial, Helvetica, sans-serif;=09font=
+-size: 24px;=09
+font-style: normal;=09line-height: 21px;=09color: #0b488c;"><strong>Prize=
+ list:</strong></span></td></tr>
+=20
+ <tr>
+ <td><table width=3D"572" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+ <tr>
+ <td width=3D"10" valign=3D"top">&nbsp;</td>
+ <td width=3D"271" valign=3D"top"><table width=3D"271" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+ <!--row 1 LEFT-->  <tr>
+ <td width=3D"271" valign=3D"top"><img src=3D"http://www=2Ediscmakers=2Ec=
+om/html=5Femail/images/a1323-dm=2Egif" alt=3D"Disc Makers" title=3D"Disc =
+Makers" width=3D"157" height=3D"40" border=3D"0" style=3D"display:block;"=
+></td>
+ </tr>
+ <tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09
+ =09=09&#8226; 2,000 CDs in 6-Panel Digipaks &ndash;$2,299<br>
+=09        &#8226;=09CD Mastering=09  &nbsp;(Up to 20 Songs) &ndash; $699=
+ <br>
+=09&#8226; Package Design &ndash; $599 =20
+ </span></td>
+ </tr>   <!--row 1 LEFT-->=20
+ <!--row 3 LEFT--> <tr> <td width=3D"271" valign=3D"top"><img src=3D"http=
+://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-iZotope=2Egif" alt=3D=
+"iZotope" title=3D"iZotope" width=3D"132" height=3D"66" border=3D"0" styl=
+e=3D"display:block;"></td>
+ </tr> <tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09=20
+=09&#8226; Ozone 5 Advanced &ndash; $999<br>
+&#8226; Alloy 2<sup>&reg;</sup> &ndash; $199<br>
+&#8226; Nectar<sup>&reg;</sup> &ndash; $299=20
+ <br>
+ &#8226; Trash 2 &ndash; 249<br>
+&#8226; Iris&#8482; +5 &ndash; $349<br>
+&#8226; Stutter Edit<sup>&reg;</sup> &ndash; $249=20
+ <br>
+ &#8226; RX 2 Advanced&#8482; &ndash; $1199=20
+ </span></td></tr>=20
+ <!--row 3 LEFT--> =20
+ <!--row 5 RIGHT-->  <tr> <td width=3D"271" valign=3D"top"><img src=3D"ht=
+tp://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-antares=2Egif" alt=3D=
+"Antares" title=3D"Antares" width=3D"143" height=3D"40" border=3D"0" styl=
+e=3D"display:block;"></td>
+ </tr><tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+&#8226; Auto-Tune<sup>&reg;</sup> Vocal Studio &ndash; $799<br>
+&#8226; Auto-Tune<sup>&reg;</sup> Live &ndash; $249=20
+ </span></td></tr><!--row 5 RIGHT-->=20
+ <!--row 4 RIGHT-->   <tr><td width=3D"271" valign=3D"top"><img src=3D"ht=
+tp://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-Audio-Technica=2Egi=
+f" alt=3D"Audio-Technica" title=3D"Audio-Technica" width=3D"177" height=3D=
+"48" border=3D"0" style=3D"display:block;"></td>
+ </tr><tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09=20
+ &#8226; AT4033/CL Studio Mic &ndash; $595<br>
+&#8226; ATH-M50 Headphones &ndash; $199=20
+ </span></td>
+ </tr>    <!--row 4 RIGHT-->  =20
+ <!--row 6 RIGHT-->  <tr><td width=3D"271" valign=3D"top"><img src=3D"htt=
+p://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-avid=2Egif" alt=3D"A=
+vid" title=3D"Avid" width=3D"131" height=3D"72" border=3D"0" style=3D"dis=
+play:block;"></td> </tr>    <tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09=20
+=09&#8226; Pro Tools Express & Mbox &ndash; $499=20
+ </span></td></tr><!--row 6 RIGHT-->
+ <!--row 7LEFT--><tr> <td width=3D"271" valign=3D"top"><img src=3D"http:/=
+/www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-aphex=2Egif" alt=3D"Aph=
+ex" title=3D"Aphex" width=3D"138" height=3D"48" border=3D"0" style=3D"dis=
+play:block;"></td></tr> <tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09 &#8226; IN2<sup>&reg;</sup> &ndash; $499=20
+ </span></td></tr><!--row 7LEFT-->
+ <!--row 4 LEFT--><tr>  <td width=3D"271" valign=3D"top"><img src=3D"http=
+://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-Gobbler=2Egif" alt=3D=
+"Gobbler" title=3D"Gobbler" width=3D"128" height=3D"50" border=3D"0" styl=
+e=3D"display:block;"></td>
+ </tr><tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09=20
+&#8226; 1-Year 30GB Account &ndash; $360 </span></td></tr>
+=20
+ </table></td> =20
+ <td width=3D"10">&nbsp;</td>
+ <td width=3D"271" valign=3D"top"><table width=3D"271" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+ <!--row 1 RIGHT-->  <tr>
+ <td width=3D"271" valign=3D"top"><img src=3D"http://www=2Ediscmakers=2Ec=
+om/html=5Femail/images/a1323-CDBaby=2Egif" alt=3D"CD Baby" title=3D"CD Ba=
+by" width=3D"129" height=3D"50" border=3D"0" style=3D"display:block;"></t=
+d>
+ </tr>
+<tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09 &#8226; Pro Album Distribution Bundle &ndash;  $99<br>
+&#8226; 5-Pro Single Song Submissions &ndash;  $195<br>
+&#8226; 1,000 Download Wristbands&#8482; &ndash;  $390   </span></td>
+ </tr>   <!--row 1 RIGHT-->=20
+ <!--row 2 RIGHT-->    <tr> <td width=3D"271" valign=3D"top"><img src=3D"=
+http://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-HostBaby=2Egif" a=
+lt=3D"HostBaby" title=3D"HostBaby" width=3D"157" height=3D"53" border=3D"=
+0" style=3D"display:block;"></td></tr>
+ <tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09 &#8226; 1-Year Web Hosting &ndash; $199=20
+ </span></td></tr>       <!--row 2 RIGHT-->  =20
+ <!--row 3 RIGHT-->=20
+ <!--row 7 RIGHT-->    <tr><td width=3D"271" height=3D"77" valign=3D"top"=
+><img src=3D"http://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-rain=
+computers=2Egif" alt=3D"Rain Computers" title=3D"Rain Computers" width=3D=
+"107" height=3D"75" border=3D"0" style=3D"display:block;"></td></tr><tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09=20
+ =09&#8226; Solstice Audio Computer &ndash; $1,999=20
+ </span></td></tr><!--row 7 RIGHT-->=20
+ <!--row 4 LEFT-->
+ <!--row 5 LEFT--> <tr> <td width=3D"271" valign=3D"top"><img src=3D"http=
+://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-magix=2Egif" alt=3D"M=
+AGIX" title=3D"MAGIX" width=3D"128" height=3D"67" border=3D"0" style=3D"d=
+isplay:block;"></td></tr>=20
+ <tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09 &#8226; Samplitude Pro X Suite &ndash; $999=20
+ </span></td></tr><!--row 5 LEFT-->=20
+ <!--row 4 RIGHT-->  <tr> <td width=3D"271" valign=3D"top"><img src=3D"ht=
+tp://www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-Auralex=2Egif" alt=3D=
+"Auralex" title=3D"Auralex" width=3D"131" height=3D"83" border=3D"0" styl=
+e=3D"display:block;"></td>
+ </tr>
+ <tr>  <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial=
+, Helvetica, sans-serif;=09font-size: 12px;font-style: normal;=09line-hei=
+ght: 19px;=09color: #666666">=20
+=09=20
+&#8226; Auralex Alpha DST&#8482; Roominator&#8482; Kit &ndash; $470<br>
+&#8226; MudGuard &ndash; $130<br>
+&#8226; Set of MoPADs &ndash; $44=20
+ </span></td>
+ </tr>    <!--row 3 RIGHT--> =20
+ <!--row 2 LEFT-->      <tr>
+ <td width=3D"271" valign=3D"top"><img src=3D"http://www=2Ediscmakers=2Ec=
+om/html=5Femail/images/a1323-Apogee=2Egif" alt=3D"Apogee" title=3D"Apogee=
+" width=3D"107" height=3D"85" border=3D"0" style=3D"display:block;"></td>=
+</tr> <!--row 2 LEFT-->=20
+ <tr>
+ <td width=3D"271" valign=3D"top"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif;=09font-size: 12px;font-style: normal;=09line-height: 1=
+9px;=09color: #666666">=20
+=09 &#8226; MiC digital microphone&ndash; $199=20
+=09  <br>
+=09  &#8226; JAM   guitar input &ndash; $99=20
+ </span></td></tr>  <!--row 2 LEFT-->=20
+=20
+ <!--row 6 LEFT--> <tr><td width=3D"271" valign=3D"top"><img src=3D"http:=
+//www=2Ediscmakers=2Ecom/html=5Femail/images/a1323-SonicReality=2Egif" al=
+t=3D"SonicReality" title=3D"SonicReality" width=3D"103" height=3D"57" bor=
+der=3D"0" style=3D"display:block;"></td></tr> <tr> <td width=3D"271" vali=
+gn=3D"top"><span style=3D"font-family: Arial, Helvetica, sans-serif;=09fo=
+nt-size: 12px;font-style: normal;=09line-height: 19px;=09color: #666666">=
+=20
+=09=20
+=09&#8226; Neal Peart Drums &ndash; $179=20
+ </span></td></tr><!--row 6 LEFT-->
+=20
+=20
+
+
+ </table></td>
+ <td width=3D"10" valign=3D"top">&nbsp;</td>
+ </tr>
+</table>
+</td></tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr><td><span style=3D"font-family: Arial, Helvetica, sans-serif;=09font=
+-size: 24px;=09
+font-style: normal;=09line-height: 21px;=09color: #0b488c;"><strong>Total=
+ Prize Package is worth $15,346</strong></span></td></tr>
+
+<tr><td><br>
+ <a name=3D"Body1" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D=
+6=5F991199480=5F46882=5F5"><img src=3D"http://www=2Ediscmakers=2Ecom/html=
+=5Femail/images/a1323-btn=2Ejpg" alt=3D"Enter Today" title=3D"Enter Today=
+" width=3D"159" height=3D"35" border=3D"0"></a><br>
+<br>
+<span style=3D"font-family: Arial, Helvetica, sans-serif;=09font-size: 12=
+px; line-height: 19px;=09color: #666666"><em>No purchase necessary=2E Voi=
+d where prohibited=2E Contest ends June 30, 2013=2E One winner chosen at =
+random July 8, 2013=2E</em></span></td></tr>
+</table></td><!--end content -->
+ </tr>
+=20
+ <tr>
+ <td align=3D"center" bgcolor=3D"#FFFFFF"><table align=3D"center" bgcolor=
+=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"57=
+2">
+ <tr>
+ <td align=3D"left"><a name=3D"FT=5FONLINE" href=3D"http://www=2Ecfmediav=
+iew=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F6"><img src=3D"http://=
+www=2Ediscmakers=2Ecom/html=5Femail/images/footeronline572=2Egif" width=3D=
+"129" height=3D"36" border=3D"0" alt=3D"online ordering" title=3D"online =
+ordering" style=3D"display:block"></a></td>
+ <td align=3D"left"><a name=3D"FT=5FCATALOG" href=3D"http://www=2Ecfmedia=
+view=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F7" style=3D"color:#ff=
+ffff; text-decoration:underline;"><img src=3D"http://www=2Ediscmakers=2Ec=
+om/html=5Femail/images/footercatalog572=2Egif" width=3D"107" height=3D"36=
+" border=3D"0" alt=3D"free catalog" title=3D"free catalog" style=3D"displ=
+ay:block"></a></td>
+ <td align=3D"left"><a name=3D"FT=5FACCT" href=3D"http://www=2Ecfmediavie=
+w=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F8"><img src=3D"http://ww=
+w=2Ediscmakers=2Ecom/html=5Femail/images/footeraccount572=2Egif" width=3D=
+"104" height=3D"36" border=3D"0" alt=3D"my account" title=3D"my account" =
+style=3D"display:block"></a></td>
+ <td align=3D"left"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F991199480=5F46882=5F9" name=3D"FT=5FHOME"><img src=3D"http://www=2E=
+discmakers=2Ecom/html=5Femail/images/footerdm572=2Egif" width=3D"135" hei=
+ght=3D"36" border=3D"0" alt=3D"discmakers=2Ecom" title=3D"discmakers=2Eco=
+m" style=3D"display:block"></a></td>
+ <td align=3D"left"><a name=3D"FT=5FCONTACT" href=3D"http://www=2Ecfmedia=
+view=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F10"><img src=3D"http:=
+//www=2Ediscmakers=2Ecom/html=5Femail/images/footercontact572=2Egif" widt=
+h=3D"97" height=3D"36" border=3D"0" alt=3D"contact us" title=3D"contact u=
+s" style=3D"display:block"></a></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ <!--footer -->
+ <tr>
+=20
+ <tr>
+ <td bgcolor=3D"#11203b"><img src=3D"http://www=2Ediscmakers=2Ecom/html=5F=
+email/images/spacer=2Egif" width=3D"35" height=3D"20" border=3D"0"></td>
+ </tr>
+ <td bgcolor=3D"#11203b" align=3D"center"><table width=3D"240" border=3D"=
+0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+ <tr>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F99119=
+9480=5F46882=5F11"><img name=3D"n0209facebook" src=3D"http://www=2Ediscma=
+kers=2Ecom/html=5Femail/images/facebook=2Egif" width=3D"40" height=3D"30"=
+ border=3D"0" id=3D"n0209facebook" alt=3D"facebook" title=3D"facebook" st=
+yle=3D"display:block;"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F99119=
+9480=5F46882=5F12"><img name=3D"n0209twitter" src=3D"http://www=2Ediscmak=
+ers=2Ecom/html=5Femail/images/twitter=2Egif" width=3D"40" height=3D"30" b=
+order=3D"0" id=3D"n0209twitter" alt=3D"twitter" title=3D"twitter" style=3D=
+"display:block;"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F99119=
+9480=5F46882=5F13"><img name=3D"n0209twitter" src=3D"http://www=2Ediscmak=
+ers=2Ecom/html=5Femail/images/goo=2Egif" width=3D"40" height=3D"30" borde=
+r=3D"0" id=3D"n0209twitter" alt=3D"google+" title=3D"google+" style=3D"di=
+splay:block;"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F99119=
+9480=5F46882=5F14"><img name=3D"n0209facebook" src=3D"http://www=2Ediscma=
+kers=2Ecom/html=5Femail/images/youtube=2Egif" width=3D"40" height=3D"30" =
+border=3D"0" id=3D"n0209facebook" alt=3D"facebook" title=3D"facebook" sty=
+le=3D"display:block;"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F99119=
+9480=5F46882=5F15"><img name=3D"n0209facebook" src=3D"http://www=2Ediscma=
+kers=2Ecom/html=5Femail/images/rss=2Egif" width=3D"40" height=3D"30" bord=
+er=3D"0" id=3D"n0209facebook" alt=3D"facebook" title=3D"facebook" style=3D=
+"display:block;"></a></td>
+ <td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F99119=
+9480=5F46882=5F16"><img name=3D"n0209blog" src=3D"http://www=2Ediscmakers=
+=2Ecom/html=5Femail/images/blog=2Egif" width=3D"40" height=3D"30" border=3D=
+"0" id=3D"n0209blog" alt=3D"blog" title=3D"blog" style=3D"display:block;"=
+></a></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td align=3D"center"><span style=3D"font-family: Arial, Helvetica, sans-=
+serif;=09font-size: 11px;font-style: normal;=09line-height: 15px; color: =
+#FFFFFF;">To receive future email promotions and newsletters directly fro=
+m Disc Makers, <a name=3D"OPTIN" href=3D"http://www=2Ecfmediaview=2Ecom/l=
+p1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F17" style=3D"color: #ffffff;text-=
+decoration:underline;">click here</a> to join our mailing list=2E<br>
+ Have a question or comment=3F Email us at <a href=3D"mailto:questions@di=
+scmakers=2Ecom" name=3D"Questions" style=3D"color: #ffffff;text-decoratio=
+n:underline;">questions@discmakers=2Ecom</a>=2E Read our <a name=3D"Priva=
+cy" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=
+=5F46882=5F18" style=3D"color: #ffffff;text-decoration:underline;">Privac=
+y Policy</a>=2E</span></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td align=3D"center" valign=3D"top"><a name=3D"Home2" href=3D"http://www=
+=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F19"><img sr=
+c=3D"http://www=2Ediscmakers=2Ecom/html=5Femail/images/a916DMlogo=2Egif" =
+alt=3D"Disc Makers logo" title=3D"Disc Makers logo" width=3D"135" height=3D=
+"15" border=3D"0" align=3D"absmiddle"></a><span style=3D"font-family: Ari=
+al, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-heig=
+ht: 20px; color: #ffffff"> 7905 N=2E Route 130, Pennsauken, NJ 08110<br>
+ &copy; Disc Makers, 1-800-939-3475, <a name=3D"Home3" href=3D"http://www=
+=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F20" style=3D=
+"color: #ffffff; text-decoration:underline;">www=2Ediscmakers=2Ecom</a></=
+span></td>
+ </tr>
+ </table>
+ </td></tr></table>
+=20
+
+<!--Outer shell -->
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F21=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F991199480=5F46882=5F22">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D991199480&msgid=3D46882"></body>
+</html>
+

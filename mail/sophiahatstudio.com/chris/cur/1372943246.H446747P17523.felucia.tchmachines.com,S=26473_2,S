@@ -1,0 +1,558 @@
+Return-path: <bounce-mc.us2_6610530.1588497-chris=sophiahatstudio.com@mail179.wdc02.mcdlv.net>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 04 Jul 2013 09:07:26 -0400
+Received: from mail179.wdc02.mcdlv.net ([205.201.130.179]:37148)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <bounce-mc.us2_6610530.1588497-chris=sophiahatstudio.com@mail179.wdc02.mcdlv.net>)
+	id 1UujFt-0004YV-AO
+	for chris@sophiahatstudio.com; Thu, 04 Jul 2013 09:07:26 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail179.wdc02.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=servicepros=3Dthumbtack.com@mail179.wdc02.mcdlv.net;
+ bh=rTOj9A6lD0QAbQpCkEOdxqA1byo=;
+ b=NkquLgX1iRXjr/dZg7aA7rKA/cqeeT1clmJbUzLagO1RBY+iXljkz4MwVr+CrmSk3In7aC1v/hpl
+   tHFYVu8vkvZJyHvtm56ci0+XQ4xEfIZJBB+3FXSF/Q2qtH7fugEAxSdBnl7aBfJLNMVPda/VJNFP
+   AN59WNq3FabQMVBga5Q=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail179.wdc02.mcdlv.net;
+ b=LUb9wZw7R3qWjq32BKl0zB4v2jrdnZwx/k1Zb55oT64jawKvld78oLkagW3XbhcDgTYkmsAAEzk6
+   UpW9E940xgKFi2RRIVwtinU66FS4bUxtJqVzr+g6DmnkegC1UTYD2eRo8Ptnhb6j54aKAGd+cXC3
+   0dGOpYr94iqstv+Ta0Y=;
+Received: from (127.0.0.1) by mail179.wdc02.mcdlv.net (PowerMTA(TM) v3.5r16) id hqlpp61jvmgj for <chris@sophiahatstudio.com>; Thu, 4 Jul 2013 13:07:28 +0000 (envelope-from <bounce-mc.us2_6610530.1588497-chris=sophiahatstudio.com@mail179.wdc02.mcdlv.net>)
+Subject: =?utf-8?Q?Help=20Us=20Help=20You?=
+From: =?utf-8?Q?Thumbtack.com?= <servicepros@thumbtack.com>
+Reply-To: =?utf-8?Q?Thumbtack.com?= <servicepros@thumbtack.com>
+To: =?utf-8?Q?Chris=20Spencer?= <chris@sophiahatstudio.com>
+Date: Thu, 4 Jul 2013 13:07:28 +0000
+Message-ID: <5c8fe6382202ffeef15b8067cd35d644970.20130704130710@mail179.wdc02.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDd94a69694fd35d644970**
+X-Campaign: mailchimp5c8fe6382202ffeef15b8067c.d94a69694f
+X-campaignid: mailchimp5c8fe6382202ffeef15b8067c.d94a69694f
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=5c8fe6382202ffeef15b8067c&id=d94a69694f&e=d35d644970
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-5c8fe6382202ffeef15b8067c-d94a69694f-d35d644970@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://thumbtack.us2.list-manage1.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=d94a69694f>
+Sender: "Thumbtack.com" <servicepros=thumbtack.com@mail179.wdc02.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_38738003"
+MIME-Version: 1.0
+X-Spam-Status: No, score=-0.7
+X-Spam-Score: -6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  You received this newsletter as a valued Thumbtack service
+    pro. Unsubscribe (http://thumbtack.us2.list-manage1.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=d94a69694f)
+    from Thumbtack's Service Pro Newsletter. Email not displaying correctly?
+   View it in your browser (http://us2.campaign-archive2.com/?u=5c8fe6382202ffeef15b8067c&id=d94a69694f&e=d35d644970)
+    . Thumbtack: Find and Book Trustworthy Local Services Help Thumbtack Help
+    You [...] 
+ 
+ Content analysis details:   (-0.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.1 URIBL_GREY             Contains an URL listed in the URIBL greylist
+                             [URIs: campaign-archive2.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -1.7 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_38738003
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+You received this newsletter as a valued Thumbtack service pro.
+Unsubscribe (http://thumbtack.us2.list-manage1.com/unsubscribe?u=3D5c8fe63=
+82202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3Dd94a69694f)  from Thum=
+btack's Service Pro Newsletter.
+------------------------------------------------------------
+Email not displaying correctly?
+View it in your browser (http://us2.campaign-archive2.com/?u=3D5c8fe638220=
+2ffeef15b8067c&id=3Dd94a69694f&e=3Dd35d644970) .
+Thumbtack: Find and Book Trustworthy Local Services
+Help Thumbtack Help You
+
+Hi Chris,
+
+Happy 4th of July! We're busier than ever connecting you to the customers=
+ searching for your services online. I'm happy to report that our efforts=
+ are paying off - so far this year we've tripled our investment in online=
+ marketing and doubled the number of customers using Thumbtack. While many=
+ of you have seen that uptick in requests, we want to do even better. Plea=
+se take this short survey to help us make Thumbtack work better for you:
+
+http://thumbtack.us2.list-manage1.com/track/click?u=3D5c8fe6382202ffeef15b=
+8067c&id=3Dda4e0b2b15&e=3Dd35d644970
+
+If Thumbtack's not working for you, it's not working at all. Thanks so muc=
+h for your help. Have a fantastic weekend.
+
+Your advocate,
+
+Luke McGowan
+Small Business Advocate
+Thumbtack.com
+PS As always, if you have questions or concerns please email us at service=
+pros@thumbtack.com (mailto:servicepros@thumbtack.com)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2013 Thumbtack, All rights reserved.
+ This email was sent to you because you are a member of Thumbtack and are=
+ opted into updates.
+
+Our mailing address is:
+Thumbtack
+454 Natoma St
+San Francisco, CA 94103
+** Unsubscribe from this list (http://thumbtack.us2.list-manage1.com/unsub=
+scribe?u=3D5c8fe6382202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3Dd94a=
+69694f)
+--_----------=_MCPart_38738003
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Help Us Help You</title>
+		
+    <style type="text/css">
+		#outlook a{
+			padding:0;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		body{
+			margin:0;
+			padding:0;
+		}
+		img{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+		}
+		table,td{
+			border-collapse:collapse !important;
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		#bodyTable,#bodyCell{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		#templateContainer{
+			width:600px;
+		}
+		body,#bodyTable{
+			background-color:#FFFFFF;
+		}
+		h1{
+			color:#363636 !important;
+			display:block;
+			font-family:Verdana;
+			font-size:24px;
+			font-style:normal;
+			font-weight:normal;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h2{
+			color:#363636 !important;
+			display:block;
+			font-family:Verdana;
+			font-size:20px;
+			font-style:normal;
+			font-weight:normal;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h3{
+			color:#363636 !important;
+			display:block;
+			font-family:Verdana;
+			font-size:16px;
+			font-style:normal;
+			font-weight:normal;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h4{
+			color:#363636 !important;
+			display:block;
+			font-family:Verdana;
+			font-size:14px;
+			font-style:normal;
+			font-weight:normal;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#dddddd;
+			border-top:0;
+			border-bottom:1px none #cccccc;
+		}
+		.preheaderContent{
+			color:#888888;
+			font-family:Arial;
+			font-size:11px;
+			line-height:125%;
+			padding-top:10px;
+			padding-bottom:10px;
+			text-align:left;
+		}
+		.preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts {
+			color:#303030;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#ffffff;
+			border-top:10px solid #DDDDDD;
+			border-bottom:1px solid #cccccc;
+			padding:0px;
+		}
+		.headerContent{
+			color:#363636;
+			font-family:Verdana;
+			font-size:20px;
+			font-weight:bold;
+			line-height:100%;
+			padding-top:40px;
+			padding-right:0;
+			padding-bottom:20px;
+			padding-left:0;
+			text-align:right;
+			vertical-align:middle;
+		}
+		.headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts {
+			color:#363636;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#headerImage{
+			height:auto;
+			max-width:600px;
+		}
+		#templateBody{
+			background-color:#fafafa;
+			border-top:0;
+			border-bottom:0;
+		}
+		.bodyContent{
+			color:#444444;
+			font-family:Arial;
+			font-size:14px;
+			line-height:150%;
+			padding-top:20px;
+			padding-bottom:40px;
+			text-align:left;
+		}
+		.bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts {
+			color:#000000;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.bodyContent img{
+			display:inline;
+			height:auto;
+			max-width:600px !important;
+		}
+		body,#bodyTable{
+			background-color:#DDDDDD;
+		}
+		#templateFooter{
+			border-top:0;
+			border-bottom:0;
+		}
+		.footerContent{
+			color:#888888;
+			font-family:Verdana;
+			font-size:10px;
+			line-height:150%;
+			padding-top:20px;
+			padding-bottom:20px;
+			text-align:right;
+		}
+		.footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span {
+			color:#363636;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.footerContent img{
+			display:inline;
+			height:auto;
+			max-width:600 !important;
+		}
+	@media only screen and (max-width: 500px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		body{
+			width:auto !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		table[class=templateContainer]{
+			max-width:600px !important;
+			width:250px !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		h1{
+			font-size:24px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		h2{
+			font-size:20px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		h3{
+			font-size:18px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		h4{
+			font-size:16px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		table[id=templatePreheader]{
+			display:none !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		img[id=headerImage]{
+			height:auto !important;
+			max-width:125px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		td[class=headerContent]{
+			font-size:20px !important;
+			line-height:150% !important;
+			padding-top:20px !important;
+			padding-right:10px !important;
+			padding-bottom:20px !important;
+			padding-left:10px !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		td[class=bodyContent]{
+			font-size:17px !important;
+			line-height:150% !important;
+			padding-right:10px !important;
+			padding-left:10px !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		td[class=footerContent]{
+			font-size:14px !important;
+			line-height:150% !important;
+			padding-right:10px !important;
+			padding-left:10px !important;
+		}
+
+}	@media only screen and (max-width: 500px){
+		td[class=footerContent] a{
+			display:block !important;
+		}
+
+}		.bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts{
+			color:#38a2ce;
+		}
+		.headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
+			color:#38a2ce;
+		}
+		.footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span{
+			color:#38a2ce;
+		}
+		.preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts{
+			color:#38a2ce;
+		}
+</style></head>
+    <body style="margin: 0;padding: 0;background-color: #DDDDDD;">
+    	<center>
+        	<table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;background-color: #DDDDDD;border-collapse: collapse !important;height: 100% !important;width: 100% !important;">
+            	<tr>
+                	<td align="center" height="100%" valign="top" width="100%" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                    	<!-- BEGIN PREHEADER -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #dddddd;border-top: 0;border-bottom: 1px none #cccccc;border-collapse: collapse !important;">
+                        	<tr>
+                            	<td align="center" valign="top" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                	<table border="0" cellpadding="0" cellspacing="0" width="600" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                    	<tr>
+                                        	<td valign="top" class="preheaderContent" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #888888;font-family: Arial;font-size: 11px;line-height: 125%;padding-top: 10px;padding-bottom: 10px;text-align: left;border-collapse: collapse !important;"><div style="text-align: left; ">
+	<span style="font-size:11px;"><font face="Lucida Grande, arial, sans-serif"><span style="line-height: 20px; ">You received this newsletter as a valued Thumbtack service pro.&nbsp;</span></font><br>
+	<span style="font-family:arial,helvetica,sans-serif;"><a href="http://thumbtack.us2.list-manage1.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=d94a69694f" target="_blank" style="color: #38a2ce;font-weight: normal;text-decoration: underline;">Unsubscribe</a>&nbsp;from&nbsp;Thumbtack&#39;s Service Pro Newsletter.&nbsp;</span></span></div>
+</td>
+                                            <!-- 
+ -->
+											<td valign="top" width="220" class="preheaderContent" style="padding-left: 20px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #888888;font-family: Arial;font-size: 11px;line-height: 125%;padding-top: 10px;padding-bottom: 10px;text-align: left;border-collapse: collapse !important;"><span style="font-size:11px;">Email not displaying correctly?<br>
+<a href="http://us2.campaign-archive2.com/?u=5c8fe6382202ffeef15b8067c&id=d94a69694f&e=d35d644970" target="_blank" style="color: #38a2ce;font-weight: normal;text-decoration: underline;">View it in your browser</a>.</span> </td>
+											<!-- 
+ -->
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END PREHEADER -->
+                    	<!-- BEGIN TEMPLATE SECTIONS -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                        	<tr>
+                            	<td align="center" valign="top" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                	<!-- BEGIN HEADER -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #ffffff;border-top: 10px solid #DDDDDD;border-bottom: 1px solid #cccccc;padding: 0px;border-collapse: collapse !important;">
+                                    	<tr>
+                                        	<td align="center" valign="top" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="600" class="templateContainer" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                                	<tr>
+                                                        <td class="headerContent" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #363636;font-family: Verdana;font-size: 20px;font-weight: bold;line-height: 100%;padding-top: 40px;padding-right: 0;padding-bottom: 20px;padding-left: 0;text-align: right;vertical-align: middle;border-collapse: collapse !important;">
+                                                            <div style="text-align: left;"><img src="http://gallery.mailchimp.com/5c8fe6382202ffeef15b8067c/images/header_crisp_2.jpg" alt="Thumbtack: Find and Book Trustworthy Local Services" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 88px;width: 600px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;" width="600" height="88" id="headerImage"></div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END HEADER -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                	<!-- BEGIN BODY -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #fafafa;border-top: 0;border-bottom: 0;border-collapse: collapse !important;">
+                                    	<tr>
+                                        	<td align="center" valign="top" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="600" class="templateContainer" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                                	<tr>
+                                                        <td valign="top" class="bodyContent" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #444444;font-family: Arial;font-size: 14px;line-height: 150%;padding-top: 20px;padding-bottom: 40px;text-align: left;border-collapse: collapse !important;"><br>
+<span style="color:#f89728;"><span style="font-size: 24px; "><span style="font-family: 'trebuchet ms', helvetica, sans-serif; ">Help Us Help You</span></span></span>
+<div>
+	<div id="intro_title">
+		<div>
+			<div id="intro_title">
+				&nbsp;</div>
+		</div>
+		<div id="main_text">
+			<br>
+			Hi Chris,<br>
+			<br>
+			Happy 4th of July! We&#39;re busier than ever connecting you to the customers searching for your services online. I&#39;m happy to report that our efforts are paying off -<strong>&nbsp;</strong>so far this year we&#39;ve tripled our investment in online marketing and <strong>doubled the number of customers using Thumbtack</strong>. While many of you have seen that uptick in requests, we want to do even better. Please take this short survey to help us make Thumbtack work better for you:&nbsp;<br>
+			&nbsp;</div>
+		<div style="text-align: center;">
+			<strong><a href="http://thumbtack.us2.list-manage.com/track/click?u=5c8fe6382202ffeef15b8067c&id=e982b5d1cd&e=d35d644970" target="_self" style="color: #38a2ce;font-weight: normal;text-decoration: underline;">Service Pro Survey</a>&nbsp;</strong></div>
+		<div id="main_text">
+			<br>
+			<strong>If Thumbtack&#39;s not working for you, it&#39;s not working at all.</strong> Thanks so much for your help. Have a fantastic weekend.<br>
+			<br>
+			Your advocate,<br>
+			<br>
+			<img src="http://gallery.mailchimp.com/5c8fe6382202ffeef15b8067c/images/luke_sig_orange.png" style="border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;display: inline;max-width: 600px !important;"><br>
+			<br>
+			<span style="color:#808080;">Luke McGowan<br>
+			Small Business Advocate<br>
+			Thumbtack.com</span></div>
+	</div>
+</div>
+<br>
+<strong>PS&nbsp;</strong>As always, if you have questions or concerns please email us at <a href="mailto:servicepros@thumbtack.com" target="_self" style="color: #38a2ce;font-weight: normal;text-decoration: underline;">servicepros@thumbtack.com</a>&nbsp;</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END BODY -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                    <!-- BEGIN FOOTER -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-top: 0;border-bottom: 0;border-collapse: collapse !important;">
+                                        <tr>
+                                            <td align="center" valign="top" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="600" class="templateContainer" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+                                                    <tr>
+                                                        <td valign="top" class="footerContent" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;line-height: 150%;padding-top: 20px;padding-bottom: 20px;text-align: right;border-collapse: collapse !important;"><div style="text-align: left; ">
+	<a href="http://thumbtack.us2.list-manage1.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=d94a69694f" target="_blank" style="color: #38a2ce;font-weight: normal;text-decoration: underline;">Unsubscribe from this list</a></div>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top" class="footerContent" style="padding-top: 20px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;line-height: 150%;padding-bottom: 20px;text-align: right;border-collapse: collapse !important;"><div style="text-align: left; ">
+	<em>Copyright &copy; 2013 Thumbtack, All rights reserved.</em></div>
+<div style="text-align: left; ">
+	
+ This email was sent to you because you are a member of Thumbtack and are opted into updates.<br>
+	<br>
+	<strong>Our mailing address is:</strong><br>
+	<div class="vcard"><span class="org fn">Thumbtack</span><div class="adr"><div class="street-address">454 Natoma St</div><span class="locality">San Francisco</span>, <span class="region">CA</span>  <span class="postal-code">94103</span></div><br><a href="http://thumbtack.us2.list-manage1.com/vcard?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7" class="hcard-download">Add us to your address book</a></div> 
+</div>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top" class="footerContent" style="padding-top: 20px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;line-height: 150%;padding-bottom: 20px;text-align: right;border-collapse: collapse !important;"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top" class="footerContent" style="padding-top: 20px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;line-height: 150%;padding-bottom: 20px;text-align: right;border-collapse: collapse !important;"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src="http://thumbtack.us2.list-manage.com/track/open.php?u=5c8fe6382202ffeef15b8067c&id=d94a69694f&e=d35d644970" height="1" width="1"></body>
+</html>
+--_----------=_MCPart_38738003--

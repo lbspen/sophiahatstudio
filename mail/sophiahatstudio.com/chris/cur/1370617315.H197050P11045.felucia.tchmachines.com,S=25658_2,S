@@ -1,0 +1,491 @@
+Return-path: <3ee.d.970653794.46136@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Fri, 07 Jun 2013 11:01:55 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:27382)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.d.970653794.46136@newbay.cfmvmail.com>)
+	id 1UkyAq-0002rT-VW
+	for chris@sophiahatstudio.com; Fri, 07 Jun 2013 11:01:55 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=pjbsZ+NlDPqAJmR6kyZF9IXBLfCPMfCxJmX5diUSReZxLZwQnFCQ2/kw5FEisjwEj/CIN4yHVIAS5zi2xbfmvDCbh9+Ino+Ti7tHO6OyfREvCKCXMO3OhOAXA1mg8otY2SjZTXeUOxjL4rmcSC7sgyoW4cvYHnJswoZyxbxDFkU=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1370617321;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=t8AlZeJKF3f87Rs+lB0BqU+vq/U=;
+	b=dOwE7hMl9VW1baiTQy+UzdGf0cRgMW98bqRsnzeiB+ue1BHNsIwEnZrGR5rxAZWjlspnMt6fK/KXmVQKyGrMiXgeGMCPFDiMZW4FJfFnP/kosz5gFvwwK3fB+AtenP5qXoSFCrSxi+1Gad6zk16bRyLnpUT0PbmxeKgE4RH4gXk=
+X-FBL: M2VlLjFlLjExNDAwMDAwMWFjNTRjOC45NzA2NTM3OTQuNDYxMzYuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Mix Magazine Partners" <partners@mixonline.com>
+Message-ID: <f8caeff4-119a-4e44-9973-b84aeca6cc56@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?SHVnZSBTYXZpbmdzIG9uIFNwZWNpYWxseSBTZWxlY3RlZCBQ?=
+	=?utf-8?B?cm9kdWN0IEJ1bmRsZXM=?=
+Date: Fri, 7 Jun 2013 11:01:59 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Sony Creative Software Huge savings on specially selected
+   product bundles! - click here to view online Digital Video Production Bundle
+    Just $399.95 — save up to $274.95 Optimize your digital video delivery!
+    Vegas Pro Edit features the full Vegas Pro engine minus DVD Architect. The
+    Production Assistant enhances it with a set of batch processing and workflow
+    automation tools. Save time and eliminate tedious tasks. [...] 
+ 
+ Content analysis details:   (0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.3 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2E01 Transitional//EN"><html>
+<head>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3DUS-AS=
+CII">
+=09<title>Sony Creative Software</title>
+</head>
+
+<body style=3D"margin:0px;" bgcolor=3D"#323232">
+<div align=3D"center" style=3D"margin:0px;background-color:#323232">
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#323232" style=3D"margin:0px;background-color:#323232">
+=09<tr>
+=09=09<td width=3D"615" align=3D"left" bgcolor=3D"#323232">
+=09=09=09<div style=3D"font-family: Arial; color: #eeeeee; font-size: 10p=
+x;">Huge savings on specially selected product bundles! - <a name=3D"preh=
+eader" style=3D"font-family: Arial; color: #eeeeee; font-size: 10px; text=
+-decoration: underline" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F970653794=5F46136=5F1">click here to view online</a></div>
+=09=09</td>
+=09=09<td width=3D"85" align=3D"left" bgcolor=3D"#323232"><img src=3D"htt=
+p://www=2Esonycreativesoftware=2Ecom/email/sony-logo=2Egif" alt=3D"Sony" =
+width=3D"85" height=3D"55" border=3D"0"></td>
+=09</tr>
+</table>
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff" style=3D"margin:0px;background-color:#ffffff"><tr><td><a=
+ name=3D"top banner" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F970653794=5F46136=5F2"><img src=3D"http://www=2Esonycreativesoftw=
+are=2Ecom/email/special/2013-06-Bundles=2Ejpg" alt=3D"Specially priced bu=
+ndles for June" width=3D"700" height=3D"250" border=3D"0" style=3D"displa=
+y:block;"></a><br><br></td></tr></table>
+
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff">
+=09<tr>
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09=09
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F3" name=3D"img3"><img src=3D"http://www=2Esonycreative=
+software=2Ecom/email/special/img/210x180=5Fvpeditvppa=2Ejpg" alt=3D"Vegas=
+ Pro 12 Edit + Vegas Pro Production Assistant 2" width=3D"210" height=3D"=
+180" border=3D"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Digital Video Production Bundle</span><br>
+=09=09=09<strong style=3D"color: #000000" ;=3D"">Just $399=2E95 &mdash; s=
+ave up to $274=2E95</strong><br>
+=09=09=09Optimize your digital video delivery! Vegas Pro Edit features th=
+e full Vegas Pro engine minus DVD Architect=2E The Production Assistant e=
+nhances it with a set of batch processing and workflow automation tools=2E=
+ Save time and eliminate tedious tasks=2E<br><br>
+
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F4" style=3D"font-family: Arial; color: #219ad1; font-s=
+ize: 12px; text-decoration: underline; font-weight:bold" name=3D"link3">B=
+uy Vegas Pro 12 Edit + Vegas Pro Production Assistant 2 $399=2E95</a><br>=
+<br>
+=09=09</td>
+
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F5" name=3D"img2"><img src=3D"http://www=2Esonycreative=
+software=2Ecom/email/special/img/210x180=5Fvpboris=2Ejpg" alt=3D"Vegas Pr=
+o + Boris Continuum Stylize Unit" width=3D"210" height=3D"180" border=3D"=
+0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Vegas Pro Stylize Bundle</span><br>
+=09=09=09<strong style=3D"color: #000000" ;=3D"">Just $599=2E95 &mdash; s=
+ave up to $379=2E95</strong><br>
+=09=09=09Supporting more formats, more workflows, and more creative contr=
+ol than ever before, Vegas Pro 12 makes it easy to deliver your message a=
+nd express your artistic vision=2E Add some pizzaz with the highly styliz=
+ed VFX of Boris Continuum Stylize Unit=2E<br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F6" style=3D"font-family: Arial; color: #219ad1; font-s=
+ize: 12px; text-decoration: underline; font-weight:bold" name=3D"link2">B=
+uy Vegas Pro + Boris Continuum Stylize Unit $599=2E95</a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F7" name=3D"img1"><img src=3D"http://www=2Esonycreative=
+software=2Ecom/email/special/img/210x180=5Fapwaves5loops=2Ejpg" alt=3D"AC=
+ID Pro, Waves One Knob, and 5 Standard Loop Libraries" width=3D"210" heig=
+ht=3D"180" border=3D"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Music Creation Bundle</span><br>
+=09=09=09<strong style=3D"color: #000000" ;=3D"">Just $499=2E95 &mdash; s=
+ave up to $299=2E70</strong><br>
+=09=09=09A professional music workstation for composing, recording, mixin=
+g, and arranging=2E  A collection of 7 plug-ins to cure tweak fatigue=2E =
+ Your choice of 5 Loop Libraries=2E  Mixing has never been this fast or t=
+his much fun=2E<br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F8" style=3D"font-family: Arial; color: #219ad1; font-s=
+ize: 12px; text-decoration: underline; font-weight:bold" name=3D"link1">B=
+uy ACID Pro, Waves One Knob, and<br>5 Standard Loop Libraries $499=2E95</=
+a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+
+
+=09<tr>
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09=09
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F9" name=3D"img4"><img src=3D"http://www=2Esonycreative=
+software=2Ecom/email/special/img/210x180=5Famssfas=2Ejpg" alt=3D"ACID Mus=
+ic Studio + Sound Forge Audio Studio" width=3D"210" height=3D"180" border=
+=3D"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Home Audio Studio Bundle</span><br>
+=09=09=09<strong style=3D"color: #000000" ;=3D"">Just $69=2E95 &mdash; sa=
+ve up to $69=2E95</strong><br>
+=09=09=09Turn your laptop into an audio studio!  Create music, remove voc=
+als, apply effects, record your sounds, and back it up with Loops & Sampl=
+es &mdash; over 3000 are included=2E Normally $69=2E95 each, get one free=
+ in this bundle!<br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F10" style=3D"font-family: Arial; color: #219ad1; font-=
+size: 12px; text-decoration: underline; font-weight:bold" name=3D"link4">=
+Buy ACID Music Studio + Sound Forge Audio Studio $69=2E95</a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F11" name=3D"img5"><img src=3D"http://www=2Esonycreativ=
+esoftware=2Ecom/email/special/img/210x180=5Fis4b=2Ejpg" alt=3D"Imaginatio=
+n Studio" width=3D"210" height=3D"180" border=3D"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Imagination Studio Bundle</span><br>
+=09=09=09<strong style=3D"color: #000000" ;=3D"">Just $94=2E95 &mdash; sa=
+ve up to $85=2E00</strong><br>
+=09=09=09Combining four powerful Sony applications, the Imagiation Studio=
+ bundle lets you edit video in stunning AVCHD&trade; or stereoscopic 3D, =
+create original music, and enhance multichannel audio=2E  The ultimate co=
+llection of home studio applications=2E<br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F12" style=3D"font-family: Arial; color: #219ad1; font-=
+size: 12px; text-decoration: underline; font-weight:bold" name=3D"link5">=
+Buy Movie Studio Platinum + DVD Architect Studio + Music Studio + Audio S=
+tudio + More $94=2E95</a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F13" name=3D"img6"><img src=3D"http://www=2Esonycreativ=
+esoftware=2Ecom/email/special/img/210x180=5Fmspfastapps=2Ejpg" alt=3D"Mov=
+ie Studio Platinum + 5 FASST Apps" width=3D"210" height=3D"180" border=3D=
+"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Platinum Plus Bundle</span><br>
+=09=09=09<strong style=3D"color: #000000" ;=3D"">Just $94=2E95 &mdash; sa=
+ve up to $54=2E75</strong><br>
+=09=09=09Includes Movie Studio Platinum and 5 of the most popular FASST A=
+pps to add time-shift effects, graphic overlays, dynamic slideshows, and =
+more=2E  Includes Still Motion, Stutter Frame, CinemaLooks2, TitleStrip V=
+ol=2E 2, and TimeWarp FASST Apps=2E<br><br>
+
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F14" style=3D"font-family: Arial; color: #219ad1; font-=
+size: 12px; text-decoration: underline; font-weight:bold" name=3D"link6">=
+Buy Movie Studio Platinum + 5 FASST Apps $94=2E95</a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+
+=09<tr>
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09=09
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F15" name=3D"img7"><img src=3D"http://www=2Esonycreativ=
+esoftware=2Ecom/email/special/img/210x180=5Fbogoloops=2Ejpg" alt=3D"BOGO =
+Loops" width=3D"210" height=3D"180" border=3D"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Buy One Get One Loops</span><br>
+=09=09=09Choose any individual Sony Sound Series: Loops & Samples collect=
+ion and get another of equal or lesser value free!<br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F16" style=3D"font-family: Arial; color: #219ad1; font-=
+size: 12px; text-decoration: underline; font-weight:bold" name=3D"link7">=
+Buy One Get One Free on any Loops & Samples Collection</a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F17" name=3D"img8"><img src=3D"http://www=2Esonycreativ=
+esoftware=2Ecom/email/special/img/210x180=5Floopboxes=2Ejpg" alt=3D"Loop =
+Boxes and Bundles" width=3D"210" height=3D"180" border=3D"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Loop Boxes and Bundles 40% off</span><br>
+=09=09=09Save an additional 40% on these already discounted bundles of So=
+ny Sound Series Loops & Samples and Sound Effects=2E<br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F18" style=3D"font-family: Arial; color: #219ad1; font-=
+size: 12px; text-decoration: underline; font-weight:bold" name=3D"link8">=
+Loop Boxes and Bundles 40% off</a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 11px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F19" name=3D"img9"><img src=3D"http://www=2Esonycreativ=
+esoftware=2Ecom/email/special/img/210x180=5Fbogosfx=2Ejpg" alt=3D"BOGO So=
+und Effects" width=3D"210" height=3D"180" border=3D"0"></a><br>
+=09=09=09<span style=3D"font-family: Arial; color: #333333; font-size: 13=
+px; font-weight:bold;">Buy One Get One Sound Effects</span><br>
+=09=09=09Get any Sony Sound Series: Sound Effects collection free when yo=
+u purchase another of equal or greater value=2E<br><br>
+
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+70653794=5F46136=5F20" style=3D"font-family: Arial; color: #219ad1; font-=
+size: 12px; text-decoration: underline; font-weight:bold" name=3D"link9">=
+Buy One Get One Free on any Sound Effects</a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+</table>
+
+
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff">
+=09<tr>
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09=09<td width=3D"670" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 13px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+"><br>
+=09=09=09<div align=3D"center" style=3D"font-size: 16px; font-family: Ari=
+al, Sans-Serif; color: #000000; font-weight:bold;">Don't delay! All offer=
+s end on June 26, 2013=2E</div><br><br>
+
+=09=09=09<img src=3D"http://www=2Esonycreativesoftware=2Ecom/email/greyba=
+r670=2Egif" alt=3D"" width=3D"670" height=3D"1" border=3D"0"><br><br>
+=09
+=09=09=09<div align=3D"center"><a href=3D"http://www=2Ecfmediaview=2Ecom/=
+lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F21"><img src=3D"http://www=2Eson=
+ycreativesoftware=2Ecom/email/events/sweeps2013=2Ejpg" alt=3D"Rate=2E Rev=
+iew=2E Win!" width=3D"600" height=3D"74" border=3D"0" style=3D"display:bl=
+ock; border:solid 10px #CCCCCC;"></a></div>
+=09=09=09<br>
+=09
+=09=09=09<img src=3D"http://www=2Esonycreativesoftware=2Ecom/email/greyba=
+r670=2Egif" alt=3D"" width=3D"670" height=3D"1" border=3D"0"><br><br>
+=09=09=09
+=09=09=09*Offers valid June 6, 2013 - June 26, 2013, and available only w=
+hen purchasing directly from Sony Creative Software via links in this ema=
+il=2E Pricing displayed in US Dollars=2E Customers outside the US may be =
+charged in local currency=2E<br><br>
+=09=09</td>
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+</table>
+
+
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#323232">
+=09<tr>
+=09=09<td width=3D"5" bgcolor=3D"#222222"><img src=3D"http://www=2Esonycr=
+eativesoftware=2Ecom/email/footer-left=2Egif" width=3D"5" height=3D"30"><=
+/td>
+=09=09<td bgcolor=3D"#222222" valign=3D"middle" style=3D"font-family: Ari=
+al; font-size: 11px;">&nbsp;&nbsp;
+=09=09=09<img src=3D"http://www=2Esonycreativesoftware=2Ecom/images/foote=
+r/socialbar=5F01=2Egif" alt=3D"Follow Us Online" width=3D"106" height=3D"=
+22" border=3D"0" align=3D"absmiddle">
+=09=09=09<a name=3D"facebook icon" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F22"><img src=3D"http://www=2Eso=
+nycreativesoftware=2Ecom/images/footer/socialbar=5F02=2Egif" alt=3D"Faceb=
+ook" width=3D"25" height=3D"22" border=3D"0" align=3D"absmiddle"></a>
+=09=09=09<a name=3D"twitter icon" href=3D"http://www=2Ecfmediaview=2Ecom/=
+lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F23"><img src=3D"http://www=2Eson=
+ycreativesoftware=2Ecom/images/footer/socialbar=5F03=2Egif" alt=3D"Twitte=
+r" width=3D"24" height=3D"22" border=3D"0" align=3D"absmiddle"></a>
+=09=09=09<a name=3D"youtube icon" href=3D"http://www=2Ecfmediaview=2Ecom/=
+lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F24"><img src=3D"http://www=2Eson=
+ycreativesoftware=2Ecom/images/footer/socialbar=5F04=2Egif" alt=3D"YouTub=
+e" width=3D"26" height=3D"22" border=3D"0" align=3D"absmiddle"></a>
+=09=09</td>
+=09=09<td width=3D"200" bgcolor=3D"#222222"><img src=3D"http://www=2Esony=
+creativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"200" height=3D"1=
+" border=3D"0" align=3D"absmiddle"></td>
+=09=09<td bgcolor=3D"#222222" valign=3D"middle" style=3D"font-family: Ari=
+al; font-size: 11px;">
+=09=09=09<span style=3D"font-family: Arial; color: #cccccc; font-size: 11=
+px;">
+=09=09=09<a name=3D"footer: about us" style=3D"font-family: Arial; color:=
+ #cccccc; font-size: 11px; text-decoration: underline;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F25">About =
+Us</a> |=20
+=09=09=09<a name=3D"footer: privacy" style=3D"font-family: Arial; color: =
+#cccccc; font-size: 11px; text-decoration: underline;" href=3D"http://www=
+=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F26">Privacy=
+ Policy</a> |=20
+=09=09=09<a name=3D"footer: copyright" style=3D"font-family: Arial; color=
+: #cccccc; font-size: 11px; text-decoration: underline;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F27">Copyr=
+ight</a> |=20
+=09=09=09<a name=3D"footer: terms" style=3D"font-family: Arial; color: #c=
+ccccc; font-size: 11px; text-decoration: underline;" href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F28">Terms of S=
+ervice</a>
+=09=09=09</span>
+=09=09</td>
+=09=09<td width=3D"5" height=3D"30" bgcolor=3D"#222222"><img src=3D"http:=
+//www=2Esonycreativesoftware=2Ecom/email/footer-right=2Egif" width=3D"5" =
+height=3D"30"></td>
+=09</tr>
+</table>
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#323232" style=3D"margin:0px;background-color:#323232">
+=09<tr>
+=09=09<td align=3D"left" style=3D"font-family: Arial; color: #999999; fon=
+t-size: 11px; text-align: left;" bgcolor=3D"#323232">For technical suppor=
+t or product questions visit <a name=3D"legal: custcenter" style=3D"font-=
+family: Arial; color: #999999; font-size: 11px;" href=3D"http://www=2Ecfm=
+ediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F29">our knowledge=
+base</a>=2E For customer service and sales call 1=2E800=2E577=2E6642 Nort=
+h America / +1=2E608=2E203=2E7620 International=2E<br><br>
+=09=09=09
+=09=09=09&copy; 2013 Sony Creative Software Inc=2E All Rights Reserved=2E=
+ Sony and the Sony logo are registered trademarks of Sony Corporation of =
+America=2E  ACID, DVD Architect, Photo Go, Sound Forge, and Vegas are tra=
+demarks or registered trademarks of Sony Creative Software Inc=2E in the =
+United States and other countries=2E All other trademarks and copyrights =
+are the property of their respective owners=2E<br><br>
+=09=09</td>
+=09</tr>
+</table>
+<p style=3D"font-size: 12px; line-height: 18px; font-family: Arial, Sans-=
+Serif; color: #333333; width: 760px;">&nbsp;</p>
+</div>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F30=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F970653794=5F46136=5F31">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D970653794&msgid=3D46136"></body>
+</html>
+

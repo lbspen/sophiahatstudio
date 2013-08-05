@@ -1,0 +1,362 @@
+Return-path: <news@news.waves-audio.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 04 Jul 2013 16:52:40 -0400
+Received: from bismuth-ononei.emv8.com ([81.92.117.118]:42907)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <news@news.waves-audio.com>)
+	id 1UuqW5-0006HU-MB
+	for chris@sophiahatstudio.com; Thu, 04 Jul 2013 16:52:39 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=news.waves-audio.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=news@news.waves-audio.com;
+ bh=ZOH7Gz3TZfPK4qGpWd4xU6yCRMM=;
+ b=jXlmEQ8wBHjBMoM1AUaXMUUxqvOVtvGXLWskhR9/fgv+s6ZK+Gzj0x0mRt5lUp9zT688PJRN7EES
+   4BkFQ5A/EedBhhcy5/Px4PAzUNSueIaHwENYjuqLedgs81iL3pBu7sloiClPNnA9RwLrz3uFgaXA
+   4AkSR5G+/rGr6zW72qA=
+Received: by bismuth-ononei.emv8.com id hqng9u16758m for <chris@sophiahatstudio.com>; Thu, 4 Jul 2013 22:52:16 +0200 (envelope-from <news@news.waves-audio.com>)
+Date: Thu, 4 Jul 2013 22:52:16 +0200 (CEST)
+From: Waves Audio <news@news.waves-audio.com>
+Reply-To: no-reply <no-reply@waves.com>
+To: chris spencer  <chris@sophiahatstudio.com>
+Message-ID: <2.1.34.1101035642.354805.484882624@news.waves-audio.com>
+Subject: Waves Live Chats - RSVP Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=354805484882624
+X-EMV-Platform: p6ccc.campaigncommander.com$
+X-EMV-CampagneId: 354805$
+X-EMV-MemberId: 484882624$
+List-Unsubscribe: <http://news.waves-audio.com/HD?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqgavcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVOe>, <mailto:unsubscribe@news.waves-audio.com?subject=unsubscribe-34-ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqgavcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVOe>
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Waves Webinars Newsletter <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJKsg_nGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUuP"
+    title="">View this message in a browser</a> To ensure delivery of this newsletter
+    in future mailings, please add news@news.waves-audio.com to your contacts
+    book or safe senders list. [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+--354805484882624
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Waves Webinars Newsletter  <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJKsg_nGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUuP" title="">View this message in a browser</a>
+
+ To ensure delivery of this newsletter in future mailings, please add 
+news@news.waves-audio.com to your contacts book or safe senders list.
+
+Waves Webinars ()
+ Waves Live Chats are your opportunity to connect with the music 
+industryâs top producers, mixers and engineers, from the comfort of 
+your home or studio (and theirs). From start to finish, they will take 
+your questions and provide you with expert knowledge gained from years 
+of experience working in the field.
+
+ RSVP today and reserve your spot for the live chat(s) of your choice!
+
+Mixing Live With Waves Genesis
+ As Audio Director at Atlantaâs North Point Community Church, FOH 
+engineer David Stagl is an expert at meeting the exceptional challenges 
+posed by the fast-paced field of sound for worship, and the perfect 
+person to introduce the tools included in the new WavesLive Genesis : 
+ http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhwPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIH 
+ bundle. The C4 Multiband Compressor, Renaissance DeEsser, H-Delay and 
+Renaissance Reverb are the bread and butter tools of live mixing, and 
+this is your chance to find out why.
+
+Mastering With Waves
+ With a diverse discography that includes Pet Shop Boys, Sugababes, 
+Air, Bryan Adams and Goldfrapp, Yoad Nevo is one of todayâs top 
+mixers, as youâll see in this  video tutorial : 
+ http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhwfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIE 
+. Drawing on his extensive experience as a producer, engineer and Waves 
+plugin developer, Yoad has a treasure chest of tips and techniques that 
+heâs willing to share. All you need to do is ask.
+
+Mixing and Mastering Electronic Dance Music
+ GRAMMY® award-winning producer, engineer and composer Dave Darlington 
+is one of pioneers of the New York club scene, having mixed dance music 
+long before the term EDM ever existed. Perhaps his greatest gift, 
+though, is his ability to explain the tools and methods he uses to do 
+it, as youâll see in this  video tutorial : 
+ http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhxvcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIF 
+. For anyone interested in having their music heard â and felt â 
+this is the chat for you.
+
+
+ Tuesday
+ July 9 th
+ 12PM EDT (New York)
+ 5PM GMT+1 (London) Mixing Live With Waves Genesis  David Stagl 
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhx_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIK 
+ Thursday
+ July 11 th
+ 12PM EDT (New York)
+ 5PM GMT+1 (London) Mastering With Waves  Yoad Nevo 
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhxPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIL 
+ Monday
+ July 15 th
+ 12PM EDT (New York)
+ 5PM GMT+1 (London) Mixing and Mastering Electronic Dance Music  Dave Darlington 
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhxfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVII 
+Space is limited, so sign up now!
+
+ To remove yourself from this mailing list please <a href="http://news.waves-audio.com/HD?a=FtX7Cqk6a4kv8SA9MKJKsg_nGHxKLJ3xLAjtS5kGaPGD0bBhOG5mpqVsje_HhdAlWUuN" title="unsubscribe">unsubscribe</a>
+
+ Please do not reply to this email, as this mailbox will not accept 
+incoming mail.
+ For customer service and sales, call 1-865-909-9200 or contact us by email : 
+ http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqh2_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIO 
+.
+
+ Waves Inc. | 2800 Merchants Drive | Knoxville, TN 37912 | Phone: 
+1-865-909-9200 | Fax: 1-865-909-9245
+
+ Copyright© 2013 Waves Audio Ltd. All rights reserved.
+
+
+--354805484882624
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Waves Webinars Newsletter</title>
+</head>
+<body>
+    <div align="center">
+        <p style="padding-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sans-serif;
+            font-size: 11px;">
+            <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJKsg_nGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUuP" title="">View this message in a browser</a><br />
+            <br />
+            To ensure delivery of this newsletter in future mailings, please add news@news.waves-audio.com
+            to your contacts book or safe senders list.</p>
+    </div>
+    <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff">
+        <tbody>
+            <tr>
+                <td height="15">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center">
+                        <table width="584" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <table width="584" border="0" cellspacing="0" cellpadding="0" style="border: 8px solid #F5F5F5;">
+                                        <tr>
+                                            <td>
+                                                    <img src="http://www.waves.com/newsletters/New_Features/Webinars/images/live-chats-header.jpg"
+                                                        alt="" title="Waves Webinars" border="0" />
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" style="text-align: left; padding: 15px; margin-bottom: 0px; line-height: 16px;
+                                                font-family: Verdana, Geneva, sans-serif; color: #000; font-size: 12px;">
+                                                <p style="padding-top: 0px; margin-top: 0px;">
+                                                    Waves Live Chats are your opportunity to connect with the music industryâs top producers,
+                                                    mixers and engineers, from the comfort of your home or studio (and theirs). From
+                                                    start to finish, they will take your questions and provide you with expert knowledge
+                                                    gained from years of experience working in the field.
+                                                    <br />
+                                                    <br />
+                                                    RSVP today and reserve your spot for the live chat(s) of your choice!<br />
+                                                    <br />
+                                                    <b>Mixing Live With Waves Genesis</b><br />
+                                                    As Audio Director at Atlantaâs North Point Community Church, FOH engineer David
+                                                    Stagl is an expert at meeting the exceptional challenges posed by the fast-paced
+                                                    field of sound for worship, and the perfect person to introduce the tools included
+                                                    in the new WavesLive <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhwPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIH" target="_blank" title="">Genesis</a>
+                                                    bundle. The C4 Multiband Compressor, Renaissance DeEsser, H-Delay and Renaissance
+                                                    Reverb are the bread and butter tools of live mixing, and this is your chance to
+                                                    find out why.
+                                                    <br />
+                                                    <br />
+                                                    <b>Mastering With Waves</b><br />
+                                                    With a diverse discography that includes Pet Shop Boys, Sugababes, Air, Bryan Adams
+                                                    and Goldfrapp, Yoad Nevo is one of todayâs top mixers, as youâll see in this <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhwfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIE" target="_blank" title="">
+                                                        video tutorial</a>. Drawing on his extensive experience as a producer, engineer
+                                                    and Waves plugin developer, Yoad has a treasure chest of tips and techniques that
+                                                    heâs willing to share. All you need to do is ask.
+                                                    <br />
+                                                    <br />
+                                                    <b>Mixing and Mastering Electronic Dance Music</b><br />
+                                                    GRAMMY&reg; award-winning producer, engineer and composer Dave Darlington is one
+                                                    of pioneers of the New York club scene, having mixed dance music long before the
+                                                    term EDM ever existed. Perhaps his greatest gift, though, is his ability to explain
+                                                    the tools and methods he uses to do it, as youâll see in this <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhxvcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIF" target="_blank">
+                                                        video tutorial</a>. For anyone interested in having their music heard â and
+                                                    felt â this is the chat for you.
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="19">
+                                                <img src="http://www.waves.com/newsletters/New_Features/Webinars/images/webinars_separator.jpg"
+                                                    alt="" title="" height="19" border="0" />
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table width="584" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td height="252" valign="top" width="16" bgcolor="#f7f3f5">
+                                                        </td>
+                                                        <td valign="top" height="230" width="553" style="text-align: left; border-right: 1px solid #F90;
+                                                            border-left: 1px solid #F90; margin-bottom: 0px; line-height: 16px; font-family: Verdana, Geneva, sans-serif;
+                                                            color: #000; font-size: 12px;">
+                                                            <table width="554" cellspacing="0" cellpadding="0">
+                                                                <tr>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="150"
+                                                                        align="center">
+                                                                        Tuesday<br />
+                                                                        July 9<sup>th</sup><br />
+                                                                        12PM EDT (New York)<br />
+                                                                        5PM GMT+1 (London)
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="195"
+                                                                        align="center">
+                                                                        <b>Mixing Live With Waves Genesis</b>
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="154"
+                                                                        align="center">
+                                                                        David Stagl
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="101"
+                                                                        align="center">
+                                                                        <a title="RSVP Now" href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhx_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIK" target="_blank">
+                                                                            <img border="0" alt="" src="http://www.waves.com/newsletters/New_Features/Webinars/images/rsvp.png" /></a>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="102"
+                                                                        align="center">
+                                                                        Thursday<br />
+                                                                        July 11<sup>th</sup><br />
+                                                                        12PM EDT (New York)<br />
+                                                                        5PM GMT+1 (London)
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="195"
+                                                                        align="center">
+                                                                        <b>Mastering With Waves</b>
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="154"
+                                                                        align="center">
+                                                                        Yoad Nevo
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="101"
+                                                                        align="center">
+                                                                        <a title="RSVP Now" href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhxPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIL" target="_blank">
+                                                                            <img border="0" alt="" src="http://www.waves.com/newsletters/New_Features/Webinars/images/rsvp.png" /></a>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="102"
+                                                                        align="center">
+                                                                        Monday<br />
+                                                                        July 15<sup>th</sup><br />
+                                                                        12PM EDT (New York)<br />
+                                                                        5PM GMT+1 (London)
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="195"
+                                                                        align="center">
+                                                                        <b>Mixing and Mastering Electronic Dance Music</b>
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="154"
+                                                                        align="center">
+                                                                        Dave Darlington
+                                                                    </td>
+                                                                    <td style="text-align: center; border-bottom: 1px solid #F90; padding-bottom: 5px;
+                                                                        padding-left: 5px; padding-right: 5px; font-family: Tahoma, sans-serif; color: #ff7800;
+                                                                        font-size: 12px; font-weight: normal; padding-top: 5px" bgcolor="#ffffe1" width="101"
+                                                                        align="center">
+                                                                        <a title="RSVP Now" href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqhxfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVII" target="_blank">
+                                                                            <img border="0" alt="" src="http://www.waves.com/newsletters/New_Features/Webinars/images/rsvp.png" /></a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <p style="padding-top: 20px; padding-bottom: 10px; margin: 0px;" align="center">
+                                                                <strong>Space is limited, so sign up now!</strong></p>
+                                                        </td>
+                                                        <td height="252" valign="top" width="16" bgcolor="#f7f3f5">
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td background="http://www.waves.com/newsletters/New_Features/Webinars/images/webinars_footer.jpg"
+                                                height="50" align="center" valign="top" style="text-align: center; margin-bottom: 0px;
+                                                line-height: 16px; font-family: Verdana, Geneva, sans-serif; color: #000; font-size: 12px;">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td height="15">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div align="center">
+        <p style="padding-top: 20px; padding-bottom: 20px; font-family: arial, helvetica, sans-serif;
+            font-size: 11px;">
+            To remove yourself from this mailing list please <a href="http://news.waves-audio.com/HD?a=FtX7Cqk6a4kv8SA9MKJKsg_nGHxKLJ3xLAjtS5kGaPGD0bBhOG5mpqVsje_HhdAlWUuN" title="unsubscribe">unsubscribe</a><br />
+            <br />
+            Please do not reply to this email, as this mailbox will not accept incoming mail.<br />
+            For customer service and sales, call 1-865-909-9200 or <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKsg_nGHxKLOqh2_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVIO"
+                title="contact us" target="_blank">contact us by email</a>.<br />
+            <br />
+            Waves Inc. | 2800 Merchants Drive | Knoxville, TN 37912 | Phone: 1-865-909-9200
+            | Fax: 1-865-909-9245
+            <br />
+            <br />
+            Copyright&copy; 2013 Waves Audio Ltd. All rights reserved.</p>
+    </div>
+<img src="http://news.waves-audio.com/HO?DdX7Cqk6a4kv8SA9MOPvo4DnGHxKLJiaPwjtS5kGbH_SKMI.gif" border="0" alt="" width="1" height="1" /></body>
+</html>
+
+--354805484882624--

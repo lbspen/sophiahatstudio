@@ -1,0 +1,793 @@
+Return-path: <bounce-mc.us2_6610530.1588485-chris=sophiahatstudio.com@mail58.us4.mcsv.net>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 13 Jun 2013 15:58:41 -0400
+Received: from mail58.us4.mcsv.net ([205.201.128.58]:37822)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <bounce-mc.us2_6610530.1588485-chris=sophiahatstudio.com@mail58.us4.mcsv.net>)
+	id 1UnDfL-0007vv-7X
+	for chris@sophiahatstudio.com; Thu, 13 Jun 2013 15:58:41 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail58.us4.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=servicepros=3Dthumbtack.com@mail58.us4.mcsv.net;
+ bh=zwnrngtQiMkpEUop7yznNVw+2So=;
+ b=ryWRVg39TOEbr6M2XZzXRxp7YiCWiUazCye95YYP/GjHApe5RKLN7q3ApOIKLHNxTEhyM/u9VP9D
+   3D3m3xrmaI97NI1gLBH4kosXsFMv2vvAdtlMMeRKC22VxolV28jciOXqV1+3tQ9OZB0kDjuEiDHb
+   C70wXQorfbhLxLUXe+c=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail58.us4.mcsv.net;
+ b=grhS+Q7l0wjmnVoJzvvwTrwvZ7QL3O+DsW3lmYAp05kFDPVsgSBDnwq4azLqgLLdRDnmEBHVlGmw
+   JUEITUBbUz7urM1lmGyHwoINqKm863Z84XcFAeeKtw6vLA0091yd2am3VIIOZKEn1+UgpHQ73+96
+   fESiRftmprSgtGWM8GU=;
+Received: from (127.0.0.1) by mail58.us4.mcsv.net id hn8i7i14huor for <chris@sophiahatstudio.com>; Thu, 13 Jun 2013 19:58:47 +0000 (envelope-from <bounce-mc.us2_6610530.1588485-chris=sophiahatstudio.com@mail58.us4.mcsv.net>)
+Subject: =?utf-8?Q?Thumbtack=20Partners=20with=20Major=20Investor=20to=20Help=20You=20Get=20Hired=20More=20Often?=
+From: =?utf-8?Q?Thumbtack.com?= <servicepros@thumbtack.com>
+Reply-To: =?utf-8?Q?Thumbtack.com?= <servicepros@thumbtack.com>
+To: =?utf-8?Q?Chris=20Spencer?= <chris@sophiahatstudio.com>
+Date: Thu, 13 Jun 2013 19:58:47 +0000
+Message-ID: <5c8fe6382202ffeef15b8067cd35d644970.20130613195818@mail58.us4.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID85cf349a9ad35d644970**
+X-Campaign: mailchimp5c8fe6382202ffeef15b8067c.85cf349a9a
+X-campaignid: mailchimp5c8fe6382202ffeef15b8067c.85cf349a9a
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=5c8fe6382202ffeef15b8067c&id=85cf349a9a&e=d35d644970
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-5c8fe6382202ffeef15b8067c-85cf349a9a-d35d644970@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://thumbtack.us2.list-manage.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=85cf349a9a>
+Sender: "Thumbtack.com" <servicepros=thumbtack.com@mail58.us4.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1883374648"
+MIME-Version: 1.0
+X-Spam-Status: No, score=-3.1
+X-Spam-Score: -30
+X-Spam-Bar: ---
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  You received this newsletter as a valued Thumbtack Service
+    Pro. Unsubscribe (http://thumbtack.us2.list-manage.com/unsubscribe?u=5c8fe6382202ffeef15b8067c&id=d6612ad2c7&e=d35d644970&c=85cf349a9a)
+    from Thumbtack's Service Pro Newsletter. Email not displaying correctly?
+   View it in your browser (http://us2.campaign-archive2.com/?u=5c8fe6382202ffeef15b8067c&id=85cf349a9a&e=d35d644970)
+    . Thumbtack: Find and Book Trustworthy Local Services [...] 
+ 
+ Content analysis details:   (-3.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.1 URIBL_GREY             Contains an URL listed in the URIBL greylist
+                             [URIs: list-manage.com]
+ -0.2 RCVD_IN_IADB_DK        RBL: IADB: Sender publishes Domain Keys record
+                             [205.201.128.58 listed in iadb.isipp.com]
+ -0.2 RCVD_IN_IADB_RDNS      RBL: IADB: Sender has reverse DNS record
+ -1.2 RCVD_IN_IADB_OPTIN_GT50 RBL: IADB: Opt-in used more than 50% of the
+                             time
+ -2.1 RCVD_IN_IADB_OPTIN     RBL: IADB: All mailing list mail is opt-in
+ -0.4 RCVD_IN_IADB_LISTED    RBL: Participates in the IADB system
+ -2.2 RCVD_IN_IADB_VOUCHED   RBL: ISIPP IADB lists as vouched-for sender
+ -0.0 RCVD_IN_IADB_SPF       RBL: IADB: Sender publishes SPF record
+ -0.0 RCVD_IN_IADB_SENDERID  RBL: IADB: Sender publishes Sender ID record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.2 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  2.2 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1883374648
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+You received this newsletter as a valued Thumbtack Service Pro.
+Unsubscribe (http://thumbtack.us2.list-manage.com/unsubscribe?u=3D5c8fe638=
+2202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D85cf349a9a)  from Thumb=
+tack's Service Pro Newsletter.
+------------------------------------------------------------
+Email not displaying correctly?
+View it in your browser (http://us2.campaign-archive2.com/?u=3D5c8fe638220=
+2ffeef15b8067c&id=3D85cf349a9a&e=3Dd35d644970) .
+Thumbtack: Find and Book Trustworthy Local Services
+
+Dear Thumbtack Service Pro -
+
+Thumbtack has been working hard to bring you more business, and now we hav=
+e the resources to kick these efforts into overdrive. I am thrilled to ann=
+ounce that we are partnering with Sequoia Capital, a firm with a proven tr=
+ack record of picking winners - Apple, Paypal, and Google, to name a few.=
+ Recognizing Thumbtack=E2=80=99s current success and even greater potentia=
+l, Sequoia has invested $12.5 million to help us make Thumbtack the destin=
+ation for customers looking for professional services and the best way for=
+ you to grow your business.
+
+Learn More  (http://thumbtack.us2.list-manage.com/track/click?u=3D5c8fe638=
+2202ffeef15b8067c&id=3D4463ae4c55&e=3Dd35d644970)
+
+So what will we do with this new funding? Put it right back into the busin=
+ess. We have a long list of things that need improvement and new features=
+ to add. Now we can start crossing items off that list. We=E2=80=99ll be h=
+iring software engineers to solve technical challenges. We=E2=80=99ll be a=
+dding customer service agents to solve your problems and answer your quest=
+ions. Finally, we=E2=80=99ll be investing heavily in marketing to attract=
+ high quality customers, and more of them, straight to you. Every last dol=
+lar will be put towards making Thumbtack better for you.
+
+Helping you make your business bigger and better is why we=E2=80=99re buil=
+ding Thumbtack - and why we are excited to have Sequoia as a partner. Than=
+k you for helping Thumbtack become a recognized destination for customers=
+ looking for professional services; we couldn't have done it without you.=
+ We=E2=80=99ve already come so far, and we are very excited to go the rest=
+ of the way with you.
+As always, if you have any questions, please email us at servicepros@thumb=
+tack.com
+Your Advocate,
+
+Luke McGowan
+Small Business Advocate
+Thumbtack.com
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Copyright =C2=A9 2013 Thumbtack, All rights reserved.
+ This email was sent to you because you are a member of Thumbtack and are=
+ opted into updates.
+
+Our mailing address is:
+Thumbtack
+454 Natoma St
+San Francisco, CA 94103
+** Follow on Twitter (https://www.twitter.com/thumbtack/
+
+)
+** Friend on Facebook (#
+
+)
+** Forward to Friend (http://us2.forward-to-friend.com/forward?u=3D5c8fe63=
+82202ffeef15b8067c&id=3D85cf349a9a&e=3Dd35d644970)
+** Unsubscribe from this list (http://thumbtack.us2.list-manage.com/unsubs=
+cribe?u=3D5c8fe6382202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D85cf3=
+49a9a)
+--_----------=_MCPart_1883374648
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>Thumbtack Partners with Major Investor to Help You Get Hire=
+d More Often</title>
+=09=09
+    <style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table,td{
+=09=09=09border-collapse:collapse !important;
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#bodyTable,#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09#templateContainer{
+=09=09=09width:600px;
+=09=09}
+=09=09body,#bodyTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09h1{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:24px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:20px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#363636 !important;
+=09=09=09display:block;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:14px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#dddddd;
+=09=09=09border-top:0;
+=09=09=09border-bottom:1px none #cccccc;
+=09=09}
+=09=09.preheaderContent{
+=09=09=09color:#888888;
+=09=09=09font-family:Arial;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent a:link,.preheaderContent a:visited,.preheaderConte=
+nt a .yshortcuts {
+=09=09=09color:#303030;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#ffffff;
+=09=09=09border-top:10px solid #DDDDDD;
+=09=09=09border-bottom:1px solid #cccccc;
+=09=09=09padding:0px;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#363636;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:20px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding-top:40px;
+=09=09=09padding-right:0;
+=09=09=09padding-bottom:20px;
+=09=09=09padding-left:0;
+=09=09=09text-align:right;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link,.headerContent a:visited,.headerContent a .ysh=
+ortcuts {
+=09=09=09color:#363636;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#fafafa;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContent{
+=09=09=09color:#444444;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09padding-top:20px;
+=09=09=09padding-bottom:40px;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcut=
+s {
+=09=09=09color:#000000;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09body,#bodyTable{
+=09=09=09background-color:#DDDDDD;
+=09=09}
+=09=09#templateFooter{
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContent{
+=09=09=09color:#888888;
+=09=09=09font-family:Verdana;
+=09=09=09font-size:10px;
+=09=09=09line-height:110%;
+=09=09=09padding-top:20px;
+=09=09=09padding-bottom:20px;
+=09=09=09text-align:right;
+=09=09}
+=09=09.footerContent a:link,.footerContent a:visited,.footerContent a .ysh=
+ortcuts,.footerContent a span {
+=09=09=09color:#363636;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09=09max-width:600 !important;
+=09=09}
+=09@media only screen and (max-width: 500px){
+=09=09body,table,td,p,a,li,blockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09body{
+=09=09=09width:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09table[class=3DtemplateContainer]{
+=09=09=09max-width:600px !important;
+=09=09=09width:250px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h1{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09img[id=3DheaderImage]{
+=09=09=09height:auto !important;
+=09=09=09max-width:125px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DheaderContent]{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:150% !important;
+=09=09=09padding-top:20px !important;
+=09=09=09padding-right:10px !important;
+=09=09=09padding-bottom:20px !important;
+=09=09=09padding-left:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DbodyContent]{
+=09=09=09font-size:17px !important;
+=09=09=09line-height:150% !important;
+=09=09=09padding-right:10px !important;
+=09=09=09padding-left:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DfooterContent]{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09=09padding-right:10px !important;
+=09=09=09padding-left:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 500px){
+=09=09td[class=3DfooterContent] a{
+=09=09=09display:block !important;
+=09=09}
+
+}=09=09.bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcu=
+ts{
+=09=09=09color:#38a2ce;
+=09=09}
+=09=09.headerContent a:link,.headerContent a:visited,.headerContent a .ysh=
+ortcuts{
+=09=09=09color:#38a2ce;
+=09=09}
+=09=09.footerContent a:link,.footerContent a:visited,.footerContent a .ysh=
+ortcuts,.footerContent a span{
+=09=09=09color:#38a2ce;
+=09=09}
+=09=09.preheaderContent a:link,.preheaderContent a:visited,.preheaderConte=
+nt a .yshortcuts{
+=09=09=09color:#38a2ce;
+=09=09}
+</style></head>
+    <body style=3D"margin: 0;padding: 0;background-color: #DDDDDD;">
+    =09<center>
+        =09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"mso-tab=
+le-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;background-color=
+: #DDDDDD;border-collapse: collapse !important;height: 100% !important;wid=
+th: 100% !important;">
+            =09<tr>
+                =09<td align=3D"center" height=3D"100%" valign=3D"top" wid=
+th=3D"100%" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-co=
+llapse: collapse !important;">
+                    =09<!-- BEGIN PREHEADER -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"templatePreheader" style=3D"mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;background-color: #dddddd;border-top: 0;border-=
+bottom: 1px none #cccccc;border-collapse: collapse !important;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" style=3D"mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;border-collapse: collapse !important;">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;color:=
+ #888888;font-family: Arial;font-size: 11px;line-height: 125%;padding-top:=
+ 10px;padding-bottom: 10px;text-align: left;border-collapse: collapse !imp=
+ortant;"><div style=3D"text-align: left; ">
+=09<span style=3D"font-size:11px;"><font face=3D"Lucida Grande, arial, san=
+s-serif"><span style=3D"line-height: 20px; ">You received this newsletter=
+ as a valued Thumbtack Service Pro.&nbsp;</span></font><br>
+=09<span style=3D"font-family: arial, helvetica, sans-serif; "><a href=3D"=
+http://thumbtack.us2.list-manage.com/unsubscribe?u=3D5c8fe6382202ffeef15b8=
+067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D85cf349a9a" target=3D"_blank" style=
+=3D"color: #38a2ce;font-weight: normal;text-decoration: underline;">Unsubs=
+cribe</a>&nbsp;from&nbsp;Thumbtack&#39;s Service Pro Newsletter.&nbsp;</sp=
+an></span></div>
+</td>
+                                            <!--
+ -->
+=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"220" class=3D=
+"preheaderContent" style=3D"padding-left: 20px;mso-table-lspace: 0pt;mso-t=
+able-rspace: 0pt;color: #888888;font-family: Arial;font-size: 11px;line-he=
+ight: 125%;padding-top: 10px;padding-bottom: 10px;text-align: left;border-=
+collapse: collapse !important;"><span style=3D"font-size:11px;"><span styl=
+e=3D"font-family: arial, helvetica, sans-serif; ">Email not displaying cor=
+rectly?<br>
+<a href=3D"http://us2.campaign-archive2.com/?u=3D5c8fe6382202ffeef15b8067c=
+&id=3D85cf349a9a&e=3Dd35d644970" target=3D"_blank" style=3D"color: #38a2ce;f=
+ont-weight: normal;text-decoration: underline;">View it in your browser</a=
+>.</span></span> </td>
+=09=09=09=09=09=09=09=09=09=09=09<!--
+ -->
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END PREHEADER -->
+                    =09<!-- BEGIN TEMPLATE SECTIONS -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;border-collapse: collapse !important;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                =09<!-- BEGIN HEADER -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateHeader" style=3D"mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;background-color: #ffffff;border-top: 10p=
+x solid #DDDDDD;border-bottom: 1px solid #cccccc;padding: 0px;border-colla=
+pse: collapse !important;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse:=
+ collapse !important;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collaps=
+e !important;">
+                                                =09<tr>
+                                                        <td class=3D"heade=
+rContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #363=
+636;font-family: Verdana;font-size: 20px;font-weight: bold;line-height: 10=
+0%;padding-top: 40px;padding-right: 0;padding-bottom: 20px;padding-left: 0=
+;text-align: right;vertical-align: middle;border-collapse: collapse !impor=
+tant;">
+                                                            <div style=3D"=
+text-align: left;"><img src=3D"http://gallery.mailchimp.com/5c8fe6382202ff=
+eef15b8067c/images/header_crisp_2.jpg" alt=3D"Thumbtack: Find and Book Tru=
+stworthy Local Services" border=3D"0" style=3D"border: px none;border-colo=
+r: ;border-style: none;border-width: px;height: 88px;width: 600px;margin:=
+ 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decora=
+tion: none;" width=3D"600" height=3D"88" id=3D"headerImage"></div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END HEADER -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                =09<!-- BEGIN BODY -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateBody" style=3D"mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;background-color: #fafafa;border-top: 0;bor=
+der-bottom: 0;border-collapse: collapse !important;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse:=
+ collapse !important;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collaps=
+e !important;">
+                                                =09<tr>
+                                                        <td valign=3D"top"=
+ class=3D"bodyContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;color: #444444;font-family: Arial;font-size: 14px;line-height: 150%;padd=
+ing-top: 20px;padding-bottom: 40px;text-align: left;border-collapse: colla=
+pse !important;"><br>
+<br>
+<p dir=3D"ltr" style=3D"line-height:1.15;margin-top:0pt;margin-bottom:0pt;=
+">
+=09<span id=3D"docs-internal-guid-7dc0c275-3ae3-8859-8775-40f9a039e7bf"><s=
+pan style=3D"font-size: 15px; color: rgb(0, 0, 0); background-color: trans=
+parent; vertical-align: baseline; white-space: pre-wrap;">Dear Thumbtack S=
+ervice Pro - </span></span></p>
+<br>
+<p dir=3D"ltr" style=3D"line-height:1.15;margin-top:0pt;margin-bottom:0pt;=
+">
+=09<span id=3D"docs-internal-guid-7dc0c275-3ae3-8859-8775-40f9a039e7bf"><s=
+pan style=3D"font-size: 15px; color: rgb(0, 0, 0); background-color: trans=
+parent; vertical-align: baseline; white-space: pre-wrap;">Thumbtack has be=
+en working hard to bring you more business, and now we have the resources=
+ to kick these efforts into overdrive. I am thrilled to announce that we a=
+re partnering with Sequoia Capital, a firm with a proven track record of p=
+icking winners - Apple, Paypal, and Google, to name a few. Recognizing Thu=
+mbtack&rsquo;s current success and even greater potential, Sequoia has inv=
+ested $12.5 million </span><span style=3D"font-size: 15px; color: rgb(0, 0=
+, 0); background-color: transparent; font-weight: bold; vertical-align: ba=
+seline; white-space: pre-wrap;">to help us make Thumbtack </span><span sty=
+le=3D"font-size: 15px; color: rgb(0, 0, 0); background-color: transparent;=
+ font-weight: bold; font-style: italic; vertical-align: baseline; white-sp=
+ace: pre-wrap;">the </span><span style=3D"font-size: 15px; color: rgb(0, 0=
+, 0); background-color: transparent; font-weight: bold; vertical-align: ba=
+seline; white-space: pre-wrap;">destination for customers looking for prof=
+essional services and the best way for you to grow your business. </span><=
+/span><br>
+=09&nbsp;</p>
+<div style=3D"text-align: center;">
+=09<a href=3D"http://thumbtack.us2.list-manage.com/track/click?u=3D5c8fe63=
+82202ffeef15b8067c&id=3Da5d8677fd1&e=3Dd35d644970" target=3D"_self" style=
+=3D"color: #38a2ce;font-weight: normal;text-decoration: underline;">Learn=
+ More&nbsp;</a><br>
+=09&nbsp;</div>
+<p dir=3D"ltr" style=3D"line-height:1.15;margin-top:0pt;margin-bottom:0pt;=
+">
+=09<span id=3D"docs-internal-guid-7dc0c275-3ae3-8859-8775-40f9a039e7bf"><s=
+pan style=3D"font-size: 15px; color: rgb(0, 0, 0); background-color: trans=
+parent; vertical-align: baseline; white-space: pre-wrap;">So what will we=
+ do with this new funding? <strong>P</strong></span><span style=3D"font-si=
+ze: 15px; color: rgb(0, 0, 0); background-color: transparent; font-weight:=
+ bold; vertical-align: baseline; white-space: pre-wrap;">ut it right back=
+ into the business</span><span style=3D"font-size: 15px; color: rgb(0, 0,=
+ 0); background-color: transparent; vertical-align: baseline; white-space:=
+ pre-wrap;">. We have a long list of things that need improvement and new=
+ features to add. Now we can start crossing items off that list. We&rsquo;=
+ll be hiring software engineers to address technical challenges. We&rsquo;=
+ll be adding customer service agents to solve your problems and answer you=
+r questions. </span><span style=3D"font-size: 15px; color: rgb(0, 0, 0); b=
+ackground-color: transparent; font-weight: bold; vertical-align: baseline;=
+ white-space: pre-wrap;">Finally, we&rsquo;ll be investing heavily in mark=
+eting to attract high quality customers, and more of them, straight to you=
+=2E </span><span style=3D"font-size: 15px; color: rgb(0, 0, 0); background-c=
+olor: transparent; vertical-align: baseline; white-space: pre-wrap;">Every=
+ last dollar will be put towards making Thumbtack better for you.</span></=
+span></p>
+<br>
+<p dir=3D"ltr" style=3D"line-height:1.15;margin-top:0pt;margin-bottom:0pt;=
+">
+=09<span id=3D"docs-internal-guid-7dc0c275-3ae3-8859-8775-40f9a039e7bf"><s=
+pan style=3D"font-size: 15px; color: rgb(0, 0, 0); background-color: trans=
+parent; vertical-align: baseline; white-space: pre-wrap;">Helping you make=
+ your business bigger and better is why we&rsquo;re building Thumbtack - a=
+nd why we are excited to have Sequoia as a partner. </span><span style=3D"=
+font-size: 15px; color: rgb(0, 0, 0); background-color: transparent; font-=
+weight: bold; vertical-align: baseline; white-space: pre-wrap;">Thank you=
+ for helping Thumbtack become a recognized destination for customers looki=
+ng for professional services; we couldn&#39;t have done it without you. </=
+span><span style=3D"font-size: 15px; color: rgb(0, 0, 0); background-color=
+: transparent; vertical-align: baseline; white-space: pre-wrap;">We&rsquo;=
+ve already come so far, and we are very excited to go the rest of the way=
+ with you. </span></span></p>
+<br>
+<span id=3D"docs-internal-guid-7dc0c275-3ae3-8859-8775-40f9a039e7bf"><span=
+ style=3D"font-size: 15px; color: rgb(0, 0, 0); background-color: transpar=
+ent; vertical-align: baseline; white-space: pre-wrap;">As always, if you h=
+ave any questions, please email us at <a href=3D"http://thumbtack.us2.list=
+-manage.com/track/click?u=3D5c8fe6382202ffeef15b8067c&id=3D3f25cf7a3d&e=3D=
+d35d644970" target=3D"_self" style=3D"color: #38a2ce;font-weight: normal;=
+text-decoration: underline;">servicepros@thumbtack.com</a></span></span><b=
+r>
+<div>
+=09<div id=3D"intro_title">
+=09=09<div id=3D"main_text">
+=09=09=09<div dir=3D"ltr">
+=09=09=09=09<br>
+=09=09=09=09Your Advocate,<br>
+=09=09=09=09&nbsp;</div>
+=09=09</div>
+=09=09<div id=3D"main_text">
+=09=09=09<img src=3D"http://gallery.mailchimp.com/5c8fe6382202ffeef15b8067=
+c/images/luke_sig_orange.png" style=3D"border: 0;height: auto;line-height:=
+ 100%;outline: none;text-decoration: none;display: inline;max-width: 600px=
+ !important;"><br>
+=09=09=09<br>
+=09=09=09<span style=3D"color:#808080;">Luke McGowan<br>
+=09=09=09Small Business Advocate<br>
+=09=09=09Thumbtack.com</span></div>
+=09</div>
+</div>
+<div style=3D"text-align: left;">
+=09&nbsp;</div>
+</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END BODY -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse=
+ !important;">
+                                    <!-- BEGIN FOOTER -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templateFooter" style=3D"mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;border-top: 0;border-bottom: 0;border-c=
+ollapse: collapse !important;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse=
+: collapse !important;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"600" class=3D"templateContainer" sty=
+le=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collaps=
+e !important;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;color: #888888;font-family: Verdana;font-size: 10px;line-height: 110%=
+;padding-top: 20px;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"><div style=3D"text-align: left; ">
+=09<a href=3D"https://www.twitter.com/thumbtack/" style=3D"color: #38a2ce;=
+font-weight: normal;text-decoration: underline;">Follow on Twitter</a>&nbs=
+p;&nbsp;&nbsp;&nbsp;<a href=3D"#" style=3D"color: #38a2ce;font-weight: nor=
+mal;text-decoration: underline;">Friend on Facebook</a>&nbsp;&nbsp;&nbsp;&=
+nbsp;<a href=3D"http://us2.forward-to-friend.com/forward?u=3D5c8fe6382202f=
+feef15b8067c&id=3D85cf349a9a&e=3Dd35d644970" style=3D"color: #38a2ce;font-we=
+ight: normal;text-decoration: underline;">Forward to Friend</a><br>
+=09<br>
+=09<br>
+=09<a href=3D"http://thumbtack.us2.list-manage.com/unsubscribe?u=3D5c8fe63=
+82202ffeef15b8067c&id=3Dd6612ad2c7&e=3Dd35d644970&c=3D85cf349a9a" target=3D"=
+_blank" style=3D"color: #38a2ce;font-weight: normal;text-decoration: under=
+line;">Unsubscribe from this list</a></div>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;=
+line-height: 110%;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"><div style=3D"text-align: left; ">
+=09<em>Copyright &copy; 2013 Thumbtack, All rights reserved.</em></div>
+<div style=3D"text-align: left; ">
+=09
+ This email was sent to you because you are a member of Thumbtack and are=
+ opted into updates.<br>
+=09<br>
+=09<strong>Our mailing address is:</strong><br>
+=09<div class=3D"vcard"><span class=3D"org fn">Thumbtack</span><div class=
+=3D"adr"><div class=3D"street-address">454 Natoma St</div><span class=3D"l=
+ocality">San Francisco</span>, <span class=3D"region">CA</span>  <span cla=
+ss=3D"postal-code">94103</span></div><br><a href=3D"http://thumbtack.us2.l=
+ist-manage1.com/vcard?u=3D5c8fe6382202ffeef15b8067c&id=3Dd6612ad2c7" class=
+=3D"hcard-download">Add us to your address book</a></div>
+</div>
+</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;=
+line-height: 110%;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"padding-top: 20px;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;color: #888888;font-family: Verdana;font-size: 10px;=
+line-height: 110%;padding-bottom: 20px;text-align: right;border-collapse:=
+ collapse !important;"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://thumbtack.us2.list-manage.com/track/open.php?u=3D5c=
+8fe6382202ffeef15b8067c&id=3D85cf349a9a&e=3Dd35d644970" height=3D"1" widt=
+h=3D"1"></body>
+</html>
+--_----------=_MCPart_1883374648--

@@ -1,0 +1,309 @@
+Return-path: <3ee.1c.938721844.44793.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Wed, 08 May 2013 14:17:19 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:12817)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.938721844.44793.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1Ua8vT-0002kV-JF
+	for chris@sophiahatstudio.com; Wed, 08 May 2013 14:17:19 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=ShBO58+mL6jAUsmqeoqwIkNzqgL6VP5wDVUqYOkOv9eRGzB94pA/r0DTpLo0nt35oRwoHW3R9HZuEM2206YvOHM+biB2ehpra3A+RrUL7jM6yu3Z2qHwBOFhwYCz/s8r71WEu6mGZS+CIgkfZCFRKXKnCYr/dfYLsfOBUOA4dvQ=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1368037062;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=rTv1ZX1w5m4nhwIS3pwgZoovdck=;
+	b=oUvLUkAkPlkn7vPFkBbKWFvOP1Ddv9LjIB1JNYDpkM4KjwtHhnZAi/HDvRpL66WbNDH3GoI8RDREU01ef6+JRZ+sDtXT4f6wweGVAJqW5TrRhNXXsNj+G0Y+KKML++2RQqv9HF1I9DkMvPHbS7WlfwbVrrB13zaG6MNhkhFW5/Y=
+X-FBL: M2VlLjFlLjEwYTAwMDAwMDM4ODRhYi45Mzg3MjE4NDQuNDQ3OTMuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <f2467da0-5ae6-489a-8516-21ab6a55d10c@newbay.cfmvmail.com>
+From: "iZ Technology Corporation" <partners@newbay-media.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?QSBOZXcgR2VuZXJhdGlvbiBvZiBpWiBQcm9kdWN0cw==?=
+Date: Wed, 8 May 2013 14:17:23 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  iZ Technology Having trouble viewing this email? View it online.
+    RADAR 6 [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.3 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.6 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html>
+<html lang=3D"en">
+<head>
+=09<title>iZ Technology</title>
+=09<style type=3D"text/css">
+=09=09body{
+=09=09=09margin: 0px;
+=09=09=09padding: 20px;
+=09=09}
+=09=09#main{
+=09=09=09width: 580px;
+=09=09}
+=09=09h4{
+=09=09=09color: #a253fd;
+ =09=09=09font-size: 18px;
+=09=09=09font-family: Arial;
+=09=09=09line-height: 24px;
+=09=09=09margin: 0;
+=09=09}
+=09=09p{
+=09=09=09color: #444;
+=09=09=09font-size: 14px;
+=09=09=09font-family: Arial;
+=09=09=09line-height: 24px;
+=09=09=09margin: 0 0 24px 0;
+=09=09}
+=09=09a{
+=09=09=09color: #a253fd;
+=09=09}
+=09=09a img{
+=09=09=09border: none;
+=09=09}
+=09=09small{
+=09=09=09color: #444;
+=09=09=09font-size: 10px;
+=09=09=09font-family: Arial;
+=09=09=09line-height: 19px;
+=09=09}
+=09=09#footer{
+=09=09=09background: #ccc;
+=09=09=09width: 580px;
+=09=09=09padding: 20px;
+=09=09}
+=09</style>
+</head>
+<body>
+<style type=3D"text/css">
+=09=09body{
+=09=09=09margin: 0px;
+=09=09=09padding: 20px;
+=09=09}
+=09=09#main{
+=09=09=09width: 580px;
+=09=09}
+=09=09h4{
+=09=09=09color: #a253fd;
+ =09=09=09font-size: 18px;
+=09=09=09font-family: Arial;
+=09=09=09line-height: 24px;
+=09=09=09margin: 0;
+=09=09}
+=09=09p{
+=09=09=09color: #444;
+=09=09=09font-size: 14px;
+=09=09=09font-family: Arial;
+=09=09=09line-height: 24px;
+=09=09=09margin: 0 0 24px 0;
+=09=09}
+=09=09a{
+=09=09=09color: #a253fd;
+=09=09}
+=09=09a img{
+=09=09=09border: none;
+=09=09}
+=09=09small{
+=09=09=09color: #444;
+=09=09=09font-size: 10px;
+=09=09=09font-family: Arial;
+=09=09=09line-height: 19px;
+=09=09}
+=09=09#footer{
+=09=09=09background: #ccc;
+=09=09=09width: 580px;
+=09=09=09padding: 20px;
+=09=09}
+=09</style>
+=09<p>
+=09=09<small>Having trouble viewing this email=3F <a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F1">View it onl=
+ine=2E</a></small>
+=09</p>
+=09<table id=3D"wrap" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"570">
+=09=09<tr>
+=09=09=09<td id=3D"logo" width=3D"50">
+=09=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+938721844=5F44793=5F2">
+=09=09=09=09=09<img src=3D"http://www=2Eizcorp=2Ecom/email-images/logo=2E=
+gif" width=3D"50" height=3D"36" alt=3D"iZ Technology" style=3D"border: no=
+ne; display: block;">
+=09=09=09=09</a>
+=09=09=09</td>
+=09=09=09<td id=3D"header" height=3D"36" align=3D"left">
+=09=09=09=09<div style=3D"background: #aaa; width: 524px; height: 36px; m=
+argin-left: 5px;">
+=09=09=09=09=09<img src=3D"http://www=2Eizcorp=2Ecom/iz/wp-content/upload=
+s/emailHeader=2Ejpg" width=3D"524" height=3D"36" alt=3D"It's about sound=2E=
+" style=3D"border: none; display: block;">
+=09=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+=09<div id=3D"main">
+=09=09<img src=3D"http://www=2Eizcorp=2Ecom/email-images/email-hero=2Ejpg=
+" width=3D"580" height=3D"325" alt=3D"RADAR 6" style=3D"border: none">
+=09=09<!-- Main Content Below -->
+=09=09<h4>RADAR 6</h4>
+=09=09<p>RADAR systems are the premier choice for hard disk multi-track r=
+ecording and playback in some of the finest recording studios, scoring st=
+ages, theatres, and post production houses around the world=2E RADAR 6: e=
+asy to use, built like a tank, breathtaking sound=2E <a href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F3">Learn m=
+ore about RADAR=2E</a></p>
+=09=09<h4>ADA II</h4>
+=09=09<p>Problem: you want the sonic purity of RADAR, but prefer to mix i=
+n a DAW=2E Solution: <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F938721844=5F44793=5F4">get ADA</a>=2E ADA converters are high-=
+end, multi-channel A/D and D/A converters that bring the richness of anal=
+ogue recording to the world of workstations=2E Featuring pristine iZ conv=
+ersion, an innovative modular I/O structure, intuitive touchscreen contro=
+ls, direct interfacing to native DAWs and Pro Tools, and remote network c=
+ontrol from any MAC or PC, ADA is a powerful tool designed to meet the cr=
+eative and technical needs of true audio professionals=2E</p>
+=09=09<h4>Classic 96 and Ultra Nyquist Analogue I/O Boards</h4>
+=09=09<p>The engineers at iZ have been feverishly busy redesigning the he=
+art and soul of RADAR and ADA - its A/D/D/A boards=2E You already expect =
+world-class sonics from iZ - prepare to be amazed yet again=2E iZ has des=
+igned the <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+938721844=5F44793=5F5"> Classic 96 and Ultra Nyquist </a> analogue I/O bo=
+ards=2E These are truly the most euphonic converters iZ has ever produced=
+=2E</p>
+=09=09<h4>And a new website to boot!</h4>
+=09=09<p>Get all the details on our new generation of products, and stay =
+up to date on all iZ announcements on our shiny new website, <a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F6"=
+>www=2Eizcorp=2Ecom</a>=2E</p>
+=09=09<h4> ADA II Pro Audio Review </h4>
+=09=09<p> By Russ Long for <i>Pro Audio Review</i>
+
+"Before hearing RADAR (Random Access Digital Audio Recorder) in the mid-1=
+990s, some audio engineers swore they would never leave the analog realm=2E=
+ RADAR was the first device to win many of those engineers over=2E In a t=
+ime when tracking to a computer was almost unheard of, the innovative Can=
+adian company iZ Technology developed RADAR, ultimately licensing the tec=
+hnology to Otari (the Japanese pro audio brand who sold the RADAR brand t=
+hrough 1999) =2E=2E=2E
+Adapting to the current trend of recording directly to a DAW, iZ announce=
+d their ADA A/D and D/A multichannel converter systems in 2008=2E Reviewe=
+d here, the second-generation ADA=E2=80=94the ADA II=E2=80=94was unveiled=
+ last fall at the AES Convention; ADA II continues in the iZ tradition of=
+ exceptional sound and build quality as well as user-friendly flexibility=
+=2E" <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F93872=
+1844=5F44793=5F7">Full review =C2=BB</a></p>
+=09=09<h4> News & Stories From Our Customers </h4>
+=09=09<p><strong>Daniel Lanois</strong> loves his RADAR and has been usin=
+g it for all his projects, both for his own work and for albums produced =
+for a wide variety of artists, including Bob Dylan, Neil Young, Peter Gab=
+riel, Emmylou Harris, Willie Nelson, and Brandon Flowers=2E Albums that D=
+aniel Lanois has produced or co-produced have won the Grammy award for Al=
+bum of the Year three times, with another four nominations=2E Click on th=
+e image below and watch what he has to say about RADAR! <a href=3D"http:/=
+/www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F8"><img=
+ src=3D"http://www=2Eizcorp=2Ecom/iz/wp-content/uploads/Source-Image-Larg=
+e-560x315=2Ejpg" style=3D"width: 100%"></a></p>
+=09=09<p><strong> Casino Baumgarten</strong>, legendary vintage recording=
+ studio located in Vienna, Austria, is one of the few recording studios i=
+n the world that still works with the original tube equipment from the 19=
+60s=2E Keeping true to the quality of analogue, they recently purchased t=
+he new RADAR 6=2E Click on the image below to read why RADAR was a crucia=
+l choice for them=2E<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F938721844=5F44793=5F9"><img src=3D"http://www=2Eizcorp=2Ecom/iz/w=
+p-content/uploads/Radar6=5Farrival1=2Ejpg" style=3D"width: 100%"></a></p>=
+
+=09=09<p> On <strong><i>The Late Show</i> with David Letterman</strong>, =
+RADAR is used behind the scenes=2E Harvey Goldberg, master engineer at CB=
+S' Late Show, commends RADAR because of its indisputable stability and qu=
+ality of sound=2E In a live recording environment such as The Late Show, =
+Goldberg has to be able to trust his recording equipment, because - as he=
+ says - "You only get one take=2E" That's one of the reasons Goldberg rec=
+ords with RADAR=2E "I'm a big fan of RADAR" says Goldberg, "I've had my R=
+ADAR system almost 10 years now=2E For what we do on the show, stability =
+is essential=2E I need something rock-solid, something reliable=2E=2E=2Ea=
+nd for that, RADAR is the best machine on the market=2E" <a href=3D"http:=
+//www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F10">Re=
+ad more</a> about RADAR on <i>The Late Show</i>=2E </p>
+=09=09<h4>RADAR 6 now with USB 3=2E0 Drives, Blu-ray, and updated softwar=
+e</h4>
+=09=09<p><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+38721844=5F44793=5F11">Key features of 4=2E0=2E1 software:</a><br>- Suppo=
+rt for RADAR 6 Solid State record drives with integral USB 3=2E0 port <br=
+>- Support for RADAR 6 Blu-ray combo drives<br>- Optimized storage device=
+ handling and bug fixes</p>=09=09=09=09<p>RADAR just got even better=2E M=
+ore details <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+938721844=5F44793=5F12">here</a>=2E</p>
+=09=09<h4>Stay in the loop with iZ</h4>
+=09=09<p>Subscribe to our eNewsletter <a href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F13">here</a>=2E</p>
+=09=09<p> Like iZ on <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F938721844=5F44793=5F14"> Facebook </a> and follow iZ on <a hre=
+f=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F4479=
+3=5F15"> Twitter </a> @iZcorp </p>
+=09=09<!-- End -->
+=09<div id=3D"footer">
+=09=09<h4 style=3D"font-family: Arial; font-size: 10px; line-height: 14px=
+; color: #666; margin: 0;">Copyright 2013 iZ Technology Corporation</h4>
+=09=09<p style=3D"font-family: Arial; font-size: 10px; line-height: 14px;=
+ color: #666; margin: 0 0 10px 0;">iZ Technology proudly manufactures the=
+ RADAR recording system, and ADA digital converters=2E At home in the stu=
+dio, hollywood sound stages, and mobile rigs, RADAR is the finest recordi=
+ng system in the world=2E</p><p style=3D"font-family: Arial; font-size: 1=
+0px; line-height: 14px; color: #666; margin: 0;"><a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F16">Click here=
+ to unsubscribe=2E</a></p>
+=09</div>
+=09</div>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F17=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F938721844=5F44793=5F18">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D938721844&msgid=3D44793"></body>
+</html>
+

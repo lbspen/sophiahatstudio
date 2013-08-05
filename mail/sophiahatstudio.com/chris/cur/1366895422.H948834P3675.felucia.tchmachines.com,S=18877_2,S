@@ -1,0 +1,295 @@
+Return-path: <news@news.waves-audio.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 25 Apr 2013 09:10:22 -0400
+Received: from bismuth-ononei.emv8.com ([81.92.117.118]:39499)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <news@news.waves-audio.com>)
+	id 1UVLwI-0000w1-2j
+	for chris@sophiahatstudio.com; Thu, 25 Apr 2013 09:10:22 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=news.waves-audio.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=news@news.waves-audio.com;
+ bh=+DocYarI1YumHmtGKl6SuyLmUBI=;
+ b=UwL5UQ4jMAIfhfSsSIBFmMvMqIpNz/yeoH6aQPcCfqVmZI01lThTQgkHvauyc4OLV4qlSNH2OkxX
+   mi6AxLBEZVQDitDBFO1hyns+srlBPc9kYsKhu/YaY65c4Cw1dXJAqViTPyp6eCcb7kt2vFNsQUBW
+   f6cb3UlYkn7Bgea0arM=
+Received: by bismuth-ononei.emv8.com id hf4lk016758m for <chris@sophiahatstudio.com>; Thu, 25 Apr 2013 15:09:53 +0200 (envelope-from <news@news.waves-audio.com>)
+Date: Thu, 25 Apr 2013 15:09:53 +0200 (CEST)
+From: Waves Audio <news@news.waves-audio.com>
+Reply-To: no-reply <no-reply@waves.com>
+To: chris spencer  <chris@sophiahatstudio.com>
+Message-ID: <2.1.34.1101035642.223472.484882624@news.waves-audio.com>
+Subject: Introducing GEQ Graphic Equalizer
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=223472484882624
+X-EMV-Platform: p6ccc.campaigncommander.com$
+X-EMV-CampagneId: 223472$
+X-EMV-MemberId: 484882624$
+List-Unsubscribe: <http://news.waves-audio.com/HD?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGA0vcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVID>, <mailto:unsubscribe@news.waves-audio.com?subject=unsubscribe-34-ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGA0vcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVID>
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ﻿ <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJMswrnGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUuH"
+    title="">View this message in a browser</a> To ensure delivery of this newsletter
+    in future mailings, please add news@news.waves-audio.com to your contacts
+    book or safe senders list. [...] 
+ 
+ Content analysis details:   (-0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+--223472484882624
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+﻿  <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJMswrnGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUuH" title="">View this message in a browser</a>
+
+ To ensure delivery of this newsletter in future mailings, please add 
+news@news.waves-audio.com to your contacts book or safe senders list.
+
+   
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSwfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLg 
+ Waves GEQ is a full-featured graphic equalizer with both Classic and 
+Modern mono and stereo components, featuring 30 ISO bands plus high and 
+low pass filters, a high precision floating parametric EQ bell filter, 
+and a real-time analyzer.
+
+ GEQ Classic components use traditional proportional Q filters inspired 
+by the renowned DN series 1/3 octave equalizers, which narrow the 
+filter width as you increase a band’s gain; GEQ Modern components 
+utilize special Flat-Top filters which eliminate the artifacts 
+associated with band interaction, and provide perfect plateau and 
+stair-stepped responses. Set band gains one-by-one, or draw your curve 
+via touch-screen or mouse. Finally, GEQ’s integrated real-time analyzer 
+lets you compare the difference between two sources. Created for live 
+sound but equally useful in the studio as well, GEQ is powerful proof 
+that all equalizers are not created equal.
+
+GEQ is Native and SoundGrid compatible, and included in Mercury, SoundGrid Pro and SoundGrid Pro SD7 bundles.
+
+
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSxvcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLh 
+
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSx_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLm 
+
+Buy GEQ
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSxPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLn 
+         facebook (facebook)
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSxfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLk 
+   twitter (twitter)
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2vcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLl 
+   youtube (youtube)
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLq 
+   linkedin (linkedin)
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2PcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLr 
+    To remove yourself from this mailing list please <a href="http://news.waves-audio.com/HD?a=FtX7Cqk6a4kv8SA9MKJMswrnGHxKLJ3xLAjtS5kGaPGD0bBhOG5mpqVsje_HhdAlWUuF" title="unsubscribe">unsubscribe</a>
+
+ Please do not reply to this email, as this mailbox will not accept 
+incoming mail.
+ For customer service and sales, call 1-865-909-9200 or contact us by email : 
+ http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2fcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLo 
+.
+
+ Waves Inc. | 2800 Merchants Drive | Knoxville, TN 37912 | Phone: 
+1-865-909-9200 | Fax: 1-865-909-9245
+
+ Copyright© 2013 Waves Audio Ltd. All rights reserved.
+
+
+--223472484882624
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title></title>
+</head>
+<body>
+    <div align="center">
+        <p style="padding-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sans-serif;
+            font-size: 11px;">
+            <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJMswrnGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUuH" title="">View this message in a browser</a><br />
+            <br />
+            To ensure delivery of this newsletter in future mailings, please add news@news.waves-audio.com
+            to your contacts book or safe senders list.</p>
+    </div>
+    <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff" style="background-color: #ffffff;">
+        <tbody>
+            <tr>
+                <td height="15">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div align="center" style="background-color: #ffffff;">
+                        <table width="652" border="0" cellspacing="0" cellpadding="0" style="background-color: #080c17;"
+                            bgcolor="#080c17">
+                            <tr>
+                                <td align="center" width="100%" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;
+                                    font-size: 0px; background-color: #080c17;" bgcolor="#080c17">
+                                    <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSwfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLg" title="" target="_blank">
+                                        <img src="http://www.waves.com/newsletters/april13/images/geq/geq-top.png" border="0"
+                                            alt="" />
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" width="100%" style="padding: 10px 30px 35px 30px; margin: 0px 0px 0px 0px;
+                                    font-size: 0px; background-color: #080c17;" bgcolor="#080c17">
+                                    <p style="font-family: Arial; font-size: 13px; color: #fff; padding: 0; margin: 0;">
+                                        Waves GEQ is a full-featured graphic equalizer with both Classic and Modern mono
+                                        and stereo components, featuring 30 ISO bands plus high and low pass filters, a
+                                        high precision floating parametric EQ bell filter, and a real-time analyzer.
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" width="100%" style="padding: 0px 30px 30px 30px; margin: 0px 0px 0px 0px;
+                                    font-size: 0px; background-color: #080c17;" bgcolor="#080c17">
+                                    <p style="font-family: Arial; font-size: 13px; color: #fff; padding: 0; margin: 0;">
+                                        GEQ Classic components use traditional proportional Q filters inspired by the renowned
+                                        DN series 1/3 octave equalizers, which narrow the filter width as you increase a
+                                        band’s gain; GEQ Modern components utilize special Flat-Top filters which eliminate
+                                        the artifacts associated with band interaction, and provide perfect plateau and
+                                        stair-stepped responses. Set band gains one-by-one, or draw your curve via touch-screen
+                                        or mouse. Finally, GEQ’s integrated real-time analyzer lets you compare the difference
+                                        between two sources. Created for live sound but equally useful in the studio as
+                                        well, GEQ is powerful proof that all equalizers are not created equal.
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" width="100%" style="padding: 0px 0px 25px 0px; margin: 0px 0px 0px 0px;
+                                    font-size: 0px; background-color: #080c17;" bgcolor="#080c17">
+                                    <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSxvcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLh" title="" target="_blank">
+                                        <img src="http://www.waves.com/newsletters/april13/images/geq/geq-plugins.jpg" border="0"
+                                            alt="" />
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" width="100%" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;
+                                    font-size: 0px; background-color: #080c17;" bgcolor="#080c17">
+                                    <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSx_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLm" title="" target="_blank">
+                                        <img src="http://www.waves.com/newsletters/april13/images/geq/geq-video.jpg" border="0"
+                                            alt="" />
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" width="100%" style="padding: 25px 0px 0px 0px; margin: 0px 0px 0px 0px;
+                                    font-size: 0px; background-color: #080c17;" bgcolor="#080c17">
+                                    <img src="http://www.waves.com/newsletters/april13/images/geq/geq-regular.jpg" border="0"
+                                        alt="" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" width="100%" style="padding: 25px 0px 30px 0px; margin: 0px 0px 0px 0px;
+                                    font-size: 0px; background-color: #080c17;" bgcolor="#080c17">
+                                    <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSxPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLn" title="Buy GEQ" target="_blank">
+                                        <img src="http://www.waves.com/newsletters/april13/images/geq/geq-buy.jpg" border="0"
+                                            alt="Buy GEQ" />
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="10" style="background-color: #080c17; line-height: 5px;" bgcolor="#080c17">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                           
+                            <tr>
+                                <td style="background-color: #ffffff; line-height: 15px;" bgcolor="#ffffff">
+                                    &nbsp;
+                                </td>
+                            </tr>
+<tr>
+                                <td style="background-color: #ffffff; line-height: 15px;" bgcolor="#ffffff">
+								<p style="padding-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sans-serif; text-align:center;
+            font-size: 11px;">
+                                   GEQ is Native and SoundGrid compatible, and included in Mercury, SoundGrid Pro and SoundGrid Pro SD7 bundles.<br/><br/></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="background-color: #ffffff;">
+                                    <table align="center" style="text-align: center;" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td width="5">
+                                                &nbsp;
+                                            </td>
+                                            <td width="24px" valign="top">
+                                                <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGSxfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLk" target="_blank" title="facebook">
+                                                    <img src="http://www.waves.com/newsletters/november11/images/facebook.png" alt="facebook"
+                                                        title="facebook" border="0" /></a>
+                                            </td>
+                                            <td width="10">
+                                                &nbsp;
+                                            </td>
+                                            <td width="24px" valign="top">
+                                                <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2vcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLl" target="_blank" title="twitter">
+                                                    <img src="http://www.waves.com/newsletters/november11/images/twitter.png" alt="twitter"
+                                                        title="twitter" border="0" /></a>
+                                            </td>
+                                            <td width="10">
+                                                &nbsp;
+                                            </td>
+                                            <td width="24px" valign="top">
+                                                <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLq" target="_blank" title="youtube">
+                                                    <img src="http://www.waves.com/newsletters/november11/images/youtube.png" alt="youtube"
+                                                        title="youtube" border="0" /></a>
+                                            </td>
+                                            <td width="10">
+                                                &nbsp;
+                                            </td>
+                                            <td width="24px" valign="top">
+                                                <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2PcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLr" target="_blank" title="linkedin">
+                                                    <img src="http://www.waves.com/newsletters/july11/images/linkedin-l.png" alt="linkedin"
+                                                        title="linkedin" border="0" /></a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="20px" style="background-color: #ffffff;" bgcolor="#ffffff">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div align="center">
+        <p style="padding-top: 20px; padding-bottom: 20px; font-family: arial, helvetica, sans-serif;
+            font-size: 11px;">
+            To remove yourself from this mailing list please <a href="http://news.waves-audio.com/HD?a=FtX7Cqk6a4kv8SA9MKJMswrnGHxKLJ3xLAjtS5kGaPGD0bBhOG5mpqVsje_HhdAlWUuF" title="unsubscribe">unsubscribe</a><br />
+            <br />
+            Please do not reply to this email, as this mailbox will not accept incoming mail.<br />
+            For customer service and sales, call 1-865-909-9200 or <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJMswrnGHxKLNGS2fcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLo"
+                title="contact us" target="_blank">contact us by email</a>.<br />
+            <br />
+            Waves Inc. | 2800 Merchants Drive | Knoxville, TN 37912 | Phone: 1-865-909-9200
+            | Fax: 1-865-909-9245
+            <br />
+            <br />
+            Copyright&copy; 2013 Waves Audio Ltd. All rights reserved.</p>
+    </div>
+<img src="http://news.waves-audio.com/HO?DdX7Cqk6a4kv8SA9MOPvo4DnGHxKLJ6bOgjtS5kGagnMKJg.gif" border="0" alt="" width="1" height="1"></body>
+</html>
+--223472484882624--

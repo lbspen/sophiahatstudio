@@ -1,0 +1,488 @@
+Return-path: <3ee.d.981335100.46598@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 18 Jun 2013 17:31:39 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:29793)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <3ee.d.981335100.46598@newbay.cfmvmail.com>)
+	id 1Up3V4-0003Gz-5m
+	for chris@sophiahatstudio.com; Tue, 18 Jun 2013 17:31:39 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=GUCjtUQ0JvmYZPt1uLwj4jzWXuvCKG62dqBPzo2g7g7NxU203ul63H5pND8eg/cvB7PNsTM9tqhIRSUr+hrVy16GMFI/0JoO8HxwykAH6ihPI+a7k+Nc81Pgb4ltTWYdg4ul0PjJXNlVnBDWmIhppmICqxuWo9DD41r2eks4muI=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1371591107;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=liwjK1axEai8pHoj5bAVsJork+Q=;
+	b=K27OZbEbW8+b8P4hREY/hmNOcy9oTUF9LIVMEYcOdwVWC3msN2eEil6/yD0o6OCpV+8EgdI3O8Bno9eiwr8JFDSv6aXZVIXfQSGAOgZ1/NCVwJIPmWrgIOjk6UR0tXcUnL8zkUHO09PU10BNBnzCyVKlJzX33qMvWqnzkfC1jD4=
+X-FBL: M2VlLjFlLjExNDAwMDAwMjk2ZmU0Mi45ODEzMzUxMDAuNDY1OTguY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Pro Audio Review" <newsletters@proaudioreview.com>
+Message-ID: <537da5a7-07e1-4bc9-8766-4a6d0319d431@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?UEFSIERhaWx5IEUtUmV2aWV3c2xldHRlciBmZWF0dXJpbmcg?=
+	=?utf-8?B?dGhlIE1hY2tpZSBETDE2MDggcGx1cyBBbGxlbiAmIEhlYXRo?=
+	=?utf-8?B?LCBBdmlvbSwgTGluZSA2IGFuZCBab29t?=
+Date: Tue, 18 Jun 2013 17:31:46 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  June 18, 2013 Events 2013 Recording Industry Golf Tournament,
+    Malibu CA » New Products Allen & Heath GLD-112 Mixer » Aviom D800 Dante
+    A-Net Distributor » Line 6 Relay Series V75-SC 14-channel Digital Wireless
+    Handheld Microphone System » Zoom H6 Handy Recorder » [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.6 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.2 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head>
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"=
+>
+ <title></title>
+ <style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none;
+}
+a:hover {text-decoration: underline;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:active {
+=09text-decoration: none;
+}
+-->
+ </style>
+ </head><body alink=3D"#666666" link=3D"#666666" marginheight=3D"0" margi=
+nwidth=3D"0" vlink=3D"#666666">
+ <style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none;
+}
+a:hover {text-decoration: underline;
+}
+-->
+ </style>
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"808">
+ <tbody>
+ </tbody>
+ </table>
+ <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"931">
+ <tbody>
+ <tr>
+ <td align=3D"left" bgcolor=3D"#ffffff" valign=3D"top" width=3D"931">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td align=3D"left" valign=3D"bottom" width=3D"180"><img src=3D"http://ne=
+wsletters=2Enewbay-media=2Ecom/newsletter=5Fart/PAR=5F10/images/PAR=5FLOG=
+O=5F180x104=2Epng" height=3D"104" width=3D"180"></td>
+ <td align=3D"left" valign=3D"top" width=3D"756">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td align=3D"center" valign=3D"middle">
+ <table border=3D"0" cellpadding=3D"12" cellspacing=3D"0" width=3D"93%">
+ <tbody>
+ <tr>
+ <td align=3D"left">
+ <!-- Leaderboard Start -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+<!-- Leaderboard End --></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"right">
+ <a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F981335100=5F46598=5F1"><img src=3D"http://adserver=2Enewbay-me=
+dia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11654" alt=3D"" border=3D"0=
+" height=3D"90" width=3D"728"></a><a href=3D"http://www=2Ecfmediaview=2Ec=
+om/lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F2">
+
+<img src=3D"http://ad=2Edoubleclick=2Enet/ad/N636=2E746086=2EPROSOUNDNETW=
+ORK=2ECOM/B7312127=2E7;sz=3D1x1;ord=3D981335100=3F" border=3D"0" width=3D=
+"1" height=3D"1" alt=3D"Advertisement"></a>
+ <table id=3D"Table=5F01" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" height=3D"27" width=3D"666">
+<tbody>
+ <tr>
+ <td width=3D"74"><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F3"><img src=3D"http://new=
+sletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F09=5FUPDATE/images/=
+02=5FMENU=5FTWITTER=2Egif" border=3D"0" height=3D"27" width=3D"61"></a><b=
+r>
+ </td>
+ <td width=3D"24"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/new=
+sletter=5Fart/MENU=5F09=5FUPDATE/images/03=5FMENU=5FSPACER=2Egif" height=3D=
+"27" width=3D"24"></td>
+ <td width=3D"72"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F981335100=5F46598=5F4" target=3D"=5Fblank"><img src=3D"http://new=
+sletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F09=5FUPDATE/images/=
+01=5FMENU=5FFACEBOOK=2Egif" border=3D"0" height=3D"27" width=3D"72"></a><=
+/td>
+ <td width=3D"16"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/new=
+sletter=5Fart/MENU=5F09=5FUPDATE/images/05=5FMENU=5FSPACER=2Egif" height=3D=
+"27" width=3D"16"></td>
+ <td width=3D"87"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F981335100=5F46598=5F5" target=3D"=5Fblank"><img src=3D"http://new=
+sletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F09=5FUPDATE/images/=
+06=5FMENU=5FVIST=2Egif" border=3D"0" height=3D"27" width=3D"87"></a></td>=
+
+ <td width=3D"10"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/new=
+sletter=5Fart/MENU=5F09=5FUPDATE/images/07=5FMENU=5FSPACER=2Egif" height=3D=
+"27" width=3D"9"></td>
+ <td width=3D"68"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F981335100=5F46598=5F6" target=3D"=5Fblank"><img src=3D"http://new=
+sletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F09=5FUPDATE/images/=
+08=5FMENU=5FSUBSCRIBE=2Egif" border=3D"0" height=3D"27" width=3D"68"></a>=
+</td>
+ <td width=3D"19"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/new=
+sletter=5Fart/MENU=5F09=5FUPDATE/images/09=5FMENU=5FSPACER=2Egif" height=3D=
+"27" width=3D"19"></td>
+ <td width=3D"50"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F981335100=5F46598=5F7=5Fchris@sophiahatstudio=2Ecom" target=3D"=5F=
+blank"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fa=
+rt/MENU=5F09=5FUPDATE/images/10=5FMENU=5FEMAIL=2Egif" border=3D"0" height=
+=3D"27" width=3D"50"></a></td>
+ <td width=3D"23"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/new=
+sletter=5Fart/MENU=5F09=5FUPDATE/images/11=5FMENU=5FSPACER=2Egif" height=3D=
+"27" width=3D"23"></td>
+ <td width=3D"46"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F981335100=5F46598=5F8" target=3D"=5Fblank"><img src=3D"http://new=
+sletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F09=5FUPDATE/images/=
+12=5FMENU=5FBLOG=2Egif" border=3D"0" height=3D"27" width=3D"46"></a></td>=
+
+ <td width=3D"21"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/new=
+sletter=5Fart/MENU=5F09=5FUPDATE/images/13=5FMENU=5FSPACER=2Egif" height=3D=
+"27" width=3D"21"></td>
+ <td width=3D"57"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F981335100=5F46598=5F9" target=3D"=5Fblank"><img src=3D"http://new=
+sletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F09=5FUPDATE/images/=
+14=5FMENU=5FFORUM=2Egif" border=3D"0" height=3D"27" width=3D"57"></a></td=
+>
+ <td width=3D"23"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/new=
+sletter=5Fart/MENU=5F09=5FUPDATE/images/15=5FMENU=5FSPACER=2Egif" height=3D=
+"27" width=3D"23"></td>
+ <td width=3D"218"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F981335100=5F46598=5F10" target=3D"=5Fblank"><img src=3D"http://ne=
+wsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MENU=5F09=5FUPDATE/images=
+/16=5FMENU=5FDIGITAL=5FEDT=2Egif" border=3D"0" height=3D"27" width=3D"90"=
+></a></td>
+ <td width=3D"28">
+ <img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MEN=
+U=5F09=5FUPDATE/images/17=5FMENU=5FSPACER=2Egif" height=3D"27" width=3D"2=
+5"></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"left" valign=3D"top">
+ <table style=3D"border-top: 1px solid black;" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+ <tbody>
+ <tr>
+ <td align=3D"left" bgcolor=3D"#ffffff" height=3D"579" valign=3D"top" wid=
+th=3D"10"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5F=
+art/eNews=5FSpacer=5F10px=2Egif" height=3D"10" width=3D"10"></td>
+ <td style=3D"border-right: 1px solid rgb(204, 204, 204); line-height: no=
+rmal;" align=3D"left" bgcolor=3D"#ffffff" valign=3D"top" width=3D"599">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"5" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 24px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"563"><strong> June 18,=
+ 2013</strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 24px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"563"><strong> Events <=
+/strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><a h=
+ref=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46=
+598=5F11" target=3D"=5Fblank">2013 Recording Industry Golf Tournament, Ma=
+libu CA =C2=BB</a></strong></td>
+ </tr>
+ <tr>
+ </tr></tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 24px; padding=
+-top: 5px;" align=3D"left" valign=3D"top" width=3D"563"><strong> New Prod=
+ucts </strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><a h=
+ref=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46=
+598=5F12" target=3D"=5Fblank">Allen & Heath GLD-112 Mixer =C2=BB</a></str=
+ong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><a h=
+ref=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46=
+598=5F13" target=3D"=5Fblank">Aviom D800 Dante A-Net Distributor =C2=BB</=
+a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><a h=
+ref=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46=
+598=5F14" target=3D"=5Fblank">Line 6 Relay Series V75-SC 14-channel Digit=
+al Wireless Handheld Microphone System =C2=BB</a></strong></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><strong><a h=
+ref=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46=
+598=5F15" target=3D"=5Fblank">Zoom H6 Handy Recorder =C2=BB</a></strong><=
+/td>
+ </tr>
+ <tr>
+ </tr></tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"center" valign=3D"middle"><hr nos=
+hade=3D"noshade" size=3D"1">
+ <!--Position Two Start -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=
+=5F46598=5F16" target=3D"=5Fblank"><img class=3D" fsqlajojpqfgtgwxtlug fs=
+qlajojpqfgtgwxtlug rtfafnditwkubxwavexi rtfafnditwkubxwavexi rtfafnditwku=
+bxwavexi" src=3D"http://adserver=2Enewbay-media=2Ecom/www/delivery/avw=2E=
+php=3Fbannerid=3D5984" border=3D"0" height=3D"60" width=3D"468"></a>
+ <hr noshade=3D"noshade" size=3D"1">
+ <!--Position Two End -->                                            </td=
+>
+ </tr>
+ <tr>
+ <td style=3D"line-height: normal; font-family: helvetica,sans-serif; fon=
+t-size: 24px; padding-top: 5px;"><strong><em></em>Today's Product Review<=
+/strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" height=3D=
+"94" valign=3D"top"><table border=3D"0" cellpadding=3D"2" cellspacing=3D"=
+0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" height=3D=
+"94" valign=3D"top"><p><strong><a href=3D"http://www=2Ecfmediaview=2Ecom/=
+lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F17" target=3D"=5Fblank">Mackie D=
+L1608 Digital Live Sound Mixer</a><br>
+ By Lynn Fuston for <em>Pro Audio Review</em></strong><br>
+ It=E2=80=99s a brave new world=2E Get used to it=2E And get an iPad=2E</=
+p>
+ <p>The Mackie DL1608 is a 16-input live mixer with a twist: it requires =
+an iPad to operate it=2E Not too many years ago, the thought of making a =
+piece of gear that could <u>not</u> be operated without a third-party dev=
+ice might have seemed ludicrous=2E Not any more=2E While some gear/consol=
+es offer auxiliary or remote control of parameters, the DL1608 won=E2=80=99=
+t work without it, and it utilizes it well=2E Just add an iPad and a rout=
+er and it=E2=80=99s ready to go=2E  <a href=3D"http://www=2Ecfmediaview=2E=
+com/lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F18" target=3D"=5Fblank">More=
+ =C2=BB</a></p>
+ </td>
+ </tr>
+=20
+=20
+=20
+=20
+ <tr>
+=20
+ </tr></tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: normal; font-family: helvetica,sans-serif; fon=
+t-size: 24px; padding-top: 5px;"><strong><em></em>Today's Blog</strong></=
+td>
+ </tr>=20
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" height=3D=
+"76" valign=3D"top"><table border=3D"0" cellpadding=3D"2" cellspacing=3D"=
+0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" height=3D=
+"76" valign=3D"top"><p><strong><a href=3D"http://www=2Ecfmediaview=2Ecom/=
+lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F19" target=3D"=5Fblank">InfoComm=
+ 2013: A Record Breaker</a><br>By Lindsey M=2E Adler and Kelleigh Welch<b=
+r>
+ </strong>InfoComm 2013 is a massive success, taking the crown as the lar=
+gest InfoComm show ever with 34,743 attendees checking out the exhibits a=
+nd taking advantage of educational sessions=2E <a href=3D"http://www=2Ecf=
+mediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F20" target=3D"=5F=
+blank">More =C2=BB</a></p></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>                                   =20
+=20
+ </tbody>
+ </table>
+</td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"#ffffff" valign=3D"top" width=3D"10"><img src=3D"http://newsletter=
+s=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" heig=
+ht=3D"10" width=3D"10"></td>
+ <td style=3D"padding-top: 5px;" align=3D"left" bgcolor=3D"#ffffff" valig=
+n=3D"top" width=3D"300">
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"299">
+ <tbody>
+
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 12px;" align=3D=
+"left" valign=3D"top">
+ <!--Position #2 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */--><!--Position #2 END--> =
+                                           </td>
+ </tr>
+ <tr>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F981335100=5F46598=5F21"><img src=3D"http://adserver=2Enewb=
+ay-media=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11704" alt=3D"" width=3D=
+"300" height=3D"250" border=3D"0"></a></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F981335100=5F46598=5F22"><img src=3D"http://adserver=2Enewb=
+ay-media=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11820" alt=3D"" width=3D=
+"300" height=3D"250" border=3D"0"></a></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F981335100=5F46598=5F23"><img src=3D"http://adserver=2Enewb=
+ay-media=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11810" alt=3D"" width=3D=
+"300" height=3D"250" border=3D"0"></a></td>
+ </tr>
+ <tr>
+ <td>
+ <!--Position #3 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */--><!--Position #3 END--> =
+                                         </td>
+ </tr>
+ </tbody>
+ </table></td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"#ffffff" valign=3D"top" width=3D"10"><img src=3D"http://newsletter=
+s=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" heig=
+ht=3D"10" width=3D"10"></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"padding: 10px; font-family: verdana; font-size: 9px; color:=
+ rgb(153, 153, 153);" align=3D"center" bgcolor=3D"#ffffff" valign=3D"midd=
+le">=C2=A92013 NewBay Media, LLC</td>
+ </tr>
+ </tbody>
+ </table>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F24=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F981335100=5F46598=5F25">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D981335100&msgid=3D46598"></body></html>
+

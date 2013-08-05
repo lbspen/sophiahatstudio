@@ -1,0 +1,167 @@
+Return-path: <3ee.1c.935109513.44612.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Sun, 05 May 2013 10:01:02 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:47666)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.935109513.44612.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UYzUo-0005FP-2g
+	for chris@sophiahatstudio.com; Sun, 05 May 2013 10:01:02 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type; 
+	b=U6vJsyplCV5XD4aygQF2lzOoVVQw/5/RxcvpmV/GHwyHgHdVOnP5Jx93/8RTaSVLdNt+lOAq5M8eZOtcK5SIh9v14QP4sooiimRuJ+u3OHF0cXgzTaqGIPvJ+kVwVFOIwSlpYWSvgyaNwpkimZ/uoR7mRI8RaWwb0vjmV6KJuR0=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1367762476;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type;
+	bh=zoOlSdA/y6Xc4+zrKVrhQ4L5Uiw=;
+	b=pMsBACgsEFHEUjz5aTzDZSQDQRK96rk28tUgi2GdHG0aoTPV3TyMmc60OVoAphHyGlplvJhyJ8SFSsOxbkUfx1q3p0DwMxnTIEBC85CS+Njhy94WRklNPZpgJpRKd8QBWR9ZVPaA2UjKq7r0UY4OVuYEZUEC4a2OLsNIC6rvmPk=
+X-FBL: M2VlLjFlLjEwOTAwMDAwMDAyODViYS45MzUxMDk1MTMuNDQ2MTIuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <a1cb293e-7dbf-44e3-8906-b0ea9b313d07@newbay.cfmvmail.com>
+From: "Electronic Musician" <newbay@computerfulfillment.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?VFdPIERBWVMgT05MWTogQW55IE1hZ2F6aW5lIGZvciAkMTAh?=
+Date: Sun, 5 May 2013 10:01:04 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_246381537335252801414275"
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Subscribe to any magazine for just $10! 2 DAYS ONLY - $10!
+    Start Shopping Now: <http://www.cfmediaview.com/lp1.aspx?v=6_935109513_44612_501>
+    [...] 
+ 
+ Content analysis details:   (-0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -2.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+------=_NextPart_246381537335252801414275
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Subscribe to any magazine for just $10!
+
+2 DAYS ONLY - $10!
+
+Start Shopping Now:
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F935109513=5F44612=5F=
+501>
+
+
+Bass Player =2E Electronic Musician =2E Guitar Aficionado =2E Guitar Play=
+er =2E Guitar World =2E Keyboard =2E Mix =2E Revolver
+=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=
+=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=
+=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=
+=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F=5F
+
+You have received this message because you previously gave your email add=
+ress to NewBay Media LLC=2E If you wish to unsubscribe or manage your ema=
+il preferences, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F935109513=5F44612=5F=
+502=5Fchris@sophiahatstudio=2Ecom>
+
+If you wish to change your email address, please visit:
+
+<http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F935109513=5F44612=5F=
+503>
+
+To report abuse:
+
+mailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahat=
+studio=2Ecom
+
+NewBay Media LLC
+28 East 28th Street
+12th Floor
+New York, NY 10016
+------=_NextPart_246381537335252801414275
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head><title>Two Days Le=
+ft!</title>
+<meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type">=
+</head>
+<body style=3D"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDI=
+NG-RIGHT: 0px; PADDING-TOP: 0px"><br>
+<table style=3D"WIDTH: 600px" cellspacing=3D"0" cellpadding=3D"0" align=3D=
+"center">
+<tbody>
+<tr>
+<td colspan=3D"2">
+<p align=3D"left"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F935109513=5F44612=5F1" target=3D"=5Fblank"><img style=3D"BORDER-B=
+OTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-TOP: 0px solid; BORDER-R=
+IGHT: 0px solid" src=3D"http://cfmediaview=2Ecom/templates/NewBay/Electro=
+nic%20Musician/2day%20sale/header=2Ejpg" width=3D"600" height=3D"64"></a>=
+</p></td></tr>
+<tr>
+<td style=3D"WIDTH: 253px"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F935109513=5F44612=5F2" target=3D"=5Fblank"><img style=3D"B=
+ORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-TOP: 0px solid; B=
+ORDER-RIGHT: 0px solid" src=3D"http://cfmediaview=2Ecom/templates/NewBay/=
+Electronic%20Musician/2day%20sale/EMcoverOrange=2Egif"></a><a href=3D"htt=
+ps://www=2Eb2bmediaportal=2Ecom/mpncombo2/offer=5Fended=2Easpx"></a></td>=
+
+<td style=3D"WIDTH: 347px"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F935109513=5F44612=5F3" target=3D"=5Fblank"><img border=3D"=
+0" src=3D"http://cfmediaview=2Ecom/templates/NewBay/Electronic%20Musician=
+/2day%20sale/offer-v1=2E4=2Ejpg" width=3D"347" height=3D"293"></a></td></=
+tr>
+<tr>
+<td colspan=3D"2"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F935109513=5F44612=5F4" target=3D"=5Fblank"><img border=3D"0" src=3D=
+"http://cfmediaview=2Ecom/templates/NewBay/Electronic%20Musician/2day%20s=
+ale/logos=2Ejpg" width=3D"600" height=3D"130"></a></td></tr></tbody></tab=
+le><br><br><br><br><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F935109513=5F44612=5F5=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F935109513=5F44612=5F6">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D935109513&msgid=3D44612"></body></html>
+------=_NextPart_246381537335252801414275--
+

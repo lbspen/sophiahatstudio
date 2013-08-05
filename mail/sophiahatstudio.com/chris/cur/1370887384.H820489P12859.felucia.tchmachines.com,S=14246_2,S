@@ -1,0 +1,296 @@
+Return-path: <3ee.d.972274526.46214@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Mon, 10 Jun 2013 14:03:04 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:58426)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.d.972274526.46214@newbay.cfmvmail.com>)
+	id 1Um6Qp-0003Kw-1K
+	for chris@sophiahatstudio.com; Mon, 10 Jun 2013 14:03:04 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=tQ6KmK1Lr/fOoO8nRwy6zDWYWWDnbApikmix2eGHldg8p68l8XqVFlLvjbl+U62+lhe0yWFJGesvhOVIwpSLmHEkZGlS+JXu0mN6nrWZZr8JPrpEIP9WxgnMJ+7zCAQ3HGvW4BCi6O9jw7M1cHzQZwQEBPOqvarF0eksqc/2b7U=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1370887392;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=J+KUFUl19SR0HOLzWT59TenJhvA=;
+	b=rx5Znpp3MKYjUHlC1RhtBxIBm/L9gwesyJqm5Asmyx36iDu5t9wRSiLXHh3JRzcY29ldxdODhUJdhYYuvoX7N1XXALk6Ksuj+D07sk/CclR3PYKNBad94iqk1qzaGD1TiTBXn/t8No3dHPVofw13TKPTPdTPVRnrKviJQ6zn0Gg=
+X-FBL: M2VlLjFlLjExNDAwMDAwMWNlYTExYS45NzIyNzQ1MjYuNDYyMTQuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "NewBay Media" <partners@newbay-media.com>
+Message-ID: <bc492359-1b1c-4d8a-8af5-9deea53584d9@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?SW5mb0NvbW0gMjAxMyBQcm9kdWN0IFNob3djYXNl?=
+Date: Mon, 10 Jun 2013 14:03:10 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Untitled Page Alcons QR24 The QR24 is a modular, two-way line-source
+    loudspeaker to be used in acoustically-challenging rooms. With two (Alcons-proprietary)
+    purpose-designed 12" pro-ribbon drivers, the compact QR24 delivers a full-range
+    high SPL HiFi sound quality, with unparalleled speech intelligibility in
+   even the most reverberant rooms, without the necessity of DSP-based beamsteering.
+    [...] 
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4=2E01 Transitional//EN">
+<html><head>
+ <meta content=3D"text/html; charset=3DISO-8859-1" http-equiv=3D"Content-=
+Type">
+ <meta content=3D"Adobe GoLive" name=3D"generator">
+ <title>Untitled Page</title>
+ <style media=3D"screen" type=3D"text/css">
+ <!--
+=2Eheader  { background-image: url("http://www=2Esystemscontractor=2Ecom/=
+e-promo/SCN=5FShowcase=5FDemo=5FArt/Showcase=5Fbanner=5F728x120=2Ejpg"); =
+background-repeat: no-repeat }
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}
+-->
+ </style>
+ </head>
+ <body alink=3D"#990000" bgcolor=3D"#ffffff" link=3D"#990000" vlink=3D"#9=
+90000">
+ <style media=3D"screen" type=3D"text/css">
+ <!--
+=2Eheader  { background-image: url("http://www=2Esystemscontractor=2Ecom/=
+e-promo/SCN=5FShowcase=5FDemo=5FArt/Showcase=5Fbanner=5F728x120=2Ejpg"); =
+background-repeat: no-repeat }
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}
+-->
+ </style>
+ <table style=3D"border: 1px solid black;" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"728">
+ <tbody>
+ <tr>
+ <td><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5FCustom/=
+NEWPRODUCTSHOWCASE=5FINFOCOMM11=5F061011/images/NEWPRODSHOWCASE=5FINFOCOM=
+M11=5FHEAD=2Ejpg" border=3D"0" height=3D"100" width=3D"728" style=3D"disp=
+lay:block;"></td>
+ </tr>
+ <tr>
+ <td style=3D"padding-top: 10px; padding-bottom: 10px;">
+ <hr size=3D"1">
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"left" bgcolor=3D"#cccccc" valign=3D"top">
+ <table border=3D"0" cellpadding=3D"5" cellspacing=3D"5" width=3D"728">
+ <tbody>
+ <tr valign=3D"top">
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"white" valign=3D"top" width=3D"50%"><p><strong><a target=3D"=5Fbla=
+nk" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=
+=5F46214=5F1"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5F=
+Custom/PRODUCTSPOTLIGHT=5FINFOCOMM2013/images/Alcons=5F200=2Ejpg" align=3D=
+"right" border=3D"0" height=3D"200" hspace=3D"5" vspace=3D"5" width=3D"10=
+5"></a>Alcons QR24</strong><br>
+ <br>
+ The QR24 is a modular, two-way line-source loudspeaker to be used in aco=
+ustically-challenging rooms=2E With two (Alcons-proprietary) purpose-desi=
+gned 12"  pro-ribbon drivers, the compact QR24 delivers a full-range high=
+ SPL HiFi sound quality, with unparalleled speech intelligibility in even=
+ the most reverberant rooms, without the necessity of DSP-based beamsteer=
+ing=2E<br>
+ <br>
+ <strong>Contact:</strong> Alcons Audio USA &#8226; <a href=3D"http://www=
+=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F2" target=3D=
+"=5Fblank">www=2Ealconsaudio=2Ecom</a> &#8226; Booth #671</p></td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"white" valign=3D"top" width=3D"50%"><a target=3D"=5Fblank" href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F=
+3"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5FCustom/PR=
+ODUCTSPOTLIGHT=5FINFOCOMM2013/images/Gator=5F200=2Ejpg" alt=3D"" align=3D=
+"right" border=3D"0" height=3D"119" hspace=3D"10" vspace=3D"10" width=3D"=
+200"></a><a target=3D"=5Fblank" href=3D"http://www=2Ed-mpro=2Ecom/"></a>
+ <strong>Gator Cases Water Proof Mackie DL1608 Mixer Case<br>
+ <br>
+ </strong>Water-proof injection molded case from Gator Cases with custom =
+fit foam nest for the Mackie DL1608 mixing console=2E Featuring a water-p=
+roof and dust-proof seal meaning this case can endure the harshest of ele=
+ments=2E Available immediately from your authorized Gator Cases Dealer=2E=
+<br>
+ <br>
+ <strong>Contact:</strong> Gator Cases &#8226; <a href=3D"http://www=2Ecf=
+mediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F4">www=2Egatorca=
+ses=2Ecom</a> &#8226;<br>=20
+ Booth #751<p></td>
+ </tr>
+ <tr valign=3D"top">
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"white" valign=3D"top" width=3D"50%"><a target=3D"=5Fblank" href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F=
+5"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5FCustom/PR=
+ODUCTSPOTLIGHT=5FINFOCOMM2013/images/GRUNDORF=5F200=2Ejpg" align=3D"right=
+" border=3D"0" height=3D"174" hspace=3D"10" vspace=3D"10" width=3D"200"><=
+/a>
+ <strong>Grundorf Combo Cases for FOH and AV<br>
+ <br>
+ </strong>The Combo Case is an integrated mixer/AV cart and amp rack=2E S=
+tandard sizes are available and all cases may be customized to one&rsquo;=
+s requirements=2E Cases are available in carpet finish, Tour Series ATA s=
+tyle, or Studio Series corporate/install version=2E<br>
+ <br>
+ <strong>Contact:</strong> <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F972274526=5F46214=5F6" target=3D"=5Fblank">www=2Egrundorf=2E=
+com</a> &#8226; <a href=3D"mailto:sales@grundorf=2Ecom" target=3D"=5Fblan=
+k">sales@grundorf=2Ecom</a> &#8226; 712-322-3900 &#8226; Booth #553<p>
+<br>
+ <strong></strong></td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"white" valign=3D"top" width=3D"50%"><a target=3D"=5Fblank" href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F=
+7"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5FCustom/PR=
+ODUCTSPOTLIGHT=5FINFOCOMM2013/images/IHSE=5F200=2Ejpg" align=3D"right" bo=
+rder=3D"0" height=3D"64" hspace=3D"10" vspace=3D"10" width=3D"200"></a>
+ <strong>IHSE USA&rsquo;s Draco Vario<br>
+ <br>
+ </strong>Draco Vario is now offered in a new multi-path KVM extender for=
+ redundant or critical path applications=2E The L474-1SHC-R and R474-1SHC=
+-R can accommodate two simultaneously paths for KVM, audio and RS-232 dat=
+a as direct connections or as part of a larger matrix switch fabric=2E<br=
+>
+ <br>
+ <strong>Contact:</strong> IHSE USA &#8226; <a href=3D"http://www=2Ecfmed=
+iaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F8">www=2Eihseusa=2E=
+com</a> &#8226; <br>
+ Booth #2143<p></td>
+ </tr>
+ <tr valign=3D"top">
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"white" valign=3D"top" width=3D"50%"><a target=3D"=5Fblank" href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F=
+9"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5FCustom/PR=
+ODUCTSPOTLIGHT=5FINFOCOMM2013/images/LISTEN=5F200=2Ejpg" align=3D"right" =
+border=3D"0" height=3D"168" hspace=3D"10" vspace=3D"10" width=3D"200"></a=
+>
+ <strong>Listen Technologies Multi-Media Touch Conferencing Solution<br>
+ <br>
+ </strong>Listen Technologies introduces its new Multi-Media Touch Confer=
+encing solution=2E Ideal for discussion style meetings where dynamic inte=
+raction of documents, voting, messaging and web access is needed=2E Sleek=
+ intuitive 7" user interface with touch screen, speaker, microphone unit =
+delivers high definition video to the user=2E<br>
+ <br>
+ <strong>Contact:</strong> <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F972274526=5F46214=5F10" target=3D"=5Fblank">www=2Elistente=
+ch=2Ecom</a> &#8226; +1=2E801=2E233=2E8992 &#8226; Booth #1449<p></td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"white" valign=3D"top" width=3D"50%"><a target=3D"=5Fblank" href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F=
+11"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/NewBay=5FCustom/P=
+RODUCTSPOTLIGHT=5FINFOCOMM2013/images/MA=5F200=2Ejpg" alt=3D"" align=3D"r=
+ight" border=3D"0" height=3D"168" hspace=3D"10" vspace=3D"10" width=3D"20=
+0"></a><a target=3D"=5Fblank" href=3D"http://www=2Ed-mpro=2Ecom/"></a>
+ <strong>Middle Atlantic Reference Series Lecterns<br>
+ <br>
+ </strong>The Reference Series Lectern combines the strength and function=
+ality of a rack with the look of furniture=2E It eliminates long waits, s=
+peeds integration and reduces transit damage by shipping the outer wood s=
+urfaces separately from the internal rack structure=2E<br>
+ <br>
+ <strong>Contact:</strong> Middle Atlantic &#8226; <a href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F12" target=3D"=
+=5Fblank">www=2Emiddleatlantic=2Ecom</a> &#8226; Booth #1615<p></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td>
+ <hr size=3D"1">
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"padding: 10px; font-family: verdana; font-size: 12px;">
+ <p><font color=3D"black" face=3D"Verdana, Arial, Helvetica, sans-serif" =
+size=3D"2">For more information, please send an email to</font><font colo=
+r=3D"#000080" face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"2"> =
+</font><font color=3D"#0000ff" face=3D"Verdana, Arial, Helvetica, sans-se=
+rif" size=3D"2"><a href=3D"mailto:zmajma@nbmedia=2Ecom">zmajma@nbmedia=2E=
+com</a></font><font face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D=
+"2"> </font></p>
+ <p><font face=3D"Verdana, Arial, Helvetica, sans-serif" size=3D"2">To su=
+bscribe to any of the eNewsletters mentioned above<strong> </strong><a ta=
+rget=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D=
+6=5F972274526=5F46214=5F13">Click Here =C2=BB</a></font></p></td>
+ </tr>
+ </tbody>
+ </table>
+=20
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F14=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F972274526=5F46214=5F15">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D972274526&msgid=3D46214"></body></html>
+

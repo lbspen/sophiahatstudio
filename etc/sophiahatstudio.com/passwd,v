@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	qasnfmuj:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2011.02.01.18.01.24;	author qasnfmuj;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.02.01.18.01.24;	author qasnfmuj;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@chris:x:32181:32182::/home/qasnfmuj/mail/sophiahatstudio.com/chris:/usr/local/cpanel/bin/noshell
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

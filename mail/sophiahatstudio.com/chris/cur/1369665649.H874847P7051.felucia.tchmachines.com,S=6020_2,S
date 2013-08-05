@@ -1,0 +1,108 @@
+Return-path: <3ee.d.958564983.45469@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Mon, 27 May 2013 10:40:49 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:43888)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.d.958564983.45469@newbay.cfmvmail.com>)
+	id 1UgybP-0001pR-Ls
+	for chris@sophiahatstudio.com; Mon, 27 May 2013 10:40:49 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=U1EPzlOh9h8Pcvr4rIAMWuZLjS01LxeYL3ofWLZDkJsF+1JLAPPb7W+QDUEgzxmgqZGp+bz0Q5k0NDGEgQFjqGMacqBa+5+xz6+4B3pP2cKIbuSVztK9NvMzIBPg1xLB2F/ZGm6dbonNAGehzff3djcIM9GyhrdwkLILEZmZGGo=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1369665655;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=gVdSnC4H1Hi6Ss5adMz408BrU0Y=;
+	b=MelhFIzVdED6vkEveIXjBn85yvkrO1ZiVrwqelS5dLXCjoaVWQH1WKjht91gdXYTiXQ7u8F37x3on7JPCDat0MDBoXOgUzm8EvduaIqR1pg4nBT30BReTc4zIfQTjNScueJO0sg3lyIuWl8QdWHk4FZCtkFhQs2vqmqHwZnGkaM=
+X-FBL: M2VlLjFlLjExNDAwMDAwMDlmMGI4MC45NTg1NjQ5ODMuNDU0NjkuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "NewBay Media Online Store" <customerservice@nbmedia.com>
+Message-ID: <36251aba-3a2b-49cb-a729-2995d7b2679f@newbay.cfmvmail.com>
+To: chris@sophiahatstudio.com
+Subject: =?utf-8?B?SGFwcHkgTWVtb3JpYWwgRGF5IC0gMzAlIE9GRiBTYWxlIEVu?=
+	=?utf-8?B?ZHMgVG9kYXkh?=
+Date: Mon, 27 May 2013 10:40:53 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Manage Your Email Preferences/Unsubscribe Change Your Email
+    Address To report abuse, click here. You have received this message because
+    you previously gave your email address to NewBay Media LLC. © 2013 NewBay
+    Media LLC, 28 East 28th Street, 12th Floor, New York, NY 10016 | 212.378.0400
+    [...] 
+ 
+ Content analysis details:   (0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.7 HTML_IMAGE_ONLY_28     BODY: HTML: images with 2400-2800 bytes of words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+ -0.5 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<p>
+<table style=3D"WIDTH: 600px" cellspacing=3D"0" cellpadding=3D"0" align=3D=
+"center">
+<tbody>
+<tr>
+<td style=3D"BACKGROUND-COLOR: #000000">
+<p align=3D"center"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F958564983=5F45469=5F1" target=3D"=5Fblank"><img style=3D"BORDER-B=
+OTTOM: 0px solid; BORDER-LEFT: 0px solid; BORDER-TOP: 0px solid; BORDER-R=
+IGHT: 0px solid" src=3D"http://www=2Ecfmediaview=2Ecom/templates/NewBay/G=
+uitar%20World/Online%20Store/NewBayOnlineStore=2Ejpg"></a></p></td></tr>
+<tr>
+<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F958564=
+983=5F45469=5F2" target=3D"=5Fblank"><img style=3D"BORDER-BOTTOM: 0px sol=
+id; BORDER-LEFT: 0px solid; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px soli=
+d" src=3D"http://www=2Ecfmediaview=2Ecom/templates/NewBay/Guitar%20World/=
+Online%20Store/memorialday=5Fimage2=5F600x369=2Ejpg"></a><a href=3D"http:=
+//store=2Eguitarworld=2Ecom/=3F&utm=5Fsource=3Dconsumer=5Femail&utm=5Fmed=
+ium=3DMPNenews-list&utm=5Fcampaign=3D30MEM13" target=3D"=5Fblank"></a></t=
+d></tr></tbody></table></p><p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F958564983=5F45469=5F3=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F958564983=5F45469=5F4">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D958564983&msgid=3D45469">
+

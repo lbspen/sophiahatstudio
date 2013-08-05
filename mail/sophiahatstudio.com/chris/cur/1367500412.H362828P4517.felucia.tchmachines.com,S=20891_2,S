@@ -1,0 +1,509 @@
+Return-path: <bounces+335086-f03e-chris=sophiahatstudio.com@email.thumbtack.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 02 May 2013 09:13:32 -0400
+Received: from o1.email.thumbtack.com ([50.31.58.82]:46082)
+	by felucia.tchmachines.com with smtp (Exim 4.80)
+	(envelope-from <bounces+335086-f03e-chris=sophiahatstudio.com@email.thumbtack.com>)
+	id 1UXtKC-0001AP-DM
+	for chris@sophiahatstudio.com; Thu, 02 May 2013 09:13:32 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.thumbtack.com; h=
+	sender:subject:from:reply-to:to:mime-version:content-type; s=
+	smtpapi; bh=TG4IHSsluOoL4BWe2NnLwIsn0sA=; b=TcVDh8xnTIgudvfdal6/
+	sBm4aN9fMEcLJC57nZWq/VzxiiOblT24WWpDkDnpoBIyVVVSGdV9DCoV3KbJ15LM
+	qs9BJSorHEDpPtLln28ShxM/yaffBXF8bFQdZaCzCYiVwrBgmuRlXKwq/2fCxZ/A
+	1EtZH2Z+s6LU3fKvGLY7NWw=
+Received: by 10.42.80.122 with SMTP id filter-056.14371.518266785
+        Thu, 02 May 2013 13:13:29 +0000 (UTC)
+Received: from fatbot.thumbtack.com (mail-192.thumbtack.com [50.23.197.192])
+	by mi4 (SG) with ESMTP id 51826678.1ab0.14d89b5
+	for <chris@sophiahatstudio.com>; Thu, 02 May 2013 08:13:28 -0500 (CST)
+Received: from thumbtack.com (localhost.localdomain [127.0.0.1])
+	by fatbot.thumbtack.com (Postfix) with ESMTP id AD639229002D
+	for <chris@sophiahatstudio.com>; Thu,  2 May 2013 13:13:28 +0000 (UTC)
+Sender: support@email.thumbtack.com
+Message-ID: <1367500408.51826678ab98c@swift.generated>
+Date: Thu, 02 May 2013 13:13:28 +0000
+Subject: Reminder: New lead from Curol P. (3 quotes submitted)
+From: "Thumbtack.com" <support@email.thumbtack.com>
+Reply-To: "Thumbtack.com" <support@thumbtack.com>
+To: Chris Spencer <chris@sophiahatstudio.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_136750040851826678ad0f9_=_"
+X-Host: sendgrid.localhost
+X-SG-EID: adcKKE4sSGfgdQ0LqMmg2JAq7uIB3JGZXZ3Gmy4vwH+E8CF/trjUfcHbPib2GtFp1V7kSeZJp5e6hD/vL6Kdc8fvynp/7gkmlfczctO7lbfIjYG0UJuU7r7Tb9hhigBnlD8k87k3PanTKsHRIXS2Fg==
+X-Spam-Status: No, score=-1.5
+X-Spam-Score: -14
+X-Spam-Bar: -
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  This email was sent to chris@sophiahatstudio.com because you
+    joined Thumbtack on June 14th, 2011. You can manage your contact preferences
+    here: http://www.thumbtack.com/profile/notifications?_c=MTs4NDYwNDU4MjunJGaB1d8eGR.24vGszvqKClDqTA
+    [...] 
+ 
+ Content analysis details:   (-1.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -2.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+--_=_swift_v4_136750040851826678ad0f9_=_
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+This email was sent to chris@sophiahatstudio.com because you joined Thumbta=
+ck on June 14th, 2011.
+
+You can manage your contact preferences here:
+
+http://www.thumbtack.com/profile/notifications?_c=3DMTs4NDYwNDU4MjunJGaB1d8=
+eGR.24vGszvqKClDqTA
+
+Thumbtack, Inc., 1001 Page Street, Box #45, Suite #218, San Francisco CA 94=
+117
+
+--_=_swift_v4_136750040851826678ad0f9_=_
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-8=
+859-1" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=
+=3D1.0, maximum-scale=3D1.0, user-scalable=3D0" />
+    <meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+    <title>New lead from Curol P.</title>
+    <style type=3D"text/css">
+        .ReadMsgBody { width: 100%; }
+        .ExternalClass { width: 100%; }
+
+        .footer a { color: #666666 !important; text-decoration: none !impor=
+tant; }
+
+        @media only screen and (max-device-width: 480px) {
+            .content-strip {
+                width: 300px !important;
+            }
+        }
+    </style>
+
+        </head>
+
+<body style=3D"width: 100% !important;" leftmargin=3D"0" marginwidth=3D"0" =
+topmargin=3D"0" marginheight=3D"0" offset=3D"0">
+    <center>
+        <table class=3D"outer" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" style=3D"border: none; background-color: #FFFFFF;">
+            <tr>
+                <td align=3D"center" valign=3D"top">
+                    <table class=3D"content-strip" width=3D"480" cellpaddin=
+g=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td align=3D"left" valign=3D"top" style=3D"padd=
+ing: 10px 0 20px 0; font: 22px/45px 'Trebuchet MS', 'Helvetica Neue', Helve=
+tica, Arial, sans-serif; color: #F89728;">                                 =
+                                   <img style=3D"display: block; border: no=
+ne; outline: none;" width=3D"201" height=3D"45" src=3D"http://cdn-1.thumbta=
+ckstatic.com/media/logos/thumbtack/email/logo-with-slogan-201x45.png" alt=
+=3D"Thumbtack" />
+                                                            </td>
+                        </tr>
+                    </table>
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0">
+                        <tr>
+                            <td style=3D"background-color: #F7F6EA; padding=
+: 30px 0 30px 0;" align=3D"center" valign=3D"top">
+                                <table class=3D"content-strip" width=3D"480=
+" cellpadding=3D"0" cellspacing=3D"0">
+                                    <tr>
+                                        <td style=3D"font: 14px/18px 'Helve=
+tica Neue', Helvetica, Arial, sans-serif; color: #666666; padding: 0 8px;" =
+align=3D"center" valign=3D"top">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<table cellpadding=3D"0" cellspacing=3D"0">
+    <tr>
+        <td colspan=3D"2">
+            <span style=3D"text-align:center; font-size: 12px; color:#bdbdb=
+d;">
+                Having trouble viewing this email? <a href=3D"http://www.th=
+umbtack.com/request/nojsteu5?inv=3D3frmb9gb&sav=3DFEDYN2V7TAWOzg&utm_source=
+=3Duser_generated&amp;utm_medium=3Demail&amp;utm_campaign=3Demail_bids_to_s=
+eller_invite_html&amp;utm_content=3D20130502&amp;ers=3D15129685517763162809=
+8118656446421720209&amp;_c=3DMTs4NDYwNDU4MjunJGaB1d8eGR.24vGszvqKClDqTA#quo=
+te-page" style=3D"color:#0e9cd1;">View it in your browser</a>
+            </span>
+        </td>
+    </tr>
+</table>
+
+<table width=3D"450" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"padding-bottom:20px;">
+
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <tr>
+    <td width=3D"450" align=3D"center" style=3D"padding-top:20px;">
+        <table width=3D"450" style=3D"padding: 10px 15px 10px 10px; backgro=
+und: #FFFFFF; -moz-box-shadow: 0 1px 2px #CCCCCC; -webkit-box-shadow: 0 1px=
+ 2px #CCCCCC; box-shadow: 0 1px 2px #CCCCCC; border-left: 1px solid #CCCCCC=
+; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC;">
+            <tr>
+                <td width=3D"40">
+                    <img style=3D"display:block;" width=3D"30" height=3D"30=
+" src=3D"http://cdn-1.thumbtackstatic.com/media/email/invite/quote-icon.jpg=
+">
+                </td>
+                <td width=3D"410">
+                    <span style=3D"font-weight:bold; color:#000000 !importa=
+nt;">
+                                    3 quotes have been submitted as of
+            6:13 AM
+=20=20=20=20=20=20=20=20
+                    </span>
+                    <br>
+                    <span style=3D"font-size: 12px; padding-top:10px; color=
+:#666666 !important;">
+                        Curol is still interested in hiring and wants to he=
+ar from you
+                    </span>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+=20=20=20=20
+</table>
+
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"
+    margin-top:10px;
+    background: #FFFFFF;
+    -moz-box-shadow: 0 1px 2px #CCCCCC;
+    -webkit-box-shadow: 0 1px 2px #CCCCCC;
+    box-shadow: 0 1px 2px #CCCCCC;
+    border-left: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;">
+
+        <tr>
+        <td colspan=3D"2" style=3D"margin-top: 10px; padding:20px; width: 4=
+50px; border-top:4px solid #f6973a; text-align: left;">
+            <span style=3D"
+            color:#3a3933;
+            font-size: 24px;
+            font-weight: bold;">
+                Curol Pedro
+            </span><br/>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=3D"2" style=3D"padding: 0px 20px 20px 20px; width: 450p=
+x; text-align: left;">
+            <span style=3D"
+            font-size: 16px;
+            color: #4092f1;">
+
+                                <a style=3D"line-height: 25px;" href=3D"htt=
+p://www.thumbtack.com/request/nojsteu5?inv=3D3frmb9gb&sav=3DFEDYN2V7TAWOzg&=
+utm_source=3Duser_generated&amp;utm_medium=3Demail&amp;utm_campaign=3Demail=
+_bids_to_seller_invite_html&amp;utm_content=3D20130502&amp;ers=3D1512968551=
+77631628098118656446421720209&amp;_c=3DMTs4NDYwNDU4MjunJGaB1d8eGR.24vGszvqK=
+ClDqTA#quote-page">
+                                            Audio Recording Studio Needed
+                                    </a>
+
+                                <a href=3D"http://www.thumbtack.com/request=
+/nojsteu5?inv=3D3frmb9gb&sav=3DFEDYN2V7TAWOzg&utm_source=3Duser_generated&a=
+mp;utm_medium=3Demail&amp;utm_campaign=3Demail_bids_to_seller_invite_html&a=
+mp;utm_content=3D20130502&amp;ers=3D151296855177631628098118656446421720209=
+&amp;_c=3DMTs4NDYwNDU4MjunJGaB1d8eGR.24vGszvqKClDqTA#quote-page" style=3D"
+                    padding:4px 12px;=20
+                    background:#f6973a;=20
+                    font-size:14px;=20
+                    color:white;=20
+                    float:right;
+                    text-decoration:none;">
+                    Submit Quote
+                </a>
+
+            </span>
+        </td>
+    </tr>
+
+        <tr>
+        <td style=3D"background:#CCC;">
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20
+                            <img style=3D"display: block;" width=3D"100" he=
+ight=3D"100" border=3D"0"
+                    src=3D"http://cdn-1.thumbtackstatic.com/media/email/inv=
+ite/empty-profile.jpg"
+                    alt=3D"Profile">
+=20=20=20=20=20=20=20=20=20=20=20=20
+        </td>
+        <td style=3D"background:#dfdbd4;">
+            <img style=3D"display: block;" width=3D"365" height=3D"100" bor=
+der=3D"0"
+                src=3D"http://www.thumbtack.com/boundary-map/image/98122/36=
+5/100"
+                alt=3D"Consumer Location" />
+        </td>
+    </tr>
+
+=20=20=20=20
+        <tr>
+            <td valign=3D"top" style=3D"padding:32px 0 0 20px; width:80px;">
+        <span style=3D"font-size:22px; color:#3a3933; font-weight:bold;">
+            What
+        </span>
+    </td>
+
+        <td style=3D"display:block; width:290px; padding:23px 40px 0 20px; =
+text-align:left;">
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                           =
+                     <p style=3D"color:#4092f1; font-size: 13px;">
+        Recording type
+    </p>
+    <p style=3D"color:#666666; margin:0; padding-bottom:10px;">
+        Music recording
+
+    </p>
+
+                                                                           =
+                             <p style=3D"color:#4092f1; font-size: 13px;">
+        Additional services
+    </p>
+    <p style=3D"color:#666666; margin:0; padding-bottom:10px;">
+        Mastering, Editing, Post-production
+
+    </p>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+    </tr>
+
+        <tr>
+        <td style=3D"padding-top:40px;"></td>
+    </tr>
+
+=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+                    <tr>
+        <td colspan=3D"4">
+            <img width=3D"450" height=3D"15" border=3D"0" src=3D"http://cdn=
+-1.thumbtackstatic.com/media/email/invite/divider.jpg">
+        </td>
+    </tr>
+
+
+        <tr>
+                <td valign=3D"top" style=3D"padding:32px 0 0 20px; width:80=
+px;">
+        <span style=3D"font-size:22px; color:#3a3933; font-weight:bold;">
+            When
+        </span>
+    </td>
+
+            <td style=3D"display: block; width:290px; padding:20px 40px 30p=
+x 20px; text-align:left;">
+                <p>
+                    I&#039;m flexible
+                </p>
+            </td>
+        </tr>
+=20=20=20=20
+            <tr>
+        <td colspan=3D"4">
+            <img width=3D"450" height=3D"15" border=3D"0" src=3D"http://cdn=
+-1.thumbtackstatic.com/media/email/invite/divider.jpg">
+        </td>
+    </tr>
+
+
+        <tr>
+            <td valign=3D"top" style=3D"padding:32px 0 0 20px; width:80px;">
+        <span style=3D"font-size:22px; color:#3a3933; font-weight:bold;">
+            Where
+        </span>
+    </td>
+
+        <td style=3D"display:block; width:290px; padding:20px 20px 40px 20p=
+x; text-align:left;">
+            <p>
+                Seattle, WA 98122
+            </p>
+                            <p style=3D"padding-top:20px;">
+                    Service professionals may travel to my address OR I wil=
+l travel to the provider up to 25 miles.=20
+                </p>
+                    </td>
+    </tr>
+
+        <tr>
+        <td style=3D"background:#f5f5f5; padding:40px 0; text-align:center;=
+ border-top:1px solid #CCCCCC;" colspan=3D"2" align=3D"left" valign=3D"midd=
+le">
+            <a href=3D"http://www.thumbtack.com/request/nojsteu5?inv=3D3frm=
+b9gb&sav=3DFEDYN2V7TAWOzg&utm_source=3Duser_generated&amp;utm_medium=3Demai=
+l&amp;utm_campaign=3Demail_bids_to_seller_invite_html&amp;utm_content=3D201=
+30502&amp;ers=3D151296855177631628098118656446421720209&amp;_c=3DMTs4NDYwND=
+U4MjunJGaB1d8eGR.24vGszvqKClDqTA#quote-page" style=3D"padding:13px 40px; ba=
+ckground:#f6973a; font-size:15px; color:white; text-decoration:none;">
+                <b>Submit a quote to Curol</b>
+            </a>
+        </td>
+    </tr>
+</table>
+
+<table width=3D"450" cellpadding=3D"0" cellspacing=3D"0">
+    <tr>
+        <td style=3D"position:relative; padding-top:10px; text-align:center=
+; font-size: 12px; color:#bdbdbd;" colspan=3D"2" align=3D"left">
+            <p>
+                Request sent on 05-01-13
+            </p>
+        </td>
+    </tr>
+</table>
+
+<table width=3D"450" cellpadding=3D"0" cellspacing=3D"0">
+    <tr>
+        <td align=3D"center" style=3D"padding-top:10px;">
+            <a href=3D"http://www.thumbtack.com/profile/decline_lead?inv=3D=
+3frmb9gb&utm_source=3Duser_generated&amp;utm_medium=3Demail&amp;utm_campaig=
+n=3Demail_bids_to_seller_invite_html&amp;utm_content=3D20130502&amp;ers=3D1=
+51296855177631628098118656446421720209&amp;_c=3DMTs4NDYwNDU4MjunJGaB1d8eGR.=
+24vGszvqKClDqTA" style=3D"display:inline-block; padding: 7px 30px; font-siz=
+e: 13px; background: #dad7c3; color:white; text-decoration:none;">
+                Pass on this job
+            </a>
+        </td>
+    </tr>
+</table>
+
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <table class=3D"content-strip" width=3D"480" cellpaddin=
+g=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding: 30px 0 10px 0; font: 10px/1.6 'Helvetica Neue', Helvetica, Arial, sa=
+ns-serif; color: #888888;">
+                                                                           =
+                         <span style=3D"padding: 0 5px;">
+                                        <a style=3D"color: #38A2CE; text-de=
+coration: underline;" href=3D"http://www.thumbtack.com/about?utm_source=3Du=
+ser_generated&utm_medium=3Demail&utm_campaign=3Dinvite_reminder&utm_content=
+=3D20130502&ers=3D151296855177631628098118656446421720209&_c=3DMTs4NDYwNDU4=
+MjunJGaB1d8eGR.24vGszvqKClDqTA">
+                                            <span style=3D"color: #38A2CE;"=
+>About</span></a>
+                                    </span>
+                                                                           =
+ &middot;
+                                                                           =
+                             <span style=3D"padding: 0 5px;">
+                                        <a style=3D"color: #38A2CE; text-de=
+coration: underline;" href=3D"https://www.facebook.com/Thumbtack">
+                                            <span style=3D"color: #38A2CE;"=
+>Facebook</span></a>
+                                    </span>
+                                                                           =
+ &middot;
+                                                                           =
+                             <span style=3D"padding: 0 5px;">
+                                        <a style=3D"color: #38A2CE; text-de=
+coration: underline;" href=3D"https://twitter.com/thumbtack">
+                                            <span style=3D"color: #38A2CE;"=
+>Twitter</span></a>
+                                    </span>
+                                                                           =
+ &middot;
+                                                                           =
+                             <span style=3D"padding: 0 5px;">
+                                        <a style=3D"color: #38A2CE; text-de=
+coration: underline;" href=3D"mailto:support@thumbtack.com">
+                                            <span style=3D"color: #38A2CE;"=
+>Email</span></a>
+                                    </span>
+                                                                           =
+                     </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding: 0 0 10px 0; font: 10px/1.6 'Helvetica Neue', Helvetica, Arial, sans-=
+serif; color: #999999;" class=3D"footer">
+                                This email was sent to
+                                <a href=3D"mailto:chris@sophiahatstudio.com=
+" style=3D"color: #666666; text-decoration: none;"><span style=3D"color: #6=
+66666;">
+                                    chris@sophiahatstudio.com</span></a>
+                                because you
+                                                                    joined =
+Thumbtack on
+                                    June 14th, 2011.
+                                    You can
+                                    <a href=3D"http://www.thumbtack.com/pro=
+file/notifications?utm_source=3Duser_generated&utm_medium=3Demail&utm_campa=
+ign=3Dinvite_reminder&utm_content=3D20130502&ers=3D151296855177631628098118=
+656446421720209&_c=3DMTs4NDYwNDU4MjunJGaB1d8eGR.24vGszvqKClDqTA" style=3D"c=
+olor: #666666; text-decoration: none;"><span style=3D"color: #666666;">
+                                        manage your contact preferences</sp=
+an></a>.
+                                                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"pa=
+dding: 0 0 10px 0; font: 10px/1.6 'Helvetica Neue', Helvetica, Arial, sans-=
+serif; color: #999999;" class=3D"footer">
+                                Thumbtack, Inc.,
+                                1001 Page Street, Box #45,
+                                Suite #218,<br />                          =
+      San Francisco CA 94117<img src=3D"http://www.thumbtack.com/email/pixe=
+l?ers=3D151296855177631628098118656446421720209" width=3D"1" height=3D"1" a=
+lt=3D"" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+
+</html>
+
+--_=_swift_v4_136750040851826678ad0f9_=_--
+

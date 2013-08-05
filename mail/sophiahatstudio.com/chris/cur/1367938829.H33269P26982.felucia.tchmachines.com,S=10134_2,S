@@ -1,0 +1,227 @@
+Return-path: <3ee.1c.936546484.44770.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 07 May 2013 11:00:29 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:17309)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.936546484.44770.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UZjNR-00070s-GW
+	for chris@sophiahatstudio.com; Tue, 07 May 2013 11:00:28 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=d0crFKEWzmZ6fwJEpFqg/UGa6Aq3oY5VWkQv5XNzNtaOLtTuG7uCtP6gnrmNchiaaO+/Iq9WlI3yfP/NRQfAPD28rA87fP87xlQLJa0EJmo7f9LtHx1OZhPav9eHt4jccWuWMmzg9v79wGHDdc9MSkmMBlhJO5+c5IhgfRYymJw=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1367938847;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=eAu+KfknICaVVlwz0rf5dlqGUi8=;
+	b=i8m6IHp/aKVEMjUw7w8UvuiQURvzO2CG9W+gOCvIQ+mUNrjZUZrHk+DHLaCbzUztQZQ5MhK4Wkw4nfsejLzA11TKMjoZSxeJmjlBWD/GsXui686IfCMkeQnQhlRyGrs9cpGGs9xI4/5lmtavTYnRxgsR5pO9zDs33robEAcVwiw=
+X-FBL: M2VlLjFlLjEwYTAwMDAwMDA4NjljNy45MzY1NDY0ODQuNDQ3NzAuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <b0c0e20a-15cf-4d22-8bbd-1295c3e1b5ed@newbay.cfmvmail.com>
+From: "Yamaha Commercial Audio Systems" <partners@newbay-media.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?VHJ5IFlhbWFoYeKAmXMgQ0w1IERpZ2l0YWwgTWl4ZXIgRnJl?=
+	=?utf-8?B?ZS1vZi1DaGFyZ2U=?=
+Date: Tue, 7 May 2013 11:00:31 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  CL5 72 Hour Test Drive Talk is Cheap. From the makers of the
+    worldâs most rider-friendly digital mixers, Yamahaâs newest addition,
+    the CL Series, comes from a strong heritage of touring consoles. Featuring
+    the same output structure of the legendary PM5D with even more inputs along
+    with phenomenal sound quality, the CL Series is a wise business investment
+    for more reasons than we can list. But we donât expect you to take our
+    word. We expect to give it to you. Hereâs how. [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.2 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.5 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<meta name=3D"description" content=3D"From the makers of the world=E2=80=99=
+s most rider-friendly digital mixers, Yamaha=E2=80=99s newest addition, t=
+he CL Series, comes from a strong heritage of touring consoles=2E Featuri=
+ng the same output structure of the legendary PM5D with even more inputs =
+=E2=80=A6">
+<title>CL5 72 Hour Test Drive</title>
+
+
+<style type=3D"text/css">
+=20
+ body, div {
+=09
+=09background-attachment: fixed;
+ background-color: #ffffff;
+ font-family : Arial, Helvetica, sans-serif ;
+ font-size : 14px;
+ color:#FFFFFF;
+=09text-decoration: none;
+ }
+=20
+ =2Ecopyright22 {
+ font-size : 9px;
+ text-align:left;
+ color:#999;
+ text-decoration: none;
+=20
+ }
+a {text-decoration: none !important;}
+
+</style>
+
+
+</head>
+
+
+
+<body topmargin=3D"0">
+<style type=3D"text/css">
+=20
+ body, div {
+=09
+=09background-attachment: fixed;
+ background-color: #ffffff;
+ font-family : Arial, Helvetica, sans-serif ;
+ font-size : 14px;
+ color:#FFFFFF;
+=09text-decoration: none;
+ }
+=20
+ =2Ecopyright22 {
+ font-size : 9px;
+ text-align:left;
+ color:#999;
+ text-decoration: none;
+=20
+ }
+a {text-decoration: none !important;}
+
+</style>
+<table width=3D"556" bgcolor=3D"#233565" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"width=3D" 850=3D"">
+ <tr>
+ <td height=3D"290" colspan=3D"2" align=3D"left" valign=3D"top"><a href=3D=
+"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F936546484=5F44770=5F=
+1" target=3D"=5Fblank"><img name=3D"cl 72 hour test drive" style=3D"borde=
+r-style: none; display:block;" src=3D"http://newsletters=2Enewbay-media=2E=
+com/NewBay=5FCustom/CUSTOM - YAMAHA - 05=2E07=2E13/images/72HOURTestDrive=
+=5Fheader=2Ejpg" width=3D"556" height=3D"290" alt=3D"cl 72 hour test driv=
+e"></a></td>
+ </tr>
+ <tr>
+=20
+ <td height=3D"291" colspan=3D"2" align=3D"left" valign=3D"top"><table wi=
+dth=3D"511" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D=
+"0">
+ <tr style=3D"text-align: justify">
+ <td width=3D"488" height=3D"274" colspan=3D"2"><p style=3D"font-size : 1=
+4px;  font-family: EuroExt, Arial, Helvetica, sans-serif ;  color:#f99d1c=
+;  text-transform: uppercase; letter-spacing:5px;">Talk is Cheap=2E</p>
+ <p style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9pt; f=
+ont-weight: normal; color: #fff;">From the makers of the world=E2=80=99s =
+most rider-friendly digital mixers, Yamaha=E2=80=99s newest&nbsp; additio=
+n, the CL Series, comes from a strong heritage of touring consoles=2E Fea=
+turing the same output structure of the legendary PM5D with even more inp=
+uts along with phenomenal sound quality, &nbsp;the CL Series&nbsp;is a wi=
+se business investment for more reasons than we can list=2E But we don=E2=
+=80=99t expect you to take our word=2E We expect to give it to you=2E Her=
+e=E2=80=99s how=2E</p>
+ <p style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9pt; f=
+ont-weight: normal; color: #fff;">For a limited time, &nbsp;take the &nbs=
+p;CL5 for a 72 hour&nbsp; test drive from &nbsp;one &nbsp;of &nbsp;our pa=
+rticipating dealers, &nbsp;free &nbsp;of charge=2E* &nbsp;&nbsp;A  comple=
+te demo system including:</p>
+ <p style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9pt; f=
+ont-weight: normal; color: #fff;">A CL5 with&nbsp; 2 Rio3224-D I/O&nbsp; =
+units in a stage rack and a 150&rsquo;&nbsp; snake are&nbsp; yours&nbsp; =
+to&nbsp; borrow for any gig you&rsquo;d&nbsp;like for 72 hours=2E That&rs=
+quo;s a very capable 72 input + 35 output system=2E Take it for a test dr=
+ive and experience for&nbsp;yourself why the CL Series is worthy of your =
+praise=2E</p>
+ <p style=3D"font-family: Arial, Helvetica, sans-serif; text-align:left; =
+font-size: 9pt; font-weight: normal; color:#f99d1c;">For a list of partic=
+ipating dealers:</p>
+ <div align=3D"center" style=3D"background:#233565"><a href=3D"http://www=
+=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F936546484=5F44770=5F2" target=3D=
+"=5Fblank"><img style=3D"border-style: none" src=3D"http://newsletters=2E=
+newbay-media=2Ecom/NewBay=5FCustom/CUSTOM - YAMAHA - 05=2E07=2E13/images/=
+clickhere=2Ejpg" alt=3D"cl 72 hour test drive" name=3D"cl 72 hour test dr=
+ive" width=3D"122" height=3D"25" align=3D"middle"></a></div>
+ <p style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9pt; f=
+ont-weight: normal; color: #fff;">Offer valid in the U=2ES=2E and Canada =
+only=2E Promotion expires on June 30th, 2013=2E          </p></td>
+ </tr>
+ </table>
+ </td></tr>
+ <tr>
+ <td width=3D"23" height=3D"48" valign=3D"middle" class=3D"copyright22"><=
+p>&nbsp;</p></td>
+ <td width=3D"531" valign=3D"middle" class=3D"copyright22">*Dealer may re=
+quire deposit, shipping charges, etc=2E</td>
+=20
+ </tr>
+=20
+=20
+</table>
+
+
+
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F936546484=5F44770=5F3=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F936546484=5F44770=5F4">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D936546484&msgid=3D44770"></body>
+
+</html>
+
+

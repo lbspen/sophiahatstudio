@@ -1,0 +1,268 @@
+Return-path: <news@news.waves-audio.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Wed, 31 Jul 2013 09:19:40 -0400
+Received: from vanadium-twfofo.emv8.com ([81.92.117.244]:38229)
+	by butterscotch.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <news@news.waves-audio.com>)
+	id 1V4WJT-00083T-0e
+	for chris@sophiahatstudio.com; Wed, 31 Jul 2013 09:19:40 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=news.waves-audio.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=news@news.waves-audio.com;
+ bh=8O5WAsY4q1ARGIUYa5PPQuA4Ons=;
+ b=Q1vR+K2ttqaUiZMA0RZlsTeNUuAFR2Aau2iTf7vnm2NN028wCi30krm+9yVxbZdBgRRF/2r6p9Xe
+   li0jpj6+rSeT+6iScntkbgVHdXeQ3TNXCrgx0jgQQesaT5SEGjLHoJVnQHnxR9sq0UIsfyqK+SKT
+   U6VZtOK6Ub0Xz0B5OS0=
+Received: by vanadium-twfofo.emv8.com id hv47ee167580 for <chris@sophiahatstudio.com>; Wed, 31 Jul 2013 15:19:27 +0200 (envelope-from <news@news.waves-audio.com>)
+Date: Wed, 31 Jul 2013 15:19:27 +0200 (CEST)
+From: Waves Audio <news@news.waves-audio.com>
+Reply-To: no-reply <no-reply@waves.com>
+To: chris spencer  <chris@sophiahatstudio.com>
+Message-ID: <2.1.34.1101035642.405071.484882624@news.waves-audio.com>
+Subject: Introducing: Waves SoundGrid Extreme Server
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=405071484882624
+X-EMV-Platform: p6ccc.campaigncommander.com$
+X-EMV-CampagneId: 405071$
+X-EMV-MemberId: 484882624$
+List-Unsubscribe: <http://news.waves-audio.com/HD?a=ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqppPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVKj>, <mailto:unsubscribe@news.waves-audio.com?subject=unsubscribe-34-ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqppPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVKj>
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "butterscotch.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ﻿ Waves Specials <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJJ9bXnGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUqv"
+    title="">View this message in a browser</a> To ensure delivery of this newsletter
+    in future mailings, please add news@news.waves-audio.com to your contacts
+    book or safe senders list. [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+--405071484882624
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+﻿ Waves Specials  <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJJ9bXnGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUqv" title="">View this message in a browser</a>
+ To ensure delivery of this newsletter in future mailings, please add 
+news@news.waves-audio.com to your contacts book or safe senders list.
+
+
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqgf_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLj 
+ The most powerful SoundGrid DSP Server ever, Waves SoundGrid Extreme 
+is pumped up and ready to tackle your heaviest processing challenges. 
+Try these numbers on for size: SoundGrid Extreme can run over 500 
+instances of Waves stereo SSL E-Channel or C4 Multiband Compressor 
+plugins, with latency as low as 0.8 milliseconds! Featuring an Intel® 
+i7 Extreme microprocessor which delivers over 40% more power than the 
+SoundGrid Server One, and housed in a rugged road-ready 2U chassis, the 
+Extreme DSP Server is a massive upgrade to any SoundGrid system. 
+http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqgfPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLg 
+ To remove yourself from this mailing list please <a href="http://news.waves-audio.com/HD?a=FtX7Cqk6a4kv8SA9MKJJ9bXnGHxKLJ3xLAjtS5kGaPGD0bBhOG5mpqVsje_HhdAlWUqt" title="unsubscribe">unsubscribe</a>
+
+ Please do not reply to this email, as this mailbox will not accept 
+incoming mail.
+ For customer service and sales, call 1-865-909-9200 or contact us by email : 
+ http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqgffcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLh 
+.
+
+ Waves Inc. | 2800 Merchants Drive | Knoxville, TN 37912 | Phone: 
+1-865-909-9200 | Fax: 1-865-909-9245
+ Copyright© 2013 Waves Audio Ltd. All rights reserved. 
+--405071484882624
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Waves Specials</title>
+    <style type="text/css">
+        body
+        {
+            margin: 0;
+            background-color: #fff;
+        }
+        
+        .mw100
+        {
+            max-width: 100%;
+        }
+        
+        td[class=text]
+        {
+            padding: 15px 0 15px 0;
+        }
+        
+        
+        /* landscape */
+        @media only screen and (max-width:480px)
+        {
+        
+            td[class=col]
+            {
+                width: 480px !important;
+                text-align: center;
+                display: block !important;
+            }
+        
+            table[class=row]
+            {
+                width: 480px !important;
+            }
+        
+            td[class=see-more-button]
+            {
+                width: 480px !important;
+                text-align: center;
+                display: block !important;
+                padding-bottom: 0;
+                margin-top: 0;
+            }
+            td[class=text]
+            {
+                width: 460px !important;
+                padding: 10px !important;                
+            }
+            
+            table[class=row]
+            {
+            	width: 460px !important;
+            }
+        
+        }
+        
+        /* portrait */
+        @media only screen and (max-width:320px)
+        {
+        
+            td[class=col]
+            {
+                max-width: 320px !important;                
+                display: block !important;
+            }
+        
+            td[class=see-more-button]
+            {
+                width: 320px !important;
+                text-align: center;
+                display: block !important;
+                padding-bottom: 0;
+                margin-top: 0;
+            }
+        
+            td[class=text]
+            {
+                width: 300px !important;
+                padding: 10px !important;
+            }
+        
+            table[class=row]
+            {
+                width: 300px !important;
+            }
+        
+        }
+    </style>
+</head>
+<body>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+        <tr>
+            <td height="80" align="center" valign="top" style="font-family: Arial,Georgia,serif;
+                font-size: 11px; color: #fff; line-height: 20px;" mc:edit="copyright">
+                <div align="center" style="background-color: #fff; color: #000;">
+                    <p style="padding-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sans-serif;
+                        font-size: 11px;">
+                        <a href="http://news.waves-audio.com/HM?a=FtX7Cqk6a4kv8SA9MKJJ9bXnGHxKLJ3xLwjtS5kGaPGA0bBhOG5mpqVsje_HhdAlWUqv" title="">View this message in a browser</a><br />
+                        To ensure delivery of this newsletter in future mailings, please add news@news.waves-audio.com
+                        to your contacts book or safe senders list.</p>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#8d8d8d">
+        <tr>
+            <td>
+                <table class="row" width="600" align="center" border="0" cellspacing="0" cellpadding="0"
+                    bgcolor="#8d8d8d">
+                    <tr>
+                        <td align="center" class="col">
+                            <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqgcvcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLm" title="" target="_blank"
+                                style="font-size: 0;">
+                                <img src="http://www.waves.com/newsletters/august13/images/sgs/top1.png" class="mw100"
+                                    border="0" mc:label="image" mc:edit="header_logo" alt="" />
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="600" class="col" align="center" valign="top" style="font-family: Arial,serif;
+                            font-size: 12px; line-height: 16px; color: #fff; background-color: #0a060a; margin: 0;
+                            text-align: justify;">
+                            <table width="570" class="row" align="center" border="0" cellspacing="0" cellpadding="0"
+                                bgcolor="#0a060a">
+                                <tr>
+                                    <td class="text" align="center" valign="top" style="font-family: Arial,serif; font-size: 12px;
+                                        line-height: 16px; color: #fff; background-color: #0a060a; margin: 0; text-align: justify; padding: 15px 0;">
+                                        <div>
+                                            The most powerful SoundGrid DSP Server ever, Waves SoundGrid Extreme is pumped up
+                                            and ready to tackle your heaviest processing challenges. Try these numbers on for
+                                            size: SoundGrid Extreme can run over 500 instances of Waves stereo SSL E-Channel
+                                            or C4 Multiband Compressor plugins, with latency as low as 0.8 milliseconds! Featuring
+                                            an Intel&reg; i7 Extreme microprocessor which delivers over 40% more power than
+                                            the SoundGrid Server One, and housed in a rugged road-ready 2U chassis, the Extreme
+                                            DSP Server is a massive upgrade to any SoundGrid system.</div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" class="see-more-button" mc:edit="button_text_footer" style="background-color: #0a060a;">
+                                        <div mc:edit="button_text3">
+                                            <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqgc_cStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLn" target="_blank"
+                                                style="color: #c84000; text-decoration: none; font-size: 0; line-height: 0;">
+                                                <img src="http://www.waves.com/newsletters/august13/images/sgs/see-more.png" border="0"
+                                                    alt="" class="mw100" /></a></div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+        <tr>
+            <td height="300" align="center" valign="top" style="font-family: Arial,Georgia,serif;
+                font-size: 11px; color: #000; line-height: 20px; background-color: #fff; padding-top: 8px;"
+                mc:edit="copyright">
+                To remove yourself from this mailing list please <a href="http://news.waves-audio.com/HD?a=FtX7Cqk6a4kv8SA9MKJJ9bXnGHxKLJ3xLAjtS5kGaPGD0bBhOG5mpqVsje_HhdAlWUqt" title="unsubscribe">unsubscribe</a><br />
+                <br />
+                Please do not reply to this email, as this mailbox will not accept incoming mail.<br />
+                For customer service and sales, call 1-865-909-9200 or <a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJJ9bXnGHxKLBqgcPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLk"
+                    title="contact us" target="_blank">contact us by email</a>.<br />
+                <br />
+                Waves Inc. | 2800 Merchants Drive | Knoxville, TN 37912 | Phone: 1-865-909-9200
+                | Fax: 1-865-909-9245
+                <br />
+                Copyright&copy; 2013 Waves Audio Ltd. All rights reserved.
+            </td>
+        </tr>
+    </table>
+<img src="http://news.waves-audio.com/HO?DdX7Cqk6a4kv8SA9MOPvo4DnGHxKLJvdhQjtS5kGbd3eKwc.gif" border="0" alt="" width="1" height="1" /></body>
+</html>
+
+--405071484882624--

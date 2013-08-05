@@ -1,0 +1,425 @@
+Return-path: <3ee.d.953709554.45405@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Wed, 22 May 2013 12:04:32 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:45159)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.d.953709554.45405@newbay.cfmvmail.com>)
+	id 1UfBWe-0006uE-K2
+	for chris@sophiahatstudio.com; Wed, 22 May 2013 12:04:31 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=Oe6wPAneZFlRxsvAriOcCdHhtJUNHa0D7rVrPDzZ5OiLeITENOY8p7q76afgiE6vAQGmy7i/FO8xZHMa4uci912xrgR4Tec0neTV1anSYx8v5YCfnHtBPBjnfCDwjyxAuxr6Is8ShxsI/cEEOj7TzziQyqaxGedThVyNrNAfUlg=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1369238676;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=NQeZRx4mAeZtg77UfUGEy0H+in4=;
+	b=YZVfIM4R7gffN9TwROrkkYHwHOs2e8FS5iidi9WBff5XosmSohZxG60DNaaTNpwOdrCRbFcoECK+edHROn9UDxWqniThOMbBUomK5DwLOEwV986GOWEioXPgYQvPKa61bMhwLE0PkUK4PbmBhxtIdcmiAsbo/5lFIFfRJGaNf84=
+X-FBL: M2VlLjFlLjExNDAwMDAwMDNlZmFhZC45NTM3MDk1NTQuNDU0MDUuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Mix Magazine Partners" <partners@mixonline.com>
+Message-ID: <73787a52-8be3-43c4-8bc6-ae6bbf43c76a@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?U2F2ZSB1cCB0byAkMTUwIG9uIFNvdW5kIEZvcmdlIFBybw==?=
+Date: Wed, 22 May 2013 12:04:31 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Sony Creative Software Now available for both PC and Mac,
+   make it your choice and save up to $150! Sound Forge™ has been the professional
+    choice for over 20 years. Now available for both PC and Mac, make it your
+    choice and save up to $150. [...] 
+ 
+ Content analysis details:   (0.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.6 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4=2E01 Transitional//EN"><html>
+<head>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3DUS-AS=
+CII">
+=09<title>Sony Creative Software</title>
+</head>
+
+<body style=3D"margin:0px;" bgcolor=3D"#323232">
+<div align=3D"center" style=3D"margin:0px;background-color:#323232">
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#323232" style=3D"margin:0px;background-color:#323232">
+=09<tr>
+=09=09<td width=3D"615" align=3D"left" bgcolor=3D"#323232">
+=09=09=09<div style=3D"font-family: Arial; color: #eeeeee; font-size: 10p=
+x;">Now available for both PC and Mac, make it your choice and save up to=
+ $150!</div>
+=09=09</td>
+=09=09<td width=3D"85" align=3D"left" bgcolor=3D"#323232"><img src=3D"htt=
+p://www=2Esonycreativesoftware=2Ecom/email/sony-logo=2Egif" alt=3D"Sony" =
+width=3D"85" height=3D"55" border=3D"0"></td>
+=09</tr>
+</table>
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff" style=3D"margin:0px;background-color:#ffffff;"><tr><td><=
+a name=3D"top banner" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3F=
+v=3D6=5F953709554=5F45405=5F1"><img src=3D"http://www=2Esonycreativesoftw=
+are=2Ecom/email/soundforge/10/img/2013-05-SoundForge150=2Ejpg" alt=3D"Sav=
+e up to $150 on Sound Forge Pro" border=3D"0" style=3D"display:block;"></=
+a></td></tr></table>
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff">
+=09<tr>
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+=09=09<td width=3D"680" align=3D"left" style=3D"font-size: 13px; line-hei=
+ght: 20px; font-family: Arial, Sans-Serif; color: #000000; text-align: le=
+ft;">
+=09=09=09<img src=3D"http://www=2Esonycreativesoftware=2Ecom/images/-=2Eg=
+if" alt=3D"" width=3D"70" height=3D"20" border=3D"0"><br>
+=09=09=09Sound Forge&trade; has been the professional choice for over 20 =
+years=2E  Now available for both PC and Mac, make it your choice and save=
+ up to $150=2E<br>
+=09=09=09<img src=3D"http://www=2Esonycreativesoftware=2Ecom/images/-=2Eg=
+if" alt=3D"" width=3D"70" height=3D"20" border=3D"0">
+=09=09</td>
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+</table>
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff">
+=09<tr>
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"center" valign=3D"top" bgcolor=3D"#ecece=
+c" style=3D"font-size: 11px; line-height: 20px; font-family: Arial, Sans-=
+Serif; color: #000000; background-color:#ececec">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F2"><img src=3D"http://www=2Esonycreativesoftware=2Ecom=
+/email/soundforge/10/img/sfp=2Ejpg" width=3D"210" height=3D"150" border=3D=
+"0" alt=3D"Sound Forge Pro 10"></a><br>
+=09=09=09<span style=3D"font-size: 13px; line-height: 20px; font-family: =
+Arial, Sans-Serif; color: #000000; font-weight:bold; background-color:#ec=
+ecec">Sound Forge Pro 10</span><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F3" style=3D"font-size: 11px; line-height: 20px; font-f=
+amily: Arial, Sans-Serif; color: #000000; font-weight:bold; text-decorati=
+on: none;">From US<span style=3D"text-decoration:line-through; color: #EF=
+3D42;">$374=2E95</span> $274=2E95 &ndash; $100 off!</a><br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F4"><img src=3D"http://www=2Esonycreativesoftware=2Ecom=
+/email/soundforge/10/img/shopnow=2Egif" width=3D"80" height=3D"30" border=
+=3D"0" alt=3D"Shop Now"></a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"center" valign=3D"top" bgcolor=3D"#ecece=
+c" style=3D"font-size: 11px; line-height: 20px; font-family: Arial, Sans-=
+Serif; color: #000000; background-color:#ececec">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F5"><img src=3D"http://www=2Esonycreativesoftware=2Ecom=
+/email/soundforge/10/img/sfp9to10=2Ejpg" width=3D"210" height=3D"150" bor=
+der=3D"0" alt=3D"Sound Forge Pro Mac"></a><br>
+=09=09=09<span style=3D"font-size: 13px; line-height: 20px; font-family: =
+Arial, Sans-Serif; color: #000000; font-weight:bold; background-color:#ec=
+ecec">Upgrade from Pro 9 or earlier</span><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F6" style=3D"font-size: 11px; line-height: 20px; font-f=
+amily: Arial, Sans-Serif; color: #000000; font-weight:bold; text-decorati=
+on: none;">From US<span style=3D"text-decoration:line-through; color: #EF=
+3D42;">$239=2E95</span> $89=2E95 &ndash; $150 off!</a><br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F7"><img src=3D"http://www=2Esonycreativesoftware=2Ecom=
+/email/soundforge/10/img/shopnow=2Egif" width=3D"80" height=3D"30" border=
+=3D"0" alt=3D"Shop Now"></a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"center" valign=3D"top" bgcolor=3D"#ecece=
+c" style=3D"font-size: 11px; line-height: 20px; font-family: Arial, Sans-=
+Serif; color: #000000; background-color:#ececec">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F8"><img src=3D"http://www=2Esonycreativesoftware=2Ecom=
+/email/soundforge/10/img/sfpm=2Ejpg" width=3D"210" height=3D"150" border=3D=
+"0" alt=3D"Sound Forge Pro Mac"></a><br>
+=09=09=09<span style=3D"font-size: 13px; line-height: 20px; font-family: =
+Arial, Sans-Serif; color: #000000; font-weight:bold; background-color:#ec=
+ecec">Sound Forge Pro Mac</span><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F9" style=3D"font-size: 11px; line-height: 20px; font-f=
+amily: Arial, Sans-Serif; color: #000000; font-weight:bold; text-decorati=
+on: none;">From US<span style=3D"text-decoration:line-through; color: #EF=
+3D42;">$269=2E95</span> $219=2E95 &ndash; $50 off!</a><br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F10"><img src=3D"http://www=2Esonycreativesoftware=2Eco=
+m/email/soundforge/10/img/shopnow=2Egif" width=3D"80" height=3D"30" borde=
+r=3D"0" alt=3D"Shop Now"></a><br><br>
+=09=09</td>
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+</table>
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff">
+=09<tr>
+=09=09<td width=3D"700" bgcolor=3D"#ffffff"><img src=3D"http://www=2Esony=
+creativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"700" height=3D"1=
+5" border=3D"0"></td>
+=09</tr>
+</table>
+
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff">
+=09<tr>
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"center" valign=3D"top" bgcolor=3D"#ecece=
+c" style=3D"font-size: 11px; line-height: 20px; font-family: Arial, Sans-=
+Serif; color: #000000; background-color:#ececec">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F11"><img src=3D"http://www=2Esonycreativesoftware=2Eco=
+m/email/soundforge/10/img/sfastosfp=2Ejpg" width=3D"210" height=3D"150" b=
+order=3D"0" alt=3D"Sound Forge Pro 10"></a><br>
+=09=09=09<span style=3D"font-size: 13px; line-height: 20px; font-family: =
+Arial, Sans-Serif; color: #000000; font-weight:bold; background-color:#ec=
+ecec">Upgrade from Audio Studio</span><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F12" style=3D"font-size: 11px; line-height: 20px; font-=
+family: Arial, Sans-Serif; color: #000000; font-weight:bold; text-decorat=
+ion: none;">From US<span style=3D"text-decoration:line-through; color: #E=
+F3D42;">$319=2E95</span> $189=2E95 &ndash; $130 off!</a><br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F13"><img src=3D"http://www=2Esonycreativesoftware=2Eco=
+m/email/soundforge/10/img/shopnow=2Egif" width=3D"80" height=3D"30" borde=
+r=3D"0" alt=3D"Shop Now"></a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"center" valign=3D"top" bgcolor=3D"#ecece=
+c" style=3D"font-size: 11px; line-height: 20px; font-family: Arial, Sans-=
+Serif; color: #000000; background-color:#ececec">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F14"><img src=3D"http://www=2Esonycreativesoftware=2Eco=
+m/email/soundforge/10/img/sfp=2Ejpg" width=3D"210" height=3D"150" border=3D=
+"0" alt=3D"Sound Forge Pro Competitive Upgrade"></a><br>
+=09=09=09<span style=3D"font-size: 13px; line-height: 20px; font-family: =
+Arial, Sans-Serif; color: #000000; font-weight:bold; background-color:#ec=
+ecec"> Competitive Upgrade</span><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F15" style=3D"font-size: 11px; line-height: 20px; font-=
+family: Arial, Sans-Serif; color: #000000; font-weight:bold; text-decorat=
+ion: none;">From US<span style=3D"text-decoration:line-through; color: #E=
+F3D42;">$249=2E95</span> $149=2E95 &ndash; $100 off!</a><br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F16"><img src=3D"http://www=2Esonycreativesoftware=2Eco=
+m/email/soundforge/10/img/shopnow=2Egif" width=3D"80" height=3D"30" borde=
+r=3D"0" alt=3D"Shop Now"></a><br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+
+=09=09<td width=3D"210" align=3D"center" valign=3D"top" bgcolor=3D"#ecece=
+c" style=3D"font-size: 11px; line-height: 20px; font-family: Arial, Sans-=
+Serif; color: #000000; background-color:#ececec">
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F17"><img src=3D"http://www=2Esonycreativesoftware=2Eco=
+m/email/soundforge/10/img/sfp=5Fpcmac=2Ejpg" width=3D"210" height=3D"150"=
+ border=3D"0" alt=3D"Sound Forge Pro Mac"></a><br>
+=09=09=09<span style=3D"font-size: 13px; line-height: 20px; font-family: =
+Arial, Sans-Serif; color: #000000; font-weight:bold; background-color:#ec=
+ecec">Crossgrade PC to Mac</span><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F18" style=3D"font-size: 11px; line-height: 20px; font-=
+family: Arial, Sans-Serif; color: #000000; font-weight:bold; text-decorat=
+ion: none;">From US<span style=3D"text-decoration:line-through; color: #E=
+F3D42;">$229=2E95</span> $89=2E95  &ndash; $140 off!</a><br><br>
+=09=09=09<a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+53709554=5F45405=5F19"><img src=3D"http://www=2Esonycreativesoftware=2Eco=
+m/email/soundforge/10/img/shopnow=2Egif" width=3D"80" height=3D"30" borde=
+r=3D"0" alt=3D"Shop Now"></a><br><br>
+=09=09</td>
+=09=09<td width=3D"20" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"20" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+</table>
+
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff">
+=09<tr>
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09=09
+=09=09<td width=3D"670" align=3D"left" valign=3D"top" style=3D"font-size:=
+ 12px; line-height: 18px; font-family: Arial, Sans-Serif; color: #000000;=
+"><br>
+=09=09
+=09=09=09<img src=3D"http://www=2Esonycreativesoftware=2Ecom/email/greyba=
+r670=2Egif" alt=3D"" width=3D"670" height=3D"1" border=3D"0"><br><br>
+
+=09=09=09*Offer valid May 15-30, 2013, and available only when purchasing=
+ directly from Sony Creative Software via links in this email=2E Pricing =
+displayed in US Dollars=2E Customers outside the US may be charged in loc=
+al currency=2E Qualifying serial required for upgrade and crossgrade pric=
+ing=2E<br><br>
+=09=09</td>
+
+=09=09<td width=3D"15" valign=3D"bottom"><img src=3D"http://www=2Esonycre=
+ativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"15" height=3D"4" bo=
+rder=3D"0"></td>
+=09</tr>
+</table>
+
+=09=09
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#323232">
+=09<tr>
+=09=09<td width=3D"5" bgcolor=3D"#222222"><img src=3D"http://www=2Esonycr=
+eativesoftware=2Ecom/email/footer-left=2Egif" width=3D"5" height=3D"30"><=
+/td>
+=09=09<td bgcolor=3D"#222222" valign=3D"middle" style=3D"font-family: Ari=
+al; font-size: 11px;">&nbsp;&nbsp;
+=09=09=09<img src=3D"http://www=2Esonycreativesoftware=2Ecom/images/foote=
+r/socialbar=5F01=2Egif" alt=3D"Follow Us Online" width=3D"106" height=3D"=
+22" border=3D"0" align=3D"absmiddle">
+=09=09=09<a name=3D"facebook icon" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F20"><img src=3D"http://www=2Eso=
+nycreativesoftware=2Ecom/images/footer/socialbar=5F02=2Egif" alt=3D"Faceb=
+ook" width=3D"25" height=3D"22" border=3D"0" align=3D"absmiddle"></a>
+=09=09=09<a name=3D"twitter icon" href=3D"http://www=2Ecfmediaview=2Ecom/=
+lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F21"><img src=3D"http://www=2Eson=
+ycreativesoftware=2Ecom/images/footer/socialbar=5F03=2Egif" alt=3D"Twitte=
+r" width=3D"24" height=3D"22" border=3D"0" align=3D"absmiddle"></a>
+=09=09=09<a name=3D"youtube icon" href=3D"http://www=2Ecfmediaview=2Ecom/=
+lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F22"><img src=3D"http://www=2Eson=
+ycreativesoftware=2Ecom/images/footer/socialbar=5F04=2Egif" alt=3D"YouTub=
+e" width=3D"26" height=3D"22" border=3D"0" align=3D"absmiddle"></a>
+=09=09</td>
+=09=09<td width=3D"200" bgcolor=3D"#222222"><img src=3D"http://www=2Esony=
+creativesoftware=2Ecom/images/-=2Egif" alt=3D"" width=3D"200" height=3D"1=
+" border=3D"0" align=3D"absmiddle"></td>
+=09=09<td bgcolor=3D"#222222" valign=3D"middle" style=3D"font-family: Ari=
+al; font-size: 11px;">
+=09=09=09<span style=3D"font-family: Arial; color: #cccccc; font-size: 11=
+px;">
+=09=09=09<a name=3D"footer: about us" style=3D"font-family: Arial; color:=
+ #cccccc; font-size: 11px; text-decoration: underline;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F23">About =
+Us</a> |=20
+=09=09=09<a name=3D"footer: privacy" style=3D"font-family: Arial; color: =
+#cccccc; font-size: 11px; text-decoration: underline;" href=3D"http://www=
+=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F24">Privacy=
+ Policy</a> |=20
+=09=09=09<a name=3D"footer: copyright" style=3D"font-family: Arial; color=
+: #cccccc; font-size: 11px; text-decoration: underline;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F25">Copyr=
+ight</a> |=20
+=09=09=09<a name=3D"footer: terms" style=3D"font-family: Arial; color: #c=
+ccccc; font-size: 11px; text-decoration: underline;" href=3D"http://www=2E=
+cfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F26">Terms of S=
+ervice</a>
+=09=09=09</span>
+=09=09</td>
+=09=09<td width=3D"5" height=3D"30" bgcolor=3D"#222222"><img src=3D"http:=
+//www=2Esonycreativesoftware=2Ecom/email/footer-right=2Egif" width=3D"5" =
+height=3D"30"></td>
+=09</tr>
+</table>
+
+<table width=3D"700" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgc=
+olor=3D"#323232" style=3D"margin:0px;background-color:#323232">
+=09<tr>
+=09=09<td align=3D"left" style=3D"font-family: Arial; color: #999999; fon=
+t-size: 11px; text-align: left;" bgcolor=3D"#323232">For technical suppor=
+t or product questions visit <a name=3D"legal: custcenter" style=3D"font-=
+family: Arial; color: #999999; font-size: 11px;" href=3D"http://www=2Ecfm=
+ediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F27">our knowledge=
+base</a>=2E For customer service and sales call 1=2E800=2E577=2E6642 Nort=
+h America / +1=2E608=2E203=2E7620 International=2E<br><br>
+=09=09=09
+=09=09=09&copy; 2013 Sony Creative Software Inc=2E All Rights Reserved=2E=
+ Sony and the Sony logo are registered trademarks of Sony Corporation of =
+America=2E  ACID, DVD Architect, Photo Go, Sound Forge, and Vegas are tra=
+demarks or registered trademarks of Sony Creative Software Inc=2E in the =
+United States and other countries=2E All other trademarks and copyrights =
+are the property of their respective owners=2E<br><br>
+=09=09</td>
+=09</tr>
+</table>
+<p style=3D"font-size: 12px; line-height: 18px; font-family: Arial, Sans-=
+Serif; color: #333333; width: 760px;">&nbsp;</p>
+</div>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F28=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F953709554=5F45405=5F29">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D953709554&msgid=3D45405"></body>
+</html>
+

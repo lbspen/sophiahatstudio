@@ -1,0 +1,149 @@
+Return-path: <3ee.1c.947246993.44631.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Wed, 15 May 2013 11:30:49 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:36647)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1c.947246993.44631.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1UcdfC-0000iM-23
+	for chris@sophiahatstudio.com; Wed, 15 May 2013 11:30:49 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=L3rLhavnlWXSUiEZlwXKHnxn77NkB5j+EI3T96S6F61XGJ/6VJwQ9BZTbChGujbVTH1IF7MWzIhM2MdT0nphgkxiqua2GRI7fbNiCK6hocZE6kqtYY7czv+b/3s9mICCYPrxcnSiOXBYXE/sRGN/puYhdzRJTFsV3yEB2JJYGrQ=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1368631854;
+	h=list-unsubscribe:message-id:from:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=KxcZ3xFD0Ag+DFSCD1J4RtfqdgM=;
+	b=YEWBh0Odlfgy1YS1VbiIGLITcTbRdY+3ayGkTDQ/hgKMYfh8ZFxbzYNSLTTniyY08Uu98u7CyG7ET2UNLicW3lbqGuZ+rV487blFQWdHEUFEt0CkeAqIIk8El88gNqrjclIHpwMbdJz6c4zECbG420dIbc6HjLL10PbYlttiYuU=
+X-FBL: M2VlLjFlLjEwZjAwMDAwMDA1ZjMyMS45NDcyNDY5OTMuNDQ2MzEuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+Message-ID: <35238013-5ae6-4aaa-b972-dcd99bf8683d@newbay.cfmvmail.com>
+From: "Tom Butts, TV Technology" <events@newbay-media.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?VG9tb3Jyb3cgaXMgVFYgVGVjaG5vbG9neSdzIDI1IFRoaW5n?=
+	=?utf-8?B?cyBZb3UgTWlnaHQgSGF2ZSBNaXNzZWQgYXQgTkFC?=
+Date: Wed, 15 May 2013 11:30:51 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Untitled Document MEMO TO: TV TECHNOLOGY Readers FROM: Tom
+    Butts, Editor in Chief DATE: May 16, 2013 RE: Special Opportunity The NAB
+    Show has come and gone, but the learning opportunities from it never end.
+    New technology is the hallmark of the annual Las Vegas gathering, and despite
+    the economy, there was a wealth of new products and advanced concepts that
+    were introduced that can help make your job easier and your operations more
+    profitable. Plus there were some important advances in 4K, OTTP and visual
+    imaging that made this year’s show more significant than in years past.
+    [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml">
+<head>
+<meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type">=
+
+<title>Untitled Document</title>
+</head>
+ <body>
+ <table cellpadding=3D"10" border=3D"1" align=3D"center" width=3D"650" =5F=
+moz=5Fresizing=3D"true">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: verdana,geneva,sans-serif; font-size: 14px;">
+ <p><img width=3D"209" height=3D"49" src=3D"http://newsletters=2Enewbay-m=
+edia=2Ecom/ePromos/tvtlogo=2Ejpg"></p>
+ <p><strong><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom=
+/lp1=2Easpx=3Fv=3D6=5F947246993=5F44631=5F1"><img border=3D"0" align=3D"r=
+ight" width=3D"300" hspace=3D"10" height=3D"250" src=3D"http://newsletter=
+s=2Enewbay-media=2Ecom/NewBay=5FPromos/25THINGS=5FNAB=5F09/25Things=5FNAB=
+13=5FTVT=5F300x250-22=2Ejpg"></a>MEMO TO:</strong> TV TECHNOLOGY  Readers=
+<br>
+ <strong>FROM:</strong> Tom Butts, Editor in Chief<br>
+ <strong>DATE:</strong> May 16, 2013<br>
+ <strong>RE:</strong> Special Opportunity</p>
+ <p>The NAB Show has come and gone, but the learning opportunities from i=
+t never end=2E New technology is the hallmark of the annual Las Vegas gat=
+hering, and despite the economy, there was a wealth of new products and a=
+dvanced concepts that were introduced that can help make your job easier =
+and your operations more profitable=2E Plus there were some important adv=
+ances in 4K, OTTP and visual imaging that made this year=E2=80=99s show m=
+ore significant than in years past=2E</p>
+ <p><em>TV Technology</em> will review the industry=E2=80=99s most import=
+ant event in our fifth annual "<strong>25 Things You Might Have Missed at=
+ the NAB Show</strong>" webinar=2E If you missed the show, this is a grea=
+t opportunity for you to catch up on all the new developments=2E (And eve=
+n if you did attend, it=E2=80=99s virtually impossible to cover everythin=
+g on the show floor and in the session rooms in just four days!)</p>
+ <p>Join us on May 16th at 12 noon, EDT, for an hour-long free webinar pr=
+oviding a comprehensive overview of some of the highlights you might have=
+ missed from this year=E2=80=99s NAB=2E Our editorial staff has compiled =
+a list of products and significant technology developments and demonstrat=
+ions that were launched at the show=2E It=E2=80=99s an hour that will be =
+well worth the investment=2E</p>
+ <p>Don=E2=80=99t miss it! Click <a href=3D"http://www=2Ecfmediaview=2Eco=
+m/lp1=2Easpx=3Fv=3D6=5F947246993=5F44631=5F2" target=3D"=5Fblank">here</a=
+> to register for the event=2E</p>
+ <p><img width=3D"636" height=3D"190" src=3D"http://newsletters=2Enewbay-=
+media=2Ecom/ePromos/tomdeborahhs=2Ejpg">     </p>
+=20
+=20
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ <p> </p>
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F947246993=5F44631=5F3=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F947246993=5F44631=5F4">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D947246993&msgid=3D44631"></body>
+</html>
+

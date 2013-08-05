@@ -1,0 +1,194 @@
+Return-path: <news@news.waves-audio.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Tue, 09 Jul 2013 11:08:13 -0400
+Received: from vanadium-twfoon.emv8.com ([81.92.117.241]:40858)
+	by felucia.tchmachines.com with esmtp (Exim 4.80.1)
+	(envelope-from <news@news.waves-audio.com>)
+	id 1UwZWW-0008S7-Mq
+	for chris@sophiahatstudio.com; Tue, 09 Jul 2013 11:08:13 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emv; d=news.waves-audio.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=news@news.waves-audio.com;
+ bh=lskkFf39VMXW+VkznhISo2+x370=;
+ b=dDJM6p1IjmXTveXRy2SAOkpSUUpi/FftIzUZVRH9mAFTCOyFmSeFhJ+hPwaHLDFoiwX7Hh1upmGS
+   eToaQZqVK3nkw4OPl2mOx0JgDLW0idVasQQZW6mX2MUV5gWzEohawr4barBbszW5yCKuWvAsApXP
+   2R/Sp8KL7LOgJrhhMN4=
+Received: by vanadium-twfoon.emv8.com id hrgjm816758q for <chris@sophiahatstudio.com>; Tue, 9 Jul 2013 17:07:49 +0200 (envelope-from <news@news.waves-audio.com>)
+Date: Tue, 9 Jul 2013 17:07:49 +0200 (CEST)
+From: Waves Audio <news@news.waves-audio.com>
+Reply-To: no-reply <no-reply@waves.com>
+To: chris spencer  <chris@sophiahatstudio.com>
+Message-ID: <2.1.34.1101035642.361050.484882624@news.waves-audio.com>
+Subject: Waves SoundGrid License
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=361050484882624
+X-EMV-Platform: p6ccc.campaigncommander.com$
+X-EMV-CampagneId: 361050$
+X-EMV-MemberId: 484882624$
+List-Unsubscribe: <http://news.waves-audio.com/HD?a=ENX7Cqk6a4kv8SA9MKJKWaDnGHxKLOQtKfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVPo>, <mailto:unsubscribe@news.waves-audio.com?subject=unsubscribe-34-ENX7Cqk6a4kv8SA9MKJKWaDnGHxKLOQtKfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVPo>
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Horizon Upgrades Dear Valued Waves User, We're writing to
+   let you know that any TDM licenses in your Waves account have now been replaced
+    by new SoundGrid licenses. Your TDM compatibility will remain unchanged;
+   but now, you'll be able to take advantage of the awesome new possibilities
+    offered by the SoundGrid platform. SoundGrid will breathe new life into your
+    system, and extend its functionality for years to come. If you use Waves
+   TDM V8 or below, and are covered by Waves Update Plan, move up to V9 and receive
+    the SoundGrid licenses at no additional charge. [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.7 HTML_IMAGE_ONLY_28     BODY: HTML: images with 2400-2800 bytes of words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.3 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+--361050484882624
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Horizon Upgrades Dear Valued Waves User,
+
+ We're writing to let you know that any TDM licenses in your Waves 
+account have now been replaced by new SoundGrid licenses.
+
+ Your TDM compatibility will remain unchanged; but now, you'll be able 
+to take advantage of the awesome new possibilities offered by the 
+SoundGrid platform. SoundGrid will breathe new life into your system, 
+and extend its functionality for years to come. If you use Waves TDM V8 
+or below, and are covered by Waves Update Plan, move up to V9 and 
+receive the SoundGrid licenses at no additional charge.
+
+Click here to check compatibility : 
+ http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKWaDnGHxKLOTrYPcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLp 
+
+
+
+Best regards,
+The Waves Team
+
+
+--361050484882624
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+	<meta name="robots" content="noindex" /> 
+		<title>Horizon Upgrades</title>		
+		<style type="text/css">
+			img 
+			{
+				border:none;
+			}
+			
+			a
+			{
+				color:rgb(224, 106, 6);
+				font-weight:normal;
+				text-decoration:none;
+			}
+			
+			a:hover
+			{
+				text-decoration:underline;
+			}
+		    div#wrapper
+		    {
+				font-family:arial;
+				font-size:13px;
+				width:800px;
+				margin:10px 0px 10px 0px;
+				padding:0px 0px 0px 0px;
+		    } 
+			
+			div#wrapper p
+			{
+				padding:5px 10px 5px 15px;
+				margin:0px 0px 0px 0px;
+				line-height: 140%;
+			}
+			
+			div#wrapper span.new
+			{
+				font-size:12px;
+				color:#0066CC;	
+			}
+
+			div#wrapper span.brown
+			{
+				font-size:13px;
+				color:#0066CC;	
+				font-weight:bold;
+			}
+			ul
+			{
+				margin:5px auto 0px auto;
+			}
+			
+			li
+			{
+				padding:0px 10px 5px 15px;
+				font-weight: normal;
+				font-size: 13px;
+				margin:0px;
+				color:#000000;
+				line-height:120%;
+				font-family:arial;
+				text-decoration:none;
+			}
+			
+			li.features
+			{
+				padding:0px 10px 10px 15px;
+				font-weight: normal;
+				font-size: 13px;
+				margin:0px;
+				color:#000000;
+				line-height:120%;
+				font-family:arial;
+				text-decoration:none;
+			}
+			
+			.box{
+				float: left;
+				width: 100%;
+			}
+
+
+		</style>
+	</head>
+	<body>
+		<div id="wrapper">
+
+		<div class="box">
+		<p>Dear Valued Waves User,<br/><br/>
+
+We're writing to let you know that any TDM licenses in your Waves account have now been replaced by new SoundGrid licenses. <br/><br/>
+
+Your TDM compatibility will remain unchanged; but now, you'll be able to take advantage of the awesome new possibilities offered by the SoundGrid platform. SoundGrid will breathe new life into your system, and extend its functionality for years to come. If you use Waves TDM V8 or below, and are covered by Waves Update Plan, move up to V9 and receive the SoundGrid licenses at no additional charge.<br/><br/>
+
+<a href="http://news.waves-audio.com/HS?a=ENX7Cqk6a4kv8SA9MKJKWaDnGHxKLOTrYfcStGb5lw8W0bBhOG5mpqVsje_HhdAlWVLu" title="compatibility" target="_blank">Click here to check compatibility.</a>
+
+
+</p>
+					
+			<p><br />Best regards,<br />The Waves Team</p>
+		</div>
+	</div>
+	<img src="http://news.waves-audio.com/HO?DdX7Cqk6a4kv8SA9MOPvo4DnGHxKLJhxkAjtS5kGbFE4KPw.gif" border="0" alt="" width="1" height="1" /></body>
+</html>
+--361050484882624--

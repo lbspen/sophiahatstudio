@@ -1,0 +1,598 @@
+Return-path: <3ee.1d.949719979.45271.chris=sophiahatstudio.com@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Thu, 16 May 2013 16:46:26 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:22126)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.1d.949719979.45271.chris=sophiahatstudio.com@newbay.cfmvmail.com>)
+	id 1Ud54A-0006QZ-Sq
+	for chris@sophiahatstudio.com; Thu, 16 May 2013 16:46:26 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=Q3RYa5VdtblVbvvIGdFfCT4QYje/BcJlYdjAbYuMKEe5ASgPgpoi9aVqq83tA+J0NMqmayyZlu9YJrG1ZcBbT6hFHnN8IK9sHPqeQd7zMJVvSufFWOZsU62fjNNf3n4oLmfRfp0NNu2IJfda2YO4ZjcJIlC77hqnN7mHUS0Nz2M=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1368737194;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=EzNKB8GlQbW0sqkhQZLOm2mZTlk=;
+	b=VSk6RF6tLxuE2RobMdpUttCTlOteS+IPR4VdNecOtHfK+UaJ1vT0wvUzFni/UNwLKwbzmE5CKXBNfaTq8YcADJO6/iCRQ3q7aGLwX8+ivX9qb3diLdFPXYT4T6NN+Y1wzJGVXGdyMsmdhP+V4zS+6F7FXuyOaCWw+NX4ioDbz2Q=
+X-FBL: M2VlLjFlLjExMjAwMDAwMDBiNzhhNS45NDk3MTk5NzkuNDUyNzEuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Electronic Musician Magazine" <Newsletters@emusician.com>
+Message-ID: <f4ab120b-db7c-44a5-8f2c-19f9e9d06a3e@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?Um91bmR1cCDigJMgWm9vbSBBMw==?=
+Date: Thu, 16 May 2013 16:46:32 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ELECTRONIC MUSICIAN XTRA May 16, 2013 TOP STORY Zoom A3 Acoustic
+    Guitar Processor The Zoom A3 matches 16 different guitar input types, and
+    offers sync to tempo, solid construction, and much more. Get all the features
+    in our review of the A3 acoustic guitar processor. More » WEB EXCLUSIVE
+   Watch videos on using the A3 guitar processor. » THIS WEEK'S POLL Are you
+    a member of a performing rights organization? Vote NOW at emusician.com »
+    TODAY'S LESSON Simplify composite recording with Take Lanes and Isolate mode
+    in Cakewalk Sonar X2. » COOL STUFF iZotope Licenses Audio Technology for
+    Inclusion in Adobe Premiere Pro CC » Line 6 and Topspin Media Present the
+    WHAT’S NEXT Musicians’ Conference » Ibiza Spark Offers Music Production
+    Courses – Mention Electronic Musician for a Discount » [...] 
+ 
+ Content analysis details:   (0.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.6 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1=2E0 Transitional//EN" "http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd">
+<html xmlns=3D"http://www=2Ew3=2Eorg/1999/xhtml"><head>
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"=
+>
+ <title>ELECTRONIC MUSICIAN XTRA</title>
+ <style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none;
+}
+a:hover {text-decoration: underline;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:active {
+=09text-decoration: none;
+}
+-->
+ </style>
+ </head><body alink=3D"#666666" link=3D"#666666" marginheight=3D"0" margi=
+nwidth=3D"0" vlink=3D"#666666">
+ <style type=3D"text/css">
+ <!--
+body {
+=09text-decoration: none;
+}
+a:link {text-decoration: none;
+}
+a:hover {text-decoration: underline;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:active {
+=09text-decoration: none;
+}
+-->
+ </style>
+ <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0"=
+ width=3D"808">
+ <tbody>
+ </tbody>
+ </table>
+ <table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0"=
+ width=3D"936">
+ <tbody>
+ <tr>
+ <td align=3D"left" bgcolor=3D"#ffffff" valign=3D"top" width=3D"936">
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td width=3D"180"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/ne=
+wsletter=5Fart/EQ=5F09/EM=5FLOGO=5F180x157=2Ejpg" height=3D"157" width=3D=
+"180"></td>
+ <td align=3D"left" valign=3D"top" width=3D"756">
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td align=3D"center" valign=3D"middle">
+ <table cellpadding=3D"12" cellspacing=3D"0" border=3D"0" width=3D"100%">=
+
+ <tbody>
+ <tr>
+ <td align=3D"left">
+ <!--Leaderboard -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F949719979=5F45271=5F1"><img src=3D"http://adserver=2Enewbay-me=
+dia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D10580" height=3D"90" border=
+=3D"0" width=3D"728"></a>
+ <!--Leaderboard END -->
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"right">
+ <table id=3D"Table=5F01" cellpadding=3D"0" cellspacing=3D"0" height=3D"4=
+3" border=3D"0" width=3D"731">
+ <tbody>
+ <tr>
+ <td><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart=
+/MPN=5FMENU=5F09/images/01=5Fmenu=5Ffiller=2Ejpg" height=3D"43" width=3D"=
+311"></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F2"><img alt=3D"FOLLOW US ON TWITTER" s=
+rc=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MPN=5FMENU=
+=5F09/images/02=5Ftwitter=2Ejpg" title=3D"FOLLOW US ON TWITTER" height=3D=
+"43" border=3D"0" width=3D"49"></a></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F3"><img alt=3D"FIND US ON FACEBOOK" sr=
+c=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MPN=5FMENU=5F=
+09/images/03=5Ffacebook=2Ejpg" title=3D"FIND US ON FACEBOOK" height=3D"43=
+" border=3D"0" width=3D"50"></a></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F4"><img src=3D"http://newsletters=2Ene=
+wbay-media=2Ecom/newsletter=5Fart/MPN=5FMENU=5F09/images/04=5Fhome=2Ejpg"=
+ title=3D"Visit the eMusician=2Ecom Web Site" height=3D"43" border=3D"0" =
+width=3D"39"></a></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F5"><img alt=3D"SUBSCRIBE TO OTHER MUSI=
+C PLAYER NETWORK E-NEWSLETTERS" src=3D"http://newsletters=2Enewbay-media=2E=
+com/newsletter=5Fart/MPN=5FMENU=5F09/images/05=5Fsubscribe=2Ejpg" title=3D=
+"SUBSCRIBE TO OTHER MUSIC PLAYER NETWORK E-NEWSLETTERS" height=3D"43" bor=
+der=3D"0" width=3D"51"></a></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F6=5Fchris@sophiahatstudio=2Ecom"><img =
+alt=3D"FORWARD THIS EMAIL TO A FRIEND" src=3D"http://newsletters=2Enewbay=
+-media=2Ecom/newsletter=5Fart/MPN=5FMENU=5F09/images/06=5Femail=2Ejpg" ti=
+tle=3D"FORWARD THIS EMAIL TO A FRIEND" height=3D"43" border=3D"0" width=3D=
+"48"></a></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F7"><img alt=3D"BLOGS" src=3D"http://ne=
+wsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MPN=5FMENU=5F09/images/07=
+=5Fblogs=2Ejpg" title=3D"BLOGS" height=3D"43" border=3D"0" width=3D"46"><=
+/a></td>
+ <td><a href=3D"#"><img alt=3D"FORUM" src=3D"http://newsletters=2Enewbay-=
+media=2Ecom/newsletter=5Fart/MPN=5FMENU=5F09/images/08=5Fforum=2Ejpg" tit=
+le=3D"FORUM" height=3D"43" border=3D"0" width=3D"48"></a></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F8"><img alt=3D"SUBSCRIBE TO ELECTRONIC=
+ MUSICIAN" src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Far=
+t/MPN=5FMENU=5F09/images/09=5Fdigitaledition=2Ejpg" title=3D"SUBSCRIBE TO=
+ ELECTRONIC MUSICIAN" height=3D"43" border=3D"0" width=3D"49"></a></td>
+ <td><a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2E=
+aspx=3Fv=3D6=5F949719979=5F45271=5F9"><img alt=3D"Subscribe Via iPad" src=
+=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/MPN=5FMENU=5F=
+09/images/ipad=5F40x43=2Ejpg" title=3D"FOLLOW US ON TWITTER" height=3D"43=
+" border=3D"0" width=3D"40"></a></td>
+ <td><span style=3D"font-family: verdana; font-size: 12px;"><img src=3D"h=
+ttp://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F=
+10px=2Egif" height=3D"10" width=3D"10"></span></td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"left" valign=3D"top">
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+ <tbody>
+ <tr>
+ <td colspan=3D"5" align=3D"right" bgcolor=3D"#ffffff" valign=3D"top"><im=
+g src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/EQ=5F09=
+/EQ=5Ftop=5FSpacer=2Ejpg" height=3D"14" width=3D"928"><span style=3D"font=
+-family: verdana; font-size: 12px;"><img src=3D"http://newsletters=2Enewb=
+ay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" height=3D"10=
+" width=3D"10"></span></td>
+ </tr>
+ <tr>
+ <td align=3D"left" bgcolor=3D"#ffffff" valign=3D"top" width=3D"10"><img =
+src=3D"http://newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FS=
+pacer=5F10px=2Egif" height=3D"10" width=3D"10"></td>
+ <td style=3D"border-right: 1px solid rgb(204, 204, 204); line-height: no=
+rmal;" align=3D"left" bgcolor=3D"#ffffff" valign=3D"top" width=3D"606">
+ <table cellpadding=3D"0" cellspacing=3D"5" border=3D"0" width=3D"608">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px;" align=3D"right" valign=3D"top"><strong> May 16, 2013</strong></td=
+>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Gill Sans,Gill Sans MT,verdana,arial,helvetica=
+,sans-serif; font-size: 26px;" align=3D"left" valign=3D"middle"><strong> =
+<span style=3D"color: #F1CB00">TOP</span> STORY</strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9497=
+19979=5F45271=5F10" target=3D"=5Fblank"><strong>Zoom A3 Acoustic Guitar P=
+rocessor</strong></a><br>                                                =
+       =20
+ The Zoom A3 matches 16 different guitar input types, and offers sync to =
+tempo, solid construction, and much more=2E Get all the features in our r=
+eview of the A3 acoustic guitar processor=2E  <a href=3D"http://www=2Ecfm=
+ediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=5F45271=5F11" target=3D"=5F=
+blank">More =C2=BB</a></td>
+ </tr>
+ </tbody>
+ </table>
+ <br clear=3D"all">
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Gill Sans,Gill Sans MT,verdana,arial,helvetica=
+,sans-serif; font-size: 26px;" align=3D"left" valign=3D"middle"><strong> =
+<span style=3D"color: #F1CB00">WEB</span> EXCLUSIVE</strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top"><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9497=
+19979=5F45271=5F12" target=3D"=5Fblank"><strong>Watch videos on using the=
+ A3 guitar processor=2E   =C2=BB</strong></a></td>
+ </tr>
+ </tbody>
+ </table>
+ <br clear=3D"all">
+
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Gill Sans,Gill Sans MT,verdana,arial,helvetica=
+,sans-serif; font-size: 26px;" align=3D"left" valign=3D"middle"><strong> =
+<span style=3D"color: #F1CB00">THIS WEEK'S</span> POLL</strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">Are you a member of a performing rights organization=3F<br>        =
+                                               =20
+ <strong><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F9=
+49719979=5F45271=5F13" target=3D"=5Fblank">Vote NOW at emusician=2Ecom =C2=
+=BB</a></strong></td>
+ </tr>
+ </tbody>
+ </table>
+ <br clear=3D"all">
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Gill Sans,Gill Sans MT,verdana,arial,helvetica=
+,sans-serif; font-size: 26px;" align=3D"left" valign=3D"middle"><strong> =
+<span style=3D"color: #F1CB00">TODAY'S</span> LESSON</strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=5F45271=5F14=
+" target=3D"=5Fblank"><strong>Simplify composite recording with Take Lane=
+s and Isolate mode in Cakewalk Sonar X2=2E   =C2=BB</strong></a></td>
+ </tr>
+ </tbody>
+ </table>
+ <br clear=3D"all">
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: Gill Sans,Gill Sans MT,verdana,arial,helvetica=
+,sans-serif; font-size: 26px;" align=3D"left" valign=3D"middle"><strong> =
+<span style=3D"color: #F1CB00">COOL</span> STUFF</strong></td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=5F45271=5F15=
+" target=3D"=5Fblank"><strong>iZotope Licenses Audio Technology for Inclu=
+sion in Adobe Premiere Pro CC    =C2=BB</strong></a></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=5F45271=5F16=
+" target=3D"=5Fblank"><strong>Line 6 and Topspin Media Present the WHAT=E2=
+=80=99S NEXT Musicians=E2=80=99 Conference =C2=BB</strong></a></td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 12px; text-decoration: none;" align=3D"left" valign=3D"top"><a href=3D"h=
+ttp://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=5F45271=5F17=
+" target=3D"=5Fblank"><strong>Ibiza Spark Offers Music Production Courses=
+ =E2=80=93 Mention <em>Electronic Musician</em> for a Discount =C2=BB</st=
+rong></a></td>
+ </tr>
+ </tbody>
+ </table>
+ <br clear=3D"all">
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: normal; font-family: helvetica,sans-serif; fon=
+t-size: 24px;"><img src=3D"http://newsletters=2Enewbay-media=2Ecom/newsle=
+tter=5Fart/EQ=5F09/EQ=5FProductSpotlight=2Egif" height=3D"51" width=3D"50=
+0">
+ <hr noshade=3D"noshade" size=3D"1">
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table cellpadding=3D"2" cellspacing=3D"0" border=3D"0" width=3D"100%">
+ <tbody>
+ <tr>
+ <td style=3D"line-height: 125%; font-family: verdana,arial,helvetica,san=
+s-serif; font-size: 12px; text-decoration: none;" align=3D"left" valign=3D=
+"top">
+ <table cellpadding=3D"5" cellspacing=3D"10" border=3D"0">
+ <tbody>
+ <tr>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 10px;" align=3D"left" valign=3D"top" width=3D"33%">
+ <div align=3D"center">
+ <a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F949719979=5F45271=5F18"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/MPN=5FE-NEWS/EQ=5FRecordReady/2012/05-12/Real=5FTraps=5F160=
+x90=2Ejpg" height=3D"90" border=3D"0" width=3D"160"></a>
+ </div>
+ <p><strong>Portable Vocal Booth<br>
+ RealTraps<br>
+ Now Available<br>
+ <br>
+ </strong>The RealTraps Portable Vocal Booth provides an elegant and affo=
+rdable way to capture dry, clear sounding vocals, even in locations that =
+are less than ideal acoustically=2E This clever device mounts on any micr=
+ophone boom stand, or use it on a table top or other flat surface=2E<br>
+ <br>
+ <strong>SRP:</strong> $299=2E99<br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=
+=5F45271=5F19" target=3D"=5Fblank">www=2Erealtraps=2Ecom/p=5Fpvb=2Ehtm</a=
+></p></td>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 10px;" align=3D"left" valign=3D"top" width=3D"33%">
+ <div align=3D"center">
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=
+=5F45271=5F20" target=3D"=5Fblank"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/MPN=5FE-NEWS/EQ=5FRecordReady/2013/0413/PhotoATH-M50RD=5F16=
+0x90=2Ejpg" height=3D"90" border=3D"0" width=3D"160"></a>
+ </div>
+ <p><strong>ATH-M50RD Professional Studio Monitor Headphones<br>
+ Audio-Technica<br>
+ Available Now</strong><br>
+ <br>
+ Audio-Technica=E2=80=99s renowned ATH-M50 studio monitor headphones are =
+now available in a limited edition red color=2E  Exceptionally accurate r=
+esponse and long-wearing listening comfort=2E Additional models include A=
+TH-M50WH (white), ATH-M50 (black) and ATH-M50s (black, straight cable)=2E=
+<br>
+ <br>
+ <strong>MSRP:</strong> $209; $169 Street<br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=
+=5F45271=5F21" target=3D"=5Fblank">www=2Eaudio-technica=2Ecom</a></p></td=
+>
+ <td style=3D"font-family: verdana,arial,helvetica,sans-serif; font-size:=
+ 10px;" align=3D"left" valign=3D"top"><div align=3D"center"><a target=3D"=
+=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949=
+719979=5F45271=5F22"><img style=3D"width: 160px; height: 90px; border-wid=
+th: 0px; border-style: solid;" src=3D"http://newsletters=2Enewbay-media=2E=
+com/MPN=5FE-NEWS/GuitarPlayer=5FFretwire/2012/11-12/Scuffhamm=5F160x90=2E=
+jpg"></a></div>
+ <p><strong>S-Gear=E2=84=A2<br>
+Scuffham Amps<br>
+<br>
+ </strong>=E2=80=9C<i>This software inspires you to play better by giving=
+ you proper feel and a realistic amp sound=2E</i>=E2=80=9D<br>
+ <br>
+ FREE 15 day trial! Try out the guitar software amp suite with boutique h=
+igh-quality sounds, and world class effects=2E&nbsp; Available for MAC an=
+d PC, plug-in (AU, VST) and Standalone App=2E<br>
+ <br>
+ S-Gear Pro Tools AAX available now!<strong><br>
+ <br>
+ Price:</strong> $99<br>
+ <a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=
+=5F45271=5F23" target=3D"=5Fblank">www=2Escuffhamamps=2Ecom</a></p></td>=20=
+
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+=20
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"#ffffff" valign=3D"top" width=3D"10"><img src=3D"http://newsletter=
+s=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=2Egif" heig=
+ht=3D"10" width=3D"10"></td>
+ <td style=3D"padding-top: 5px;" align=3D"left" bgcolor=3D"#ffffff" valig=
+n=3D"top" width=3D"301">
+ <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"299">
+ <tbody>
+ <tr>
+ <td width=3D"299">
+ <!--Position#1 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F949719979=5F45271=5F24"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11369" alt=3D"" height=3D"=
+250" border=3D"0" width=3D"300"></a>      =20
+ <!--Position#1 END -->
+ </td>
+ </tr>
+ <tr>
+ <td>
+ <br clear=3D"all">
+ </td>
+ </tr>
+ <tr>
+ <td align=3D"left" valign=3D"top">
+ <!--Position#2 -->
+ <a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F949719979=5F45271=5F25"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D10119" alt=3D"" height=3D"=
+250" border=3D"0" width=3D"300"></a>
+ <!--Position#2 END -->
+ </td>
+ </tr>
+ <tr>
+ <td>
+ <br clear=3D"all">
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 12px;" align=3D=
+"left" valign=3D"top">
+ <!--Position#3 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <!--Position#3 END -->
+ </td>
+ </tr>
+ <tr>
+ <td>
+ <a target=3D"=5Fblank" href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=
+=3Fv=3D6=5F949719979=5F45271=5F26"><img src=3D"http://adserver=2Enewbay-m=
+edia=2Ecom/www/delivery/avw=2Ephp=3Fbannerid=3D11440" alt=3D"" height=3D"=
+250" border=3D"0" width=3D"300"></a>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"font-family: helvetica,sans-serif; font-size: 12px;" align=3D=
+"left" valign=3D"top">
+ <!--Position#3 -->
+ <!--/* OpenX No Cookie Image Tag v2=2E8=2E2 */-->
+ <!--Position#3 END -->
+ </td>
+ </tr>
+ <tr>
+ <td><br clear=3D"all">
+ </td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ <td style=3D"font-family: verdana; font-size: 12px;" align=3D"left" bgco=
+lor=3D"#ffffff" valign=3D"top" width=3D"12">&nbsp;</td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td style=3D"padding: 10px; font-family: verdana; font-size: 9px; color:=
+ rgb(153, 153, 153);" align=3D"center" bgcolor=3D"#ffffff" valign=3D"midd=
+le">=C2=A92013 NewBay Media, LLC</td>
+ </tr>
+ </tbody>
+ </table>
+ <span style=3D"font-family: verdana; font-size: 12px;"><img src=3D"http:=
+//newsletters=2Enewbay-media=2Ecom/newsletter=5Fart/eNews=5FSpacer=5F10px=
+=2Egif" height=3D"10" width=3D"10"></span>
+ <p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=5F45271=5F27=5Fchris@sophiahatstudi=
+o=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><s=
+trong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://w=
+ww=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F949719979=5F45271=5F28">Chang=
+e Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"m=
+ailto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahats=
+tudio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D949719979&msgid=3D45271"></body></html>
+

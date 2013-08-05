@@ -1,0 +1,181 @@
+Return-path: <3ee.d.957765213.45634@newbay.cfmvmail.com>
+Envelope-to: chris@sophiahatstudio.com
+Delivery-date: Fri, 24 May 2013 13:03:40 -0400
+Received: from newbay.cfmvmail.com ([72.5.30.30]:33684)
+	by felucia.tchmachines.com with esmtp (Exim 4.80)
+	(envelope-from <3ee.d.957765213.45634@newbay.cfmvmail.com>)
+	id 1UfvOz-0006BM-SG
+	for chris@sophiahatstudio.com; Fri, 24 May 2013 13:03:40 -0400
+domainkey-signature: a=rsa-sha1; c=nofws; s=customer; d=newbay.cfmvmail.com; q=dns; 
+	h=from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding; 
+	b=Y+wACyd1jEqODN2oxf3ssjjlukpJciyXv+83/NXFUrffvVFGkPrOK5b7uLq+wFiLFidylbAgFASNnBymMvgxUKup7I1RPQND6Bv6yjJNqOdPiol89pHpLKQf6Z6xkCJgD9sNop6aWOpTE3oeLIoxYbincpuhwKE1wmagdWDPdEA=;
+DKIM-Signature: v=1; a=rsa-sha1; d=newbay.cfmvmail.com;i=@newbay.cfmvmail.com;s=customer;
+	c=relaxed/relaxed; q=dns/txt; t=1369415027;
+	h=list-unsubscribe:from:message-id:to:subject:date:mime-version:content-type:content-transfer-encoding;
+	bh=c2HwAcooy/Yf7Od/kmA5TX+ZHSs=;
+	b=LSUkYSlcMUVuElBQWPl2rxSPFMNHfP1OxEcmwTWHcj5R5t1EjE4YICQj73kA1rTkTSnjz45Il9iv4T5PI5WJ5dqSTL2rIUvltKF/UwnyGu/e7nmi1TZMF2m7j/Fvc3iG28YLzd6SRIkoKyw9YTnT5r1DKM37B68nRWfFx/XUFB0=
+X-FBL: M2VlLjFlLjExNDAwMDAwMDkxOTY3NC45NTc3NjUyMTMuNDU2MzQuY2hyaXM9c29waGlhaGF0c3R1ZGlvLmNvbQ==
+List-Unsubscribe: <mailto:abuse@newbay.cfmvmail.com?subject=Remove Email chris@sophiahatstudio.com>
+From: "Electronic Musician Partners" <partners@emusician.com>
+Message-ID: <341b8d66-f806-407c-8fcd-2951b6cf3103@newbay.cfmvmail.com>
+To: "CHRIS SPENCER" <chris@sophiahatstudio.com>
+Subject: =?utf-8?B?TGltaXRlZCB0aW1lIG9mZmVyIGZvciB0aGUgV29tZW4ncyBN?=
+	=?utf-8?B?dXNpYyBTdW1taXQ=?=
+Date: Fri, 24 May 2013 13:03:45 -0400
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "felucia.tchmachines.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  CUSTOM_WOMENSMUSICSUMMIT_052413 Manage Your Email Preferences/Unsubscribe
+    Change Your Email Address To report abuse, click here. [...] 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -1.1 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  1.1 TRACKER_ID             BODY: Incorporates a tracking ID number
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.8 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+<html>
+<head>
+<title>CUSTOM=5FWOMENSMUSICSUMMIT=5F052413</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-885=
+9-1">
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}
+-->
+</style></head>
+<body bgcolor=3D"#FFFFFF">
+<style type=3D"text/css">
+<!--
+a:link {
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+}
+a:hover {
+=09text-decoration: underline;
+}
+a:active {
+=09text-decoration: none;
+=09outline: none;
+}
+-->
+</style>
+<table width=3D"600" height=3D"1332" border=3D"0" align=3D"center" cellpa=
+dding=3D"0" cellspacing=3D"0" id=3D"Table=5F01">
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+957765213=5F45634=5F1" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=
+/images/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=5F01=2Egif" alt=3D"" width=3D=
+"600" height=3D"110" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+957765213=5F45634=5F2" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=
+/images/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=5F02=2Egif" alt=3D"" width=3D=
+"600" height=3D"184" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+957765213=5F45634=5F3" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=
+/images/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=5F03=2Egif" alt=3D"" width=3D=
+"600" height=3D"177" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+957765213=5F45634=5F4" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=
+/images/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=5F04=2Ejpg" alt=3D"" width=3D=
+"600" height=3D"390" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+957765213=5F45634=5F5" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=
+/images/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=5F05=2Egif" alt=3D"" width=3D=
+"600" height=3D"201" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+957765213=5F45634=5F6" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=
+/images/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=5F06=2Egif" alt=3D"" width=3D=
+"600" height=3D"103" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+=09<tr>
+=09=09<td><a href=3D"http://www=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F=
+957765213=5F45634=5F7" target=3D"=5Fblank"><img src=3D"http://newsletters=
+=2Enewbay-media=2Ecom/NewBay=5FCustom/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=
+/images/CUSTOM=5FWOMENSMUSICSUMMIT=5F052413=5F07=2Egif" alt=3D"" width=3D=
+"600" height=3D"167" border=3D"0" style=3D"display:block;"></a></td>
+=09</tr>
+</table>
+<br clear=3D"all">
+<br clear=3D"all">
+<p>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">
+ <tr>
+ <td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><table width=3D=
+"728" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td width=3D"122" align=3D"center" valign=3D"middle" style=3D"padding: 5=
+px; border-right: 1px solid #CCC;"><img src=3D"http://newsletters=2Enewba=
+y-media=2Ecom/newsletter=5Fart/Footer=5F09/NBM=5FLogo=5Fsm=5F100x25=2Egif=
+" alt=3D"" name=3D"" width=3D"100" height=3D"25" border=3D"0"><br></td>
+ <td width=3D"606" align=3D"left" valign=3D"middle" style=3D"padding-left=
+: 15px; padding-top: 5px; padding-bottom: 5px; padding-right: 5px; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 10px;"><strong><u><a styl=
+e=3D"color:#000; text-decoration: none;" href=3D"http://www=2Ecfmediaview=
+=2Ecom/lp1=2Easpx=3Fv=3D6=5F957765213=5F45634=5F8=5Fchris@sophiahatstudio=
+=2Ecom">Manage Your Email Preferences/Unsubscribe</a></u></strong><br><st=
+rong><u><a style=3D"color:#000; text-decoration: none;" href=3D"http://ww=
+w=2Ecfmediaview=2Ecom/lp1=2Easpx=3Fv=3D6=5F957765213=5F45634=5F9">Change =
+Your Email Address</a></u></strong><br><p>To report abuse, <a href=3D"mai=
+lto:abuse@newbay=2Ecfmvmail=2Ecom=3Fsubject=3DRemove%20chris@sophiahatstu=
+dio=2Ecom">click here=2E</a></p>
+ You have received this message because you previously gave your email ad=
+dress to NewBay Media LLC=2E<br>
+ &copy; 2013 NewBay Media LLC, 28 East 28th Street, 12th Floor, New York,=
+ NY 10016 | 212=2E378=2E0400</td>
+
+ </tr>
+ </table></td>
+ </tr>
+</table><img src=3D"http://www=2Ecfmediaview=2Ecom/click/open=2Easpx=3Fdb=
+=3D6&obid=3D957765213&msgid=3D45634"></body>
+</html>
+

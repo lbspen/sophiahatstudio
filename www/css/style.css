@@ -51,6 +51,8 @@ hr {
     display: none;
 }
 
+
+
 #header {
     background: transparent url(images/BannerTopNew.png) no-repeat scroll 0 0;
     height: 80px;
@@ -203,6 +205,14 @@ hr {
 
 #player a {
     margin-top: 20px;
+}
+
+#rateTable {
+    border:3px solid #999999;
+}
+#rateTable td {
+    padding:5px;
+    border:2px groove #999999;
 }
 
 .post {
